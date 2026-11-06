@@ -1,0 +1,870 @@
+{
+  "editions": [
+    {
+      "date": "2026-11-06",
+      "label": "Friday, 6 November 2026",
+      "note": "Checked Friday morning, Sydney time. Stories are deduplicated by underlying event. Releases, beta access, regional availability and suggested applications are labelled explicitly.",
+      "checked": "2026-11-06T08:23:09+11:00",
+      "stories": [
+        {
+          "id": "nsw-data-centre-inquiry-cumulative-impact-20261106",
+          "category": "Sydney & NSW",
+          "title": "NSW inquiry says data centre checks miss cumulative pressure",
+          "summary": "A cross-party NSW inquiry found planning assesses data centres largely as individual projects, missing their combined demands on electricity, water and infrastructure. Current guidance may underestimate future demand and the pressure created when facilities cluster.",
+          "detail": "The committee stopped short of a moratorium after members voted 6 to 1 to remove that recommendation. It instead called for a state strategy and better coordination across approvals. The issue is especially relevant around Sydney, where residents have opposed projects and major proposals remain under assessment.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/australia-data-centre-inquiry-finds-inadequate-checks-stops-short-moratorium-2026-11-05/",
+          "published": "5 Nov, 11:20 am AEDT",
+          "tag": "NSW inquiry"
+        },
+        {
+          "id": "sydney-mardi-gras-party-return-2027-20261106",
+          "category": "Sydney & NSW",
+          "title": "Sydney Mardi Gras party will return in 2027",
+          "summary": "The official post-parade party is coming back on 6 March beneath Sydney Football Stadium after this year's event was cancelled weeks before the parade. Organisers say the 2026 party would have cost about $2 million after running at a deficit since 2020.",
+          "detail": "The wider festival runs from 12 February to 7 March, one week longer than before. The performer line-up is due next Tuesday, member tickets open on 9 November and general and party pre-sales follow on 12 November.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-05/nsw-sydney-mardi-gras-party-2027-announcement/107346014",
+          "published": "5 Nov, 12:41 pm; updated 1:55 pm",
+          "tag": "Returns in March"
+        },
+        {
+          "id": "apple-creator-studio-ai-update-20261106",
+          "category": "Apple",
+          "title": "Apple Creator Studio's AI update is now rolling out",
+          "summary": "Apple has started releasing the Creator Studio update announced last month. It brings Generate Fill to Pixelmator Pro, a beta assistant and improved Stem Splitter to Logic Pro, plus context-aware beta assistants and MCP workflow support in Keynote, Pages and Numbers.",
+          "detail": "Final Cut Pro also gains built-in MotionVFX assets, a Content Hub and smoother Pixelmator Pro editing. The update is free for existing subscribers, but several AI features remain beta. Australian language or regional availability is not confirmed for every assistant, so check the app release notes before relying on them.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+          "published": "6 Nov, 2:03 am AEDT",
+          "tag": "Rolling out"
+        },
+        {
+          "id": "apple-macbook-pro-proled-reviews-20261106",
+          "category": "Apple",
+          "title": "First touchscreen MacBook Pro reviews are in",
+          "summary": "Early reviews praise the PROLED XDR tandem OLED display, slimmer design and lower weight, while treating touch as useful rather than transformative. Reviewers found gestures handy for photo work and media controls, but the laptop still behaves primarily like a conventional Mac.",
+          "detail": "Other changes include a Dynamic Island, redesigned cooling, up to 16TB of storage and revised speakers. The 14-inch and 16-inch models launch in Australia today from A$4,599 and A$5,499 respectively. For a recent MacBook Pro owner, the display and touch experience are the clearest reasons to upgrade.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/05/macbook-pro-proled-xdr-reviews/",
+          "published": "6 Nov, 2:35 am AEDT",
+          "tag": "Australian launch today"
+        },
+        {
+          "id": "tesla-model-y-australia-ev-share-october-20261106",
+          "category": "Tesla",
+          "title": "Model Y helps EVs outsell petrol for a third month",
+          "summary": "Battery electric vehicles took 23.1 per cent of Australia's new vehicle market in October and again outsold petrol-only cars. Tesla's Model Y and BYD's Sealion 7 were among the leading models, showing that electric SUVs are now driving a broad market shift rather than a niche surge.",
+          "detail": "This is Australian sales context, not a new Tesla feature, software release or change for an existing Model Y. It may strengthen the case for faster charging and service investment, but no owner-facing expansion was announced. No more significant worldwide Tesla product, autonomy, energy or regulatory development was verified in the past 24 hours.",
+          "source": "The Driven",
+          "url": "https://thedriven.io/2026/11/05/electric-cars-outsell-petrol-for-third-straight-month-in-australia-as-byd-atto-2-sales-surge/",
+          "published": "5 Nov, time not stated",
+          "tag": "Australia"
+        },
+        {
+          "id": "openai-gpt-6-cyber-daybreak-20261106",
+          "category": "AI",
+          "title": "OpenAI releases GPT-6 Cyber to a limited defender group",
+          "summary": "GPT-6 Cyber is a specialised model for finding, validating and helping patch exploitable software flaws while staying within authorised scope. OpenAI says it found 81 previously unknown high-severity Firefox vulnerabilities and helped develop working exploits for 948 Linux kernel issues, alongside candidate fixes.",
+          "detail": "The model is initially available only through the API and Codex to selected approved Daybreak Red customers, with broader Daybreak access planned. It is not a general ChatGPT release and no Australian availability is promised. For customer success work, the practical near-term implication is better automated security review by specialist teams, not a new everyday meeting or follow-up feature.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+          "published": "5 Nov, time not stated",
+          "tag": "Limited release"
+        },
+        {
+          "id": "box-architect-ai-workflow-builder-20261106",
+          "category": "AI",
+          "title": "Box announces a plain-language AI workflow builder",
+          "summary": "Box Architect will let teams describe a business process in ordinary language and turn it into an automated workflow. A related Nvidia-powered retrieval engine is intended to improve answers from company files while reducing token use and response time.",
+          "detail": "Architect is due to begin beta rollout this quarter for Enterprise Advanced customers, while Context Retrieval is slated for general availability in early 2027. No specific Australian launch was stated. Suggested experiment: describe a transcript-to-follow-up flow that extracts decisions, owners and risks, then drafts a customer email for review. That is my suggested use, not a reported Box deployment.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/box-expands-nvidia-partnership-unveils-ai-workflow-builder-2026-11-05/",
+          "published": "6 Nov, 1:06 am AEDT",
+          "tag": "Beta this quarter"
+        },
+        {
+          "id": "technology-ai-cybersecurity-vulnerability-surge-20261106",
+          "category": "Technology",
+          "title": "AI accelerates both hacking and the race to patch",
+          "summary": "Nearly 37,000 software vulnerabilities were reported in the third quarter, triple the year-earlier level, as companies face faster and more sophisticated attacks. Reuters found firms are deploying AI monitoring and patching tools because exploitation can begin within hours of a flaw becoming public.",
+          "detail": "Recent cases include hacked European supermarket refrigeration systems and the record Binance theft. A security answer can date quickly, so ask vendors about patch speed, monitoring and incident response, not just certifications. This is an industry trend, separate from today's GPT-6 Cyber release.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-2026-11-05/",
+          "published": "5 Nov, 5:06 pm AEDT",
+          "tag": "Cybersecurity"
+        },
+        {
+          "id": "australia-david-jones-administration-suppliers-20261106",
+          "category": "Australia & World",
+          "title": "David Jones enters administration after months of payment strain",
+          "summary": "The 188-year-old department store entered voluntary administration on Thursday, while suppliers told ABC they had waited months for invoices and struggled to get calls answered. Its 38 stores will keep trading while administrators and receivers review the business.",
+          "detail": "McGrathNicol and FTI Consulting are examining options, with a creditors' meeting due next week. The immediate effect is uncertainty for suppliers, staff and gift-card holders rather than an announced shutdown. The collapse is a significant warning about pressure on discretionary retail before Christmas.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-06/david-jones-suppliers-unpaid-invoices/107347028",
+          "published": "6 Nov, 5:00 am; updated 7:48 am",
+          "tag": "Administration"
+        },
+        {
+          "id": "world-iran-hormuz-tanker-attacks-20261106",
+          "category": "Australia & World",
+          "title": "Three more tankers are damaged in the Strait of Hormuz",
+          "summary": "Iran says three more tankers were damaged on Thursday, taking the number of vessel incidents reported since Sunday to at least five. The attacks keep a critical shipping route under pressure as the United States and Iran remain far apart on ending the Gulf conflict.",
+          "detail": "Qatari mediators say both sides are reviewing proposals, but no breakthrough has been announced on the strait, sanctions, the blockade or Iran's nuclear programme. Oil prices have fallen sharply as traders reassess the likelihood of renewed US strikes after the midterm result, though shipping risk remains high.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/tankers-hit-hormuz-iran-keeps-up-pressure-after-us-vote-2026-11-05/",
+          "published": "6 Nov, 2:11 am AEDT",
+          "tag": "Gulf conflict"
+        },
+        {
+          "id": "world-russell-brand-guilty-verdict-20261106",
+          "category": "Australia & World",
+          "title": "Russell Brand is found guilty of rape and sexual assault",
+          "summary": "A London jury found the British comedian and actor guilty of one count of rape and three counts of sexual assault. He was acquitted of two other rape charges and one attempted indecent assault charge after an eight-and-a-half-hour deliberation.",
+          "detail": "The judge revoked Brand's bail and said a significant custodial sentence was inevitable. He has been remanded in custody and will be sentenced on Monday. UK police say they are also investigating rape allegations made by two other women.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304",
+          "published": "6 Nov, 1:28 am; updated 3:36 am",
+          "tag": "Guilty verdict"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thursday, 5 November 2026",
+      "note": "Checked Thursday morning, Sydney time. Stories are deduplicated by event. Beta software, regional limits, regulatory claims and suggested applications are labelled.",
+      "checked": "2026-11-05T08:28:54+11:00",
+      "stories": [
+        {
+          "id": "nsw-health-oral-scheme-cyber-breach-20261105",
+          "category": "Sydney & NSW",
+          "title": "Police investigate a major NSW Health cyber breach",
+          "summary": "About 4GB of data was stolen from an isolated server for NSW Health's Oral Health Fee For Service Scheme. Police say sensitive identification details belonging to a small number of third-party dental providers may be affected.",
+          "detail": "Officials say no patient information was compromised, no clinical services are at risk and no other NSW agencies were affected. The Cybercrime Squad is leading the investigation and says the apparent perpetrators are outside Australia. The website was taken offline after the intrusion was detected on 29 October.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/cyber-security-nsw-police-investigate-cyber-breach-at-nsw-health/107344174",
+          "published": "4 Nov, 8:46 am; updated 1:34 pm",
+          "tag": "Major incident"
+        },
+        {
+          "id": "powerhouse-parramatta-moowattin-artwork-20261105",
+          "category": "Sydney & NSW",
+          "title": "Powerhouse Parramatta restores an overlooked Dharug botanical story",
+          "summary": "A rooftop artwork at the new museum honours Burramattagal man Daniel Moowattin, whose role collecting local plants for British botanist George Caley was largely erased from official records.",
+          "detail": "Bronze plaques carry eucalyptus clippings gathered on Dharug Country and research has recovered four Dharug words connected to eucalyptus species. The museum opens this Saturday, making this a timely Western Sydney visit from Epping as well as a piece of repaired local history.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/parramatta-powerhouse-artwork-recovers-first-nations-words/107337824",
+          "published": "4 Nov, 10:00 am",
+          "tag": "Opens Saturday"
+        },
+        {
+          "id": "apple-siri-ai-waitlist-mostly-removed-20261105",
+          "category": "Apple",
+          "title": "Apple largely removes the Siri AI waitlist",
+          "summary": "Apple has updated its support guidance so Siri AI begins downloading after a user selects Try Siri AI (Beta), instead of routinely placing them on a waitlist.",
+          "detail": "A waitlist can still appear during periods of high demand, so access is not guaranteed instantly. This is a server-side access change for eligible Siri AI users, not a new iOS release. The report does not establish any separate change to Australian device, language or regional eligibility.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+          "published": "5 Nov, 7:28 am AEDT",
+          "tag": "Beta access"
+        },
+        {
+          "id": "apple-icloud-public-link-content-checks-20261105",
+          "category": "Apple",
+          "title": "iOS 27.3 will check public iCloud links for harmful content",
+          "summary": "Apple says items shared using the Anyone with the Link option will be checked for harmful content in iOS, iPadOS, macOS and visionOS 27.3 or later.",
+          "detail": "This applies to public links, not the People you choose sharing option. Apple says it may remove flagged material or act on an account. Version 27.3 is currently in beta, so this is announced behaviour rather than a general public release; no separate Australian rollout was specified.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
+          "published": "5 Nov, 2:55 am AEDT",
+          "tag": "Beta policy change"
+        },
+        {
+          "id": "tesla-south-korea-fsd-marketing-complaint-20261105",
+          "category": "Tesla",
+          "title": "Tesla faces a South Korean complaint over unavailable FSD",
+          "summary": "A consumer group plans to ask South Korea's competition regulator to stop Tesla marketing Full Self-Driving (Supervised) to vehicles that cannot legally use it. Reuters reports only about 20 per cent of Teslas registered there are currently eligible.",
+          "detail": "The complaint alleges 99 per cent of new Teslas sold in South Korea last year were ineligible, mostly because China-built cars lacked certification. Tesla did not respond to Reuters. This has no confirmed effect on Australian Model Y owners, but it underlines how local certification and vehicle origin can determine availability. FSD remains supervised driver assistance, not autonomy.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
+          "published": "4 Nov, 11:03 am AEDT",
+          "tag": "Regulatory complaint"
+        },
+        {
+          "id": "ai-google-agile-deliberation-framework-20261105",
+          "category": "AI",
+          "title": "Google open-sources a method for defining AI's grey areas",
+          "summary": "Google Research has introduced Agile Deliberation, a framework that helps people iteratively define subjective categories and resolve edge cases before an AI image classifier is built.",
+          "detail": "In 18 live sessions, Google says the approach reduced fatigue and anxiety while producing more consistent classifiers than standard baselines. The code and algorithms are open source, but this is research rather than a Google Workspace product. Suggested work experiment: before automating customer-health or escalation labels, use an AI session to surface borderline examples and agree the rule with your team. That application is my suggestion, not a reported Google use case.",
+          "source": "Google Research",
+          "url": "https://www.research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "published": "4 Nov, time not stated",
+          "tag": "Open-source research"
+        },
+        {
+          "id": "technology-meta-australia-ai-training-opt-out-20261105",
+          "category": "Technology",
+          "title": "Australians can now find Meta's hidden AI-training opt-out",
+          "summary": "ABC has confirmed Meta offers an objection form that lets Australian Facebook and Instagram users stop future public posts, photos and comments being used to train its AI, despite never announcing the option locally.",
+          "detail": "The form has existed since July 2025 but is buried in privacy settings. Meta says a successful submission triggers an email confirmation. Private accounts, private messages and accounts belonging to under-18s are already exempt. This affects future use, so it should not be read as deleting data already used in training.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-05/meta-facebook-instagram-changes-using-data-to-train-ai/107335708",
+          "published": "5 Nov, 5:00 am",
+          "tag": "Privacy action"
+        },
+        {
+          "id": "technology-canva-global-restructure-20261105",
+          "category": "Technology",
+          "title": "Canva restructure affects 22 per cent of its workforce",
+          "summary": "Canva says 1,270 jobs will be affected through cuts, changed roles or relocation as growth slows and new technology changes how customers create and use products.",
+          "detail": "Sydney will become the main product hub, with some staff asked to relocate and most hybrid employees expected in the office two or three days a week from January. Canva did not explicitly blame AI. The company says departing employees will receive at least six months' salary and other support.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
+          "published": "4 Nov, 10:09 am; updated 1:28 pm",
+          "tag": "1,270 roles affected"
+        },
+        {
+          "id": "world-us-midterms-democrats-congress-20261105",
+          "category": "Australia & World",
+          "title": "Democrats win both chambers in the US midterms",
+          "summary": "ABC's Associated Press results show Democrats have won the House and Senate, flipping seven Senate seats including Texas, Ohio and both Carolinas.",
+          "detail": "This is the substantive result after yesterday's voting, not a repeat of the election preview. Losing both chambers means President Donald Trump will need to negotiate with opponents to pass legislation during the rest of his term, with likely consequences for US trade, technology and foreign policy.",
+          "source": "ABC News results",
+          "url": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+          "published": "4 Nov, 6:10 am; updated 5:30 pm",
+          "tag": "Result"
+        },
+        {
+          "id": "australia-big-four-mortgage-rate-rise-20261105",
+          "category": "Australia & World",
+          "title": "The big four pass the full rate rise to mortgage customers",
+          "summary": "Commonwealth Bank, Westpac, NAB and ANZ will each lift variable home-loan rates by 0.25 percentage points after the RBA raised the cash rate to an 18-year high of 4.85 per cent.",
+          "detail": "This is the household-level follow-through from Tuesday's decision and the fifth cash-rate rise of 2026. Macquarie moved first and says its higher variable rates take effect on 19 November. Banks have also announced some savings-rate changes, though the pass-through and eligibility conditions vary.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858",
+          "published": "4 Nov, 4:03 pm",
+          "tag": "Mortgage rates"
+        },
+        {
+          "id": "australia-schools-screen-ai-limits-20261105",
+          "category": "Australia & World",
+          "title": "Education ministers move towards screen and AI limits in schools",
+          "summary": "Federal and state education ministers have agreed to consider school screen-time limits and restrictions on students using generative AI, with a new Australian Schools Digital Detox Taskforce to develop the details.",
+          "detail": "The announced direction includes restricting generative AI in primary schools and secondary-school assessments, but implementation settings still need to be worked through. NSW already has separate screen-time limits for public schools from next year, so the national work may extend or align existing state rules rather than replace them immediately.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-05/federal-politics-live-blog-screen-limits/107346422",
+          "published": "5 Nov, 6:59 am",
+          "tag": "Policy direction"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "label": "Wednesday, 4 November 2026",
+      "note": "Checked Wednesday morning, Sydney time. Stories are deduplicated by underlying event, with ABC and 9to5Mac preferred where coverage overlapped. Apple publication times were converted to Sydney time. Beta software, announced services, geographic limits and suggested applications are labelled explicitly.",
+      "checked": "2026-11-04T08:23:16+11:00",
+      "stories": [
+        {
+          "id": "nsw-short-stay-housing-levy-20261104",
+          "category": "Sydney & NSW",
+          "title": "Housing sector proposes a 7.5 per cent levy on short stays",
+          "summary": "NSW's community housing peak body wants a new levy on Airbnb and Stayz bookings, alongside land-tax changes, to create a long-term funding pool for social and affordable homes.",
+          "detail": "The package could raise $26 billion over a decade and support about 50,000 homes by 2050, while the social housing waiting list has reached 72,000 households. These are industry proposals being presented to parliament today, not government policy.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406",
+          "published": "4 Nov, 6:30 am",
+          "tag": "Proposal"
+        },
+        {
+          "id": "nsw-election-liberal-mp-exodus-20261104",
+          "category": "Sydney & NSW",
+          "title": "NSW Liberals face an MP exodus before the March election",
+          "summary": "Six Liberal MPs will not recontest next year's state election as the Coalition trails Labor and One Nation gains support, stripping the opposition of substantial experience.",
+          "detail": "Mark Coure is the third Liberal frontbencher in three months to announce his retirement. Optional preferential voting could let a split between Liberal and One Nation supporters help Labor in marginal seats such as Oatley. One Nation says it is recruiting across all 93 lower-house seats.",
+          "source": "ABC News analysis",
+          "url": "https://www.abc.net.au/news/2026-11-04/nsw-election-analysis-liberal-mp-exodus-amid-one-nation-surge/107342536",
+          "published": "4 Nov, 6:33 am; updated 7:50 am"
+        },
+        {
+          "id": "apple-ios-27-3-siri-app-skills-20261104",
+          "category": "Apple",
+          "title": "iOS 27.3 beta opens advanced Siri app skills to developers",
+          "summary": "Apple's first iOS 27.3 developer beta lets third-party apps define multistep actions for Siri AI, while Apple has expanded Siri controls across Music, Messages, Notes, Photos, Calendar, Reminders, Files and more.",
+          "detail": "Developers can connect actions across apps and complete a task with one request. This is developer-beta software, not a public release, and support will depend on apps adopting the framework. Australian availability of every Siri AI capability is not confirmed.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
+          "published": "4 Nov, 6:25 am AEDT",
+          "tag": "Developer beta"
+        },
+        {
+          "id": "apple-health-ios-27-3-beta-20261104",
+          "category": "Apple",
+          "title": "Apple's redesigned Health app returns in iOS 27.3 beta",
+          "summary": "The new Health app adds an Insights view across heart, sleep, readiness, fitness and vitals, plus a Longevity tab that estimates Health Age from Apple Watch data.",
+          "detail": "It also supports optional clinical lab data and at-home movement assessments using the iPhone camera and Apple Watch. Apple says analysis runs on-device without recording, storing or sharing video. A public release is expected next month, but the Australian date is unconfirmed.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here/",
+          "published": "4 Nov, 5:45 am AEDT",
+          "tag": "Developer beta"
+        },
+        {
+          "id": "tesla-spacex-merger-control-analysis-20261104",
+          "category": "Tesla",
+          "title": "A SpaceX merger could reshape control of Tesla",
+          "summary": "Tesla and SpaceX have formed special committees to discuss a potential merger, and a Reuters analysis says the share structures could give Elon Musk majority voting control of a combined company.",
+          "detail": "Barclays estimates Musk could own about 37 per cent of the group but control 56 per cent of votes because some SpaceX shares carry extra voting power. This is analysis, not an announced transaction. There is no confirmed effect on Australia, Model Y owners or local services.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/musks-pay-under-spacex-tesla-merger-voting-control-no-1-trillion-payday-2026-11-03/",
+          "published": "3 Nov, 10:02 pm AEDT",
+          "tag": "Potential transaction"
+        },
+        {
+          "id": "ai-google-guided-learning-classroom-20261104",
+          "category": "AI",
+          "title": "Google brings Guided Learning into Classroom worldwide",
+          "summary": "Google has released Guided Learning globally in Google Classroom, where it coaches students through questions and step-by-step prompts instead of simply supplying answers.",
+          "detail": "A related Search feature begins as a pilot in selected US schools this month, so it is not generally available in Australia. Suggested work experiment: make a customer enablement prompt ask for the goal, evidence and next step before drafting a follow-up. That is a suggested adaptation, not a Google use case.",
+          "source": "Google",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+          "published": "3 Nov, time not stated",
+          "tag": "Classroom released globally"
+        },
+        {
+          "id": "ai-europe-sovereign-compute-partnership-20261104",
+          "category": "AI",
+          "title": "European firms plan sovereign AI computing services",
+          "summary": "Schwarz Digits and French supercomputer maker Bull have signed a preliminary agreement to build AI computing services that operate entirely under European jurisdiction.",
+          "detail": "Schwarz would sell compute and storage through STACKIT, while Bull would manufacture servers and provide AI software. The plan reflects enterprise demand for data residency and local legal control. It is a preliminary agreement with no launch date, pricing or Australian availability.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/schwarz-digits-bull-partner-up-build-european-ai-computing-services-2026-11-03/",
+          "published": "4 Nov, 12:07 am AEDT",
+          "tag": "Preliminary agreement"
+        },
+        {
+          "id": "tech-binance-fake-interview-heist-20261104",
+          "category": "Technology",
+          "title": "Fake job interview helped hackers steal $6.3 billion from Binance",
+          "summary": "Binance says attackers compromised three software engineers through a tampered download, a malicious job-interview repository and stolen credentials before draining crypto from online wallets.",
+          "detail": "The intrusion culminated on 29 October, when 233.46 million XRP left five wallets in four minutes and transfers continued for almost four hours. The FBI blames a North Korean group, which Pyongyang rejects. Isolate interview exercises and verify repositories before running code on work devices.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/",
+          "published": "4 Nov, 1:49 am AEDT"
+        },
+        {
+          "id": "australia-rba-rate-hike-20261104",
+          "category": "Australia & World",
+          "title": "RBA lifts the cash rate to an 18-year high",
+          "summary": "The Reserve Bank raised the cash rate by 0.25 percentage points to 4.85 per cent, its fifth increase of 2026, after concluding inflation will stay high for longer than expected.",
+          "detail": "The decision was split six votes to three. The RBA expects inflation to remain elevated through much of 2027 and not fall below 3 per cent until late that year. Borrowers face higher repayments if lenders pass the rise through, while savers may benefit.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050",
+          "published": "3 Nov, 2:38 pm; updated 4:29 pm"
+        },
+        {
+          "id": "world-us-midterms-voting-20261104",
+          "category": "Australia & World",
+          "title": "US voters decide control of Congress",
+          "summary": "Voting is under way in the US midterms, with Democrats narrow favourites to win both chambers and the result widely treated as a verdict on Donald Trump's presidency.",
+          "detail": "More than 50 million voted early. Cost-of-living pressure and fuel prices linked to the Iran war shaped the campaign. Polls had not begun closing at checking time, so forecasts are not results and close races may take days to settle.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/us-midterms-voting-underway-as-polls-bad-for-donald-trump/107339316",
+          "published": "4 Nov, 4:58 am; updated 6:35 am",
+          "tag": "Voting under way"
+        },
+        {
+          "id": "australia-wegovy-tablet-tga-20261104",
+          "category": "Australia & World",
+          "title": "TGA clears Australia's first oral GLP-1 weight-loss drug",
+          "summary": "The Therapeutic Goods Administration has approved daily Wegovy tablets for people with obesity and those needing to reduce cardiovascular risk, making them Australia's first oral GLP-1 treatment.",
+          "detail": "Patients will need a prescription. The regulator must still review packaging and production before release, so approval does not mean immediate pharmacy availability. No Australian price is set, and current PBS rules subsidise weight-loss medicines only for people with type 2 diabetes.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/weight-loss-tablet-cleared-for-use-in-australia/107343340",
+          "published": "3 Nov, 11:27 pm",
+          "tag": "Approved, not yet released"
+        },
+        {
+          "id": "australia-choice-shonky-awards-20261104",
+          "category": "Australia & World",
+          "title": "Ticketing tactics and expired flight credits earn Shonky Awards",
+          "summary": "Choice has named Ticketek, Ticketmaster and Virgin Australia among its 2026 Shonky Award recipients, criticising ticket pricing practices and $75 million in expired Virgin flight credits.",
+          "detail": "Choice cited John Farnham Tribute tickets priced up to $1,650 and NRL seats with a $50 premium. Ticketek says variable pricing affected less than 7 per cent of the tribute concert and excluded the $1,650 tickets. Virgin says more than 93 per cent of credits were redeemed.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-04/choice-hands-shonky-awards-to-virgin-sony-ticketing-giants/107329220",
+          "published": "4 Nov, 4:04 am"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "label": "Tuesday, 3 November 2026",
+      "note": "Checked Tuesday morning, Sydney time. Stories are deduplicated by underlying event, with ABC and 9to5Mac preferred where coverage overlapped. Apple publication times were converted to Sydney time. Rumours, staged releases, availability limits and suggested applications are labelled explicitly.",
+      "checked": "2026-11-03T08:19:00+11:00",
+      "stories": [
+        {
+          "id": "sydney-western-airport-noise-curfew-20261103",
+          "category": "Sydney & NSW",
+          "title": "Western Sydney Airport noise fuels calls for a night curfew",
+          "summary": "Blue Mountains residents say aircraft noise has increased since Western Sydney International Airport opened to passengers on 25 October, and hundreds have backed a petition for an 11 pm to 6 am curfew.",
+          "detail": "Freight flights have operated around the clock since July, while passenger traffic is expected to grow as more airlines start services. Airservices Australia says daytime runway choices aim to minimise residential overflight where possible, but a UNSW aviation expert says every route involves trade-offs. The curfew campaign is new; no curfew has been announced.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/blue-mountains-residents-say-noisier-skies-after-wsi-opening-/107331676",
+          "published": "3 Nov, 6:27 am"
+        },
+        {
+          "id": "hawkesbury-radio-eviction-20261103",
+          "category": "Sydney & NSW",
+          "title": "Hawkesbury Radio faces closure after eviction notice",
+          "summary": "Sydney Water has given the 48-year-old community station three months to leave its Windsor studios after an inspection found significant safety and compliance problems.",
+          "detail": "The volunteer-run station has streamed online since losing its FM licence in 2022 and says about 5,000 people listen each month. Locals relied on it during bushfires and floods, giving the threatened closure a public-safety dimension as well as a cultural one. Hawkesbury City Council is helping search for a new site, but says no suitable premises have yet been found.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/hawkesbury-radio-faces-closure-sydney-water-eviction/107335170",
+          "published": "3 Nov, 7:35 am"
+        },
+        {
+          "id": "apple-homeview-security-camera-code-20261103",
+          "category": "Apple",
+          "title": "HomeView code points to a built-in HomeKit security camera",
+          "summary": "Code found in HomeView software 27.2 suggests Apple's new home display may support motion detection, live streaming and recording through HomeKit Secure Video.",
+          "detail": "The settings reportedly include separate controls for when people are home, away or asleep, plus an indicator light, an audible start signal and household notifications. Remote activation may be blocked while anyone is home. Apple has not announced the feature, so availability at launch, including in Australia, is unconfirmed.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code/",
+          "published": "2 Nov, 10:54 pm AEDT",
+          "tag": "Unconfirmed code"
+        },
+        {
+          "id": "apple-affinity-ipad-launch-20261103",
+          "category": "Apple",
+          "title": "Affinity brings its all-in-one design app to iPad",
+          "summary": "Canva has released Affinity for iPad, combining sketching, vector, photo and page-layout tools in one touch-first app that is free for individual users.",
+          "detail": "It supports Apple Pencil features including pressure, tilt, hover, squeeze and barrel roll, while projects can move from rough sketch to print-ready file without changing apps. This is an actual release rather than a preview. The App Store listing is live, although 9to5Mac did not separately confirm Australian regional availability.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/02/affinity-for-ipad-all-in-one-design-app-now-available-free-for-individuals/",
+          "published": "3 Nov, 1:00 am AEDT",
+          "tag": "Released"
+        },
+        {
+          "id": "tesla-android-foldable-app-fix-20261103",
+          "category": "Tesla",
+          "title": "Tesla plans a layout fix for Android foldables",
+          "summary": "Tesla's new large-screen app can remain stuck in a stretched phone layout on some foldables until the device is rotated, and a company UI engineer says screen-size breakpoints will be refined in a future release.",
+          "detail": "The acknowledgement is useful but not a shipped fix, and Tesla has not provided a version or date. It affects the phone app rather than the car, so there is no Model Y hardware requirement. The workaround is to rotate an unfolded device to landscape; Australian availability of the eventual update has not been confirmed.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
+          "published": "2 Nov, time not stated",
+          "tag": "Announced fix"
+        },
+        {
+          "id": "tesla-factory-build-2026-32-300-20261103",
+          "category": "Tesla",
+          "title": "A new Tesla factory build appears, without public release notes",
+          "summary": "Release tracking recorded software 2026.32.300 on 2 November, but no feature list or wider fleet rollout was available at checking time.",
+          "detail": "The .300 numbering normally indicates factory-installed software, so it should not be treated as an owner update. There is no confirmed Australian distribution, Model Y applicability or action to take. No more significant Tesla vehicle, autonomy, charging, energy, robotics or regulatory development was verified inside the 24-hour window.",
+          "source": "Not a Tesla App release tracker",
+          "url": "https://www.notateslaapp.com/software-updates/",
+          "published": "Dated 2 Nov, time not stated",
+          "tag": "Factory build"
+        },
+        {
+          "id": "ai-adnoc-openai-frontier-agents-20261103",
+          "category": "AI",
+          "title": "ADNOC plans connected AI agents across its energy business",
+          "summary": "ADNOC, OpenAI and G42 have announced a multi-year deployment that will connect operational, capital and commercial decisions using GPT models on UAE-based infrastructure.",
+          "detail": "The first uses are field planning across decades of well and facility data, and coordinating production, refining, logistics, sales and trading. Human experts will retain oversight of consequential decisions. Suggested Braze application: build a meeting-prep workflow that joins CRM notes, the last transcript and open actions, but requires citations and human approval before drafting follow-ups. That is a suggested adaptation, not a reported ADNOC use case.",
+          "source": "ADNOC",
+          "url": "https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI",
+          "published": "2 Nov, time not stated",
+          "tag": "Announced deployment"
+        },
+        {
+          "id": "tech-app-store-hidden-deepfake-network-20261103",
+          "category": "Technology",
+          "title": "Hidden deepfake network slipped through mobile app reviews",
+          "summary": "An investigation found more than 400 connected apps and domains that could activate sexual and violent deepfake tools after presenting benign functions during review.",
+          "detail": "The apps appeared in both Apple's App Store and Google Play, while advertising also ran on Meta platforms. Apple said developers changed remotely loaded web content after approval and removed 19 apps after being notified; Meta said it acted against more than 10,000 linked ad accounts. The episode shows how server-side behaviour can bypass one-off review checks.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
+          "published": "2 Nov, 11:31 pm AEDT"
+        },
+        {
+          "id": "tech-europe-supermarket-fridge-cyberattack-20261103",
+          "category": "Technology",
+          "title": "Hackers turn up supermarket fridge temperatures across Europe",
+          "summary": "Grocery stores in at least seven European countries reported refrigeration failures, with several confirming a cyberattack that forced chilled and frozen food to be discarded.",
+          "detail": "Affected chains included Carrefour, Coop, Delhaize and ICA, with some systems reportedly set as high as 50 degrees Celsius. Investigators have not attributed the attack. The practical lesson is broader than retail: remotely managed operational devices need current patches, network isolation and independent monitoring because a small control compromise can create immediate physical losses.",
+          "source": "Agence France-Presse",
+          "url": "https://origin-zh9p7m-www.afp.com/en/fridge-cyberattack-hits-supermarkets-across-europe",
+          "published": "2 Nov, 4:57 pm CET"
+        },
+        {
+          "id": "australia-rba-rate-decision-preview-20261103",
+          "category": "Australia & World",
+          "title": "RBA is widely expected to lift rates this afternoon",
+          "summary": "Economists and markets expect the Reserve Bank to raise the cash rate by 0.25 percentage points to 4.85 per cent at 2:30 pm AEDT, which would be an 18-year high.",
+          "detail": "That would be the fifth increase this year after inflation stayed above target. The result is not yet known, so this is a decision-day preview rather than a confirmed hike. Michele Bullock is due to speak at 3:30 pm, when borrowers will get clearer guidance on whether the Bank still sees more tightening ahead.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216",
+          "published": "3 Nov, 7:13 am",
+          "tag": "Decision due today"
+        },
+        {
+          "id": "world-us-midterms-republican-defence-20261103",
+          "category": "Australia & World",
+          "title": "Trump's red-state campaign trail signals Republican nerves",
+          "summary": "Donald Trump has concentrated late campaigning in normally safe Republican states as US voters head to the midterms, with analysts reading the itinerary as a defensive push to protect the Senate.",
+          "detail": "Texas and Kansas are among the unexpectedly close Senate contests, while Democrats are favoured in many House races. Polls close over the coming Australian day, and no result should be inferred yet. Control of either chamber would shape the final two years of Trump's term and US policy on spending, trade and foreign affairs.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788",
+          "published": "3 Nov, 5:38 am; updated 7:43 am"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Monday, 2 November 2026",
+      "note": "Checked Monday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times were converted to Sydney time. Rumours, staged releases, availability limits and suggested applications are labelled explicitly.",
+      "checked": "2026-11-02T08:24:17+11:00",
+      "stories": [
+        {
+          "id": "nsw-gun-buyback-begins-20261102",
+          "category": "Sydney & NSW",
+          "title": "NSW begins its 12-month gun buyback",
+          "summary": "Licensed owners can start surrendering firearms for payment today as NSW and the ACT become the first jurisdictions to join the national buyback announced after the Bondi terrorist attack.",
+          "detail": "The first phase is voluntary, with appointments initially available at six police stations including Penrith, Sutherland and Narellan. Another 34 stations are due to join in early December. Payments range from $450 to $1,000 in phase one, while regulations covering ownership caps and possible exemptions are still being finalised.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-02/what-to-expect-nsw-gun-buyback-begins-for-one-year/107330518",
+          "published": "2 Nov, 6:27 am"
+        },
+        {
+          "id": "nsw-pen-paper-naplan-push-20261102",
+          "category": "Sydney & NSW",
+          "title": "NSW seeks a return to handwritten NAPLAN writing tests",
+          "summary": "NSW will ask education ministers today to move year 5, 7 and 9 NAPLAN writing tests from computers back to pen and paper from 2028.",
+          "detail": "Experts cited research linking handwriting with learning and memory, and said students should generally be tested in the same medium they use in class. The proposal needs national agreement and would require accommodations for students with additional needs. Marking costs and the limited teaching of keyboard skills are likely to be part of the debate.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-02/experts-back-nsw-push-pen-paper-naplan-tests/107333202",
+          "published": "2 Nov, 7:01 am"
+        },
+        {
+          "id": "apple-2027-ipad-rumours-20261102",
+          "category": "Apple",
+          "title": "Rumour points to three iPad updates in early 2027",
+          "summary": "Bloomberg's Mark Gurman reportedly expects refreshed iPad Air, iPad Pro and entry-level iPad models in the first half of 2027.",
+          "detail": "The report says the Air could gain OLED, the Pro may add vapour-chamber cooling, and the base iPad could move to an A19 chip with Apple Intelligence support. None of this has been announced by Apple, and Australian timing or pricing is unknown. This was the only substantive Apple hardware report found inside the 24-hour window, so the section stays short.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+          "published": "2 Nov, 2:27 am AEDT",
+          "tag": "Rumour"
+        },
+        {
+          "id": "tesla-2026-27-11-small-rollout-20261102",
+          "category": "Tesla",
+          "title": "Small Tesla rollout adds collision evasion and home backup features",
+          "summary": "Release tracker data shows software 2026.27.11 reaching about 0.21 per cent of cars, with FSD v14.3.10, Automatic Collision Evasion and vehicle-to-home support among the listed changes.",
+          "detail": "This is a very limited staged rollout observed in the US, Canada and Lithuania, not a broad global release. Some Model Y variants with HW4 and Ryzen hardware appear eligible, but vehicle-to-home also requires compatible charging equipment and Powerwall. Australian availability and applicability to your particular Model Y are not confirmed, so there is nothing to install or change yet.",
+          "source": "Tesla-Info release tracker",
+          "url": "https://tesla-info.com/release/2026.27.11",
+          "published": "Updated 1 Nov, time not stated",
+          "tag": "Staged release"
+        },
+        {
+          "id": "ai-major-release-desks-quiet-20261102",
+          "category": "AI",
+          "title": "Major AI release desks were quiet overnight",
+          "summary": "Checks of official model and product logs found no significant new general-purpose AI model or workplace feature released in the previous 24 hours.",
+          "detail": "The latest OpenAI model entry remains its 30 October limited GPT-6 Rosalind Research rollout, which is restricted to approved life-sciences research customers and is not a general workplace tool. Suggested use for the quiet window: tighten one customer follow-up workflow by requiring transcript citations, an explicit confidence check and human approval before any draft is sent.",
+          "source": "OpenAI model release notes",
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "published": "Checked 2 Nov, 8:24 am AEDT",
+          "tag": "Quiet day"
+        },
+        {
+          "id": "australia-critical-infrastructure-ai-cyber-risk-20261102",
+          "category": "Technology",
+          "title": "AI is raising the stakes for attacks on critical infrastructure",
+          "summary": "Australian security specialists warn that AI can accelerate the discovery and exploitation of weaknesses in operational technology used across water, energy, transport and other essential services.",
+          "detail": "The report revisits Australia's 2000 Maroochy sewage attack as an early operational-technology case and notes the ASD's warning that critical systems attract state actors, criminals and hacktivists. For customer success automation, the practical lesson is to treat uploaded files and copied web content as untrusted, restrict tool permissions, and keep approval gates around any action that changes customer data.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-01/ot-critical-infrastructure-hacking-cyber-security/107288694",
+          "published": "1 Nov, 1:13 pm"
+        },
+        {
+          "id": "meta-fourier-humanoid-prototype-20261102",
+          "category": "Technology",
+          "title": "Meta reportedly builds a humanoid prototype with Fourier",
+          "summary": "Meta has reportedly built a 48-kilogram humanoid prototype with Chinese robotics company Fourier and started work on a second version with improved hands and stair-climbing sensors.",
+          "detail": "The prototype, called Max internally, is said to use Nvidia's Jetson Thor chip and to be designed for voice, gesture and household interaction research. Meta told the original reporter the units are for internal experimentation and are not planned for sale. The report has not been independently verified, so it is evidence of research progress rather than a product announcement.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
+          "published": "1 Nov, 11:29 am",
+          "tag": "Reported"
+        },
+        {
+          "id": "australia-housing-downturn-20261102",
+          "category": "Australia & World",
+          "title": "Australian housing downturn nears a 40-year record",
+          "summary": "National home values fell 1.2 per cent in October, the seventh consecutive monthly decline, leaving the median dwelling about $63,400 below its March peak.",
+          "detail": "Cotality says capital-city values are down 8.1 per cent in seven months, close to exceeding the 8.2 per cent fall recorded in the previous worst downturn from 2017 to 2019. Higher interest rates have cut borrowing capacity and sales volumes are sharply lower. That matters directly to Sydney owners and buyers, even though conditions vary by suburb.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
+          "published": "2 Nov, updated 5:45 am"
+        },
+        {
+          "id": "iran-qatar-war-talks-20261102",
+          "category": "Australia & World",
+          "title": "Iran and Qatari mediators continue talks to end the war",
+          "summary": "Iranian negotiators and Qatari mediators have entered a third day of talks in Doha over a possible path out of the eight-month US-Israeli war on Iran.",
+          "detail": "Iran says consultations are progressing but no final decision has been reached. A proposal under discussion could reopen the Strait of Hormuz within two days of an agreement, easing pressure on oil shipping and prices. The diplomacy is fragile, with Tehran maintaining military readiness and the US leaving open the possibility of further strikes after the midterm elections.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/",
+          "published": "1 Nov, US time"
+        },
+        {
+          "id": "us-midterms-interference-warnings-20261102",
+          "category": "Australia & World",
+          "title": "Former US officials warn of presidential interference in midterms",
+          "summary": "Former CIA and FBI chiefs and past Trump administration advisers say the president's attacks on the electoral process could foreshadow interference before, during or after this week's vote.",
+          "detail": "Concerns include possible federal immigration officers at polling places and legal efforts to obstruct certification. Polling suggests Democrats could win the House and may take the Senate, turning the contest into a major test of Trump's second term. The claims are warnings from former officials, not evidence that interference has already occurred.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800",
+          "published": "2 Nov, 5:34 am"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Sunday, 1 November 2026",
+      "note": "Checked Sunday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times and Australian availability were checked against original sources. Announcements, staged releases, availability limits and suggested applications are labelled explicitly.",
+      "checked": "2026-11-01T08:23:27+11:00",
+      "stories": [
+        {
+          "id": "marsden-park-house-party-stabbing-20261101",
+          "category": "Sydney & NSW",
+          "title": "Teen charged after alleged stabbing at Western Sydney house party",
+          "summary": "A 17-year-old boy has been charged after an 18-year-old man was allegedly stabbed as police shut down a large party at Marsden Park on Friday night.",
+          "detail": "The injured man was treated for a forearm wound and taken to hospital in a stable condition. Police arrested the teenager with help from members of the public and charged him with reckless wounding and possessing a prohibited drug. No other injuries or property damage were reported.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-31/nsw-teen-charged-over-marsden-park-alleged-stabbing/107331370",
+          "published": "31 Oct, updated 8:18 am"
+        },
+        {
+          "id": "byron-bay-fatal-crash-20261101",
+          "category": "Sydney & NSW",
+          "title": "Two dead and one critical after crash south of Byron Bay",
+          "summary": "Two people have died in a three-vehicle collision on Broken Head Road at Suffolk Park, with another person taken to hospital in a critical condition.",
+          "detail": "Police are investigating reports that one vehicle may have been driven erratically before the crash. Emergency crews treated several patients, including a teenage boy who was initially reported in a serious condition, while road closures affected the area. The cause has not been established.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-31/fatal-crash-on-broken-head-rd-suffolk-park/107331586",
+          "published": "31 Oct, updated 5:00 pm"
+        },
+        {
+          "id": "apple-homeview-software-tour-20261101",
+          "category": "Apple",
+          "title": "HomeView software tour reveals more of Apple's shared-home interface",
+          "summary": "A fresh virtualised tour shows HomeView's home screen, Control Centre, clock faces, media players, QuickPath keyboard and a slider for adjusting the Liquid Glass interface.",
+          "detail": "The device supports up to six people and uses its camera to recognise a user before showing personal Messages, Calendar, Reminders, FaceTime and Find My content. This is an independent software preview, not a new Apple announcement. Australian pre-orders are open at A$449, with availability from 13 November and English Siri AI supported locally at launch.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+          "published": "1 Nov, 2:47 am AEDT"
+        },
+        {
+          "id": "tesla-intel-grok-files-unconfirmed-20261101",
+          "category": "Tesla",
+          "title": "Tesla software now contains Grok files for older Intel Model 3 and Y cars",
+          "summary": "A rooted Intel-powered Model 3 has run Grok and the newer parked visualisation after hidden feature flags were enabled, suggesting update 2026.38 contains the necessary assets.",
+          "detail": "Tesla has not announced or enabled either feature for Intel vehicles, so this is evidence of technical possibility rather than a staged release. Your 2023 Australian Model Y uses the newer AMD infotainment computer, so the Intel finding does not directly affect it. Australian availability of any future expansion cannot be confirmed.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
+          "published": "31 Oct, US time"
+        },
+        {
+          "id": "shared-ai-training-opt-out-draft-20261101",
+          "category": "AI",
+          "title": "Four major AI providers back one website training opt-out",
+          "summary": "Google, Microsoft, OpenAI and Anthropic have backed a shared robots.txt signal that would let publishers express an AI training preference once instead of maintaining provider-specific rules.",
+          "detail": "This remains an IETF draft, not an endorsed standard or fully available control. OpenAI says support is coming in the next few months, Microsoft from February 2027 and Google in early 2027, while Anthropic has started implementation work. For customer guidance, keep search visibility, live-answer grounding and model training permissions separate because the signal treats them differently.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
+          "published": "31 Oct, 11:24 pm AEDT"
+        },
+        {
+          "id": "openai-future-of-firm-essay-20261101",
+          "category": "AI",
+          "title": "OpenAI essay sketches three ways agents could reshape organisations",
+          "summary": "A new OpenAI-hosted essay describes AI working beneath employees as delegated assistants, beside them as colleagues, or between management layers as a coordinator and adviser.",
+          "detail": "It is a speculative essay by two employees, not an OpenAI product announcement or corporate forecast. Its practical point is that adoption may start with people who already understand the work. Suggested use: map meeting preparation, transcript processing and customer follow-ups as supervised tasks beneath you, with explicit review gates before anything reaches a customer.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/the-future-of-the-firm/",
+          "published": "31 Oct"
+        },
+        {
+          "id": "cursor-claude-code-extension-backdoor-20261101",
+          "category": "Technology",
+          "title": "Tampered Claude Code extension attempted a persistent backdoor",
+          "summary": "Microsoft has analysed malicious versions 2.1.312 and 2.1.313 of the Claude Code extension that were served through Cursor's marketplace for several hours on 29 October.",
+          "detail": "The injected code collected host details, attempted to add an SSH key, opened a reverse tunnel and tried to persist on macOS and Windows. Anthropic's systems, Microsoft Visual Studio Marketplace and the official npm package were not affected. Anyone who installed those versions from Cursor should follow Cursor's remediation guidance, as simply uninstalling may not remove persistence files.",
+          "source": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+          "published": "31 Oct, US reporting update"
+        },
+        {
+          "id": "binance-replenishes-hack-assets-20261101",
+          "category": "Technology",
+          "title": "Binance says it has replaced 90 per cent of stolen assets",
+          "summary": "The exchange says company funds have replenished 90 per cent of the US$6.3 billion taken in this week's record hack, with less-liquid tokens making up the remainder.",
+          "detail": "This is a substantive update to yesterday's initial breach report. Binance says customers will not bear the loss, has set aside about US$6.34 billion and remains on track to reopen withdrawals on Sunday. Analysts have attributed the attack to North Korea, but the investigation is continuing and Binance's proof-of-reserves snapshot is not yet complete.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/",
+          "published": "1 Nov, 1:59 am AEDT"
+        },
+        {
+          "id": "albanese-chogm-caribbean-20261101",
+          "category": "Australia & World",
+          "title": "Albanese heads to Commonwealth summit as rate decision looms",
+          "summary": "The prime minister is travelling to Antigua and Barbuda for CHOGM, where climate, trade, AI regulation and reparations for slavery will be on the agenda.",
+          "detail": "Australia will also advance its campaign for a UN Security Council seat in 2029 and hold talks ahead of November's major international summits. The trip comes as markets widely expect the Reserve Bank to raise rates on Tuesday, leaving domestic colleagues to manage the political fallout over household costs.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040",
+          "published": "1 Nov, 6:50 am"
+        },
+        {
+          "id": "us-midterm-polling-security-20261101",
+          "category": "Australia & World",
+          "title": "US election officials prepare for intimidation at midterm polls",
+          "summary": "Local officials and civil society groups are preparing for possible violence, federal agents at polling places and attempts to disrupt or challenge the 3 November midterm results.",
+          "detail": "The Trump administration has not ruled out deploying armed officers, including ICE agents, while officials in about 30 states have resisted demands for unredacted voter rolls. Polls point to possible Democratic control of Congress. Legal groups say they are ready to seek immediate court orders if voting or certification is obstructed.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620",
+          "published": "1 Nov, 6:32 am"
+        },
+        {
+          "id": "iran-unrestricted-response-order-20261101",
+          "category": "Australia & World",
+          "title": "Iran orders immediate and geographically unrestricted response to attack",
+          "summary": "Supreme Leader Mojtaba Khamenei has told military chiefs to widen their target bank and answer any new military or terrorist attack without geographic restraint.",
+          "detail": "The order raises the risk of a broader regional conflict as Gulf states urge diplomacy and reports suggest the US and Israel are considering renewed strikes after the US midterms. It followed four oil tankers hitting mines in the Strait of Hormuz. No fresh attack has been confirmed, but rhetoric and military planning are escalating.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-31/attacks-on-iran-should-be-met-without-restraint-khamenei-orders/107332392",
+          "published": "1 Nov, updated 1:40 am AEDT"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "label": "Saturday, 31 October 2026",
+      "note": "Checked Saturday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times and Australian availability were checked against original sources. Announcements, staged releases, availability limits and suggested applications are labelled explicitly.",
+      "checked": "2026-10-31T08:26:56+11:00",
+      "stories": [
+        {
+          "id": "southwest-metro-noise-complaints-20261031",
+          "category": "Sydney & NSW",
+          "title": "Southwest Metro neighbours report relentless station noise",
+          "summary": "Residents near the newly opened Bankstown line say platform announcements and warning chimes can be heard inside their homes every few minutes, continuing until about 1 am.",
+          "detail": "Sydney Metro has sent a technician to assess sound levels. The issue emerged as the converted line carried more than 37,000 passengers by 6 pm on opening day. Weekend trains are running every seven minutes, making this an early test of whether operational noise needs adjustment.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818",
+          "published": "31 Oct, 7:27 am"
+        },
+        {
+          "id": "nsw-prison-mental-health-inquests-20261031",
+          "category": "Sydney & NSW",
+          "title": "Inquests expose repeated mental health failures in NSW prisons",
+          "summary": "An ABC review of 249 NSW deaths in custody since 2015 found coroners identified care or supervision failures in 48 cases involving people with diagnosed mental illness.",
+          "detail": "Fourteen of those who died were Indigenous. The review highlights Bailey Mackander, whose treatment at Kariong Correctional Centre was described by a coroner as a litany of failures. The findings point to a systemic gap between acute mental health needs and custodial care.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-31/inquests-reveal-mental-health-care-failures-in-nsw-prisons/107098090",
+          "published": "31 Oct, 5:50 am"
+        },
+        {
+          "id": "apple-ascend-io-ai-deal-disclosure-20261031",
+          "category": "Apple",
+          "title": "Fresh disclosure details Apple's Ascend.io AI engineering deal",
+          "summary": "A newly published EU disclosure shows Apple secured the right to hire certain Ascend.io staff, alongside a non-exclusive licence to its intellectual property and ownership of selected patents.",
+          "detail": "Ascend.io describes its platform as using agents to automate tedious data engineering work. The arrangement itself was completed earlier, so this is a fresh disclosure rather than a new acquisition announced today. It is another sign that Apple is adding specialised agentic AI talent and technology, but no related customer product or release date has been announced.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/30/apple-acquires-ascend%E2%80%A4io-an-agentic-ai-engineering-startup/",
+          "published": "30 Oct, 11:06 pm AEDT"
+        },
+        {
+          "id": "tesla-australia-quiet-check-20261031",
+          "category": "Tesla",
+          "title": "No fresh confirmed Australian Model Y update this morning",
+          "summary": "There is no substantive new Australian Model Y software, charging, service, recall or policy development confirmed in the past 24 hours.",
+          "detail": "The 2026.38.6 software release covered yesterday remains a staged rollout, while newer tracker entries do not yet carry notes that establish Model Y applicability or Australian availability. Tesla distributes updates gradually by vehicle and region, so the app and your in-car release notes remain the reliable source for your specific car.",
+          "source": "Tesla Australia",
+          "url": "https://www.tesla.com/en_au/support/software-updates",
+          "published": "Checked 31 Oct, 8:23 am"
+        },
+        {
+          "id": "local-code-private-mac-ai-release-20261031",
+          "category": "AI",
+          "title": "Local Code brings private, agent-style AI workflows to Mac",
+          "summary": "The developers of Draw Things have released Local Code, an open-source Mac assistant that can process prompts and files locally, create presentations and media, analyse spreadsheets and automate browser tasks.",
+          "detail": "The direct download is available now in Australia, while a Mac App Store release is still to come. The smaller published configuration needs at least 16 GB of memory, though speed will vary. Suggested use: on a 24 GB M4 Pro Mac, test a sanitised transcript to produce a summary, follow-up draft and slide outline, while granting minimal permissions.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
+          "published": "31 Oct, 12:38 am AEDT"
+        },
+        {
+          "id": "openai-robots-training-preference-announcement-20261031",
+          "category": "AI",
+          "title": "OpenAI plans to honour a common web signal for AI training choices",
+          "summary": "OpenAI has announced that it will support a shared robots.txt instruction intended to let websites express whether their content may be used for AI training.",
+          "detail": "This is an announcement, not an active release, with implementation due over the coming months. Existing GPTBot controls continue in the meantime. For teams advising customers on content governance, the practical value is simpler policy management across providers, while search discovery and model training permissions should still be treated as separate settings.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+          "published": "30 Oct"
+        },
+        {
+          "id": "binance-record-crypto-hack-20261031",
+          "category": "Technology",
+          "title": "Binance investigates what may be the largest cryptocurrency theft",
+          "summary": "Binance says attackers attempted to move up to US$6.3 billion in cryptocurrency, with about US$3 billion frozen, leaving the final loss still unclear.",
+          "detail": "The exchange suspended deposits and withdrawals while investigating a possible compromise linked to a staff laptop. It says private keys were not leaked, customer funds are safe and losses will be covered. The figures remain preliminary, but the incident highlights the importance of operational security around staff access.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+          "published": "30 Oct, updated 10:51 pm"
+        },
+        {
+          "id": "google-finland-data-centre-clearance-probe-20261031",
+          "category": "Technology",
+          "title": "Finnish police probe land clearing for planned Google data centres",
+          "summary": "Police are investigating suspected environmental law breaches after hundreds of hectares were cleared at two proposed Google data centre sites before required assessments were completed.",
+          "detail": "Work at Muhos and Kajaani has stopped pending environmental reviews. Google says it believed the clearances were lawful and is responding to authorities. The sites form part of a reported US$15 billion Finnish AI infrastructure investment, showing how computing demand is colliding with local environmental rules.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-30/google-data-centre-land-clearance-ai-finland-criminal-probe/107327336",
+          "published": "30 Oct, updated 7:45 pm"
+        },
+        {
+          "id": "erin-patterson-appeal-life-without-parole-20261031",
+          "category": "Australia & World",
+          "title": "Erin Patterson loses appeal and receives life without parole",
+          "summary": "Victoria's Court of Appeal upheld Patterson's mushroom murder convictions, accepted the prosecution's sentence appeal and removed her previous prospect of parole.",
+          "detail": "The court found the original sentence did not adequately reflect the gravity of three murders and one attempted murder. Patterson may seek special leave to appeal to the High Court, but no such challenge has been confirmed. The ruling is the most substantial legal development in the case since her conviction.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+          "published": "30 Oct, updated 3:53 pm"
+        },
+        {
+          "id": "australians-unaccounted-spain-train-crash-20261031",
+          "category": "Australia & World",
+          "title": "Two Australians unaccounted for after Spain train disaster",
+          "summary": "DFAT is working to confirm the welfare of two Australians after the crash in Andalusia that has killed at least 69 people, and is providing consular support to their families.",
+          "detail": "Preliminary information suggests a security system failure stopped trains before one service was cleared to continue without a speed restriction. Its exact speed is still being established from the black box, so the cause is not settled. The Australian welfare concern is a significant new development since the crash was first reported.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-30/dfat-confirming-welfare-of-2-australians-in-spain/107330458",
+          "published": "30 Oct, updated 11:41 pm"
+        },
+        {
+          "id": "oleshky-local-ceasefire-evacuations-20261031",
+          "category": "Australia & World",
+          "title": "Local ceasefire enables evacuation from Russian-held Oleshky",
+          "summary": "Civilians are leaving Oleshky under a locally negotiated pause overseen by Russian and Ukrainian officials, with evacuees able to choose Russian or Ukrainian-controlled territory.",
+          "detail": "The US-brokered arrangement also allows aid into a city whose population has fallen from roughly 24,000 to about 2,000. It is described as the longest pause anywhere on the front line since Russia's 2022 invasion, although it is limited in area and due to end on Sunday rather than representing a wider ceasefire.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
+          "published": "31 Oct, updated 12:22 am"
+        }
+      ]
+    }
+  ]
+}
