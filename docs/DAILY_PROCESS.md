@@ -1,63 +1,52 @@
 # Daily publishing runbook
 
-## Source of truth and boundaries
+## Scope and source of truth
 
-Read `config/publishing.json` and `docs/EDITORIAL.md` from the current `main` branch of `RemHub-2000/RemysNews` at the start of every run. Accept only `dual` or `github-only`; stop on an unknown mode rather than choosing destinations. Keep the existing task and its timing. Do not create a second research schedule, a GitHub research cron or another Site.
+Read `config/publishing.json` and `docs/EDITORIAL.md` from the current `main` branch of `RemHub-2000/RemysNews` at the start of every run. Publishing is GitHub-only. Stop if the configuration is invalid or names a different mode. Keep the existing task and timing; do not create a separate research schedule or a GitHub research cron.
 
-GitHub's `dist/editions.json` is the canonical archive. Routine runs change only that file in GitHub. Publishing controls, scripts, design and workflow files change only when Remy requests a process or application change. There is no API key in this repository and no model call in GitHub Actions. Use the configured GitHub connection for writes, not credentials copied into source or prompts. Stop for permission or connection blockers; do not bypass protected branches.
+`dist/editions.json` is the canonical archive and the only file changed by a routine news run. Code, design, configuration and workflow changes need a separate request. Use the connected GitHub account's normal repository access. Never store credentials in source or prompts, bypass protected branches, broaden permissions or force-push.
 
-## A. Research and prepare once
+## 1. Research and prepare once
 
-1. Determine today's date and current time in `Australia/Sydney`, including daylight saving. Retrieve the current GitHub branch head, archive file content and its blob SHA. When using a clone, fast-forward before preparing changes and preserve any unrelated work. When local files have been removed, retrieve current repository files through the GitHub connector instead of depending on yesterday's checkout.
-2. Run `node update-edition.mjs --recent` on that working archive. Pass only this compact index and essential short context to the research stage, not all historical briefing prose. Use the actual previous `checked` time to recognise material updates. Follow `docs/EDITORIAL.md` for research, freshness, availability, source attribution and word limits.
-3. Write one edition JSON to a temporary path outside the repo. Preserve the existing schema. Set `date` to today's Sydney date and `checked` to the actual verification time, not a deployment or retry time. Do not copy previous news and present it as fresh. For same-day refreshes, keep a coherent day's briefing, deduplicate by underlying event and add or revise only material developments. No artificial AM/PM date keys.
-4. Run `node update-edition.mjs /absolute/path/to/edition.json`, or use `--archive /absolute/path/to/working-archive.json`. This keeps today plus six previous calendar dates, at most one edition per date, newest first. It prevents an older run from replacing a newer same-day payload. Run `--validate` and `node --test`. Retain this exact completed archive for both publishers.
+1. Determine today's calendar date and actual current time in `Australia/Sydney`, including daylight saving. Retrieve the branch head, current archive and its content blob SHA. Fast-forward a clone before editing, preserving unrelated work. If local files are missing, retrieve the required files through the GitHub connector rather than relying on yesterday's checkout.
+2. Run `node update-edition.mjs --recent` on the current archive. Use only that compact index and essential short context for deduplication, not every historical briefing's full prose. Consult the previous `checked` time for material updates. Follow `docs/EDITORIAL.md` for sources, freshness, category order, availability, length and attribution.
+3. Write one researched edition to a temporary path outside the repository. Preserve the schema. Set `date` to today's Sydney date and `checked` to the actual verification time, not a deployment or retry time. Do not regenerate earlier days or present old stories as new.
+4. Run `node update-edition.mjs /absolute/path/to/edition.json`, adding `--archive /absolute/path/to/working-archive.json` when required. It replaces the current date, keeps only today and the preceding six calendar days, sorts newest first and rejects older same-day writes. Run `--validate` and `node --test`. Retain the resulting exact payload for publication and retries.
 
-## B. Publish and verify GitHub
+## 2. Commit one JSON file
 
-1. Commit only `dist/editions.json` to the configured `main` branch, with a message such as `Update briefing for YYYY-MM-DD`. Prefer the GitHub `update_file` operation using the file's freshly read blob SHA; it creates the one-file commit and is suitable for a task with no persisted Git clone. Alternatively use ordinary non-forced Git push with the normal configured credentials.
-2. If a SHA/branch conflict occurs, reread the current archive, reapply the same researched edition with the updater, and retry only if it does not overwrite a newer edition. Never regenerate the news just to retry publishing. Never force-push. If the exact JSON is already committed, reuse that commit and its verification result rather than making a duplicate commit.
-3. Find the run of `.github/workflows/pages.yml` with the exact `head_sha` just committed, on `main`. Use the GitHub Actions runs GET endpoint and inspect that run's latest attempt. Do not use an unrelated green run, a PR-only workflow wrapper or a combined commit status as proof of Pages publication.
-4. Wait for that run to complete successfully. It runs tests and archive validation, deploys, then calls `scripts/verify-published.mjs` against the deployment URL. The script fetches a cache-busted public `editions.json` and compares the entire JSON structure to the committed archive, including `checked`, stories and all retained dates. A same-date old edition must fail. It retries propagation delays for a bounded period. Workflow logs and the run summary show the verified date and timestamp.
-5. If the workflow fails, inspect the failed step. Retain the expected payload and commit. Retry only transient deployment/propagation failures through the existing run; malformed data needs a corrected one-file commit. Do not report publication success merely because the commit exists or deploy-pages returned a URL. Allow a bounded wait of up to ten minutes, with brief status updates in interactive work; if still pending, report pending honestly rather than claiming it is live.
+1. Commit only `dist/editions.json` to the configured `main` branch, for example `Update briefing for YYYY-MM-DD`. Prefer GitHub's connected `update_file` operation with the freshly read blob SHA. Ordinary non-forced Git push through configured credentials is also supported.
+2. On a SHA conflict, reread the current archive and reapply the same researched edition using the updater. Retry only if it will not replace a newer verification timestamp. Preserve unrelated edits.
+3. If the exact JSON is already committed, reuse its commit and verified publication rather than creating another commit. A failed publication does not justify changing `checked`, repeating research or duplicating an edition.
 
-The workflow intentionally has no scheduled research job and no content-writing token. Pushes through the connected GitHub App/user credentials trigger it. A future process writing with a workflow's own `GITHUB_TOKEN` would need an explicit deployment trigger, since those pushes do not normally trigger another push workflow.
+## 3. Deploy and verify
 
-## C. Optional ChatGPT Site mirror
+The existing `.github/workflows/pages.yml` runs tests and archive validation, deploys the static output, then executes `scripts/verify-published.mjs`. It has no model call or research job.
 
-Execute this entire section only when `mode` is `dual`. In `github-only` mode do not call Sites, retrieve Site credentials, open its repository or package/deploy it. A Site outage must not block preparation of the GitHub edition.
+Find the workflow run for the exact committed `head_sha` on `main`, using the Actions runs GET endpoint. Inspect that run's latest attempt. Do not use an unrelated green run, a PR-only wrapper or combined commit status as proof of Pages publication.
 
-1. Read the Sites building/hosting instructions and get the existing Site identified by `chatgptSite.projectId`. Preserve its exact identity, owner-private audience, design, filters, expandable details and source links. Open its current registered source with the supported Sites workflow and read its README. This runbook supersedes older Site-only delivery instructions.
-2. Copy the exact completed canonical `dist/editions.json` from stage A/B into the Site source. Do not run separate research or rebuild earlier editions. Compare canonical JSON structures to confirm parity before publishing. If the Site already has that exact archive and a verified successful deployment of it, reuse it without another deployment.
-3. Use supported Sites source preparation, push the exact source, package the static output, save/deploy privately and verify terminal success. Retain a returned saved-version/deployment ID when retrying instead of creating repeated versions. Never create a replacement Site or broaden its audience.
+Wait for terminal success, including the final exact-live-archive check. That check fetches a cache-busted public `editions.json` and compares the complete JSON structure with the committed payload, including the verification timestamp, stories and retained dates. A same-date but older payload must fail. The workflow summary records the verified date, timestamp and link.
 
-The publishers are independent destinations, not an atomic cross-host transaction. If one fails, keep the successful destination and repair the failed destination from the same canonical payload. Do not roll back a successful host just to make them equally stale. When GitHub publication is blocked but the researched payload is ready, the mirror may still be updated safely; clearly report which destination succeeded.
+Allow a bounded wait of up to ten minutes, with brief progress updates for interactive work. If still pending, report pending honestly. Inspect the failed step on failure. Retry transient deployment or propagation failures using the existing run and payload; invalid data requires a corrected one-file commit. A commit or deployment URL alone is not publication success.
 
-## D. Notification and failures
+Pushes using the connected GitHub App/user access trigger the workflow. If a future implementation writes with a workflow's own `GITHUB_TOKEN`, it must explicitly trigger deployment because such pushes do not normally start a second push workflow.
 
-On complete success, send exactly two short elements, using the actual Sydney edition date and the GitHub link as the primary reading destination:
+## 4. Notify
+
+Only after verified publication, send exactly these two short elements, using the actual Sydney edition date:
 
 Daily briefing is now available for [D Month YYYY].
 
 [Open your briefing](https://remhub-2000.github.io/RemysNews/)
 
-In `dual` mode complete success means both destinations are verified, or one was already verified with the identical archive. In `github-only` mode GitHub verification is sufficient. Do not repeat stories or send a separate success notification per host. Do not disable the recurring task after success.
+Do not repeat stories, generate inline visuals or send duplicate notifications. Keep the recurring task enabled after success. If publication fails or remains unverified, send a brief truthful notice that the app may still show an earlier edition. Keep the task enabled for transient failures and retain the exact payload and commit for recovery.
 
-For a partial success, name the successful destination and link it, then state that the other may show an earlier edition. For a failure or unverified deployment, send a short truthful notice, never the success template. Keep the task enabled for transient failures. Do not delete any host, archive, backups or Git history during recovery.
+## Recovery and operational checks
 
-## Cutover checklist
+Keep the latest successful deployment available while correcting a failed update. Do not delete archived data, rewrite Git history, regenerate historical briefings or roll back successful content just to retry a failed check. Stop for permission or connection blockers and report the required action.
 
-Run dual publishing until Remy is satisfied. Suggested evidence: three consecutive scheduled successes with identical date/checked/content on both hosts; correct seven-day pruning at a date boundary; a repeated update creating no duplicate; and a same-day newer revision replacing rather than appending. Confirm the PWA loads the latest edition after reload and still opens the last cached content offline. These are acceptance checks, not a claim that all future runs have already passed.
+The live archive holds at most seven unique Sydney dates, newest first. Verify date-boundary pruning, identical retries and stale-write rejection through `node --test`. The reader continues to serve stored JSON without making model calls. An already-open or offline PWA may show cached content until it reconnects and reloads.
 
-After Remy's explicit approval:
+## Future same-day refreshes
 
-1. Change only `config/publishing.json` from `dual` to `github-only` and commit it. The existing task dynamically reads the mode, so no new task or instruction rewrite is required.
-2. Verify the next scheduled GitHub publication without invoking Sites. The primary notification link already points to GitHub, so it does not need changing.
-3. Keep the private Site as a temporary fallback if desired. Unpublish/delete it only after separate explicit approval, never as an automatic side effect of changing mode.
-4. Once the fallback is no longer wanted, its config entry and this optional adapter section can be removed. Core editorial rules, updater, schema, reader and GitHub workflow are unchanged.
-
-Rollback: set the mode back to `dual` while the private Site still exists, then mirror the current GitHub archive through the supported Sites workflow. Do not use a stale Site archive to overwrite newer GitHub data.
-
-## Optional afternoon refresh
-
-No afternoon run is enabled yet. If requested, add the agreed Sydney afternoon time to the same task's schedule rather than duplicating the research workflow. Reuse the current day's compact index, check only for new/material developments and replace the same date with a later `checked` timestamp. Previous days remain unchanged; a late morning retry is rejected if an afternoon payload is already newer. The current schema intentionally retains only the latest revision per calendar date, not separate morning and afternoon archives.
+No afternoon schedule is enabled. If Remy requests one later, agree a Sydney time and update the existing task rather than duplicating this process. Use the current day's compact index, check for new or materially changed developments and produce a coherent revised briefing. Replace the same date with a later actual `checked` timestamp; do not create AM/PM date keys or duplicate underlying stories. An older run must not overwrite a newer revision. The current schema stores the latest revision per calendar date.

@@ -5,6 +5,17 @@ import {isDeepStrictEqual} from 'node:util';
 import {setTimeout as delay} from 'node:timers/promises';
 import {validateArchive} from '../update-edition.mjs';
 
+export function validatePublishingConfig(config) {
+  const keys = ['archivePath', 'github', 'mode', 'schemaVersion', 'timezone'];
+  if (!config || JSON.stringify(Object.keys(config).sort()) !== JSON.stringify(keys)) throw Error('Expected one publishing destination and the standard configuration fields');
+  if (config.schemaVersion !== 1 || config.mode !== 'github-only' || config.timezone !== 'Australia/Sydney' || config.archivePath !== 'dist/editions.json') throw Error('Invalid publishing configuration');
+  const github = config.github;
+  if (!github || typeof github.repository !== 'string' || !/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(github.repository) || github.branch !== 'main' || github.workflowPath !== '.github/workflows/pages.yml') throw Error('Invalid repository publishing target');
+  const url = new URL(github.url);
+  if (url.protocol !== 'https:' || url.username || url.password || !url.pathname.endsWith('/')) throw Error('Expected an HTTPS app directory URL');
+  return config;
+}
+
 export async function verifyPublished(expected, baseURL, {fetcher = fetch, attempts = 18, interval = 10000, pause = delay} = {}) {
   validateArchive(expected);
   const base = new URL(baseURL);
@@ -30,7 +41,7 @@ export async function verifyPublished(expected, baseURL, {fetcher = fetch, attem
 }
 
 async function main() {
-  const config = JSON.parse(readFileSync(new URL('../config/publishing.json', import.meta.url), 'utf8'));
+  const config = validatePublishingConfig(JSON.parse(readFileSync(new URL('../config/publishing.json', import.meta.url), 'utf8')));
   const expected = JSON.parse(readFileSync(new URL('../' + config.archivePath, import.meta.url), 'utf8'));
   const result = await verifyPublished(expected, process.argv[2] || config.github.url);
   console.log(JSON.stringify(result));

@@ -5,7 +5,16 @@ import {tmpdir} from 'node:os';
 import {join} from 'node:path';
 import {spawnSync} from 'node:child_process';
 import {categories, sydneyDate, cutoffDate, validateEdition, validateArchive, mergeEdition, recentIndex} from '../update-edition.mjs';
-import {verifyPublished} from '../scripts/verify-published.mjs';
+import {verifyPublished, validatePublishingConfig} from '../scripts/verify-published.mjs';
+
+test('publishing configuration permits only the single GitHub destination', () => {
+  const config = JSON.parse(readFileSync(new URL('../config/publishing.json', import.meta.url), 'utf8'));
+  assert.equal(validatePublishingConfig(config).mode, 'github-only');
+  assert.throws(() => validatePublishingConfig({...config, mode: 'unsupported'}));
+  assert.throws(() => validatePublishingConfig({...config, extraPublisher: {}}));
+  assert.throws(() => validatePublishingConfig({...config, archivePath: '../unexpected.json'}));
+  assert.throws(() => validatePublishingConfig({...config, github: {...config.github, url: 'http://example.com/'}}));
+});
 
 const now = new Date('2026-11-08T06:00:00Z');
 const story = category => ({id: category, category, title: 'A verified story', summary: 'Key points.', detail: '', source: 'Official source', url: 'https://example.com/story', published: '8 Nov'});
