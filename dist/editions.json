@@ -1,6 +1,128 @@
 {
   "editions": [
     {
+      "date": "2026-11-09",
+      "label": "Monday, 9 November 2026",
+      "note": "Checked Monday morning, Sydney time. Publication times below are Sydney time. Reported plans, rumours and unverified claims are labelled; the AI release section is short on a quiet weekend.",
+      "checked": "2026-11-09T08:24:03+11:00",
+      "stories": [
+        {
+          "id": "sydney-barracks-sale-reversal-20261109",
+          "category": "Sydney & NSW",
+          "title": "Victoria Barracks stays public after a government backdown",
+          "summary": "Anthony Albanese has scrapped the planned sale of Sydney's Victoria Barracks following a political and community backlash. The heritage site will instead transfer from Defence to the Finance Department, with the prime minister promising public access and protection of its history.",
+          "detail": "This reverses part of Saturday's defence-property sale story. Three other sites are also being retained, but Defence personnel are still due to leave all 67 affected properties within two years. The wider disposal programme continues; unrestricted public access is not yet confirmed.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530",
+          "published": "8 Nov, 9:16am; updated 4:18pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "bathla-workers-unpaid-20261109",
+          "category": "Sydney & NSW",
+          "title": "Bathla workers seek answers over missing wages and entitlements",
+          "summary": "About 200 former Bathla workers are demanding clarity over unpaid wages and entitlements after the Sydney developer's collapse. Employees speaking publicly for the first time describe debts running into tens of thousands of dollars, difficulty finding new jobs and, for some, uncertainty about their immigration status.",
+          "detail": "Bathla entered voluntary administration in August owing at least $3.4 billion. Administrators have been granted until September 2027 to determine the group's future, leaving staff facing a lengthy wait. Today's development is the workers' accounts and demands for transparent entitlement information, rather than a newly announced collapse or a confirmed repayment timetable.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
+          "published": "9 Nov, 5:45am"
+        },
+        {
+          "id": "cooks-river-data-centre-withdrawn-20261109",
+          "category": "Sydney & NSW",
+          "title": "Cooks River data centre dropped, but logistics plans continue",
+          "summary": "Stockland and John Boyd Properties have removed the AI data centre from their proposed redevelopment of the former Kogarah Golf Club site at Arncliffe. Community opponents had raised concerns about the Cooks River's ecology, electricity demand, water use and noise.",
+          "detail": "The partners say they are still pursuing the logistics precinct, so this is not the cancellation of the whole development. Their revised plans include a public foreshore connection and future parkland. It is a concrete local example of the infrastructure pressures behind the broader NSW data-centre debate, distinct from last week's parliamentary inquiry findings.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
+          "published": "8 Nov, 2:26pm"
+        },
+        {
+          "id": "nsw-cold-front-snow-20261109",
+          "category": "Sydney & NSW",
+          "title": "Sydney's abrupt chill brings November snow to the mountains",
+          "summary": "A strong cold front has brought snow to parts of NSW and a sharp temperature drop across Sydney. ABC reports the city fell from 29.7C on Saturday to 14C that evening, while Thredbo reached minus 5C overnight.",
+          "detail": "Strong southerly winds and hazardous coastal conditions are forecast for Monday, with the chill continuing. If you're heading out from Epping, take a warmer layer.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014",
+          "published": "8 Nov, 4:53pm"
+        },
+        {
+          "id": "apple-agentic-siri-report-20261109",
+          "category": "Apple",
+          "title": "Report: Siri could become more proactive next year",
+          "summary": "9to5Mac reports that Bloomberg's Mark Gurman expects Apple to move towards a more agent-like Siri, potentially as early as next year. The idea is an assistant that can pursue goals and decide what to do next, rather than needing a separate instruction for every step.",
+          "detail": "This is fresh reporting about Apple's direction, not an announced release or an available feature. There is no confirmed launch date, supported-device list or Australian rollout to act on. For you, the interesting prospect is less manual coordination across apps, but it would be premature to build a customer workflow around it.",
+          "source": "9to5Mac, citing Bloomberg",
+          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+          "published": "9 Nov, 2:30am",
+          "tag": "Report, not released"
+        },
+        {
+          "id": "tesla-cybercab-40kwh-silver-plan-20261109",
+          "category": "Tesla",
+          "title": "Musk outlines a smaller-battery, silver Cybercab",
+          "summary": "Not a Tesla App reports that Elon Musk says upcoming efficiency improvements will allow a 40kWh Cybercab battery, down from the current 47.6kWh pack. He also says Tesla will offer the robotaxi in liquid silver alongside gold.",
+          "detail": "No timing or revised range figures were supplied. A smaller pack could reduce manufacturing cost and weight, but that is a potential implication, not a measured outcome for the new version. This concerns Cybercab hardware: no corresponding Australian Model Y battery change, software update or local robotaxi launch is confirmed. The published silver images are concepts, not proof of delivered vehicles.",
+          "source": "Not a Tesla App, reporting Musk's announcement",
+          "url": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
+          "published": "8 Nov, US publication date",
+          "tag": "Announced plan"
+        },
+        {
+          "id": "ai-product-release-check-20261109",
+          "category": "AI",
+          "title": "No significant fresh AI release verified",
+          "summary": "No significant new AI model or practical product release with verified availability was found in the past 24 hours. Older announcements are not being recycled as new releases.",
+          "detail": "My suggestion for an existing approved tool: extract commitments, owners and dates from a sanitised transcript, then verify them before drafting a follow-up. This is a workflow idea, not a new feature.",
+          "source": "OpenAI official news; provider checks",
+          "url": "https://openai.com/news/",
+          "published": "Checked 9 Nov"
+        },
+        {
+          "id": "anthropic-generator-deal-report-20261109",
+          "category": "Technology",
+          "title": "Report: Anthropic secures US$3.4 billion in power equipment",
+          "summary": "Reuters, citing the Financial Times, reports that Anthropic secured commitments for 1.7GW of gas-fired generators from OnePWR Solutions in late September. The reported deal includes installation-related engineering and construction capabilities, not an acquisition of the supplier.",
+          "detail": "Reuters could not independently verify the report, and neither company responded to its requests for comment. This is newly reported infrastructure spending, not a new Claude product or evidence that all the capacity is already operating. It underlines how power supply is shaping the AI industry's expansion.",
+          "source": "Reuters, citing the Financial Times",
+          "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+          "published": "8 Nov, 11:54pm",
+          "tag": "Unverified report"
+        },
+        {
+          "id": "iran-hormuz-talks-shipping-20261109",
+          "category": "Australia & World",
+          "title": "Hormuz shipping incidents continue as diplomacy inches forward",
+          "summary": "ABC reports that Iran says tankers caught fire after hitting mines in the Strait of Hormuz, while the US says it disabled a vessel attempting to breach its blockade. Iranian officials have not confirmed that explosions around Qeshm Island were new US strikes.",
+          "detail": "Iran is reviewing proposals conveyed through Qatar, but conditions for nuclear negotiations remain contested. Treat military claims and the cause of the blasts cautiously. For Australia, disruption to this major energy-shipping route remains relevant to fuel costs and supply chains; these reports do not establish a new local petrol-price change.",
+          "source": "ABC News with international agencies",
+          "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+          "published": "8 Nov, 12:07pm; updated 3:45pm"
+        },
+        {
+          "id": "us-hegseth-congress-pressure-20261109",
+          "category": "Australia & World",
+          "title": "Hegseth faces congressional pressure after the US midterms",
+          "summary": "ABC reports that multiple Democrats plan to pursue impeachment of US Defence Secretary Pete Hegseth when they take control of both houses in January. It comes as Donald Trump reshapes his team, replacing chief of staff Susie Wiles with Stephen Miller.",
+          "detail": "Hegseth's support for the unpopular Iran war is a major political vulnerability, according to the report. Speculation that Trump might dismiss him is not a confirmed decision, and threatened impeachment is not removal from office. The substantive development is the looming confrontation over defence leadership and war policy, rather than another recap of the election result.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974",
+          "published": "9 Nov, 5:38am; updated 6:22am"
+        },
+        {
+          "id": "egypt-giza-train-collision-20261109",
+          "category": "Australia & World",
+          "title": "Seven killed in a train collision near Cairo",
+          "summary": "Egypt's health ministry says at least seven people were killed and more than 110 injured when passenger trains collided in Giza province on Sunday. One train struck the rear of another in Al-Ayyat, causing a derailment.",
+          "detail": "Emergency teams were sent to clear the wreckage and restore services. President Abdel Fattah al-Sisi ordered an investigation. The technical cause has not yet been established.",
+          "source": "ABC News with AP and Reuters",
+          "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+          "published": "9 Nov, 6:20am"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "label": "Sunday, 8 November 2026",
       "note": "A quieter weekend for product releases, with fresh NSW reporting and significant overseas developments. All publication times below are Sydney time. Preliminary results and company plans are labelled.",
@@ -744,118 +866,6 @@
           "source": "ABC News",
           "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788",
           "published": "3 Nov, 5:38 am; updated 7:43 am"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "label": "Monday, 2 November 2026",
-      "note": "Checked Monday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times were converted to Sydney time. Rumours, staged releases, availability limits and suggested applications are labelled explicitly.",
-      "checked": "2026-11-02T08:24:17+11:00",
-      "stories": [
-        {
-          "id": "nsw-gun-buyback-begins-20261102",
-          "category": "Sydney & NSW",
-          "title": "NSW begins its 12-month gun buyback",
-          "summary": "Licensed owners can start surrendering firearms for payment today as NSW and the ACT become the first jurisdictions to join the national buyback announced after the Bondi terrorist attack.",
-          "detail": "The first phase is voluntary, with appointments initially available at six police stations including Penrith, Sutherland and Narellan. Another 34 stations are due to join in early December. Payments range from $450 to $1,000 in phase one, while regulations covering ownership caps and possible exemptions are still being finalised.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-02/what-to-expect-nsw-gun-buyback-begins-for-one-year/107330518",
-          "published": "2 Nov, 6:27 am"
-        },
-        {
-          "id": "nsw-pen-paper-naplan-push-20261102",
-          "category": "Sydney & NSW",
-          "title": "NSW seeks a return to handwritten NAPLAN writing tests",
-          "summary": "NSW will ask education ministers today to move year 5, 7 and 9 NAPLAN writing tests from computers back to pen and paper from 2028.",
-          "detail": "Experts cited research linking handwriting with learning and memory, and said students should generally be tested in the same medium they use in class. The proposal needs national agreement and would require accommodations for students with additional needs. Marking costs and the limited teaching of keyboard skills are likely to be part of the debate.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-02/experts-back-nsw-push-pen-paper-naplan-tests/107333202",
-          "published": "2 Nov, 7:01 am"
-        },
-        {
-          "id": "apple-2027-ipad-rumours-20261102",
-          "category": "Apple",
-          "title": "Rumour points to three iPad updates in early 2027",
-          "summary": "Bloomberg's Mark Gurman reportedly expects refreshed iPad Air, iPad Pro and entry-level iPad models in the first half of 2027.",
-          "detail": "The report says the Air could gain OLED, the Pro may add vapour-chamber cooling, and the base iPad could move to an A19 chip with Apple Intelligence support. None of this has been announced by Apple, and Australian timing or pricing is unknown. This was the only substantive Apple hardware report found inside the 24-hour window, so the section stays short.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-          "published": "2 Nov, 2:27 am AEDT",
-          "tag": "Rumour"
-        },
-        {
-          "id": "tesla-2026-27-11-small-rollout-20261102",
-          "category": "Tesla",
-          "title": "Small Tesla rollout adds collision evasion and home backup features",
-          "summary": "Release tracker data shows software 2026.27.11 reaching about 0.21 per cent of cars, with FSD v14.3.10, Automatic Collision Evasion and vehicle-to-home support among the listed changes.",
-          "detail": "This is a very limited staged rollout observed in the US, Canada and Lithuania, not a broad global release. Some Model Y variants with HW4 and Ryzen hardware appear eligible, but vehicle-to-home also requires compatible charging equipment and Powerwall. Australian availability and applicability to your particular Model Y are not confirmed, so there is nothing to install or change yet.",
-          "source": "Tesla-Info release tracker",
-          "url": "https://tesla-info.com/release/2026.27.11",
-          "published": "Updated 1 Nov, time not stated",
-          "tag": "Staged release"
-        },
-        {
-          "id": "ai-major-release-desks-quiet-20261102",
-          "category": "AI",
-          "title": "Major AI release desks were quiet overnight",
-          "summary": "Checks of official model and product logs found no significant new general-purpose AI model or workplace feature released in the previous 24 hours.",
-          "detail": "The latest OpenAI model entry remains its 30 October limited GPT-6 Rosalind Research rollout, which is restricted to approved life-sciences research customers and is not a general workplace tool. Suggested use for the quiet window: tighten one customer follow-up workflow by requiring transcript citations, an explicit confidence check and human approval before any draft is sent.",
-          "source": "OpenAI model release notes",
-          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
-          "published": "Checked 2 Nov, 8:24 am AEDT",
-          "tag": "Quiet day"
-        },
-        {
-          "id": "australia-critical-infrastructure-ai-cyber-risk-20261102",
-          "category": "Technology",
-          "title": "AI is raising the stakes for attacks on critical infrastructure",
-          "summary": "Australian security specialists warn that AI can accelerate the discovery and exploitation of weaknesses in operational technology used across water, energy, transport and other essential services.",
-          "detail": "The report revisits Australia's 2000 Maroochy sewage attack as an early operational-technology case and notes the ASD's warning that critical systems attract state actors, criminals and hacktivists. For customer success automation, the practical lesson is to treat uploaded files and copied web content as untrusted, restrict tool permissions, and keep approval gates around any action that changes customer data.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-01/ot-critical-infrastructure-hacking-cyber-security/107288694",
-          "published": "1 Nov, 1:13 pm"
-        },
-        {
-          "id": "meta-fourier-humanoid-prototype-20261102",
-          "category": "Technology",
-          "title": "Meta reportedly builds a humanoid prototype with Fourier",
-          "summary": "Meta has reportedly built a 48-kilogram humanoid prototype with Chinese robotics company Fourier and started work on a second version with improved hands and stair-climbing sensors.",
-          "detail": "The prototype, called Max internally, is said to use Nvidia's Jetson Thor chip and to be designed for voice, gesture and household interaction research. Meta told the original reporter the units are for internal experimentation and are not planned for sale. The report has not been independently verified, so it is evidence of research progress rather than a product announcement.",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
-          "published": "1 Nov, 11:29 am",
-          "tag": "Reported"
-        },
-        {
-          "id": "australia-housing-downturn-20261102",
-          "category": "Australia & World",
-          "title": "Australian housing downturn nears a 40-year record",
-          "summary": "National home values fell 1.2 per cent in October, the seventh consecutive monthly decline, leaving the median dwelling about $63,400 below its March peak.",
-          "detail": "Cotality says capital-city values are down 8.1 per cent in seven months, close to exceeding the 8.2 per cent fall recorded in the previous worst downturn from 2017 to 2019. Higher interest rates have cut borrowing capacity and sales volumes are sharply lower. That matters directly to Sydney owners and buyers, even though conditions vary by suburb.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
-          "published": "2 Nov, updated 5:45 am"
-        },
-        {
-          "id": "iran-qatar-war-talks-20261102",
-          "category": "Australia & World",
-          "title": "Iran and Qatari mediators continue talks to end the war",
-          "summary": "Iranian negotiators and Qatari mediators have entered a third day of talks in Doha over a possible path out of the eight-month US-Israeli war on Iran.",
-          "detail": "Iran says consultations are progressing but no final decision has been reached. A proposal under discussion could reopen the Strait of Hormuz within two days of an agreement, easing pressure on oil shipping and prices. The diplomacy is fragile, with Tehran maintaining military readiness and the US leaving open the possibility of further strikes after the midterm elections.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/",
-          "published": "1 Nov, US time"
-        },
-        {
-          "id": "us-midterms-interference-warnings-20261102",
-          "category": "Australia & World",
-          "title": "Former US officials warn of presidential interference in midterms",
-          "summary": "Former CIA and FBI chiefs and past Trump administration advisers say the president's attacks on the electoral process could foreshadow interference before, during or after this week's vote.",
-          "detail": "Concerns include possible federal immigration officers at polling places and legal efforts to obstruct certification. Polling suggests Democrats could win the House and may take the Senate, turning the contest into a major test of Trump's second term. The claims are warnings from former officials, not evidence that interference has already occurred.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800",
-          "published": "2 Nov, 5:34 am"
         }
       ]
     }
