@@ -1,6 +1,235 @@
 {
   "editions": [
     {
+      "date": "2026-11-08",
+      "label": "Sunday, 8 November 2026",
+      "note": "A quieter weekend for product releases, with fresh NSW reporting and significant overseas developments. All publication times below are Sydney time. Preliminary results and company plans are labelled.",
+      "checked": "2026-11-08T08:20:48+11:00",
+      "stories": [
+        {
+          "id": "nsw-prison-mental-health-lead-20261108",
+          "category": "Sydney & NSW",
+          "title": "Psychiatrist calls for clinical control of prison mental health",
+          "summary": "Leading forensic psychiatrist Kerri Eagle says Justice Health, rather than prison officers, should lead the management of mentally ill NSW inmates. Her intervention follows an ABC investigation identifying dozens of coronial findings about failures in care since 2015.",
+          "detail": "Eagle is a Justice Health clinical director but spoke in a private capacity, so this is a reform proposal, not an announced government policy. Prison officers currently develop immediate support plans covering housing and observation for inmates in crisis. Corrective Services NSW says progress requires a coordinated, whole-of-government response. The central question is who holds clinical responsibility when an inmate needs urgent care.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
+          "published": "8 Nov, 5:53am"
+        },
+        {
+          "id": "nsw-combat-sports-inquiry-20261108",
+          "category": "Sydney & NSW",
+          "title": "NSW weighs stronger controls on collision and slap sports",
+          "summary": "A parliamentary inquiry is examining whether collision-running, competitive slapping and bare-knuckle boxing should be formally classified as combat sports. Friday's hearing exposed a sharp split: the Combat Sports Authority wants stronger controls, while neurologist Rowena Mobbs urged a ban because of brain-injury risks.",
+          "detail": "Bare Knuckle Australia representatives said they were willing to collaborate on regulation, although organisers differed over how much intervention was appropriate. Collision-running and power-slap organisers did not appear. The inquiry's report is expected by Christmas, so no new rules have been adopted through this process yet. The immediate significance is the direction of NSW event regulation, not a change to ordinary community sport.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-07/collision-running-bare-knuckle-boxing-parliament-inquiry/107310954",
+          "published": "7 Nov, 9:44am"
+        },
+        {
+          "id": "kiwis-tonga-newcastle-semifinal-20261108",
+          "category": "Sydney & NSW",
+          "title": "Newcastle hosts a wet World Cup breakthrough for the Kiwis",
+          "summary": "New Zealand beat Tonga 34-10 in the Rugby League World Cup semi-final at Hunter Stadium in Newcastle. Kalyn Ponga returned from a broken arm to deliver a man-of-the-match performance in appalling weather.",
+          "detail": "The result sends the Kiwis into the final. ABC's match analysis credits their pressure and composure in the difficult conditions.",
+          "source": "ABC News, match analysis",
+          "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-tonga-world-cup-kalyn-ponga/107359742",
+          "published": "8 Nov, 6:44am"
+        },
+        {
+          "id": "apple-quiet-check-20261108",
+          "category": "Apple",
+          "title": "No significant fresh Apple development verified",
+          "summary": "No significant Apple announcement or substantive new development was verified within the past 24 hours. Fresh accessory coverage, shopping offers and weekly recaps do not warrant padding out today's section.",
+          "detail": "The source link opens MacRumors' dated November archive.",
+          "source": "MacRumors, archive checked",
+          "url": "https://www.macrumors.com/archive/2026/11/",
+          "published": "Checked 8 Nov"
+        },
+        {
+          "id": "tesla-cybertruck-extra-shift-20261108",
+          "category": "Tesla",
+          "title": "Tesla plans an extra Cybertruck shift before the line closes",
+          "summary": "The substantive update to yesterday's wind-down news: Elon Musk says Tesla will add a production shift to try to clear Cybertruck orders before dismantling the line around June or July 2027. The space is intended for expanded Cybercab production.",
+          "detail": "Musk says the backlog exceeds what Tesla can currently build before that deadline. This is a production plan, not confirmation that every order will be fulfilled. No change to Australian Model Y servicing, software or charging is confirmed by this announcement.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-expand-cybertruck-production-bid-fill-orders-before-dismantling-line-next-2026-11-07/",
+          "published": "8 Nov, 5:38am",
+          "tag": "Material update"
+        },
+        {
+          "id": "ai-quiet-product-check-20261108",
+          "category": "AI",
+          "title": "A quiet day for verified AI releases",
+          "summary": "No significant new AI product release with verified availability was found in the past 24 hours. Recent releases already covered are not being recycled as new meeting, presentation or workflow tools.",
+          "detail": "The source link is OpenAI's official news index, checked alongside other major providers. No new Australian rollout is claimed today.",
+          "source": "OpenAI, official news checked",
+          "url": "https://openai.com/news/",
+          "published": "Checked 8 Nov"
+        },
+        {
+          "id": "wgac-marketing-provider-breach-20261108",
+          "category": "Technology",
+          "title": "Who Gives A Crap warns customers after marketing-provider breach",
+          "summary": "Who Gives A Crap notified customers on Saturday that an unnamed US marketing-software provider had suffered unauthorised access affecting Australian, UK and US customer data. Names, contact information, mailing addresses and total spend were involved, but the company says payment details, order details and passwords were not.",
+          "detail": "Access began on 30 October and was secured on 1 November; WGAC says it was informed on Friday. It does not yet know whether data was copied or downloaded and reports no evidence of misuse. It has disconnected the provider and changed credentials. My suggested CSM takeaway: use this as a prompt to review third-party access scope and incident-notification responsibilities with relevant teams. The reporting does not identify the vendor, so there is no basis to attribute it to Braze.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858",
+          "published": "8 Nov, 2:04am"
+        },
+        {
+          "id": "nz-election-preliminary-count-20261108",
+          "category": "Australia & World",
+          "title": "New Zealand's election is too close to settle",
+          "summary": "With results from all voting places, National has 29.37 per cent of the party vote against Labour's 29.22 per cent. The National, ACT and NZ First bloc is provisionally projected to hold 67 of 131 seats, only one above the majority threshold.",
+          "detail": "About 700,000 special votes, including overseas ballots, remain to be processed. That means yesterday's voting has not produced a confirmed government, and both major-party leaders acknowledge negotiations lie ahead. Smaller parties and the final size of parliament could change the balance. Expect weeks of counting and coalition discussions, not a settled winner this weekend.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778",
+          "published": "8 Nov, 1:36am",
+          "tag": "Preliminary results"
+        },
+        {
+          "id": "kyiv-energy-bridge-attacks-20261108",
+          "category": "Australia & World",
+          "title": "Russian strikes damage Kyiv's energy supply and a major bridge",
+          "summary": "The attacks Ukraine warned about yesterday have now hit energy infrastructure around Kyiv, with authorities reporting serious pressure on electricity, water and heating as temperatures approach freezing. Missiles also damaged the Northern Bridge across the Dnipro.",
+          "detail": "Authorities reported at least two deaths and around a dozen injuries across Ukraine. The strikes come before US-brokered Russia-Ukraine talks scheduled in Abu Dhabi on 10 and 11 November. This is a material escalation from the earlier warning, not a repeat of it.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/",
+          "published": "7 Nov, 12:23pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "israel-eisenkot-coalition-mandate-20261108",
+          "category": "Australia & World",
+          "title": "Eisenkot gets the first chance to form Israel's government",
+          "summary": "President Isaac Herzog has selected Benjamin Netanyahu's leading rival, Gadi Eisenkot, to try to assemble a coalition after Israel's deadlocked election. This does not make Eisenkot prime minister: he still needs a parliamentary majority.",
+          "detail": "The formal offer is expected later on Sunday in Israel, early Monday in Sydney, after which he will initially have 28 days. Arab-Israeli parties hold a record 19 seats and are central to the negotiations. Without their support, Eisenkot would need ultra-Orthodox parties from Netanyahu's previous coalition to change sides. The political outcome remains unresolved.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
+          "published": "8 Nov, 6:41am; updated 7:49am"
+        },
+        {
+          "id": "krakow-market-square-shooting-20261108",
+          "category": "Australia & World",
+          "title": "Six killed in Krakow market-square shooting",
+          "summary": "Polish authorities say six people were killed and 16 injured in a shooting in Krakow's main market square. Police shot the suspected lone attacker, who remains in hospital, and say the public is now safe.",
+          "detail": "The interior minister says early findings point to far-right ideological influences, but the motive has not been established. One injured police officer is in a critical condition. Treat the ideological assessment and other early details as provisional while investigators establish what happened.",
+          "source": "ABC News with wires",
+          "url": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360",
+          "published": "8 Nov, 3:35am; updated 6:57am"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "label": "Saturday, 7 November 2026",
+      "note": "Checked Saturday morning, Sydney time. Regional availability, preliminary findings and suggested applications are labelled.",
+      "checked": "2026-11-07T08:19:45+11:00",
+      "stories": [
+        {
+          "id": "bondi-geller-20261107",
+          "category": "Sydney & NSW",
+          "title": "Bondi attack survivor Eva Geller dies",
+          "summary": "Eva Geller, 90, has died after being shot at the Bondi Chanukah gathering last December. ABC reports she was a Holocaust survivor who came to Australia from Hungary as a child and spent much of the past year in hospital or rehabilitation.",
+          "detail": "NSW Police say they are working with the coroner and awaiting further advice. Prime Minister Anthony Albanese and NSW Premier Chris Minns paid tribute to Geller and offered condolences to her family and Sydney's Jewish community.",
+          "source": "ABC News",
+          "url": "https://newsapp.abc.net.au/news/2026-11-06/bondi-terror-attack-survivor-elderly-woman-dies-in-hospital/107355644",
+          "published": "6 Nov"
+        },
+        {
+          "id": "parramatta-powerhouse-opening-20261107",
+          "category": "Sydney & NSW",
+          "title": "Powerhouse Parramatta opens to the public today",
+          "summary": "Western Sydney's $915 million museum opens on Saturday with more than 3,000 objects and five major exhibitions. This is the public opening itself, following earlier previews of the works inside.",
+          "detail": "Entry and four of the five exhibitions are free. The ticketed space and aviation exhibition is $30 for adults, $20 for concessions and free for under-16s. Street parking is limited, so public transport is worth considering if you're heading over from Epping.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-07/what-to-see-nsw-parramatta-powerhouse-officially-opens/107357170",
+          "published": "7 Nov, 5:30 am AEDT"
+        },
+        {
+          "id": "sydney-airport-threat-20261107",
+          "category": "Sydney & NSW",
+          "title": "AFP searches Tokyo flight after Sydney Airport threat",
+          "summary": "Armed federal police met passengers on an All Nippon Airways flight from Tokyo at Sydney Airport on Thursday night and carried out precautionary searches. A passenger told ABC people were kept on board for about 90 minutes before disembarking.",
+          "detail": "The AFP confirmed threats had been sent to an airport. Nearly 30 flights were disrupted by separate bomb threats across Europe on Thursday, but authorities have not established a link to Sydney, and no explosives were reported found on the aircraft searched.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-06/afp-search-sydney-flight-after-european-airline-bomb-threats/107354870",
+          "published": "6 Nov, 1:55 pm AEDT"
+        },
+        {
+          "id": "apple-holiday-returns-20261107",
+          "category": "Apple",
+          "title": "Apple Australia extends eligible online holiday returns",
+          "summary": "Eligible items received from Apple Australia's online store between 6 November and 25 December can be returned until 8 January 2027. The window is based on when you receive the item, not simply when you order it.",
+          "detail": "That gives you more time to decide on a gift or a new device bought directly from Apple. Other retailers have their own policies, and Apple excludes iPhones bought through carrier financing or carrier offers from the extension.",
+          "source": "9to5Mac, checked against Apple Australia",
+          "url": "https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026/",
+          "published": "7 Nov, 1:38 am AEDT"
+        },
+        {
+          "id": "tesla-cybertruck-winddown-20261107",
+          "category": "Tesla",
+          "title": "Tesla plans to wind down Cybertruck production in Texas",
+          "summary": "Elon Musk says Tesla will wind down Cybertruck production at its Austin-area factory around mid-2027 to make room for more Cybercabs. AP cites Kelley Blue Book estimates of about 20,200 Cybertruck sales in 2025 and a further 28 per cent fall through September this year.",
+          "detail": "It is a production plan, not an immediate stop or an Australian robotaxi rollout. The announcement does not confirm a change to Australian Model Y production, support or driver-assistance features.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/cybertruck-cybercab-discontinued-musk-sales-6938a145d365f8e31b26bb9c45264b24",
+          "published": "6 Nov, US time"
+        },
+        {
+          "id": "inkling-small-20261107",
+          "category": "AI",
+          "title": "Thinking Machines releases Inkling 2 Small through Tinker",
+          "summary": "Thinking Machines Lab has made its new vision and reasoning model available in Tinker Playground and for fine-tuning and inference through Tinker. Downloadable weights are planned under Apache 2.0 after external safety testing, but they are not available yet; the announcement does not specify Australian account eligibility.",
+          "detail": "The lab demonstrated the model using visual feedback to refine interactive websites. My suggested test, if you have access: give it a screenshot of a mock customer review deck and ask it to flag slides where the takeaway is unclear, using dummy data rather than customer material.",
+          "source": "Thinking Machines Lab",
+          "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "published": "5 Nov, vendor date; rollout reported 6 Nov AEDT"
+        },
+        {
+          "id": "eu-tiktok-feed-20261107",
+          "category": "Technology",
+          "title": "EU says TikTok's For You feed may breach digital rules",
+          "summary": "The European Commission says TikTok has not adequately assessed or mitigated the risk of its feed repeatedly steering people towards similar material, including videos about body image or isolation. Regulators want changes to the recommender and easier controls for users to influence what they see.",
+          "detail": "These are preliminary findings under the Digital Services Act, not a final ruling. TikTok disputes the findings. Any resulting redesign could be worth watching in Australia, but no Australian product change was announced.",
+          "source": "European Commission",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
+          "published": "6 Nov, Brussels date"
+        },
+        {
+          "id": "defence-estate-sales-20261107",
+          "category": "Australia & World",
+          "title": "Canberra presses ahead with defence property sales",
+          "summary": "The federal government is sticking with its plan to sell 67 Defence properties despite a parliamentary inquiry recommending a halt. ABC reports the sales are expected to bring in about $3 billion gross, or roughly $1.8 billion after remediation costs.",
+          "detail": "Sydney's Victoria Barracks is on the list, and both of Tasmania's live-fire training areas are earmarked for sale. The government argues that Defence should shift resources north and west, but it has yet to spell out how it will replace the Tasmanian training capacity.",
+          "source": "ABC News",
+          "url": "https://newsapp.abc.net.au/news/2026-11-07/inside-the-battle-over-defence-real-estate/107352438",
+          "published": "7 Nov, 5:00 am AEDT"
+        },
+        {
+          "id": "nz-election-day-20261107",
+          "category": "Australia & World",
+          "title": "New Zealand votes in a tight general election",
+          "summary": "Polls are open today in New Zealand, where Prime Minister Christopher Luxon's National Party and Christopher Hipkins's Labour Party are competing to lead the next government. Cost of living, housing affordability and sluggish growth have dominated the campaign.",
+          "detail": "Voting closes at 7 pm New Zealand time, or 5 pm in Sydney, with preliminary results released progressively afterwards. Those are not the final numbers: the official count, which includes special and overseas votes, is due on 27 November.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/new-zealanders-vote-general-election-2026-11-06/",
+          "published": "7 Nov, 5:01 am AEDT"
+        },
+        {
+          "id": "ukraine-infrastructure-warning-20261107",
+          "category": "Australia & World",
+          "title": "Ukraine warns of fresh strikes on critical infrastructure",
+          "summary": "President Volodymyr Zelenskyy says Ukrainian intelligence indicates Russia is preparing new strikes on energy facilities, bridges and other infrastructure. He said the military was preparing for a difficult period.",
+          "detail": "The warning points to the risk of further disruption to essential services as winter approaches. It is an intelligence assessment reported by Ukraine's president, not confirmation that the anticipated strikes have already happened.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/",
+          "published": "7 Nov, 7:37 am AEDT"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "label": "Friday, 6 November 2026",
       "note": "Checked Friday morning, Sydney time. Stories are deduplicated by underlying event. Releases, beta access, regional availability and suggested applications are labelled explicitly.",
@@ -627,242 +856,6 @@
           "source": "ABC News",
           "url": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800",
           "published": "2 Nov, 5:34 am"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "label": "Sunday, 1 November 2026",
-      "note": "Checked Sunday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times and Australian availability were checked against original sources. Announcements, staged releases, availability limits and suggested applications are labelled explicitly.",
-      "checked": "2026-11-01T08:23:27+11:00",
-      "stories": [
-        {
-          "id": "marsden-park-house-party-stabbing-20261101",
-          "category": "Sydney & NSW",
-          "title": "Teen charged after alleged stabbing at Western Sydney house party",
-          "summary": "A 17-year-old boy has been charged after an 18-year-old man was allegedly stabbed as police shut down a large party at Marsden Park on Friday night.",
-          "detail": "The injured man was treated for a forearm wound and taken to hospital in a stable condition. Police arrested the teenager with help from members of the public and charged him with reckless wounding and possessing a prohibited drug. No other injuries or property damage were reported.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-31/nsw-teen-charged-over-marsden-park-alleged-stabbing/107331370",
-          "published": "31 Oct, updated 8:18 am"
-        },
-        {
-          "id": "byron-bay-fatal-crash-20261101",
-          "category": "Sydney & NSW",
-          "title": "Two dead and one critical after crash south of Byron Bay",
-          "summary": "Two people have died in a three-vehicle collision on Broken Head Road at Suffolk Park, with another person taken to hospital in a critical condition.",
-          "detail": "Police are investigating reports that one vehicle may have been driven erratically before the crash. Emergency crews treated several patients, including a teenage boy who was initially reported in a serious condition, while road closures affected the area. The cause has not been established.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-31/fatal-crash-on-broken-head-rd-suffolk-park/107331586",
-          "published": "31 Oct, updated 5:00 pm"
-        },
-        {
-          "id": "apple-homeview-software-tour-20261101",
-          "category": "Apple",
-          "title": "HomeView software tour reveals more of Apple's shared-home interface",
-          "summary": "A fresh virtualised tour shows HomeView's home screen, Control Centre, clock faces, media players, QuickPath keyboard and a slider for adjusting the Liquid Glass interface.",
-          "detail": "The device supports up to six people and uses its camera to recognise a user before showing personal Messages, Calendar, Reminders, FaceTime and Find My content. This is an independent software preview, not a new Apple announcement. Australian pre-orders are open at A$449, with availability from 13 November and English Siri AI supported locally at launch.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
-          "published": "1 Nov, 2:47 am AEDT"
-        },
-        {
-          "id": "tesla-intel-grok-files-unconfirmed-20261101",
-          "category": "Tesla",
-          "title": "Tesla software now contains Grok files for older Intel Model 3 and Y cars",
-          "summary": "A rooted Intel-powered Model 3 has run Grok and the newer parked visualisation after hidden feature flags were enabled, suggesting update 2026.38 contains the necessary assets.",
-          "detail": "Tesla has not announced or enabled either feature for Intel vehicles, so this is evidence of technical possibility rather than a staged release. Your 2023 Australian Model Y uses the newer AMD infotainment computer, so the Intel finding does not directly affect it. Australian availability of any future expansion cannot be confirmed.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
-          "published": "31 Oct, US time"
-        },
-        {
-          "id": "shared-ai-training-opt-out-draft-20261101",
-          "category": "AI",
-          "title": "Four major AI providers back one website training opt-out",
-          "summary": "Google, Microsoft, OpenAI and Anthropic have backed a shared robots.txt signal that would let publishers express an AI training preference once instead of maintaining provider-specific rules.",
-          "detail": "This remains an IETF draft, not an endorsed standard or fully available control. OpenAI says support is coming in the next few months, Microsoft from February 2027 and Google in early 2027, while Anthropic has started implementation work. For customer guidance, keep search visibility, live-answer grounding and model training permissions separate because the signal treats them differently.",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
-          "published": "31 Oct, 11:24 pm AEDT"
-        },
-        {
-          "id": "openai-future-of-firm-essay-20261101",
-          "category": "AI",
-          "title": "OpenAI essay sketches three ways agents could reshape organisations",
-          "summary": "A new OpenAI-hosted essay describes AI working beneath employees as delegated assistants, beside them as colleagues, or between management layers as a coordinator and adviser.",
-          "detail": "It is a speculative essay by two employees, not an OpenAI product announcement or corporate forecast. Its practical point is that adoption may start with people who already understand the work. Suggested use: map meeting preparation, transcript processing and customer follow-ups as supervised tasks beneath you, with explicit review gates before anything reaches a customer.",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/the-future-of-the-firm/",
-          "published": "31 Oct"
-        },
-        {
-          "id": "cursor-claude-code-extension-backdoor-20261101",
-          "category": "Technology",
-          "title": "Tampered Claude Code extension attempted a persistent backdoor",
-          "summary": "Microsoft has analysed malicious versions 2.1.312 and 2.1.313 of the Claude Code extension that were served through Cursor's marketplace for several hours on 29 October.",
-          "detail": "The injected code collected host details, attempted to add an SSH key, opened a reverse tunnel and tried to persist on macOS and Windows. Anthropic's systems, Microsoft Visual Studio Marketplace and the official npm package were not affected. Anyone who installed those versions from Cursor should follow Cursor's remediation guidance, as simply uninstalling may not remove persistence files.",
-          "source": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-          "published": "31 Oct, US reporting update"
-        },
-        {
-          "id": "binance-replenishes-hack-assets-20261101",
-          "category": "Technology",
-          "title": "Binance says it has replaced 90 per cent of stolen assets",
-          "summary": "The exchange says company funds have replenished 90 per cent of the US$6.3 billion taken in this week's record hack, with less-liquid tokens making up the remainder.",
-          "detail": "This is a substantive update to yesterday's initial breach report. Binance says customers will not bear the loss, has set aside about US$6.34 billion and remains on track to reopen withdrawals on Sunday. Analysts have attributed the attack to North Korea, but the investigation is continuing and Binance's proof-of-reserves snapshot is not yet complete.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/",
-          "published": "1 Nov, 1:59 am AEDT"
-        },
-        {
-          "id": "albanese-chogm-caribbean-20261101",
-          "category": "Australia & World",
-          "title": "Albanese heads to Commonwealth summit as rate decision looms",
-          "summary": "The prime minister is travelling to Antigua and Barbuda for CHOGM, where climate, trade, AI regulation and reparations for slavery will be on the agenda.",
-          "detail": "Australia will also advance its campaign for a UN Security Council seat in 2029 and hold talks ahead of November's major international summits. The trip comes as markets widely expect the Reserve Bank to raise rates on Tuesday, leaving domestic colleagues to manage the political fallout over household costs.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040",
-          "published": "1 Nov, 6:50 am"
-        },
-        {
-          "id": "us-midterm-polling-security-20261101",
-          "category": "Australia & World",
-          "title": "US election officials prepare for intimidation at midterm polls",
-          "summary": "Local officials and civil society groups are preparing for possible violence, federal agents at polling places and attempts to disrupt or challenge the 3 November midterm results.",
-          "detail": "The Trump administration has not ruled out deploying armed officers, including ICE agents, while officials in about 30 states have resisted demands for unredacted voter rolls. Polls point to possible Democratic control of Congress. Legal groups say they are ready to seek immediate court orders if voting or certification is obstructed.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620",
-          "published": "1 Nov, 6:32 am"
-        },
-        {
-          "id": "iran-unrestricted-response-order-20261101",
-          "category": "Australia & World",
-          "title": "Iran orders immediate and geographically unrestricted response to attack",
-          "summary": "Supreme Leader Mojtaba Khamenei has told military chiefs to widen their target bank and answer any new military or terrorist attack without geographic restraint.",
-          "detail": "The order raises the risk of a broader regional conflict as Gulf states urge diplomacy and reports suggest the US and Israel are considering renewed strikes after the US midterms. It followed four oil tankers hitting mines in the Strait of Hormuz. No fresh attack has been confirmed, but rhetoric and military planning are escalating.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-31/attacks-on-iran-should-be-met-without-restraint-khamenei-orders/107332392",
-          "published": "1 Nov, updated 1:40 am AEDT"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "label": "Saturday, 31 October 2026",
-      "note": "Checked Saturday morning, Sydney time. Stories are deduplicated by underlying event, with ABC preferred where coverage overlapped. Apple publication times and Australian availability were checked against original sources. Announcements, staged releases, availability limits and suggested applications are labelled explicitly.",
-      "checked": "2026-10-31T08:26:56+11:00",
-      "stories": [
-        {
-          "id": "southwest-metro-noise-complaints-20261031",
-          "category": "Sydney & NSW",
-          "title": "Southwest Metro neighbours report relentless station noise",
-          "summary": "Residents near the newly opened Bankstown line say platform announcements and warning chimes can be heard inside their homes every few minutes, continuing until about 1 am.",
-          "detail": "Sydney Metro has sent a technician to assess sound levels. The issue emerged as the converted line carried more than 37,000 passengers by 6 pm on opening day. Weekend trains are running every seven minutes, making this an early test of whether operational noise needs adjustment.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818",
-          "published": "31 Oct, 7:27 am"
-        },
-        {
-          "id": "nsw-prison-mental-health-inquests-20261031",
-          "category": "Sydney & NSW",
-          "title": "Inquests expose repeated mental health failures in NSW prisons",
-          "summary": "An ABC review of 249 NSW deaths in custody since 2015 found coroners identified care or supervision failures in 48 cases involving people with diagnosed mental illness.",
-          "detail": "Fourteen of those who died were Indigenous. The review highlights Bailey Mackander, whose treatment at Kariong Correctional Centre was described by a coroner as a litany of failures. The findings point to a systemic gap between acute mental health needs and custodial care.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-31/inquests-reveal-mental-health-care-failures-in-nsw-prisons/107098090",
-          "published": "31 Oct, 5:50 am"
-        },
-        {
-          "id": "apple-ascend-io-ai-deal-disclosure-20261031",
-          "category": "Apple",
-          "title": "Fresh disclosure details Apple's Ascend.io AI engineering deal",
-          "summary": "A newly published EU disclosure shows Apple secured the right to hire certain Ascend.io staff, alongside a non-exclusive licence to its intellectual property and ownership of selected patents.",
-          "detail": "Ascend.io describes its platform as using agents to automate tedious data engineering work. The arrangement itself was completed earlier, so this is a fresh disclosure rather than a new acquisition announced today. It is another sign that Apple is adding specialised agentic AI talent and technology, but no related customer product or release date has been announced.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/10/30/apple-acquires-ascend%E2%80%A4io-an-agentic-ai-engineering-startup/",
-          "published": "30 Oct, 11:06 pm AEDT"
-        },
-        {
-          "id": "tesla-australia-quiet-check-20261031",
-          "category": "Tesla",
-          "title": "No fresh confirmed Australian Model Y update this morning",
-          "summary": "There is no substantive new Australian Model Y software, charging, service, recall or policy development confirmed in the past 24 hours.",
-          "detail": "The 2026.38.6 software release covered yesterday remains a staged rollout, while newer tracker entries do not yet carry notes that establish Model Y applicability or Australian availability. Tesla distributes updates gradually by vehicle and region, so the app and your in-car release notes remain the reliable source for your specific car.",
-          "source": "Tesla Australia",
-          "url": "https://www.tesla.com/en_au/support/software-updates",
-          "published": "Checked 31 Oct, 8:23 am"
-        },
-        {
-          "id": "local-code-private-mac-ai-release-20261031",
-          "category": "AI",
-          "title": "Local Code brings private, agent-style AI workflows to Mac",
-          "summary": "The developers of Draw Things have released Local Code, an open-source Mac assistant that can process prompts and files locally, create presentations and media, analyse spreadsheets and automate browser tasks.",
-          "detail": "The direct download is available now in Australia, while a Mac App Store release is still to come. The smaller published configuration needs at least 16 GB of memory, though speed will vary. Suggested use: on a 24 GB M4 Pro Mac, test a sanitised transcript to produce a summary, follow-up draft and slide outline, while granting minimal permissions.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
-          "published": "31 Oct, 12:38 am AEDT"
-        },
-        {
-          "id": "openai-robots-training-preference-announcement-20261031",
-          "category": "AI",
-          "title": "OpenAI plans to honour a common web signal for AI training choices",
-          "summary": "OpenAI has announced that it will support a shared robots.txt instruction intended to let websites express whether their content may be used for AI training.",
-          "detail": "This is an announcement, not an active release, with implementation due over the coming months. Existing GPTBot controls continue in the meantime. For teams advising customers on content governance, the practical value is simpler policy management across providers, while search discovery and model training permissions should still be treated as separate settings.",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-          "published": "30 Oct"
-        },
-        {
-          "id": "binance-record-crypto-hack-20261031",
-          "category": "Technology",
-          "title": "Binance investigates what may be the largest cryptocurrency theft",
-          "summary": "Binance says attackers attempted to move up to US$6.3 billion in cryptocurrency, with about US$3 billion frozen, leaving the final loss still unclear.",
-          "detail": "The exchange suspended deposits and withdrawals while investigating a possible compromise linked to a staff laptop. It says private keys were not leaked, customer funds are safe and losses will be covered. The figures remain preliminary, but the incident highlights the importance of operational security around staff access.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
-          "published": "30 Oct, updated 10:51 pm"
-        },
-        {
-          "id": "google-finland-data-centre-clearance-probe-20261031",
-          "category": "Technology",
-          "title": "Finnish police probe land clearing for planned Google data centres",
-          "summary": "Police are investigating suspected environmental law breaches after hundreds of hectares were cleared at two proposed Google data centre sites before required assessments were completed.",
-          "detail": "Work at Muhos and Kajaani has stopped pending environmental reviews. Google says it believed the clearances were lawful and is responding to authorities. The sites form part of a reported US$15 billion Finnish AI infrastructure investment, showing how computing demand is colliding with local environmental rules.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-30/google-data-centre-land-clearance-ai-finland-criminal-probe/107327336",
-          "published": "30 Oct, updated 7:45 pm"
-        },
-        {
-          "id": "erin-patterson-appeal-life-without-parole-20261031",
-          "category": "Australia & World",
-          "title": "Erin Patterson loses appeal and receives life without parole",
-          "summary": "Victoria's Court of Appeal upheld Patterson's mushroom murder convictions, accepted the prosecution's sentence appeal and removed her previous prospect of parole.",
-          "detail": "The court found the original sentence did not adequately reflect the gravity of three murders and one attempted murder. Patterson may seek special leave to appeal to the High Court, but no such challenge has been confirmed. The ruling is the most substantial legal development in the case since her conviction.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
-          "published": "30 Oct, updated 3:53 pm"
-        },
-        {
-          "id": "australians-unaccounted-spain-train-crash-20261031",
-          "category": "Australia & World",
-          "title": "Two Australians unaccounted for after Spain train disaster",
-          "summary": "DFAT is working to confirm the welfare of two Australians after the crash in Andalusia that has killed at least 69 people, and is providing consular support to their families.",
-          "detail": "Preliminary information suggests a security system failure stopped trains before one service was cleared to continue without a speed restriction. Its exact speed is still being established from the black box, so the cause is not settled. The Australian welfare concern is a significant new development since the crash was first reported.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-30/dfat-confirming-welfare-of-2-australians-in-spain/107330458",
-          "published": "30 Oct, updated 11:41 pm"
-        },
-        {
-          "id": "oleshky-local-ceasefire-evacuations-20261031",
-          "category": "Australia & World",
-          "title": "Local ceasefire enables evacuation from Russian-held Oleshky",
-          "summary": "Civilians are leaving Oleshky under a locally negotiated pause overseen by Russian and Ukrainian officials, with evacuees able to choose Russian or Ukrainian-controlled territory.",
-          "detail": "The US-brokered arrangement also allows aid into a city whose population has fallen from roughly 24,000 to about 2,000. It is described as the longest pause anywhere on the front line since Russia's 2022 invasion, although it is limited in area and due to end on Sunday rather than representing a wider ceasefire.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
-          "published": "31 Oct, updated 12:22 am"
         }
       ]
     }

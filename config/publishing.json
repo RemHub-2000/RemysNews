@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "mode": "dual",
+  "timezone": "Australia/Sydney",
+  "archivePath": "dist/editions.json",
+  "github": {
+    "repository": "RemHub-2000/RemysNews",
+    "branch": "main",
+    "url": "https://remhub-2000.github.io/RemysNews/",
+    "workflowPath": ".github/workflows/pages.yml"
+  },
+  "chatgptSite": {
+    "projectId": "appgprj_6aaf39306a948191a8cfa4df17280734",
+    "url": "https://remy-morning-brief.remyonline627248.chatgpt.site"
+  }
+}

@@ -3,6 +3,13 @@ name: Deploy Morning Brief to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - 'dist/**'
+      - 'update-edition.mjs'
+      - 'scripts/**'
+      - 'test/**'
+      - 'config/publishing.json'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -17,12 +24,22 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test the updater and publication checks
+        run: node --test
+      - name: Validate the archive and reader
+        run: |
+          node update-edition.mjs --validate
+          node --check dist/app.js
+          node --check dist/sw.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -30,3 +47,7 @@ jobs:
       - name: Publish to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify the exact archive is live
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: node scripts/verify-published.mjs "$PAGE_URL"
