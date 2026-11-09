@@ -120,7 +120,129 @@
           "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
           "published": "9 Nov, 6:20am"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Developments since the 8:24am morning check. Publication times are Sydney time.",
+        "stories": [
+          {
+            "id": "sydney-lamarre-condon-cross-examination-20261109",
+            "storyKey": "lamarre-condon-baird-davies-murder-trial",
+            "category": "Sydney & NSW",
+            "title": "Lamarre-Condon denies intending to kill Jesse Baird",
+            "summary": "Under cross-examination on Monday, former NSW police officer Beau Lamarre-Condon denied the prosecution's allegation that he intended to kill his former partner Jesse Baird. He also said the gun discharged during a struggle when Luke Davies was shot.",
+            "detail": "The testimony puts intent at the centre of the competing accounts in the double murder trial. Lamarre-Condon has pleaded not guilty.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-09/cross-examination-of-beau-lamarre-condon-continues/107362762",
+            "published": "9 Nov, 4:34pm"
+          },
+          {
+            "id": "sydney-glebe-ebike-police-charges-20261109",
+            "storyKey": "glebe-police-vehicle-ebike-collision-2026",
+            "category": "Sydney & NSW",
+            "title": "Two NSW police officers charged after alleged e-bike hit and run",
+            "summary": "Detectives charged two constables on Monday over a May collision near Glebe Point Road. NSW Police allege a marked police vehicle hit a 25-year-old e-bike rider and the officers drove away without stopping to help.",
+            "detail": "The officer alleged to have been driving also faces a negligent driving charge. Both officers are due in court on 15 January, and NSW Police is reviewing their employment status.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-09/nsw-police-charged-over-alleged-ebike-hit-and-run-broadway/107366072",
+            "published": "9 Nov, 8:19pm"
+          },
+          {
+            "id": "apple-intelligence-china-ipad-mac-registration-20261109",
+            "storyKey": "apple-intelligence-china-tablet-laptop-registration",
+            "category": "Apple",
+            "title": "Apple Intelligence clears a registration step for iPads and Macs in China",
+            "summary": "Shanghai's cyberspace regulator says it has registered Apple Intelligence for use on tablets and laptops in China. This extends the regulatory progress beyond iPhones, which received approval in July.",
+            "detail": "Registration is required before public availability in China. The regulator's announcement gives no rollout date and concerns the Chinese market.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/business/retail-consumer/apple-intelligence-ai-service-registers-with-chinese-regulator-use-tablets-2026-11-09/",
+            "published": "9 Nov, 10:47pm",
+            "tag": "Regulatory step"
+          },
+          {
+            "id": "tesla-cybertruck-deposit-refunds-20261109",
+            "storyKey": "tesla-cybertruck-winddown-20261107",
+            "category": "Tesla",
+            "title": "Musk says Tesla will have to refund many Cybertruck deposits",
+            "summary": "Elon Musk said on Monday that Tesla expects to return deposits to many Cybertruck buyers because it cannot build enough pickups before the Texas line shuts. The refund expectation is new after the weekend's plan to add a production shift to clear the backlog.",
+            "detail": "Tesla has yet to give affected buyers a timetable in the reporting. The change concerns Cybertruck orders, with no announced effect on Australian Model Y owners.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-refund-many-cybertruck-deposits-demand-exceeds-production-musk-says-2026-11-09/",
+            "published": "9 Nov, 6:36pm",
+            "tag": "New since the weekend"
+          },
+          {
+            "id": "australia-tiktok-senate-duty-hearing-20261109",
+            "storyKey": "australia-digital-duty-of-care-senate-tiktok-hearing",
+            "category": "Technology",
+            "title": "Senate questions TikTok over self-harm content",
+            "summary": "Independent senator David Pocock questioned TikTok executives on Monday about self-harm content during a hearing on Australia's proposed digital duty of care. The bill would put a greater onus on online platforms to protect users from harm.",
+            "detail": "The hearing put TikTok's handling of harmful content under scrutiny as senators consider what the proposed duty would require of platforms.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
+            "published": "9 Nov, afternoon hearing"
+          },
+          {
+            "id": "mitsui-jsr-chip-materials-deal-20261109",
+            "storyKey": "mitsui-chemicals-jsr-acquisition",
+            "category": "Technology",
+            "title": "Mitsui Chemicals strikes US$11.6 billion deal for chip materials maker JSR",
+            "summary": "Mitsui Chemicals agreed to buy JSR in a deal worth about US$11.6 billion, with backing from the Development Bank of Japan. The filing confirms a sale that Reuters had reported was in the works last week.",
+            "detail": "JSR makes photoresists, the light-sensitive materials used to transfer circuit patterns onto semiconductor wafers. The deal brings a key chipmaking supplier into a larger Japanese chemicals group.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/",
+            "published": "9 Nov, 1:11pm"
+          },
+          {
+            "id": "cop31-antalya-opens-20261109",
+            "storyKey": "cop31-antalya-opening-electrification-pledge",
+            "category": "Australia & World",
+            "title": "COP31 opens in Türkiye with a push to electrify more of the economy",
+            "summary": "The UN climate summit opened in Antalya on Monday, with Türkiye asking countries to back a pledge to electrify more than a third of the global economy by 2035. Australia is leading the negotiations.",
+            "detail": "The pledge has already drawn criticism because it leaves countries free to generate the extra electricity from fossil fuels. That makes the source of the power a point of debate alongside the headline target.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/",
+            "published": "9 Nov, 12:04pm"
+          },
+          {
+            "id": "iran-hormuz-talks-two-day-proposal-20261109-pm",
+            "storyKey": "iran-hormuz-talks-shipping-20261109",
+            "category": "Australia & World",
+            "title": "Iran defends two-day path to talks after US rejects conditions",
+            "summary": "Iran's foreign ministry publicly defended a proposal on Monday to restart talks within two days, shortening its earlier seven-day proposal. US Secretary of State Marco Rubio rejected some of Tehran's conditions, which include lifting sanctions and the naval blockade and ending hostilities.",
+            "detail": "The shorter timetable still depends on Washington accepting those conditions, so the proposal offers no clear path to an imminent reopening of the Strait of Hormuz.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/",
+            "published": "9 Nov, 8:15pm",
+            "tag": "Morning follow-up",
+            "updatesStoryId": "iran-hormuz-talks-shipping-20261109"
+          },
+          {
+            "id": "ukraine-kirishi-refinery-strike-20261109",
+            "storyKey": "ukraine-kirishi-refinery-strike-november-2026",
+            "category": "Australia & World",
+            "title": "Drone attack sets Russian refinery ablaze before peace talks",
+            "summary": "The governor of Russia's Leningrad region said a Ukrainian drone attack set the Kirishi refinery ablaze on Monday and that falling debris killed a woman. Kirishi is Russia's second-largest refinery.",
+            "detail": "The attack came a day before Russian, Ukrainian and US negotiators are due to meet in Abu Dhabi for their first peace talks since February, with security guarantees high on the agenda.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
+            "published": "9 Nov, 8:22pm"
+          },
+          {
+            "id": "krakow-shooter-dies-permit-review-20261109",
+            "storyKey": "krakow-market-square-shooting-20261108",
+            "category": "Australia & World",
+            "title": "Poland to review gun permit rules after Krakow gunman dies",
+            "summary": "The gunman who killed six people in Krakow's market square has died in hospital. Poland's justice minister said investigators will continue looking into whether he acted alone or was influenced by a group.",
+            "detail": "The government will also review its gun permit requirements. Authorities said the gunman and his father both held permits.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174",
+            "published": "9 Nov, 10:38pm",
+            "tag": "New since the weekend"
+          }
+        ],
+        "checked": "2026-11-09T23:51:10+11:00",
+        "morningChecked": "2026-11-09T08:24:03+11:00"
+      }
     },
     {
       "date": "2026-11-08",
