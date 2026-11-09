@@ -3,7 +3,7 @@ import {resolve} from 'node:path';
 import {pathToFileURL} from 'node:url';
 import {isDeepStrictEqual} from 'node:util';
 import {setTimeout as delay} from 'node:timers/promises';
-import {validateArchive} from '../update-edition.mjs';
+import {latestChecked, validateArchive} from '../update-edition.mjs';
 
 export function validatePublishingConfig(config) {
   const keys = ['archivePath', 'github', 'mode', 'schemaVersion', 'timezone'];
@@ -25,13 +25,13 @@ export async function verifyPublished(expected, baseURL, {fetcher = fetch, attem
   for (let attempt = 1; attempt <= attempts; attempt++) {
     try {
       const url = new URL(endpoint);
-      url.searchParams.set('verify', `${expected.editions[0].checked}-${attempt}-${Date.now()}`);
+      url.searchParams.set('verify', `${latestChecked(expected.editions[0])}-${attempt}-${Date.now()}`);
       const response = await fetcher(url, {cache: 'no-store', signal: AbortSignal.timeout(15000)});
       if (!response.ok) throw Error(`HTTP ${response.status}`);
       const actual = await response.json();
       validateArchive(actual);
       if (!isDeepStrictEqual(actual, expected)) throw Error('Live JSON does not match the exact expected archive');
-      return {verified: true, date: actual.editions[0].date, checked: actual.editions[0].checked, url: base.href};
+      return {verified: true, date: actual.editions[0].date, checked: latestChecked(actual.editions[0]), url: base.href};
     } catch (failure) {
       error = failure;
       if (attempt < attempts) await pause(interval);

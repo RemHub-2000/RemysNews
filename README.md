@@ -1,6 +1,6 @@
 # Remy's News
 
-[Read the PWA](https://remhub-2000.github.io/RemysNews/). A static, installable news reader with category filters, expandable details, source links and a rolling seven-day archive.
+[Read the PWA](https://remhub-2000.github.io/RemysNews/). A static, installable news reader with Morning and Afternoon tabs on days with two editions, category filters, expandable details, source links and a rolling seven-day archive.
 
 ## One daily publishing path
 
@@ -17,13 +17,13 @@ node update-edition.mjs --validate
 node --test
 ```
 
-The updater replaces today's Sydney edition and retains today plus the previous six calendar dates, newest first. It rejects stale same-day writes and leaves the archive unchanged on invalid input. Identical retries are no-ops. `--recent` returns only dates, verification timestamps, story IDs, categories, titles and URLs for deduplication. `--archive /path/to/editions.json` supports a temporary working copy when using the GitHub connector instead of a clone.
+The updater writes one slot on today's Sydney date and retains today plus the previous six calendar dates, newest first. It rejects stale same-slot writes and leaves the archive unchanged on invalid input. Identical retries are no-ops. `--recent` returns a compact story index for both slots without summaries or details. `--archive /path/to/editions.json` supports a temporary working copy when using the GitHub connector instead of a clone.
 
-The edition schema is `{date, label, note, checked, stories}`. Stories use `{id, category, title, summary, detail, source, url, published}` and optional `tag`. Detail may be empty. Verification timestamps include an explicit timezone offset and match the edition's Sydney date. Use plain text, HTTPS sources and the six established category labels.
+The date record retains its existing morning fields `{date, label, note, checked, stories}` and may add `afternoon: {note, checked, morningChecked, stories}`. An afternoon input is a normal edition with `period: "afternoon"` and `morningChecked` copied from the morning edition. Older dates require no migration. See the [runbook](docs/DAILY_PROCESS.md) for afternoon story keys and cutover.
 
 ## Operation and privacy
 
-The existing morning schedule is unchanged. No afternoon update is enabled. The updater already supports a later same-day revision without introducing a duplicate date, but any new schedule requires Remy's approval.
+The reader and updater support two slots; scheduler cutover is separate. Keep the existing morning schedule until this version is deployed and checked. The intended cutover is 8 am and 5 pm Sydney time.
 
 The repository, published app and JSON are public. Never include credentials, customer information or internal Braze material. Seven-day retention applies to live JSON, not Git history, hosting backups or another device's offline cache.
 

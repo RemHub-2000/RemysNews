@@ -1,6 +1,6 @@
 const scope = self.registration.scope;
 const prefix = 'remys-morning-brief:' + scope + ':';
-const cacheName = prefix + 'v1';
+const cacheName = prefix + 'v2';
 const shell = ['./', './index.html', './style.css', './app.js', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 const shellPaths = new Set(shell.map(path => new URL(path, scope).href));
 const editionURL = new URL('./editions.json', scope).href;
