@@ -1,6 +1,132 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "label": "Tuesday, 10 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked; categories without noteworthy developments are omitted.",
+      "checked": "2026-11-10T08:23:34+11:00",
+      "stories": [
+        {
+          "id": "bathla-asic-formal-investigation-20261110",
+          "storyKey": "bathla-workers-unpaid-20261109",
+          "category": "Sydney & NSW",
+          "title": "ASIC opens a formal investigation into Bathla",
+          "summary": "Australia’s corporate regulator has moved from preliminary scrutiny to a formal investigation into the affairs of the collapsed Sydney developer. ASIC has not specified the conduct it is investigating and says its separate inquiries into private lenders have not yet become a formal investigation.",
+          "detail": "The new step matters for buyers and contractors because the group’s collapse has put more than 200 projects in doubt, including about 2,000 homes under construction. The investigation does not set a timetable for construction to restart or for creditors to recover money.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-10/asic-launches-investigation-into-bathla-group/107365198",
+          "published": "10 Nov, 5:00 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "nsw-police-youth-diversion-gap-20261110",
+          "storyKey": "nsw-police-youth-diversion-gap",
+          "category": "Sydney & NSW",
+          "title": "NSW report finds a gap in who gets diverted from court",
+          "summary": "The NSW Bureau of Crime Statistics and Research found Aboriginal children were 30 per cent less likely than non-Aboriginal children to receive a police diversion from court. The gap persisted for alleged offences eligible for diversion, which can take the form of a warning, caution or intervention.",
+          "detail": "Even after accounting for factors such as offence severity, prior contact and bail status, Aboriginal children were about eight percentage points more likely to be taken to court. The researchers could not explain that remaining gap from their data; the Aboriginal Legal Service says it points to bias.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-likely-to-receive-police-diversion/107365038",
+          "published": "10 Nov, 6:30 am"
+        },
+        {
+          "id": "apple-ios-macos-27-2-1-security-20261110",
+          "storyKey": "apple-nov-2026-27-2-1-security",
+          "category": "Apple",
+          "title": "Apple patches Messages, AirPlay and Bluetooth flaws",
+          "summary": "Apple has released iOS and iPadOS 27.2.1 alongside macOS Golden Gate 27.2.1 and patches for some older versions. The iPhone fixes include an issue that could let a remote attacker join an iMessage group chat uninvited and another that could let an attacker within Bluetooth range bypass AirPlay pairing-code limits.",
+          "detail": "This is a security and bug-fix release, not the upcoming feature update. Check Software Update on your iPhone and Mac for the patch on the software branch you’re actually using.",
+          "source": "9to5Mac, citing Apple security notes",
+          "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+          "published": "10 Nov, 7:20 am Sydney time",
+          "tag": "Released"
+        },
+        {
+          "id": "apple-creator-studio-usage-packs-20261110",
+          "storyKey": "apple-creator-studio-paid-ai-usage",
+          "category": "Apple",
+          "title": "Apple starts selling extra AI usage in Logic Pro",
+          "summary": "The latest Logic Pro update adds a one-off US$49.99 purchase for extra usage of eligible intelligence features, according to 9to5Mac. The extra allowance is used only after the monthly limit, expires after 12 months and cannot be shared through Family Sharing.",
+          "detail": "Logic Pro is the first confirmed app with the purchase option. Other Creator Studio apps are expected to follow, but this is not a charge for system-wide Apple Intelligence. Australian pricing and availability were not independently confirmed.",
+          "source": "9to5Mac, citing Apple support",
+          "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+          "published": "10 Nov, 3:32 am Sydney time",
+          "tag": "Released in Logic Pro"
+        },
+        {
+          "id": "tesla-robotaxi-san-antonio-20261110",
+          "storyKey": "tesla-robotaxi-san-antonio-launch",
+          "category": "Tesla",
+          "title": "Tesla opens Model Y Robotaxi rides in San Antonio",
+          "summary": "Tesla opened Robotaxi rides in San Antonio at 5 am Texas time on 9 November, or 10 pm in Sydney. Not a Tesla App reports that the service uses Model Ys and has Tesla’s largest advertised launch area, around 710 square kilometres.",
+          "detail": "The mapped area is not a guarantee that every pickup or drop-off is bookable. This is a US fleet rollout, not a feature release for privately owned Model Ys or a confirmation of an Australian Robotaxi launch.",
+          "source": "Not a Tesla App, citing Tesla Robotaxi",
+          "url": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
+          "published": "9 Nov US date; rides began 10 pm Sydney time",
+          "tag": "US rollout"
+        },
+        {
+          "id": "anthropic-fable-mythos-5-2-20261110",
+          "storyKey": "anthropic-fable-mythos-5-2-release",
+          "category": "AI",
+          "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+          "summary": "Anthropic says the upgraded models improve coding, reasoning and visual tasks and generate outputs up to 30 per cent faster than their predecessors. Fable 5.2 is available on Claude and the major cloud platforms, subject to plan access. Mythos access remains restricted for specialist use, and Australian cloud-region availability was not separately confirmed.",
+          "detail": "For a practical trial in an approved workspace, give Fable a sanitised QBR pack and ask it to flag where proposed slide claims disagree with the source numbers, with a citation for each flag. Anthropic still recommends Opus 5.5 for most everyday work, so reserve Fable for the tricky review rather than every follow-up.",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "published": "9 Nov US date; reported 10 Nov, 6:03 am Sydney time",
+          "tag": "Released"
+        },
+        {
+          "id": "google-tpu-8tx-8i-max-20261110",
+          "storyKey": "google-tpu-8tx-8i-max",
+          "category": "Technology",
+          "title": "Google adds two chips for private and long-context AI",
+          "summary": "Google announced TPU 8tx for workloads that need data and model weights protected while being processed, and TPU 8i Max for tasks that need to keep much more information in memory. The latter combines two TPU 8i chips in one package, doubling compute and memory bandwidth versus a single TPU 8i, according to Google.",
+          "detail": "Think regulated workloads for the first and large codebases or hours of video for the second. The announcement did not specify an Australian rollout date.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "published": "9 Nov, source date",
+          "tag": "Announced"
+        },
+        {
+          "id": "hegseth-massie-impeachment-articles-20261110",
+          "storyKey": "us-hegseth-congress-pressure-20261109",
+          "category": "Australia & World",
+          "title": "Republican congressman files articles to impeach Hegseth",
+          "summary": "US Republican Thomas Massie introduced eight articles of impeachment against Defence Secretary Pete Hegseth on Monday in Washington. That turns the pressure covered yesterday into a formal, immediate House bid rather than a possible effort after the next Congress takes office.",
+          "detail": "ABC reports the move starts a two-day clock for the House to act. Filing articles is not the same as the House voting to impeach or the Senate voting to remove him.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698",
+          "published": "10 Nov, 6:24 am; updated 7:07 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "victoria-big-build-royal-commission-hearings-20261110",
+          "storyKey": "victoria-big-build-royal-commission",
+          "category": "Australia & World",
+          "title": "Victoria’s Big Build inquiry begins public hearings",
+          "summary": "The royal commission’s opening day examined a 2022 work stoppage at a Sunbury level crossing project. It heard evidence that contractor John Holland was wary of the CFMEU’s perceived access to Victorian ministers, alongside allegations of threats against subcontractors.",
+          "detail": "The commission is testing those claims, not making findings at this stage. The public hearings are due to run until 20 November, just over a week before Victoria’s state election.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-09/victoria-big-build-royal-commission-hears-cfmeu-influence/107364446",
+          "published": "9 Nov, 4:32 pm"
+        },
+        {
+          "id": "russell-brand-sentencing-20261110",
+          "storyKey": "world-russell-brand-guilty-verdict-20261106",
+          "category": "Australia & World",
+          "title": "Russell Brand sentenced to 10 years and six months",
+          "summary": "A London court has sentenced Russell Brand to 10 years and six months in prison after his conviction for one count of rape and three counts of sexual assault. The offences involved four women and occurred between 2004 and 2009.",
+          "detail": "The sentence is the new development following last week’s jury verdict.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-10/russell-brand-sentenced/107365656",
+          "published": "10 Nov, 1:35 am",
+          "tag": "Material update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "label": "Monday, 9 November 2026",
       "note": "Checked Monday morning, Sydney time. Publication times below are Sydney time. Reported plans, rumours and unverified claims are labelled; the AI release section is short on a quiet weekend.",
@@ -864,130 +990,6 @@
           "source": "ABC News",
           "url": "https://www.abc.net.au/news/2026-11-04/choice-hands-shonky-awards-to-virgin-sony-ticketing-giants/107329220",
           "published": "4 Nov, 4:04 am"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "label": "Tuesday, 3 November 2026",
-      "note": "Checked Tuesday morning, Sydney time. Stories are deduplicated by underlying event, with ABC and 9to5Mac preferred where coverage overlapped. Apple publication times were converted to Sydney time. Rumours, staged releases, availability limits and suggested applications are labelled explicitly.",
-      "checked": "2026-11-03T08:19:00+11:00",
-      "stories": [
-        {
-          "id": "sydney-western-airport-noise-curfew-20261103",
-          "category": "Sydney & NSW",
-          "title": "Western Sydney Airport noise fuels calls for a night curfew",
-          "summary": "Blue Mountains residents say aircraft noise has increased since Western Sydney International Airport opened to passengers on 25 October, and hundreds have backed a petition for an 11 pm to 6 am curfew.",
-          "detail": "Freight flights have operated around the clock since July, while passenger traffic is expected to grow as more airlines start services. Airservices Australia says daytime runway choices aim to minimise residential overflight where possible, but a UNSW aviation expert says every route involves trade-offs. The curfew campaign is new; no curfew has been announced.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/blue-mountains-residents-say-noisier-skies-after-wsi-opening-/107331676",
-          "published": "3 Nov, 6:27 am"
-        },
-        {
-          "id": "hawkesbury-radio-eviction-20261103",
-          "category": "Sydney & NSW",
-          "title": "Hawkesbury Radio faces closure after eviction notice",
-          "summary": "Sydney Water has given the 48-year-old community station three months to leave its Windsor studios after an inspection found significant safety and compliance problems.",
-          "detail": "The volunteer-run station has streamed online since losing its FM licence in 2022 and says about 5,000 people listen each month. Locals relied on it during bushfires and floods, giving the threatened closure a public-safety dimension as well as a cultural one. Hawkesbury City Council is helping search for a new site, but says no suitable premises have yet been found.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/hawkesbury-radio-faces-closure-sydney-water-eviction/107335170",
-          "published": "3 Nov, 7:35 am"
-        },
-        {
-          "id": "apple-homeview-security-camera-code-20261103",
-          "category": "Apple",
-          "title": "HomeView code points to a built-in HomeKit security camera",
-          "summary": "Code found in HomeView software 27.2 suggests Apple's new home display may support motion detection, live streaming and recording through HomeKit Secure Video.",
-          "detail": "The settings reportedly include separate controls for when people are home, away or asleep, plus an indicator light, an audible start signal and household notifications. Remote activation may be blocked while anyone is home. Apple has not announced the feature, so availability at launch, including in Australia, is unconfirmed.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code/",
-          "published": "2 Nov, 10:54 pm AEDT",
-          "tag": "Unconfirmed code"
-        },
-        {
-          "id": "apple-affinity-ipad-launch-20261103",
-          "category": "Apple",
-          "title": "Affinity brings its all-in-one design app to iPad",
-          "summary": "Canva has released Affinity for iPad, combining sketching, vector, photo and page-layout tools in one touch-first app that is free for individual users.",
-          "detail": "It supports Apple Pencil features including pressure, tilt, hover, squeeze and barrel roll, while projects can move from rough sketch to print-ready file without changing apps. This is an actual release rather than a preview. The App Store listing is live, although 9to5Mac did not separately confirm Australian regional availability.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/02/affinity-for-ipad-all-in-one-design-app-now-available-free-for-individuals/",
-          "published": "3 Nov, 1:00 am AEDT",
-          "tag": "Released"
-        },
-        {
-          "id": "tesla-android-foldable-app-fix-20261103",
-          "category": "Tesla",
-          "title": "Tesla plans a layout fix for Android foldables",
-          "summary": "Tesla's new large-screen app can remain stuck in a stretched phone layout on some foldables until the device is rotated, and a company UI engineer says screen-size breakpoints will be refined in a future release.",
-          "detail": "The acknowledgement is useful but not a shipped fix, and Tesla has not provided a version or date. It affects the phone app rather than the car, so there is no Model Y hardware requirement. The workaround is to rotate an unfolded device to landscape; Australian availability of the eventual update has not been confirmed.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
-          "published": "2 Nov, time not stated",
-          "tag": "Announced fix"
-        },
-        {
-          "id": "tesla-factory-build-2026-32-300-20261103",
-          "category": "Tesla",
-          "title": "A new Tesla factory build appears, without public release notes",
-          "summary": "Release tracking recorded software 2026.32.300 on 2 November, but no feature list or wider fleet rollout was available at checking time.",
-          "detail": "The .300 numbering normally indicates factory-installed software, so it should not be treated as an owner update. There is no confirmed Australian distribution, Model Y applicability or action to take. No more significant Tesla vehicle, autonomy, charging, energy, robotics or regulatory development was verified inside the 24-hour window.",
-          "source": "Not a Tesla App release tracker",
-          "url": "https://www.notateslaapp.com/software-updates/",
-          "published": "Dated 2 Nov, time not stated",
-          "tag": "Factory build"
-        },
-        {
-          "id": "ai-adnoc-openai-frontier-agents-20261103",
-          "category": "AI",
-          "title": "ADNOC plans connected AI agents across its energy business",
-          "summary": "ADNOC, OpenAI and G42 have announced a multi-year deployment that will connect operational, capital and commercial decisions using GPT models on UAE-based infrastructure.",
-          "detail": "The first uses are field planning across decades of well and facility data, and coordinating production, refining, logistics, sales and trading. Human experts will retain oversight of consequential decisions. Suggested Braze application: build a meeting-prep workflow that joins CRM notes, the last transcript and open actions, but requires citations and human approval before drafting follow-ups. That is a suggested adaptation, not a reported ADNOC use case.",
-          "source": "ADNOC",
-          "url": "https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI",
-          "published": "2 Nov, time not stated",
-          "tag": "Announced deployment"
-        },
-        {
-          "id": "tech-app-store-hidden-deepfake-network-20261103",
-          "category": "Technology",
-          "title": "Hidden deepfake network slipped through mobile app reviews",
-          "summary": "An investigation found more than 400 connected apps and domains that could activate sexual and violent deepfake tools after presenting benign functions during review.",
-          "detail": "The apps appeared in both Apple's App Store and Google Play, while advertising also ran on Meta platforms. Apple said developers changed remotely loaded web content after approval and removed 19 apps after being notified; Meta said it acted against more than 10,000 linked ad accounts. The episode shows how server-side behaviour can bypass one-off review checks.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
-          "published": "2 Nov, 11:31 pm AEDT"
-        },
-        {
-          "id": "tech-europe-supermarket-fridge-cyberattack-20261103",
-          "category": "Technology",
-          "title": "Hackers turn up supermarket fridge temperatures across Europe",
-          "summary": "Grocery stores in at least seven European countries reported refrigeration failures, with several confirming a cyberattack that forced chilled and frozen food to be discarded.",
-          "detail": "Affected chains included Carrefour, Coop, Delhaize and ICA, with some systems reportedly set as high as 50 degrees Celsius. Investigators have not attributed the attack. The practical lesson is broader than retail: remotely managed operational devices need current patches, network isolation and independent monitoring because a small control compromise can create immediate physical losses.",
-          "source": "Agence France-Presse",
-          "url": "https://origin-zh9p7m-www.afp.com/en/fridge-cyberattack-hits-supermarkets-across-europe",
-          "published": "2 Nov, 4:57 pm CET"
-        },
-        {
-          "id": "australia-rba-rate-decision-preview-20261103",
-          "category": "Australia & World",
-          "title": "RBA is widely expected to lift rates this afternoon",
-          "summary": "Economists and markets expect the Reserve Bank to raise the cash rate by 0.25 percentage points to 4.85 per cent at 2:30 pm AEDT, which would be an 18-year high.",
-          "detail": "That would be the fifth increase this year after inflation stayed above target. The result is not yet known, so this is a decision-day preview rather than a confirmed hike. Michele Bullock is due to speak at 3:30 pm, when borrowers will get clearer guidance on whether the Bank still sees more tightening ahead.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216",
-          "published": "3 Nov, 7:13 am",
-          "tag": "Decision due today"
-        },
-        {
-          "id": "world-us-midterms-republican-defence-20261103",
-          "category": "Australia & World",
-          "title": "Trump's red-state campaign trail signals Republican nerves",
-          "summary": "Donald Trump has concentrated late campaigning in normally safe Republican states as US voters head to the midterms, with analysts reading the itinerary as a defensive push to protect the Senate.",
-          "detail": "Texas and Kansas are among the unexpectedly close Senate contests, while Democrats are favoured in many House races. Polls close over the coming Australian day, and no result should be inferred yet. Control of either chamber would shape the final two years of Trump's term and US policy on spending, trade and foreign affairs.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788",
-          "published": "3 Nov, 5:38 am; updated 7:43 am"
         }
       ]
     }
