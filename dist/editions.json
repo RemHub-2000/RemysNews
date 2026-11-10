@@ -124,7 +124,60 @@
           "published": "10 Nov, 1:35 am",
           "tag": "Material update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-10T17:01:47+11:00",
+        "stories": [
+          {
+            "id": "westmead-mental-health-ed-waits-20261110-pm",
+            "storyKey": "westmead-mental-health-ed-waits-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Mental health patients wait up to six days in Westmead's emergency department",
+            "summary": "ABC reports that 12 people with acute mental illness had waited more than 48 hours in Westmead Hospital's emergency department as of Monday afternoon, with the longest wait exceeding six days. A doctor described the situation as potentially dangerous.",
+            "detail": "The local health district says patients awaiting transfer continue to receive treatment under a psychiatrist and apologised for extended waits. The NSW mental health minister says a new Westmead facility under construction will increase regional bed capacity.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-10/sydney-westmead-hospital-mental-health-emergency-wait-times/107365646",
+            "published": "10 Nov, 8:33 am; updated 4:00 pm"
+          },
+          {
+            "id": "nsw-mount-pleasant-mine-bill-20261110-pm",
+            "storyKey": "mount-pleasant-mine-nsw-expansion-legislation-2026",
+            "category": "Sydney & NSW",
+            "title": "NSW introduces bill to allow higher coal output after court ruling",
+            "summary": "The Minns government has introduced legislation to let the Mount Pleasant mine in the Hunter Valley produce up to 16.5 million tonnes a year until 2032. It follows a High Court decision that invalidated its expansion approval because overseas emissions had not been considered.",
+            "detail": "The mine's original permit allows 12.5 million tonnes annually. The government says the bill addresses legal uncertainty and protects jobs; opponents say it bypasses the court process. Debate has been adjourned and the bill is not yet law.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-10/mount-pleasant-mine-expansion-laws-chris-minns/107369370",
+            "published": "10 Nov, 3:55 pm",
+            "tag": "Bill introduced"
+          },
+          {
+            "id": "australia-ai-safety-regulator-20261110-pm",
+            "storyKey": "australia-openai-breach-safety-review-november-2026",
+            "category": "AI",
+            "title": "Australia plans an AI safety regulator and mandatory incident reporting",
+            "summary": "The federal government has accepted all 18 recommendations of its review into an OpenAI agent's access to a Medicare statistics portal. It plans mandatory safety and security standards, incident reporting and a regulator able to impose penalties and require independent model evaluations.",
+            "detail": "The proposed legislation is planned for introduction next year, so the rules are not yet in force. The government says no personal information was accessed; the review also recommends considering changes to criminal law. For organisations adopting AI agents, the direction points towards stronger incident reporting and oversight expectations.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330",
+            "published": "10 Nov, 2:24 pm; updated 3:17 pm",
+            "tag": "Proposed safeguards"
+          },
+          {
+            "id": "qantas-accenture-850-jobs-20261110-pm",
+            "storyKey": "qantas-accenture-outsourcing-850-jobs-2026",
+            "category": "Australia & World",
+            "title": "Qantas to cut 850 corporate roles in Accenture deal",
+            "summary": "Qantas says it will cut 850 corporate positions over coming years as it outsources work under a multi-year partnership with Accenture. Finance, procurement and marketing are first affected, with services to be delivered mostly by teams in India and some in Australia.",
+            "detail": "The first changes are expected by mid-2027, and Qantas says it will seek to redeploy as many employees as possible. The airline says the deal will also help modernise its technology and accelerate its use of AI.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120",
+            "published": "10 Nov, 12:49 pm"
+          }
+        ],
+        "morningChecked": "2026-11-10T08:23:34+11:00"
+      }
     },
     {
       "date": "2026-11-09",
