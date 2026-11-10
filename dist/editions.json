@@ -1,6 +1,129 @@
 {
   "editions": [
     {
+      "date": "2026-11-11",
+      "label": "Wednesday, 11 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-11T08:20:06+11:00",
+      "stories": [
+        {
+          "id": "nsw-newcastle-hospital-ivf-20261111",
+          "storyKey": "calvary-healthscope-ivf-continuity",
+          "category": "Sydney & NSW",
+          "title": "Newcastle IVF patients face uncertainty over hospital takeover",
+          "summary": "Calvary Health Care says it will not allow IVF egg collections at hospitals it acquires from Healthscope, a proposed deal that includes Newcastle Private and Hunter Valley Private. Hunter IVF uses Newcastle Private’s operating theatres, but Calvary does not own the fertility clinic or its embryo lab.",
+          "detail": "Hunter IVF says it is working with alternative providers to avoid interruptions, but where some time-sensitive procedures would take place is still unclear. The takeover needs a NSW hospital licence and a decision from the competition regulator.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-11/concerns-ivf-egg-collections-calvary-hospital-takeover/107367364",
+          "published": "11 Nov, 6:29 am"
+        },
+        {
+          "id": "nsw-baldon-wind-farm-approved-20261111",
+          "storyKey": "baldon-wind-farm-approval",
+          "category": "Sydney & NSW",
+          "title": "NSW approves 1.4 GW wind farm near Hay",
+          "summary": "The Independent Planning Commission has approved the Baldon Wind Farm in the state’s South West Renewable Energy Zone. The project allows 175 turbines up to 300 metres tall, with conditions on road upgrades, traffic and rehabilitation after substantial community opposition.",
+          "detail": "Planning approval does not mean 1.4 GW is about to reach the grid. Baldon missed out on the zone’s initial transmission access allocation, so its full generating capacity and its ability to deliver that power are separate questions.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-10/baldon-wind-farm-approved-south-west-rez/107368696",
+          "published": "10 Nov, 6:22 pm; updated 7:00 pm"
+        },
+        {
+          "id": "apple-tv-sign-language-20261111",
+          "storyKey": "apple-tv-sign-language-rollout",
+          "category": "Apple",
+          "title": "Apple TV adds on-screen sign language for selected films",
+          "summary": "Apple announced that viewers will be able to turn on a synchronised interpreter for Being Heumann and F1: The Movie from Friday, with more titles to follow. The initial options are American and British Sign Language, not Auslan.",
+          "detail": "The controls appear on supported titles after enabling Sign Language in the TV app settings. The report confirms iPhone, iPad and Mac on version 27.2 or later, plus some other app platforms, but does not establish support for the first-generation Apple TV 4K or a separate Australian rollout.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
+          "published": "11 Nov, 3:06 am Sydney time",
+          "tag": "Announced for Friday"
+        },
+        {
+          "id": "tesla-cybertruck-premium-orders-20261111",
+          "storyKey": "tesla-cybertruck-winddown-20261107",
+          "category": "Tesla",
+          "title": "Tesla closes orders for another Cybertruck trim",
+          "summary": "Tesla has stopped taking US orders for the Premium AWD Cybertruck, leaving the Cyberbeast as the only orderable trim, according to Not a Tesla App. It also increased the Cyberbeast’s listed price by US$7,500 to US$109,990.",
+          "detail": "This is a new change to the US ordering page during the production wind-down, rather than another announcement of the wind-down itself. Tesla has not said whether Premium AWD orders will reopen, and the change does not affect the Australian Model Y line-up.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
+          "published": "10 Nov, US date",
+          "tag": "Material update"
+        },
+        {
+          "id": "anthropic-whiteboards-sheets-data-20261111",
+          "storyKey": "anthropic-claude-sheets-whiteboards-data-launch",
+          "category": "AI",
+          "title": "Claude adds collaborative whiteboards and spreadsheets",
+          "summary": "Anthropic has launched Whiteboards and Sheets in beta on paid plans, while Claude Dashboards becomes generally available as Claude Data. The new tools let teams organise notes into a shared board, edit a spreadsheet together and build reports from connected data. Some Claude Data features, including certified queries and live sharing, are still in beta.",
+          "detail": "For a customer workshop, try a sanitised whiteboard that groups ideas and turns decisions into actions with owners and dates, then review it before sharing. Team plans have the tools on by default, while Enterprise availability depends on admin settings. Anthropic did not specify a separate Australian launch date.",
+          "source": "Anthropic",
+          "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+          "published": "10 Nov, source date",
+          "tag": "Beta and general release"
+        },
+        {
+          "id": "google-gemini-carbon-rollout-20261111",
+          "storyKey": "google-gemini-4-carbon-public-rollout",
+          "category": "AI",
+          "title": "Google opens Gemini 4 Carbon to more users",
+          "summary": "Gemini 4 Carbon is now available through Google’s API for paying developers and enterprises, with a rollout to Google AI Ultra subscribers in the Gemini app, AI Mode and Antigravity. Google positions Carbon for demanding, longer tasks, including analysing documents with charts and tables.",
+          "detail": "It is a broader paid release, not confirmation of access on lower tiers or immediate availability on every Australian account. Google still positions Argon as the everyday option for most knowledge work.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+          "published": "10 Nov, source date",
+          "tag": "Paid rollout"
+        },
+        {
+          "id": "garmin-waze-cycling-alerts-20261111",
+          "storyKey": "garmin-waze-live-cycling-alerts",
+          "category": "Technology",
+          "title": "Garmin can alert nearby Waze drivers to a cyclist",
+          "summary": "Garmin has added an opt-in Waze integration for outdoor rides recorded on compatible Edge computers and watches. When a rider shares their LiveTrack position through Garmin Connect, nearby Waze drivers can see a moving alert. Garmin says personal information is not displayed and sharing is limited to the ride session.",
+          "detail": "It could be useful on road rides if you have compatible gear and are comfortable sharing your live position. It does not alert drivers using other navigation apps, and the release did not specify a separate Australian rollout date.",
+          "source": "Garmin press release",
+          "url": "https://www.outdoorsportswire.com/garmin-and-waze-team-up-to-amplify-the-power-of-community-driven-awareness-for-cyclists-and-drivers/",
+          "published": "10 Nov, US date"
+        },
+        {
+          "id": "tsmc-anthropic-openai-investment-20261111",
+          "storyKey": "tsmc-anthropic-openai-investment-approval",
+          "category": "Technology",
+          "title": "TSMC approves up to US$1 billion in AI investments",
+          "summary": "TSMC’s board approved up to US$500 million in Anthropic shares at its IPO price and up to US$500 million in OpenAI preferred stock, Reuters reports. The move would give the chipmaker an ownership stake in two major AI developers as well as exposure through its manufacturing business.",
+          "detail": "The board approvals are investment limits, not confirmation that the full amounts have changed hands.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/",
+          "published": "11 Nov, 1:15 am Sydney time"
+        },
+        {
+          "id": "ukraine-russia-abu-dhabi-talks-20261111",
+          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
+          "category": "Australia & World",
+          "title": "Ukraine and Russia resume US-brokered talks without a breakthrough",
+          "summary": "Envoys from Ukraine, Russia and the US met in Abu Dhabi for their first such talks since February. They discussed security guarantees and territorial concessions, but the sides remain far apart and no ceasefire was announced.",
+          "detail": "Kyiv is seeking security guarantees, while Moscow wants to address a broader European security framework first. European representatives met separately with Ukrainian and US officials, underscoring the disagreement over who should be involved in a settlement.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042",
+          "published": "11 Nov, 1:21 am"
+        },
+        {
+          "id": "cop31-electrification-pledge-dispute-20261111",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "COP31 electrification pledge runs into a fossil fuel dispute",
+          "summary": "Türkiye’s proposal to lift electricity to 35 per cent of global energy use by 2035 is meeting resistance because its draft wording does not require the extra electricity to be clean. Critics say the pledge could prolong fossil fuel use if countries meet it with more coal or gas power.",
+          "detail": "Australia is separately pushing to double the number of households with rooftop solar to at least 300 million by 2030. Both are proposals, not final summit commitments.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196",
+          "published": "11 Nov, 4:33 am; updated 4:41 am",
+          "tag": "Material update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "label": "Tuesday, 10 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked; categories without noteworthy developments are omitted.",
@@ -907,142 +1030,6 @@
           "url": "https://www.abc.net.au/news/2026-11-05/federal-politics-live-blog-screen-limits/107346422",
           "published": "5 Nov, 6:59 am",
           "tag": "Policy direction"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "label": "Wednesday, 4 November 2026",
-      "note": "Checked Wednesday morning, Sydney time. Stories are deduplicated by underlying event, with ABC and 9to5Mac preferred where coverage overlapped. Apple publication times were converted to Sydney time. Beta software, announced services, geographic limits and suggested applications are labelled explicitly.",
-      "checked": "2026-11-04T08:23:16+11:00",
-      "stories": [
-        {
-          "id": "nsw-short-stay-housing-levy-20261104",
-          "category": "Sydney & NSW",
-          "title": "Housing sector proposes a 7.5 per cent levy on short stays",
-          "summary": "NSW's community housing peak body wants a new levy on Airbnb and Stayz bookings, alongside land-tax changes, to create a long-term funding pool for social and affordable homes.",
-          "detail": "The package could raise $26 billion over a decade and support about 50,000 homes by 2050, while the social housing waiting list has reached 72,000 households. These are industry proposals being presented to parliament today, not government policy.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406",
-          "published": "4 Nov, 6:30 am",
-          "tag": "Proposal"
-        },
-        {
-          "id": "nsw-election-liberal-mp-exodus-20261104",
-          "category": "Sydney & NSW",
-          "title": "NSW Liberals face an MP exodus before the March election",
-          "summary": "Six Liberal MPs will not recontest next year's state election as the Coalition trails Labor and One Nation gains support, stripping the opposition of substantial experience.",
-          "detail": "Mark Coure is the third Liberal frontbencher in three months to announce his retirement. Optional preferential voting could let a split between Liberal and One Nation supporters help Labor in marginal seats such as Oatley. One Nation says it is recruiting across all 93 lower-house seats.",
-          "source": "ABC News analysis",
-          "url": "https://www.abc.net.au/news/2026-11-04/nsw-election-analysis-liberal-mp-exodus-amid-one-nation-surge/107342536",
-          "published": "4 Nov, 6:33 am; updated 7:50 am"
-        },
-        {
-          "id": "apple-ios-27-3-siri-app-skills-20261104",
-          "category": "Apple",
-          "title": "iOS 27.3 beta opens advanced Siri app skills to developers",
-          "summary": "Apple's first iOS 27.3 developer beta lets third-party apps define multistep actions for Siri AI, while Apple has expanded Siri controls across Music, Messages, Notes, Photos, Calendar, Reminders, Files and more.",
-          "detail": "Developers can connect actions across apps and complete a task with one request. This is developer-beta software, not a public release, and support will depend on apps adopting the framework. Australian availability of every Siri AI capability is not confirmed.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-          "published": "4 Nov, 6:25 am AEDT",
-          "tag": "Developer beta"
-        },
-        {
-          "id": "apple-health-ios-27-3-beta-20261104",
-          "category": "Apple",
-          "title": "Apple's redesigned Health app returns in iOS 27.3 beta",
-          "summary": "The new Health app adds an Insights view across heart, sleep, readiness, fitness and vitals, plus a Longevity tab that estimates Health Age from Apple Watch data.",
-          "detail": "It also supports optional clinical lab data and at-home movement assessments using the iPhone camera and Apple Watch. Apple says analysis runs on-device without recording, storing or sharing video. A public release is expected next month, but the Australian date is unconfirmed.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here/",
-          "published": "4 Nov, 5:45 am AEDT",
-          "tag": "Developer beta"
-        },
-        {
-          "id": "tesla-spacex-merger-control-analysis-20261104",
-          "category": "Tesla",
-          "title": "A SpaceX merger could reshape control of Tesla",
-          "summary": "Tesla and SpaceX have formed special committees to discuss a potential merger, and a Reuters analysis says the share structures could give Elon Musk majority voting control of a combined company.",
-          "detail": "Barclays estimates Musk could own about 37 per cent of the group but control 56 per cent of votes because some SpaceX shares carry extra voting power. This is analysis, not an announced transaction. There is no confirmed effect on Australia, Model Y owners or local services.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/musks-pay-under-spacex-tesla-merger-voting-control-no-1-trillion-payday-2026-11-03/",
-          "published": "3 Nov, 10:02 pm AEDT",
-          "tag": "Potential transaction"
-        },
-        {
-          "id": "ai-google-guided-learning-classroom-20261104",
-          "category": "AI",
-          "title": "Google brings Guided Learning into Classroom worldwide",
-          "summary": "Google has released Guided Learning globally in Google Classroom, where it coaches students through questions and step-by-step prompts instead of simply supplying answers.",
-          "detail": "A related Search feature begins as a pilot in selected US schools this month, so it is not generally available in Australia. Suggested work experiment: make a customer enablement prompt ask for the goal, evidence and next step before drafting a follow-up. That is a suggested adaptation, not a Google use case.",
-          "source": "Google",
-          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
-          "published": "3 Nov, time not stated",
-          "tag": "Classroom released globally"
-        },
-        {
-          "id": "ai-europe-sovereign-compute-partnership-20261104",
-          "category": "AI",
-          "title": "European firms plan sovereign AI computing services",
-          "summary": "Schwarz Digits and French supercomputer maker Bull have signed a preliminary agreement to build AI computing services that operate entirely under European jurisdiction.",
-          "detail": "Schwarz would sell compute and storage through STACKIT, while Bull would manufacture servers and provide AI software. The plan reflects enterprise demand for data residency and local legal control. It is a preliminary agreement with no launch date, pricing or Australian availability.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/schwarz-digits-bull-partner-up-build-european-ai-computing-services-2026-11-03/",
-          "published": "4 Nov, 12:07 am AEDT",
-          "tag": "Preliminary agreement"
-        },
-        {
-          "id": "tech-binance-fake-interview-heist-20261104",
-          "category": "Technology",
-          "title": "Fake job interview helped hackers steal $6.3 billion from Binance",
-          "summary": "Binance says attackers compromised three software engineers through a tampered download, a malicious job-interview repository and stolen credentials before draining crypto from online wallets.",
-          "detail": "The intrusion culminated on 29 October, when 233.46 million XRP left five wallets in four minutes and transfers continued for almost four hours. The FBI blames a North Korean group, which Pyongyang rejects. Isolate interview exercises and verify repositories before running code on work devices.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/",
-          "published": "4 Nov, 1:49 am AEDT"
-        },
-        {
-          "id": "australia-rba-rate-hike-20261104",
-          "category": "Australia & World",
-          "title": "RBA lifts the cash rate to an 18-year high",
-          "summary": "The Reserve Bank raised the cash rate by 0.25 percentage points to 4.85 per cent, its fifth increase of 2026, after concluding inflation will stay high for longer than expected.",
-          "detail": "The decision was split six votes to three. The RBA expects inflation to remain elevated through much of 2027 and not fall below 3 per cent until late that year. Borrowers face higher repayments if lenders pass the rise through, while savers may benefit.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050",
-          "published": "3 Nov, 2:38 pm; updated 4:29 pm"
-        },
-        {
-          "id": "world-us-midterms-voting-20261104",
-          "category": "Australia & World",
-          "title": "US voters decide control of Congress",
-          "summary": "Voting is under way in the US midterms, with Democrats narrow favourites to win both chambers and the result widely treated as a verdict on Donald Trump's presidency.",
-          "detail": "More than 50 million voted early. Cost-of-living pressure and fuel prices linked to the Iran war shaped the campaign. Polls had not begun closing at checking time, so forecasts are not results and close races may take days to settle.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/us-midterms-voting-underway-as-polls-bad-for-donald-trump/107339316",
-          "published": "4 Nov, 4:58 am; updated 6:35 am",
-          "tag": "Voting under way"
-        },
-        {
-          "id": "australia-wegovy-tablet-tga-20261104",
-          "category": "Australia & World",
-          "title": "TGA clears Australia's first oral GLP-1 weight-loss drug",
-          "summary": "The Therapeutic Goods Administration has approved daily Wegovy tablets for people with obesity and those needing to reduce cardiovascular risk, making them Australia's first oral GLP-1 treatment.",
-          "detail": "Patients will need a prescription. The regulator must still review packaging and production before release, so approval does not mean immediate pharmacy availability. No Australian price is set, and current PBS rules subsidise weight-loss medicines only for people with type 2 diabetes.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-03/weight-loss-tablet-cleared-for-use-in-australia/107343340",
-          "published": "3 Nov, 11:27 pm",
-          "tag": "Approved, not yet released"
-        },
-        {
-          "id": "australia-choice-shonky-awards-20261104",
-          "category": "Australia & World",
-          "title": "Ticketing tactics and expired flight credits earn Shonky Awards",
-          "summary": "Choice has named Ticketek, Ticketmaster and Virgin Australia among its 2026 Shonky Award recipients, criticising ticket pricing practices and $75 million in expired Virgin flight credits.",
-          "detail": "Choice cited John Farnham Tribute tickets priced up to $1,650 and NRL seats with a $50 premium. Ticketek says variable pricing affected less than 7 per cent of the tribute concert and excluded the $1,650 tickets. Virgin says more than 93 per cent of credits were redeemed.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/choice-hands-shonky-awards-to-virgin-sony-ticketing-giants/107329220",
-          "published": "4 Nov, 4:04 am"
         }
       ]
     }
