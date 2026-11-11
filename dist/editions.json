@@ -1,6 +1,143 @@
 {
   "editions": [
     {
+      "date": "2026-11-12",
+      "label": "Thursday, 12 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-12T08:27:36+11:00",
+      "stories": [
+        {
+          "id": "david-jones-closure-list-20261112",
+          "storyKey": "australia-david-jones-administration-suppliers-20261106",
+          "category": "Sydney & NSW",
+          "title": "David Jones names 19 stores to close, including Macquarie Centre",
+          "summary": "David Jones’s receiver has confirmed that 19 of its 38 stores will shut. Seven are in NSW, including Macquarie Centre, Parramatta and Hornsby, all relevant if you shop around Epping. This is the first confirmed list since the retailer entered administration.",
+          "detail": "The affected stores are expected to trade through the peak shopping period. Exact closure dates were not given; the company says stock will either be discounted or moved to other stores.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
+          "published": "11 Nov, 1:07 pm; updated 9:13 pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "town-hall-protest-subpoenas-20261112",
+          "storyKey": "nsw-town-hall-herzog-protest-subpoenas",
+          "category": "Sydney & NSW",
+          "title": "NSW premier and ministers subpoenaed over Town Hall protest",
+          "summary": "Chris Minns, Police Minister Yasmin Catley, Tourism Minister Steve Kamper and senior police have been subpoenaed in the case against people charged over February’s Sydney Town Hall protest. Defence lawyers want to ask how the policing operation was planned and what role ministers played.",
+          "detail": "ABC reports the subpoenas seek evidence on 8 March, five days before the NSW election. The defence’s claims of improper interference are allegations, not findings; the ministers’ offices declined to comment because the case is before the court.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-11/nsw-subpoenas-herzog-protest-case-chris-minns-yasmin-catley/107365558",
+          "published": "11 Nov, 5:56 pm; updated 6:20 pm"
+        },
+        {
+          "id": "centennial-park-roses-20261112",
+          "storyKey": "centennial-park-rose-garden-aphids",
+          "category": "Sydney & NSW",
+          "title": "Centennial Park uses beneficial insects to protect its roses",
+          "summary": "Centennial Park’s horticulture team is using ladybirds and small parasitic wasps to manage aphids in its historic rose garden. It’s an annual intervention, not a one-off experiment, and ABC reports the current infestation has been particularly heavy.",
+          "detail": "The garden overlooks Busbys Pond and has about 800 plants across 33 rose varieties. If you’re looking for a small stop on a ride or walk through the park, that’s where to find it.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088",
+          "published": "12 Nov, 6:17 am"
+        },
+        {
+          "id": "apple-invites-polls-20261112",
+          "storyKey": "apple-invites-polls-release",
+          "category": "Apple",
+          "title": "Apple Invites adds polls for guests",
+          "summary": "The latest Apple Invites update lets hosts add a poll so guests can vote on details such as food or a party theme. There’s also a decorative emoji effect, but the poll is the useful change if you want to settle a choice without a group chat.",
+          "detail": "Hosts still need iCloud+ to create an event. Guests can RSVP from the invitation link without paying or owning an Apple device; Apple Invites is listed in the Australian App Store.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
+          "published": "12 Nov, 8:00 am Sydney time",
+          "tag": "Released"
+        },
+        {
+          "id": "tesla-finland-assisted-driving-20261112",
+          "storyKey": "tesla-finland-assisted-driving-approval",
+          "category": "Tesla",
+          "title": "Finland clears Tesla’s supervised driver assistance",
+          "summary": "Finland’s transport regulator recognised the provisional approval granted by the Netherlands for Tesla Assisted Driving, the European name for FSD (Supervised). Tesla says the Finnish rollout will begin soon, which is distinct from the regulatory permission already in place.",
+          "detail": "The driver remains responsible. This is a Finnish decision, not EU-wide approval, and it does not establish any new feature or eligibility for your Australian Model Y.",
+          "source": "Not a Tesla App, citing Traficom and Tesla",
+          "url": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
+          "published": "11 Nov, source date",
+          "tag": "Approved; rollout pending"
+        },
+        {
+          "id": "tesla-cybertruck-production-extension-20261112",
+          "storyKey": "tesla-cybertruck-winddown-20261107",
+          "category": "Tesla",
+          "title": "Musk extends the Cybertruck production timetable",
+          "summary": "Elon Musk says Tesla will now build Cybertrucks through the end of the US summer in 2027, later than the previously reported June or July shutdown. Not a Tesla App reports the extension gives the Texas line more time to work through existing orders.",
+          "detail": "It is not a reversal of the decision to end production or a promise that all deposits will turn into deliveries. No change to the cancellation of Australian reservations was announced.",
+          "source": "Not a Tesla App, citing Elon Musk",
+          "url": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
+          "published": "11 Nov, source date",
+          "tag": "Material update"
+        },
+        {
+          "id": "gemini-live-carplay-20261112",
+          "storyKey": "google-gemini-live-carplay-rollout",
+          "category": "AI",
+          "title": "Gemini Live starts rolling out on Apple CarPlay",
+          "summary": "Google is rolling out the standalone Gemini Live experience on compatible CarPlay displays globally in supported languages. It can pick up recent conversations from your iPhone and, with connected Workspace apps, help you talk through a calendar or inbox. The rollout announcement does not guarantee it has reached every Australian account yet.",
+          "detail": "This is a CarPlay feature, not a Tesla infotainment update. If you have access in a compatible car, one idea is to rehearse an executive review while parked using a sanitised brief, then pick up the conversation on your phone.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+          "published": "11 Nov, source date; reported 12 Nov, 4:29 am Sydney time",
+          "tag": "Staged rollout"
+        },
+        {
+          "id": "switchbot-curtain-track-4-20261112",
+          "storyKey": "switchbot-curtain-track-4-release",
+          "category": "Technology",
+          "title": "SwitchBot puts a removable battery on its retrofit curtain motor",
+          "summary": "The new Curtain Track 4 fits existing U-rail curtains and lets you remove the Battery+ module for USB-C charging without taking the motor off the rail. It doesn’t fit curtain rods. A compatible SwitchBot hub is needed to bring it into Apple Home through Matter.",
+          "detail": "It’s available through the US channels cited by 9to5Mac; Australian pricing and stock were not confirmed. Check the rail and hub requirements before ordering.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
+          "published": "12 Nov, 1:00 am Sydney time",
+          "tag": "Released; AU unconfirmed"
+        },
+        {
+          "id": "ukraine-russia-prisoner-exchange-20261112",
+          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
+          "category": "Australia & World",
+          "title": "Ukraine and Russia agree to a large prisoner exchange",
+          "summary": "Negotiators from both sides confirmed a planned prisoner-of-war swap after two days of US-mediated talks in Abu Dhabi. That is a concrete outcome from the talks covered yesterday, but not a ceasefire or a settlement of the territorial dispute.",
+          "detail": "US envoys Steve Witkoff and Jared Kushner are due to meet Vladimir Putin in Moscow, then Volodymyr Zelenskyy in Dublin. A timetable for the exchange was not given in the ABC report.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+          "published": "12 Nov, 1:42 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "cop31-pacific-aid-20261112",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "Albanese calls for more Pacific climate support at COP31",
+          "summary": "At the leaders’ summit in Antalya, Anthony Albanese urged countries to help Pacific nations adapt to climate change, pointing to the Pacific Resilience Facility. The appeal came as climate advocates challenged Australia’s support for new coal and gas projects.",
+          "detail": "The intervention puts Pacific climate finance alongside the argument over how to cut fossil fuel use. Negotiations are still under way; the speech was a call for action, not a new funding agreement.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792",
+          "published": "12 Nov, 4:35 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "spain-housing-general-strike-20261112",
+          "storyKey": "spain-housing-general-strike-nov2026",
+          "category": "Australia & World",
+          "title": "Spain’s housing crisis triggers its first general strike since 2012",
+          "summary": "Spanish unions say four million people joined a national strike over housing affordability, as tenants’ groups protested rising rents and evictions. The walkout came less than three weeks before the snap general election on 29 November.",
+          "detail": "Housing was already shaping the election after parliament rejected measures aimed at limiting rent pressure and curbing evictions. The turnout figure is the unions’ estimate.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816",
+          "published": "12 Nov, 5:03 am; updated 7:41 am"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "label": "Wednesday, 11 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -942,135 +1079,6 @@
           "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304",
           "published": "6 Nov, 1:28 am; updated 3:36 am",
           "tag": "Guilty verdict"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "label": "Thursday, 5 November 2026",
-      "note": "Checked Thursday morning, Sydney time. Stories are deduplicated by event. Beta software, regional limits, regulatory claims and suggested applications are labelled.",
-      "checked": "2026-11-05T08:28:54+11:00",
-      "stories": [
-        {
-          "id": "nsw-health-oral-scheme-cyber-breach-20261105",
-          "category": "Sydney & NSW",
-          "title": "Police investigate a major NSW Health cyber breach",
-          "summary": "About 4GB of data was stolen from an isolated server for NSW Health's Oral Health Fee For Service Scheme. Police say sensitive identification details belonging to a small number of third-party dental providers may be affected.",
-          "detail": "Officials say no patient information was compromised, no clinical services are at risk and no other NSW agencies were affected. The Cybercrime Squad is leading the investigation and says the apparent perpetrators are outside Australia. The website was taken offline after the intrusion was detected on 29 October.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/cyber-security-nsw-police-investigate-cyber-breach-at-nsw-health/107344174",
-          "published": "4 Nov, 8:46 am; updated 1:34 pm",
-          "tag": "Major incident"
-        },
-        {
-          "id": "powerhouse-parramatta-moowattin-artwork-20261105",
-          "category": "Sydney & NSW",
-          "title": "Powerhouse Parramatta restores an overlooked Dharug botanical story",
-          "summary": "A rooftop artwork at the new museum honours Burramattagal man Daniel Moowattin, whose role collecting local plants for British botanist George Caley was largely erased from official records.",
-          "detail": "Bronze plaques carry eucalyptus clippings gathered on Dharug Country and research has recovered four Dharug words connected to eucalyptus species. The museum opens this Saturday, making this a timely Western Sydney visit from Epping as well as a piece of repaired local history.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/parramatta-powerhouse-artwork-recovers-first-nations-words/107337824",
-          "published": "4 Nov, 10:00 am",
-          "tag": "Opens Saturday"
-        },
-        {
-          "id": "apple-siri-ai-waitlist-mostly-removed-20261105",
-          "category": "Apple",
-          "title": "Apple largely removes the Siri AI waitlist",
-          "summary": "Apple has updated its support guidance so Siri AI begins downloading after a user selects Try Siri AI (Beta), instead of routinely placing them on a waitlist.",
-          "detail": "A waitlist can still appear during periods of high demand, so access is not guaranteed instantly. This is a server-side access change for eligible Siri AI users, not a new iOS release. The report does not establish any separate change to Australian device, language or regional eligibility.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
-          "published": "5 Nov, 7:28 am AEDT",
-          "tag": "Beta access"
-        },
-        {
-          "id": "apple-icloud-public-link-content-checks-20261105",
-          "category": "Apple",
-          "title": "iOS 27.3 will check public iCloud links for harmful content",
-          "summary": "Apple says items shared using the Anyone with the Link option will be checked for harmful content in iOS, iPadOS, macOS and visionOS 27.3 or later.",
-          "detail": "This applies to public links, not the People you choose sharing option. Apple says it may remove flagged material or act on an account. Version 27.3 is currently in beta, so this is announced behaviour rather than a general public release; no separate Australian rollout was specified.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
-          "published": "5 Nov, 2:55 am AEDT",
-          "tag": "Beta policy change"
-        },
-        {
-          "id": "tesla-south-korea-fsd-marketing-complaint-20261105",
-          "category": "Tesla",
-          "title": "Tesla faces a South Korean complaint over unavailable FSD",
-          "summary": "A consumer group plans to ask South Korea's competition regulator to stop Tesla marketing Full Self-Driving (Supervised) to vehicles that cannot legally use it. Reuters reports only about 20 per cent of Teslas registered there are currently eligible.",
-          "detail": "The complaint alleges 99 per cent of new Teslas sold in South Korea last year were ineligible, mostly because China-built cars lacked certification. Tesla did not respond to Reuters. This has no confirmed effect on Australian Model Y owners, but it underlines how local certification and vehicle origin can determine availability. FSD remains supervised driver assistance, not autonomy.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
-          "published": "4 Nov, 11:03 am AEDT",
-          "tag": "Regulatory complaint"
-        },
-        {
-          "id": "ai-google-agile-deliberation-framework-20261105",
-          "category": "AI",
-          "title": "Google open-sources a method for defining AI's grey areas",
-          "summary": "Google Research has introduced Agile Deliberation, a framework that helps people iteratively define subjective categories and resolve edge cases before an AI image classifier is built.",
-          "detail": "In 18 live sessions, Google says the approach reduced fatigue and anxiety while producing more consistent classifiers than standard baselines. The code and algorithms are open source, but this is research rather than a Google Workspace product. Suggested work experiment: before automating customer-health or escalation labels, use an AI session to surface borderline examples and agree the rule with your team. That application is my suggestion, not a reported Google use case.",
-          "source": "Google Research",
-          "url": "https://www.research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-          "published": "4 Nov, time not stated",
-          "tag": "Open-source research"
-        },
-        {
-          "id": "technology-meta-australia-ai-training-opt-out-20261105",
-          "category": "Technology",
-          "title": "Australians can now find Meta's hidden AI-training opt-out",
-          "summary": "ABC has confirmed Meta offers an objection form that lets Australian Facebook and Instagram users stop future public posts, photos and comments being used to train its AI, despite never announcing the option locally.",
-          "detail": "The form has existed since July 2025 but is buried in privacy settings. Meta says a successful submission triggers an email confirmation. Private accounts, private messages and accounts belonging to under-18s are already exempt. This affects future use, so it should not be read as deleting data already used in training.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-05/meta-facebook-instagram-changes-using-data-to-train-ai/107335708",
-          "published": "5 Nov, 5:00 am",
-          "tag": "Privacy action"
-        },
-        {
-          "id": "technology-canva-global-restructure-20261105",
-          "category": "Technology",
-          "title": "Canva restructure affects 22 per cent of its workforce",
-          "summary": "Canva says 1,270 jobs will be affected through cuts, changed roles or relocation as growth slows and new technology changes how customers create and use products.",
-          "detail": "Sydney will become the main product hub, with some staff asked to relocate and most hybrid employees expected in the office two or three days a week from January. Canva did not explicitly blame AI. The company says departing employees will receive at least six months' salary and other support.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
-          "published": "4 Nov, 10:09 am; updated 1:28 pm",
-          "tag": "1,270 roles affected"
-        },
-        {
-          "id": "world-us-midterms-democrats-congress-20261105",
-          "category": "Australia & World",
-          "title": "Democrats win both chambers in the US midterms",
-          "summary": "ABC's Associated Press results show Democrats have won the House and Senate, flipping seven Senate seats including Texas, Ohio and both Carolinas.",
-          "detail": "This is the substantive result after yesterday's voting, not a repeat of the election preview. Losing both chambers means President Donald Trump will need to negotiate with opponents to pass legislation during the rest of his term, with likely consequences for US trade, technology and foreign policy.",
-          "source": "ABC News results",
-          "url": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
-          "published": "4 Nov, 6:10 am; updated 5:30 pm",
-          "tag": "Result"
-        },
-        {
-          "id": "australia-big-four-mortgage-rate-rise-20261105",
-          "category": "Australia & World",
-          "title": "The big four pass the full rate rise to mortgage customers",
-          "summary": "Commonwealth Bank, Westpac, NAB and ANZ will each lift variable home-loan rates by 0.25 percentage points after the RBA raised the cash rate to an 18-year high of 4.85 per cent.",
-          "detail": "This is the household-level follow-through from Tuesday's decision and the fifth cash-rate rise of 2026. Macquarie moved first and says its higher variable rates take effect on 19 November. Banks have also announced some savings-rate changes, though the pass-through and eligibility conditions vary.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858",
-          "published": "4 Nov, 4:03 pm",
-          "tag": "Mortgage rates"
-        },
-        {
-          "id": "australia-schools-screen-ai-limits-20261105",
-          "category": "Australia & World",
-          "title": "Education ministers move towards screen and AI limits in schools",
-          "summary": "Federal and state education ministers have agreed to consider school screen-time limits and restrictions on students using generative AI, with a new Australian Schools Digital Detox Taskforce to develop the details.",
-          "detail": "The announced direction includes restricting generative AI in primary schools and secondary-school assessments, but implementation settings still need to be worked through. NSW already has separate screen-time limits for public schools from next year, so the national work may extend or align existing state rules rather than replace them immediately.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-05/federal-politics-live-blog-screen-limits/107346422",
-          "published": "5 Nov, 6:59 am",
-          "tag": "Policy direction"
         }
       ]
     }
