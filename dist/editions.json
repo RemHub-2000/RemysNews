@@ -121,7 +121,48 @@
           "published": "11 Nov, 4:33 am; updated 4:41 am",
           "tag": "Material update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-11T17:07:14+11:00",
+        "stories": [
+          {
+            "id": "nsw-hospital-security-concord-20261111-pm",
+            "storyKey": "nsw-hospital-security-recruitment-concord-assault-2026",
+            "category": "Sydney & NSW",
+            "title": "NSW to recruit 129 hospital security staff",
+            "summary": "The NSW government says it will recruit 129 additional security staff across 27 hospitals. The announcement follows an alleged attack on a nurse and a doctor at Concord Hospital, where one staff member suffered a broken wrist.",
+            "detail": "Police say the patient remains in hospital and the incident is under investigation. Health Minister Ryan Park is considering additional powers for security staff, but has not made a decision.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-11/nsw-security-boost-nurse-doctor-allegedly-assaulted-hospital/107372882",
+            "published": "11 Nov, 2:35 pm; updated 4:05 pm"
+          },
+          {
+            "id": "apple-support-community-closure-20261111-pm",
+            "storyKey": "apple-support-community-closure-november-2026",
+            "category": "Apple",
+            "title": "Apple Support Community set to close on 20 November",
+            "summary": "A notice on Apple's support forums says the community will permanently close on 20 November, and new posts are already disabled. Existing discussions can currently be read and searched, but new questions and replies cannot be submitted.",
+            "detail": "That removes a long-running source of peer troubleshooting for Apple devices. It is unclear whether the existing archive will remain accessible after closure; 9to5Mac has asked Apple to clarify the scope.",
+            "source": "9to5Mac",
+            "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+            "published": "11 Nov, 1:49 pm Sydney time",
+            "tag": "Closure announced"
+          },
+          {
+            "id": "russia-leningrad-drone-attack-20261111-pm",
+            "storyKey": "leningrad-region-drone-attack-20261111",
+            "category": "Australia & World",
+            "title": "Russia reports a fresh drone attack on Leningrad region",
+            "summary": "The regional governor says Russia shot down 92 drones over the Leningrad region early on Wednesday. Reuters could not independently verify the claim. The region contains major Baltic export ports and the Kirishi oil refinery.",
+            "detail": "Latvia and Lithuania warned residents to seek shelter from unidentified drones entering their airspace, and NATO air defence fighters were activated. The reports come as Russia and Ukraine hold US-brokered talks, but do not establish any change in the negotiations.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
+            "published": "11 Nov, 11:23 am Sydney time"
+          }
+        ],
+        "morningChecked": "2026-11-11T08:20:06+11:00"
+      }
     },
     {
       "date": "2026-11-10",
