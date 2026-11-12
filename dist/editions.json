@@ -1,6 +1,122 @@
 {
   "editions": [
     {
+      "date": "2026-11-13",
+      "label": "Friday, 13 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-13T08:27:23+11:00",
+      "stories": [
+        {
+          "id": "sydney-online-extremism-centre-20261113",
+          "storyKey": "sydney-counter-terrorism-online-centre",
+          "category": "Sydney & NSW",
+          "title": "Sydney opens a national hub to tackle online extremism",
+          "summary": "A $76 million federal centre opens in Sydney today, bringing the Australian Federal Police and ASIO together to tackle online radicalisation. The government says a priority is reaching young people earlier, before online activity escalates into a threat.",
+          "detail": "The funding was announced in May, so the new development is the centre opening, not a new funding round or a change to the law. Home Affairs Minister Tony Burke says the government remains open to further legislative changes.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242",
+          "published": "13 Nov, 5:00 am",
+          "tag": "Sydney"
+        },
+        {
+          "id": "wauchope-hail-cleanup-20261113",
+          "storyKey": "nsw-mid-north-coast-hail-cleanup-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Extra SES crews help Wauchope clean up after hailstorm",
+          "summary": "The SES responded to 125 calls after Wednesday’s storms on the Mid North Coast and Northern Rivers, more than 70 of them around Wauchope. Crews from Newcastle joined the clean-up on Thursday after hail blocked gutters, water got into buildings and trees came down.",
+          "detail": "The Lower Clarence was hit by a separate storm cell. Yamba and Iluka also reported roof damage, and fallen trees slowed traffic on parts of the Pacific Motorway near New Italy during the storm.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-12/mid-north-coast-storm-damage-hail/107376122",
+          "published": "12 Nov, 10:48 am",
+          "tag": "NSW"
+        },
+        {
+          "id": "apple-tv-4k-review-australia-20261113",
+          "storyKey": "apple-tv-4k-fourth-generation-australian-release",
+          "category": "Apple",
+          "title": "New Apple TV 4K goes on sale in Australia for A$449",
+          "summary": "The fourth-generation Apple TV 4K reaches Australian stores today, and 9to5Mac’s first review found the new hands-free Siri microphones useful, but answers about the show currently playing could be unreliable. The new model has an A19 chip, though the reviewer found the speed gain over the third generation relatively modest.",
+          "detail": "Apple confirms the English-language Siri AI beta is also available in Australia on second- and third-generation Apple TV 4K models, with a compatible iPhone or iPad required for the home owner. The first-generation 4K misses out, but the new remote is sold separately if that is the upgrade you actually want.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/12/apple-tv-4k-review-the-best-streamer-comes-at-a-cost/",
+          "published": "13 Nov, 1:00 am",
+          "tag": "Australian release"
+        },
+        {
+          "id": "tesla-robotaxi-247-20261113",
+          "storyKey": "tesla-robotaxi-san-antonio-launch",
+          "category": "Tesla",
+          "title": "Tesla’s unsupervised US Robotaxi service goes round the clock",
+          "summary": "Tesla has extended Robotaxi to 24 hours a day across its unsupervised US markets, including newly added San Antonio. The San Francisco Bay Area is the exception, where rides remain supervised. This is an expansion of service hours, not a rollout to new cities.",
+          "detail": "Tesla has not confirmed that the entire fleet is using the same software version. The change applies to the US ride service and does not announce a software update, an unsupervised feature for your Model Y or an Australian launch.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
+          "published": "12 Nov, US date",
+          "tag": "Material update"
+        },
+        {
+          "id": "apra-ai-stress-tests-20261113",
+          "storyKey": "apra-2027-ai-system-stress-testing",
+          "category": "AI",
+          "title": "APRA plans to put AI risks into financial-sector stress tests",
+          "summary": "Australia’s prudential regulator plans to examine AI-driven risks in next year’s stress testing. Its new outlook flags a practical concern for banks, insurers and super funds: disruption can spread when multiple firms depend on the same technology providers, even if each has its own recovery plan.",
+          "detail": "For a customer planning session, try asking how an AI-assisted journey would keep running if its AI service were unavailable for a day. For example, agree which customer messages can fall back to pre-approved copy and who decides when to switch. That is a suggested exercise, not an APRA requirement.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+          "published": "13 Nov, 5:00 am",
+          "tag": "Work relevance"
+        },
+        {
+          "id": "nvidia-ceo-transition-20261113",
+          "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
+          "category": "Technology",
+          "title": "Nvidia co-founder Jensen Huang resigns as CEO",
+          "summary": "Jensen Huang has stepped down immediately as Nvidia’s chief executive, president and board member. Chief financial officer Colette Kress is interim CEO. His departure followed a board investigation after reporting that Huang had been targeted by foreign intelligence.",
+          "detail": "Nvidia says it has no reason to believe company security or trade secrets were compromised. The immediate change is at the top of the company; there is no confirmed change to its chip roadmap or supply commitments in the announcement.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470",
+          "published": "13 Nov, 1:00 am; updated 4:30 am",
+          "tag": "Industry"
+        },
+        {
+          "id": "microsoft-365-outage-20261113",
+          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
+          "category": "Technology",
+          "title": "Microsoft 365 outage hits Outlook, Teams and SharePoint",
+          "summary": "Microsoft reported disruption across several Microsoft 365 services this morning. At ABC’s 7:36 am update, the company was rerouting traffic and pausing deployments while it worked to restore access. Affected services included Outlook, Teams and SharePoint.",
+          "detail": "The outage also affected some connections from Claude and ChatGPT to Microsoft 365. If an AI meeting-prep workflow pulled back nothing this morning, check the calendar or document directly before treating an empty result as confirmation that there is nothing scheduled or shared.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
+          "published": "13 Nov, 6:29 am; updated 7:36 am",
+          "tag": "Service disruption"
+        },
+        {
+          "id": "iran-hormuz-us-deal-shift-20261113",
+          "storyKey": "iran-hormuz-talks-shipping-20261109",
+          "category": "Australia & World",
+          "title": "Trump says the US does not need a deal with Iran",
+          "summary": "Donald Trump said the US did not need a deal with Iran and told Vice-President JD Vance to focus on domestic corruption. It is a shift in Washington’s public stance after the earlier argument over conditions for talks, but not confirmation that all diplomatic contacts have ended.",
+          "detail": "Reuters separately reported that Brent crude rose 3.3 per cent to US$95.82 on Thursday as shipping disruption through the Strait of Hormuz and reports of attacks on Saudi energy infrastructure renewed concern about supply. That is a move in wholesale oil prices, not a forecast for Australian petrol prices.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/trump-says-vance-should-focus-domestic-corruption-we-dont-need-deal-with-iran-2026-11-12/",
+          "published": "13 Nov, 12:39 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "australia-repeated-medicine-shortages-20261113",
+          "storyKey": "australia-tga-repeated-critical-medicine-shortages-analysis",
+          "category": "Australia & World",
+          "title": "New analysis finds some critical medicines repeatedly run short",
+          "summary": "An ABC analysis of Therapeutic Goods Administration shortage records since 2015 found some critical medicines have repeatedly been in short supply. Examples include a long-acting penicillin injection and Creon, an enzyme replacement used by some people whose pancreas does not make enough digestive enzymes.",
+          "detail": "The reporting looks at a pattern over years, not a single new shortage announcement. It highlights why the same medicine can be hard to source more than once even when an earlier shortage was listed as resolved.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
+          "published": "13 Nov, 5:00 am; updated 6:14 am",
+          "tag": "Australia"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "label": "Thursday, 12 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -992,135 +1108,6 @@
           "source": "Reuters",
           "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/",
           "published": "7 Nov, 7:37 am AEDT"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "label": "Friday, 6 November 2026",
-      "note": "Checked Friday morning, Sydney time. Stories are deduplicated by underlying event. Releases, beta access, regional availability and suggested applications are labelled explicitly.",
-      "checked": "2026-11-06T08:23:09+11:00",
-      "stories": [
-        {
-          "id": "nsw-data-centre-inquiry-cumulative-impact-20261106",
-          "category": "Sydney & NSW",
-          "title": "NSW inquiry says data centre checks miss cumulative pressure",
-          "summary": "A cross-party NSW inquiry found planning assesses data centres largely as individual projects, missing their combined demands on electricity, water and infrastructure. Current guidance may underestimate future demand and the pressure created when facilities cluster.",
-          "detail": "The committee stopped short of a moratorium after members voted 6 to 1 to remove that recommendation. It instead called for a state strategy and better coordination across approvals. The issue is especially relevant around Sydney, where residents have opposed projects and major proposals remain under assessment.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/australia-data-centre-inquiry-finds-inadequate-checks-stops-short-moratorium-2026-11-05/",
-          "published": "5 Nov, 11:20 am AEDT",
-          "tag": "NSW inquiry"
-        },
-        {
-          "id": "sydney-mardi-gras-party-return-2027-20261106",
-          "category": "Sydney & NSW",
-          "title": "Sydney Mardi Gras party will return in 2027",
-          "summary": "The official post-parade party is coming back on 6 March beneath Sydney Football Stadium after this year's event was cancelled weeks before the parade. Organisers say the 2026 party would have cost about $2 million after running at a deficit since 2020.",
-          "detail": "The wider festival runs from 12 February to 7 March, one week longer than before. The performer line-up is due next Tuesday, member tickets open on 9 November and general and party pre-sales follow on 12 November.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-05/nsw-sydney-mardi-gras-party-2027-announcement/107346014",
-          "published": "5 Nov, 12:41 pm; updated 1:55 pm",
-          "tag": "Returns in March"
-        },
-        {
-          "id": "apple-creator-studio-ai-update-20261106",
-          "category": "Apple",
-          "title": "Apple Creator Studio's AI update is now rolling out",
-          "summary": "Apple has started releasing the Creator Studio update announced last month. It brings Generate Fill to Pixelmator Pro, a beta assistant and improved Stem Splitter to Logic Pro, plus context-aware beta assistants and MCP workflow support in Keynote, Pages and Numbers.",
-          "detail": "Final Cut Pro also gains built-in MotionVFX assets, a Content Hub and smoother Pixelmator Pro editing. The update is free for existing subscribers, but several AI features remain beta. Australian language or regional availability is not confirmed for every assistant, so check the app release notes before relying on them.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-          "published": "6 Nov, 2:03 am AEDT",
-          "tag": "Rolling out"
-        },
-        {
-          "id": "apple-macbook-pro-proled-reviews-20261106",
-          "category": "Apple",
-          "title": "First touchscreen MacBook Pro reviews are in",
-          "summary": "Early reviews praise the PROLED XDR tandem OLED display, slimmer design and lower weight, while treating touch as useful rather than transformative. Reviewers found gestures handy for photo work and media controls, but the laptop still behaves primarily like a conventional Mac.",
-          "detail": "Other changes include a Dynamic Island, redesigned cooling, up to 16TB of storage and revised speakers. The 14-inch and 16-inch models launch in Australia today from A$4,599 and A$5,499 respectively. For a recent MacBook Pro owner, the display and touch experience are the clearest reasons to upgrade.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/05/macbook-pro-proled-xdr-reviews/",
-          "published": "6 Nov, 2:35 am AEDT",
-          "tag": "Australian launch today"
-        },
-        {
-          "id": "tesla-model-y-australia-ev-share-october-20261106",
-          "category": "Tesla",
-          "title": "Model Y helps EVs outsell petrol for a third month",
-          "summary": "Battery electric vehicles took 23.1 per cent of Australia's new vehicle market in October and again outsold petrol-only cars. Tesla's Model Y and BYD's Sealion 7 were among the leading models, showing that electric SUVs are now driving a broad market shift rather than a niche surge.",
-          "detail": "This is Australian sales context, not a new Tesla feature, software release or change for an existing Model Y. It may strengthen the case for faster charging and service investment, but no owner-facing expansion was announced. No more significant worldwide Tesla product, autonomy, energy or regulatory development was verified in the past 24 hours.",
-          "source": "The Driven",
-          "url": "https://thedriven.io/2026/11/05/electric-cars-outsell-petrol-for-third-straight-month-in-australia-as-byd-atto-2-sales-surge/",
-          "published": "5 Nov, time not stated",
-          "tag": "Australia"
-        },
-        {
-          "id": "openai-gpt-6-cyber-daybreak-20261106",
-          "category": "AI",
-          "title": "OpenAI releases GPT-6 Cyber to a limited defender group",
-          "summary": "GPT-6 Cyber is a specialised model for finding, validating and helping patch exploitable software flaws while staying within authorised scope. OpenAI says it found 81 previously unknown high-severity Firefox vulnerabilities and helped develop working exploits for 948 Linux kernel issues, alongside candidate fixes.",
-          "detail": "The model is initially available only through the API and Codex to selected approved Daybreak Red customers, with broader Daybreak access planned. It is not a general ChatGPT release and no Australian availability is promised. For customer success work, the practical near-term implication is better automated security review by specialist teams, not a new everyday meeting or follow-up feature.",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-6-cyber/",
-          "published": "5 Nov, time not stated",
-          "tag": "Limited release"
-        },
-        {
-          "id": "box-architect-ai-workflow-builder-20261106",
-          "category": "AI",
-          "title": "Box announces a plain-language AI workflow builder",
-          "summary": "Box Architect will let teams describe a business process in ordinary language and turn it into an automated workflow. A related Nvidia-powered retrieval engine is intended to improve answers from company files while reducing token use and response time.",
-          "detail": "Architect is due to begin beta rollout this quarter for Enterprise Advanced customers, while Context Retrieval is slated for general availability in early 2027. No specific Australian launch was stated. Suggested experiment: describe a transcript-to-follow-up flow that extracts decisions, owners and risks, then drafts a customer email for review. That is my suggested use, not a reported Box deployment.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/box-expands-nvidia-partnership-unveils-ai-workflow-builder-2026-11-05/",
-          "published": "6 Nov, 1:06 am AEDT",
-          "tag": "Beta this quarter"
-        },
-        {
-          "id": "technology-ai-cybersecurity-vulnerability-surge-20261106",
-          "category": "Technology",
-          "title": "AI accelerates both hacking and the race to patch",
-          "summary": "Nearly 37,000 software vulnerabilities were reported in the third quarter, triple the year-earlier level, as companies face faster and more sophisticated attacks. Reuters found firms are deploying AI monitoring and patching tools because exploitation can begin within hours of a flaw becoming public.",
-          "detail": "Recent cases include hacked European supermarket refrigeration systems and the record Binance theft. A security answer can date quickly, so ask vendors about patch speed, monitoring and incident response, not just certifications. This is an industry trend, separate from today's GPT-6 Cyber release.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/government/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-2026-11-05/",
-          "published": "5 Nov, 5:06 pm AEDT",
-          "tag": "Cybersecurity"
-        },
-        {
-          "id": "australia-david-jones-administration-suppliers-20261106",
-          "category": "Australia & World",
-          "title": "David Jones enters administration after months of payment strain",
-          "summary": "The 188-year-old department store entered voluntary administration on Thursday, while suppliers told ABC they had waited months for invoices and struggled to get calls answered. Its 38 stores will keep trading while administrators and receivers review the business.",
-          "detail": "McGrathNicol and FTI Consulting are examining options, with a creditors' meeting due next week. The immediate effect is uncertainty for suppliers, staff and gift-card holders rather than an announced shutdown. The collapse is a significant warning about pressure on discretionary retail before Christmas.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-06/david-jones-suppliers-unpaid-invoices/107347028",
-          "published": "6 Nov, 5:00 am; updated 7:48 am",
-          "tag": "Administration"
-        },
-        {
-          "id": "world-iran-hormuz-tanker-attacks-20261106",
-          "category": "Australia & World",
-          "title": "Three more tankers are damaged in the Strait of Hormuz",
-          "summary": "Iran says three more tankers were damaged on Thursday, taking the number of vessel incidents reported since Sunday to at least five. The attacks keep a critical shipping route under pressure as the United States and Iran remain far apart on ending the Gulf conflict.",
-          "detail": "Qatari mediators say both sides are reviewing proposals, but no breakthrough has been announced on the strait, sanctions, the blockade or Iran's nuclear programme. Oil prices have fallen sharply as traders reassess the likelihood of renewed US strikes after the midterm result, though shipping risk remains high.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/tankers-hit-hormuz-iran-keeps-up-pressure-after-us-vote-2026-11-05/",
-          "published": "6 Nov, 2:11 am AEDT",
-          "tag": "Gulf conflict"
-        },
-        {
-          "id": "world-russell-brand-guilty-verdict-20261106",
-          "category": "Australia & World",
-          "title": "Russell Brand is found guilty of rape and sexual assault",
-          "summary": "A London jury found the British comedian and actor guilty of one count of rape and three counts of sexual assault. He was acquitted of two other rape charges and one attempted indecent assault charge after an eight-and-a-half-hour deliberation.",
-          "detail": "The judge revoked Brand's bail and said a significant custodial sentence was inevitable. He has been remanded in custody and will be sentenced on Monday. UK police say they are also investigating rape allegations made by two other women.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304",
-          "published": "6 Nov, 1:28 am; updated 3:36 am",
-          "tag": "Guilty verdict"
         }
       ]
     }
