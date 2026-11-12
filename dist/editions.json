@@ -135,7 +135,49 @@
           "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816",
           "published": "12 Nov, 5:03 am; updated 7:41 am"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-12T16:58:53+11:00",
+        "stories": [
+          {
+            "id": "sydney-harbour-bridge-train-fall-20261112-pm",
+            "storyKey": "sydney-harbour-bridge-train-fall-20261112",
+            "category": "Sydney & NSW",
+            "title": "Teenager critical after falling from train on Harbour Bridge",
+            "summary": "A 17-year-old boy is in a critical condition after falling onto the tracks on the Sydney Harbour Bridge. Police say he was riding on the outside of the train before the fall and are investigating.",
+            "detail": "The incident briefly stopped T1 services between Wynyard and North Sydney and also affected the T9 Northern Line. Services were delayed by up to 90 minutes earlier, so check live transport information before travelling.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826",
+            "published": "12 Nov, 1:20 pm; updated 3:45 pm"
+          },
+          {
+            "id": "bookeasy-national-parks-data-breach-20261112-pm",
+            "storyKey": "bookeasy-national-parks-booking-breach-2026",
+            "category": "Technology",
+            "title": "National parks booking data stolen across three states",
+            "summary": "A breach of booking provider Bookeasy has exposed personal information connected with national parks bookings in Queensland, Victoria and South Australia. Queensland says it does not currently believe financial information was accessed, as payments use a separate system.",
+            "detail": "Park users should be alert to unexpected messages impersonating park staff. Parks Victoria has temporarily suspended new campsite bookings and changes while it investigates, but says existing bookings remain valid.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-12/queensland-parks-booking-system-hacked/107376788",
+            "published": "12 Nov, 10:54 am",
+            "tag": "Data breach"
+          },
+          {
+            "id": "asic-cba-commbiz-fees-court-20261112-pm",
+            "storyKey": "asic-cba-commbiz-undisclosed-fees-2026",
+            "category": "Australia & World",
+            "title": "ASIC takes CBA to court over alleged business banking fees",
+            "summary": "ASIC has launched civil penalty proceedings against Commonwealth Bank, alleging roughly 42,000 CommBiz business customers were overcharged about $8.5 million between November 2020 and May 2025. The regulator says certain transaction fees were not properly disclosed.",
+            "detail": "CBA says it self-reported and cooperated with ASIC, but disputes some allegations and expects to defend parts of the case. The allegations have not been decided by the court.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156",
+            "published": "12 Nov, 9:00 am",
+            "tag": "Court proceedings"
+          }
+        ],
+        "morningChecked": "2026-11-12T08:27:36+11:00"
+      }
     },
     {
       "date": "2026-11-11",
