@@ -114,7 +114,39 @@
           "published": "13 Nov, 5:00 am; updated 6:14 am",
           "tag": "Australia"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-13T16:57:18+11:00",
+        "stories": [
+          {
+            "id": "sydney-swans-police-no-charges-20261113-pm",
+            "storyKey": "sydney-swans-melbourne-investigation-2026",
+            "category": "Sydney & NSW",
+            "title": "Police conclude Swans investigation without charges",
+            "summary": "Victoria Police say four Sydney Swans players will not face criminal charges after an investigation into an alleged sexual assault at a Melbourne hotel in August. Police say there was insufficient evidence to lay charges.",
+            "detail": "Lawyers for three women say they are continuing civil claims related to the allegations. The Swans say their decision to stand players down for breaching club standards was separate from the police investigation.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-13/sydney-swans-players-cleared-by-police-over-pullman/107372082",
+            "published": "13 Nov, 10:56 am",
+            "tag": "Investigation concluded"
+          },
+          {
+            "id": "microsoft-outage-australia-priority-20261113-pm",
+            "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
+            "updatesStoryId": "microsoft-365-outage-20261113",
+            "category": "Technology",
+            "title": "Australia invokes priority recovery agreement as Microsoft outage persists",
+            "summary": "The federal government has activated an agreement with Microsoft intended to prioritise recovery of Australian services. ASIO and the Australian Federal Police confirmed they were among the organisations affected, showing the disruption extends to national security agencies.",
+            "detail": "Microsoft said restored servers had again become unresponsive and was preparing a further fix. Home Affairs Minister Tony Burke says Microsoft told him it does not believe the outage was caused by a cyber attack; a full recovery time has not been confirmed.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100",
+            "published": "13 Nov, 3:55 pm; updated 4:27 pm",
+            "tag": "Material update"
+          }
+        ],
+        "morningChecked": "2026-11-13T08:27:23+11:00"
+      }
     },
     {
       "date": "2026-11-12",
