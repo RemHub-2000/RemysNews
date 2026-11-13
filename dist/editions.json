@@ -1,6 +1,122 @@
 {
   "editions": [
     {
+      "date": "2026-11-14",
+      "label": "Saturday, 14 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-14T08:21:43+11:00",
+      "stories": [
+        {
+          "id": "nsw-corrimal-pattern-book-homes-20261114",
+          "storyKey": "nsw-pattern-book-first-corrimal-homes",
+          "category": "Sydney & NSW",
+          "title": "First homes built from NSW’s $1 plans are nearly finished",
+          "summary": "Four row homes in Corrimal, north of Wollongong, are on track to be the first completed under the NSW Pattern Book scheme. Their builder says approval took eight weeks, compared with the roughly 12 months he would have expected through the usual route.",
+          "detail": "The $1 was an introductory price for the design, not the cost of building or even the current price of the plans, which is $1,000. More than 25,000 plans have been bought, but only 22 projects are under construction, so this is an early test of whether the scheme can deliver housing at scale.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-14/pattern-book-homes-near-completion-in-corrimal/107383868",
+          "published": "14 Nov, 6:00 am; updated 6:49 am",
+          "tag": "Housing"
+        },
+        {
+          "id": "newcastle-harbour-court-ruling-20261114",
+          "storyKey": "newcastle-rising-tide-harbour-protest-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Court clears the way for Newcastle Harbour climate protest",
+          "summary": "The NSW Supreme Court rejected a bid by NSW Police to stop Rising Tide’s protest on Newcastle Harbour, allowing this morning’s planned event to go ahead. Police raised safety concerns about sharing the water with other harbour users; organisers told the court that life jackets would be mandatory and swimming in the channel would be banned.",
+          "detail": "The court ruling concerns the event on the water. Newcastle councillors separately voted this week to oppose Rising Tide using council community land for its protests.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804",
+          "published": "13 Nov, 4:29 pm",
+          "tag": "NSW"
+        },
+        {
+          "id": "apple-home-lg-preorders-20261114",
+          "storyKey": "apple-home-collection-first-accessory-preorders",
+          "category": "Apple",
+          "title": "Apple opens pre-orders for its first LG smart home accessories",
+          "summary": "The first Apple Home Collection products are now up for pre-order on Apple’s US store: an indoor camera, an outdoor camera and a wired video doorbell, with shipping expected in mid-December. The smart lock and thermostats are listed but not yet available to order there.",
+          "detail": "The accessories pair by tapping an iPhone and are managed in Apple Home without a separate app or account. Apple lists the US, Canada and the UK for the collection’s initial release, not Australia. That is separate from HomeView, which is already available here.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+          "published": "14 Nov, 2:22 am",
+          "tag": "Overseas launch"
+        },
+        {
+          "id": "tesla-spacex-talks-texas-scrutiny-20261114",
+          "storyKey": "tesla-spacex-potential-merger",
+          "category": "Tesla",
+          "title": "Reported Tesla and SpaceX merger talks draw scrutiny in Texas",
+          "summary": "Bloomberg reports that merger talks have progressed and that a deal could be announced as early as December. Texas attorney-general-elect Nathan Johnson subsequently warned that any deal would face close scrutiny. That is a warning, not an opened investigation or a decision to block a deal.",
+          "detail": "Tesla has confirmed that an independent board committee is exploring a closer relationship with SpaceX, but neither company has announced a merger. There is no confirmed change for Australian operations or Model Y owners.",
+          "source": "Reuters, citing Bloomberg",
+          "url": "https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/",
+          "published": "13 Nov, 7:22 am; Texas response reported 14 Nov Sydney time",
+          "tag": "Reported talks"
+        },
+        {
+          "id": "gemini-4-hydrogen-global-20261114",
+          "storyKey": "google-gemini-4-hydrogen-global-rollout",
+          "category": "AI",
+          "title": "Google rolls out the faster Gemini 4 Hydrogen model",
+          "summary": "Google has begun rolling out Gemini 4 Hydrogen globally across the Gemini app, Search and developer tools. It is designed for everyday tasks and workflows that use multiple tools, and Google says it completed tasks 2.5 times faster than Gemini 3.8 Flash in its own testing.",
+          "detail": "Free Gemini users can get Hydrogen through automatic model selection rather than choosing it every time. For a work trial, use an approved workspace and a sanitised set of meeting notes: ask for an action table with one supporting quote per row, then check whether it leaves unassigned actions blank rather than inventing owners.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "published": "13 Nov, about 5:00 am",
+          "tag": "Global rollout"
+        },
+        {
+          "id": "microsoft-365-broad-recovery-20261114",
+          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
+          "category": "Technology",
+          "title": "Microsoft reports broad recovery and identifies the outage trigger",
+          "summary": "Since yesterday’s Australian priority recovery update, Microsoft has apologised and says Outlook and other services are broadly stable again, although full restoration was still in progress at the latest report. It attributed the disruption to elevated load after a network capacity upgrade and said it was not a cyberattack or related to AI agents.",
+          "detail": "If you are catching up on work, check the delivery status of time-sensitive messages before sending them again. Broad recovery does not mean every mailbox or delayed message has caught up.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
+          "published": "14 Nov, 6:34 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "australia-lamb-us-tariff-split-20261114",
+          "storyKey": "us-australia-lamb-safeguard-investigation-2026",
+          "category": "Australia & World",
+          "title": "Split US trade vote leaves Australian lamb tariffs up to Trump",
+          "summary": "US trade commissioners tied on whether lamb imports had harmed American producers, leaving Donald Trump to decide whether to impose new tariffs or other restrictions. No extra tariff has been announced. Australian lamb already faces a 12.5 per cent US tariff, and Australia exported more than 100,000 tonnes of lamb there last year.",
+          "detail": "A public hearing on potential measures is set for 1 December, with the commission due to report to Trump by 11 January. Australia argues further restrictions would raise prices for US shoppers.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510",
+          "published": "14 Nov, 7:07 am; updated 8:01 am",
+          "tag": "Trade"
+        },
+        {
+          "id": "australia-philippines-defence-agreement-20261114",
+          "storyKey": "australia-philippines-defence-cooperation-agreement-2026",
+          "category": "Australia & World",
+          "title": "Australia and the Philippines set to sign a defence agreement",
+          "summary": "Australia and the Philippines are expected to sign a defence cooperation agreement on Sunday, on the sidelines of the ASEAN summit in Manila. ABC reports it is expected to expand reciprocal military access and information sharing and support the Philippine Navy and coastguard.",
+          "detail": "The agreement follows repeated maritime confrontations between the Philippines and China in the South China Sea. The new development is the expected signing, not a deal that has already taken effect.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
+          "published": "14 Nov, 6:48 am",
+          "tag": "Indo-Pacific"
+        },
+        {
+          "id": "ukraine-zaporizhzhia-odesa-strikes-20261114",
+          "storyKey": "ukraine-zaporizhzhia-odesa-strikes-20261113",
+          "category": "Australia & World",
+          "title": "Russian strikes kill three in Zaporizhzhia and Odesa, officials say",
+          "summary": "Regional officials said three people were killed in Russian strikes on two Ukrainian cities on Friday. A rescue worker died during the response to a hit on an apartment building in Zaporizhzhia, where more than 50 people were injured.",
+          "detail": "Authorities in Odesa said two people were killed and five injured in a strike on a home. The attacks came days after the prisoner exchange agreement reported earlier this week, a limited deal that did not establish a ceasefire.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russian-strikes-kill-one-zaporizhzhia-two-odesa-2026-11-13/",
+          "published": "14 Nov, 5:48 am",
+          "tag": "World"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "label": "Friday, 13 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -1032,114 +1148,6 @@
           "source": "ABC News with wires",
           "url": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360",
           "published": "8 Nov, 3:35am; updated 6:57am"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "label": "Saturday, 7 November 2026",
-      "note": "Checked Saturday morning, Sydney time. Regional availability, preliminary findings and suggested applications are labelled.",
-      "checked": "2026-11-07T08:19:45+11:00",
-      "stories": [
-        {
-          "id": "bondi-geller-20261107",
-          "category": "Sydney & NSW",
-          "title": "Bondi attack survivor Eva Geller dies",
-          "summary": "Eva Geller, 90, has died after being shot at the Bondi Chanukah gathering last December. ABC reports she was a Holocaust survivor who came to Australia from Hungary as a child and spent much of the past year in hospital or rehabilitation.",
-          "detail": "NSW Police say they are working with the coroner and awaiting further advice. Prime Minister Anthony Albanese and NSW Premier Chris Minns paid tribute to Geller and offered condolences to her family and Sydney's Jewish community.",
-          "source": "ABC News",
-          "url": "https://newsapp.abc.net.au/news/2026-11-06/bondi-terror-attack-survivor-elderly-woman-dies-in-hospital/107355644",
-          "published": "6 Nov"
-        },
-        {
-          "id": "parramatta-powerhouse-opening-20261107",
-          "category": "Sydney & NSW",
-          "title": "Powerhouse Parramatta opens to the public today",
-          "summary": "Western Sydney's $915 million museum opens on Saturday with more than 3,000 objects and five major exhibitions. This is the public opening itself, following earlier previews of the works inside.",
-          "detail": "Entry and four of the five exhibitions are free. The ticketed space and aviation exhibition is $30 for adults, $20 for concessions and free for under-16s. Street parking is limited, so public transport is worth considering if you're heading over from Epping.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-07/what-to-see-nsw-parramatta-powerhouse-officially-opens/107357170",
-          "published": "7 Nov, 5:30 am AEDT"
-        },
-        {
-          "id": "sydney-airport-threat-20261107",
-          "category": "Sydney & NSW",
-          "title": "AFP searches Tokyo flight after Sydney Airport threat",
-          "summary": "Armed federal police met passengers on an All Nippon Airways flight from Tokyo at Sydney Airport on Thursday night and carried out precautionary searches. A passenger told ABC people were kept on board for about 90 minutes before disembarking.",
-          "detail": "The AFP confirmed threats had been sent to an airport. Nearly 30 flights were disrupted by separate bomb threats across Europe on Thursday, but authorities have not established a link to Sydney, and no explosives were reported found on the aircraft searched.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-06/afp-search-sydney-flight-after-european-airline-bomb-threats/107354870",
-          "published": "6 Nov, 1:55 pm AEDT"
-        },
-        {
-          "id": "apple-holiday-returns-20261107",
-          "category": "Apple",
-          "title": "Apple Australia extends eligible online holiday returns",
-          "summary": "Eligible items received from Apple Australia's online store between 6 November and 25 December can be returned until 8 January 2027. The window is based on when you receive the item, not simply when you order it.",
-          "detail": "That gives you more time to decide on a gift or a new device bought directly from Apple. Other retailers have their own policies, and Apple excludes iPhones bought through carrier financing or carrier offers from the extension.",
-          "source": "9to5Mac, checked against Apple Australia",
-          "url": "https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026/",
-          "published": "7 Nov, 1:38 am AEDT"
-        },
-        {
-          "id": "tesla-cybertruck-winddown-20261107",
-          "category": "Tesla",
-          "title": "Tesla plans to wind down Cybertruck production in Texas",
-          "summary": "Elon Musk says Tesla will wind down Cybertruck production at its Austin-area factory around mid-2027 to make room for more Cybercabs. AP cites Kelley Blue Book estimates of about 20,200 Cybertruck sales in 2025 and a further 28 per cent fall through September this year.",
-          "detail": "It is a production plan, not an immediate stop or an Australian robotaxi rollout. The announcement does not confirm a change to Australian Model Y production, support or driver-assistance features.",
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/cybertruck-cybercab-discontinued-musk-sales-6938a145d365f8e31b26bb9c45264b24",
-          "published": "6 Nov, US time"
-        },
-        {
-          "id": "inkling-small-20261107",
-          "category": "AI",
-          "title": "Thinking Machines releases Inkling 2 Small through Tinker",
-          "summary": "Thinking Machines Lab has made its new vision and reasoning model available in Tinker Playground and for fine-tuning and inference through Tinker. Downloadable weights are planned under Apache 2.0 after external safety testing, but they are not available yet; the announcement does not specify Australian account eligibility.",
-          "detail": "The lab demonstrated the model using visual feedback to refine interactive websites. My suggested test, if you have access: give it a screenshot of a mock customer review deck and ask it to flag slides where the takeaway is unclear, using dummy data rather than customer material.",
-          "source": "Thinking Machines Lab",
-          "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-          "published": "5 Nov, vendor date; rollout reported 6 Nov AEDT"
-        },
-        {
-          "id": "eu-tiktok-feed-20261107",
-          "category": "Technology",
-          "title": "EU says TikTok's For You feed may breach digital rules",
-          "summary": "The European Commission says TikTok has not adequately assessed or mitigated the risk of its feed repeatedly steering people towards similar material, including videos about body image or isolation. Regulators want changes to the recommender and easier controls for users to influence what they see.",
-          "detail": "These are preliminary findings under the Digital Services Act, not a final ruling. TikTok disputes the findings. Any resulting redesign could be worth watching in Australia, but no Australian product change was announced.",
-          "source": "European Commission",
-          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
-          "published": "6 Nov, Brussels date"
-        },
-        {
-          "id": "defence-estate-sales-20261107",
-          "category": "Australia & World",
-          "title": "Canberra presses ahead with defence property sales",
-          "summary": "The federal government is sticking with its plan to sell 67 Defence properties despite a parliamentary inquiry recommending a halt. ABC reports the sales are expected to bring in about $3 billion gross, or roughly $1.8 billion after remediation costs.",
-          "detail": "Sydney's Victoria Barracks is on the list, and both of Tasmania's live-fire training areas are earmarked for sale. The government argues that Defence should shift resources north and west, but it has yet to spell out how it will replace the Tasmanian training capacity.",
-          "source": "ABC News",
-          "url": "https://newsapp.abc.net.au/news/2026-11-07/inside-the-battle-over-defence-real-estate/107352438",
-          "published": "7 Nov, 5:00 am AEDT"
-        },
-        {
-          "id": "nz-election-day-20261107",
-          "category": "Australia & World",
-          "title": "New Zealand votes in a tight general election",
-          "summary": "Polls are open today in New Zealand, where Prime Minister Christopher Luxon's National Party and Christopher Hipkins's Labour Party are competing to lead the next government. Cost of living, housing affordability and sluggish growth have dominated the campaign.",
-          "detail": "Voting closes at 7 pm New Zealand time, or 5 pm in Sydney, with preliminary results released progressively afterwards. Those are not the final numbers: the official count, which includes special and overseas votes, is due on 27 November.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/new-zealanders-vote-general-election-2026-11-06/",
-          "published": "7 Nov, 5:01 am AEDT"
-        },
-        {
-          "id": "ukraine-infrastructure-warning-20261107",
-          "category": "Australia & World",
-          "title": "Ukraine warns of fresh strikes on critical infrastructure",
-          "summary": "President Volodymyr Zelenskyy says Ukrainian intelligence indicates Russia is preparing new strikes on energy facilities, bridges and other infrastructure. He said the military was preparing for a difficult period.",
-          "detail": "The warning points to the risk of further disruption to essential services as winter approaches. It is an intelligence assessment reported by Ukraine's president, not confirmation that the anticipated strikes have already happened.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/",
-          "published": "7 Nov, 7:37 am AEDT"
         }
       ]
     }
