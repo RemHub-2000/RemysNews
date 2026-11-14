@@ -114,7 +114,63 @@
           "published": "14 Nov, 5:48 am",
           "tag": "World"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-14T17:06:14+11:00",
+        "stories": [
+          {
+            "id": "nsw-labor-childcare-centres-20261114-pm",
+            "storyKey": "nsw-labor-100-long-day-childcare-election-pledge-2026",
+            "category": "Sydney & NSW",
+            "title": "NSW Labor promises 100 public childcare centres if re-elected",
+            "summary": "NSW Labor has pledged to open and operate 100 long-day childcare centres if it wins the March election. The government estimates they would provide 5,000 places for about 8,000 families.",
+            "detail": "The proposed centres would be on public primary school sites in areas with too few childcare places, with many expected in Western Sydney and regional NSW. This is an election promise, and sits alongside the existing preschool building commitment.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-14/nsw-long-day-childcare-centres-minns-government-election-promise/107385858",
+            "published": "14 Nov, 1:06 pm; updated 4:38 pm",
+            "tag": "Election promise"
+          },
+          {
+            "id": "newcastle-rising-tide-paddle-outcome-20261114-pm",
+            "storyKey": "newcastle-rising-tide-harbour-protest-november-2026",
+            "updatesStoryId": "newcastle-harbour-court-ruling-20261114",
+            "category": "Sydney & NSW",
+            "title": "Newcastle harbour protest ends without arrests",
+            "summary": "More than 600 people took to the water for the Rising Tide protest today, and NSW Police say no arrests were made. Organisers say hundreds more watched from shore.",
+            "detail": "The Port of Newcastle ran no shipping movements between 10 am and 2 pm. Rising Tide says it plans a larger on-water event in February, shortly before the state election.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226",
+            "published": "14 Nov, 4:10 pm",
+            "tag": "Material update"
+          },
+          {
+            "id": "tesla-cybercab-private-orders-20261114-pm",
+            "storyKey": "tesla-cybercab-personal-orders-november-2026",
+            "category": "Tesla",
+            "title": "Tesla invites selected buyers to order a Cybercab",
+            "summary": "Tesla has invited selected customers to buy the two-seat Cybercab for personal use, with an estimated US$29,990 price before tax. A US$299 monthly autonomy subscription is required to operate it, and the order deposit is US$1,000 and non-refundable.",
+            "detail": "Tesla estimates deliveries in December and limits operation to supported service areas. The announcement does not confirm Australian availability or a change for Model Y owners, and this invitation is not a general release.",
+            "source": "Not a Tesla App, citing Tesla",
+            "url": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
+            "published": "14 Nov, Sydney date",
+            "tag": "Limited US invitations"
+          },
+          {
+            "id": "us-faa-ground-stop-lifted-20261114-pm",
+            "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
+            "category": "Australia & World",
+            "title": "US flights resume after nationwide ground stop",
+            "summary": "The US aviation regulator has lifted a nationwide departure stop caused by an air traffic communications failure. Flights can resume, but delays and cancellations continue as airlines reposition aircraft and crews.",
+            "detail": "Qantas is offering eligible passengers booked to or from selected US cities on 13 or 14 November fee-free date changes, credits or refunds, subject to its conditions. Check the airline directly for your flight rather than assuming it has been cancelled.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-resumes-all-flights/107385702",
+            "published": "14 Nov, 8:23 am; updated 1:08 pm",
+            "tag": "Travel disruption"
+          }
+        ],
+        "morningChecked": "2026-11-14T08:21:43+11:00"
+      }
     },
     {
       "date": "2026-11-13",
