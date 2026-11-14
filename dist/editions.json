@@ -1,6 +1,110 @@
 {
   "editions": [
     {
+      "date": "2026-11-15",
+      "label": "Sunday, 15 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-15T08:24:33+11:00",
+      "stories": [
+        {
+          "id": "sydney-bondi-recovery-interview-20261115",
+          "storyKey": "bondi-attack-ahmed-al-ahmed-recovery",
+          "category": "Sydney & NSW",
+          "title": "Ahmed Al Ahmed speaks about the lasting impact of the Bondi attack",
+          "summary": "In a new ABC interview, Ahmed Al Ahmed, who helped stop one of the gunmen at Bondi Beach, says he still lives with chronic pain, restricted movement in his arm and disrupted sleep. He returned to Bondi with the ABC and spoke about the toll the attack has taken on his family as well as his health.",
+          "detail": "The attack is not a new development. The interview is a first-hand account of what recovery has looked like for someone whose actions received worldwide attention at the time.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/nsw-bondi-terror-attack-hero-ahmed-al-ahmed-one-year-on/107379802",
+          "published": "15 Nov, 7:18 am",
+          "tag": "Sydney"
+        },
+        {
+          "id": "sydney-bus-changes-start-20261115",
+          "storyKey": "nsw-november-2026-bus-changes-in-effect",
+          "category": "Sydney & NSW",
+          "title": "Sydney bus changes start today, including new overnight services",
+          "summary": "Transport for NSW begins rolling out bus route and timetable changes today, with further changes through December. The package includes round-the-clock service on routes 370 and 343, longer operating hours on several routes serving Bankstown Metro connections, and a new weekday express between Wilton and Campbelltown.",
+          "detail": "The change is staggered, so not every route moves to its new timetable today. If you are crossing Sydney, use the Trip Planner for the actual day you are travelling rather than relying on an old timetable or familiar interchange stop.",
+          "source": "Transport for NSW",
+          "url": "https://transportnsw.info/news/2026/2026-bus-service-changes",
+          "published": "Changes begin 15 Nov",
+          "tag": "Transport"
+        },
+        {
+          "id": "sydney-housing-lending-slowdown-20261115",
+          "storyKey": "australia-september-2026-housing-lending-slowdown",
+          "category": "Sydney & NSW",
+          "title": "Sydney’s housing slowdown is showing up in new lending",
+          "summary": "ABC analysis published yesterday reports that Sydney and Melbourne have had sharper price falls than the national market. The new lending figures it cites show a 15 per cent fall in new home loans nationally between June and September, with a much steeper 31 per cent drop for investors.",
+          "detail": "The numbers are national, not an estimate for individual Sydney suburbs. They show that fewer buyers are taking out loans, especially investors, but a cheaper asking price does not necessarily mean a cheaper mortgage while rates remain high.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812",
+          "published": "14 Nov, 1:04 pm; updated 9:41 pm",
+          "tag": "Housing analysis"
+        },
+        {
+          "id": "tesla-cybercab-commercial-terms-20261115",
+          "storyKey": "tesla-cybercab-personal-orders-november-2026",
+          "category": "Tesla",
+          "title": "Tesla’s Cybercab order terms rule out commercial use by default",
+          "summary": "The fine print now reported on Tesla’s personal Cybercab offer rules out listing the car on Tesla’s Robotaxi network or using it for paid rides or deliveries unless Tesla specifically authorises or enables it. That is a material limit on the earlier pitch that owners could earn money from a Cybercab when they were not using it.",
+          "detail": "Elon Musk also said the required US$299 monthly subscription should be closer to US$115 and that broader US sales depend on regulatory approval. Neither is a confirmed price or rollout change, and there is still no Australian or Model Y announcement.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "published": "15 Nov, 1:18 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "microsoft-365-full-recovery-20261115",
+          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
+          "category": "Technology",
+          "title": "Microsoft says it has restored service to the remaining affected customers",
+          "summary": "Microsoft now says it has fixed the underlying problem and restored service in the remaining affected regions. That is a step beyond the partial recovery reported yesterday for Outlook, Teams and other Microsoft 365 tools.",
+          "detail": "Restored access does not resolve every missed appointment, overdue reply or failed integration from the outage. If you are following up with a customer who uses Microsoft 365, check whether the original message or invite landed before sending a duplicate.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a",
+          "published": "14 Nov, 8:12 pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "us-flights-network-upgrade-20261115",
+          "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
+          "category": "Australia & World",
+          "title": "US links airport disruption to a network upgrade as flight backlog persists",
+          "summary": "US officials now say work to replace ageing copper cabling with fibre preceded the air traffic communications fault that grounded departures. They are still investigating the root cause, including whether equipment was at fault. The ground stop has been lifted, but airlines are still clearing the backlog of delayed and cancelled flights.",
+          "detail": "If you are heading to the US, check the onward connection as well as the flight out of Australia. Even when the long-haul service is operating, aircraft and crews can still be out of position on the domestic leg.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
+          "published": "15 Nov, 5:40 am; updated 8:08 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "ukraine-donbas-nato-idea-20261115",
+          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
+          "category": "Australia & World",
+          "title": "Zelenskyy says US negotiators raised NATO membership in peace talks",
+          "summary": "Volodymyr Zelenskyy says US negotiators asked whether Ukraine would withdraw from Donbas in exchange for NATO membership. This is a newly disclosed idea discussed in talks, not a formal NATO offer or an agreed peace deal. He reiterated that Kyiv is not prepared to give up territory.",
+          "detail": "Zelenskyy said a comprehensive deal with security guarantees, a well-funded military and reconstruction support could go to a national referendum. The disclosure adds to what is known about the negotiations but does not change the terms of the prisoner exchange already reported.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+          "published": "15 Nov, 12:51 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "eurovision-asia-first-winner-20261115",
+          "storyKey": "eurovision-asia-inaugural-bangkok-final",
+          "category": "Australia & World",
+          "title": "The Philippines wins the first Eurovision Asia contest",
+          "summary": "Carmelle Allyza San Juan Collado won for the Philippines at the inaugural Eurovision Asia final in Bangkok, performing the original song Sobra-Sobra. The 19-year-old was the youngest contestant in a field representing 11 countries.",
+          "detail": "China, India and Japan did not take part in the first edition, so the contest’s debut drew a more limited field than its name might suggest.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/eurovision-asia-2026-song-contest-debuts-in-bangkok-thailand/107381792",
+          "published": "15 Nov, 7:27 am",
+          "tag": "Culture"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "label": "Saturday, 14 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -1085,127 +1189,6 @@
         "checked": "2026-11-09T23:51:10+11:00",
         "morningChecked": "2026-11-09T08:24:03+11:00"
       }
-    },
-    {
-      "date": "2026-11-08",
-      "label": "Sunday, 8 November 2026",
-      "note": "A quieter weekend for product releases, with fresh NSW reporting and significant overseas developments. All publication times below are Sydney time. Preliminary results and company plans are labelled.",
-      "checked": "2026-11-08T08:20:48+11:00",
-      "stories": [
-        {
-          "id": "nsw-prison-mental-health-lead-20261108",
-          "category": "Sydney & NSW",
-          "title": "Psychiatrist calls for clinical control of prison mental health",
-          "summary": "Leading forensic psychiatrist Kerri Eagle says Justice Health, rather than prison officers, should lead the management of mentally ill NSW inmates. Her intervention follows an ABC investigation identifying dozens of coronial findings about failures in care since 2015.",
-          "detail": "Eagle is a Justice Health clinical director but spoke in a private capacity, so this is a reform proposal, not an announced government policy. Prison officers currently develop immediate support plans covering housing and observation for inmates in crisis. Corrective Services NSW says progress requires a coordinated, whole-of-government response. The central question is who holds clinical responsibility when an inmate needs urgent care.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
-          "published": "8 Nov, 5:53am"
-        },
-        {
-          "id": "nsw-combat-sports-inquiry-20261108",
-          "category": "Sydney & NSW",
-          "title": "NSW weighs stronger controls on collision and slap sports",
-          "summary": "A parliamentary inquiry is examining whether collision-running, competitive slapping and bare-knuckle boxing should be formally classified as combat sports. Friday's hearing exposed a sharp split: the Combat Sports Authority wants stronger controls, while neurologist Rowena Mobbs urged a ban because of brain-injury risks.",
-          "detail": "Bare Knuckle Australia representatives said they were willing to collaborate on regulation, although organisers differed over how much intervention was appropriate. Collision-running and power-slap organisers did not appear. The inquiry's report is expected by Christmas, so no new rules have been adopted through this process yet. The immediate significance is the direction of NSW event regulation, not a change to ordinary community sport.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-07/collision-running-bare-knuckle-boxing-parliament-inquiry/107310954",
-          "published": "7 Nov, 9:44am"
-        },
-        {
-          "id": "kiwis-tonga-newcastle-semifinal-20261108",
-          "category": "Sydney & NSW",
-          "title": "Newcastle hosts a wet World Cup breakthrough for the Kiwis",
-          "summary": "New Zealand beat Tonga 34-10 in the Rugby League World Cup semi-final at Hunter Stadium in Newcastle. Kalyn Ponga returned from a broken arm to deliver a man-of-the-match performance in appalling weather.",
-          "detail": "The result sends the Kiwis into the final. ABC's match analysis credits their pressure and composure in the difficult conditions.",
-          "source": "ABC News, match analysis",
-          "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-tonga-world-cup-kalyn-ponga/107359742",
-          "published": "8 Nov, 6:44am"
-        },
-        {
-          "id": "apple-quiet-check-20261108",
-          "category": "Apple",
-          "title": "No significant fresh Apple development verified",
-          "summary": "No significant Apple announcement or substantive new development was verified within the past 24 hours. Fresh accessory coverage, shopping offers and weekly recaps do not warrant padding out today's section.",
-          "detail": "The source link opens MacRumors' dated November archive.",
-          "source": "MacRumors, archive checked",
-          "url": "https://www.macrumors.com/archive/2026/11/",
-          "published": "Checked 8 Nov"
-        },
-        {
-          "id": "tesla-cybertruck-extra-shift-20261108",
-          "category": "Tesla",
-          "title": "Tesla plans an extra Cybertruck shift before the line closes",
-          "summary": "The substantive update to yesterday's wind-down news: Elon Musk says Tesla will add a production shift to try to clear Cybertruck orders before dismantling the line around June or July 2027. The space is intended for expanded Cybercab production.",
-          "detail": "Musk says the backlog exceeds what Tesla can currently build before that deadline. This is a production plan, not confirmation that every order will be fulfilled. No change to Australian Model Y servicing, software or charging is confirmed by this announcement.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/tesla-expand-cybertruck-production-bid-fill-orders-before-dismantling-line-next-2026-11-07/",
-          "published": "8 Nov, 5:38am",
-          "tag": "Material update"
-        },
-        {
-          "id": "ai-quiet-product-check-20261108",
-          "category": "AI",
-          "title": "A quiet day for verified AI releases",
-          "summary": "No significant new AI product release with verified availability was found in the past 24 hours. Recent releases already covered are not being recycled as new meeting, presentation or workflow tools.",
-          "detail": "The source link is OpenAI's official news index, checked alongside other major providers. No new Australian rollout is claimed today.",
-          "source": "OpenAI, official news checked",
-          "url": "https://openai.com/news/",
-          "published": "Checked 8 Nov"
-        },
-        {
-          "id": "wgac-marketing-provider-breach-20261108",
-          "category": "Technology",
-          "title": "Who Gives A Crap warns customers after marketing-provider breach",
-          "summary": "Who Gives A Crap notified customers on Saturday that an unnamed US marketing-software provider had suffered unauthorised access affecting Australian, UK and US customer data. Names, contact information, mailing addresses and total spend were involved, but the company says payment details, order details and passwords were not.",
-          "detail": "Access began on 30 October and was secured on 1 November; WGAC says it was informed on Friday. It does not yet know whether data was copied or downloaded and reports no evidence of misuse. It has disconnected the provider and changed credentials. My suggested CSM takeaway: use this as a prompt to review third-party access scope and incident-notification responsibilities with relevant teams. The reporting does not identify the vendor, so there is no basis to attribute it to Braze.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858",
-          "published": "8 Nov, 2:04am"
-        },
-        {
-          "id": "nz-election-preliminary-count-20261108",
-          "category": "Australia & World",
-          "title": "New Zealand's election is too close to settle",
-          "summary": "With results from all voting places, National has 29.37 per cent of the party vote against Labour's 29.22 per cent. The National, ACT and NZ First bloc is provisionally projected to hold 67 of 131 seats, only one above the majority threshold.",
-          "detail": "About 700,000 special votes, including overseas ballots, remain to be processed. That means yesterday's voting has not produced a confirmed government, and both major-party leaders acknowledge negotiations lie ahead. Smaller parties and the final size of parliament could change the balance. Expect weeks of counting and coalition discussions, not a settled winner this weekend.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778",
-          "published": "8 Nov, 1:36am",
-          "tag": "Preliminary results"
-        },
-        {
-          "id": "kyiv-energy-bridge-attacks-20261108",
-          "category": "Australia & World",
-          "title": "Russian strikes damage Kyiv's energy supply and a major bridge",
-          "summary": "The attacks Ukraine warned about yesterday have now hit energy infrastructure around Kyiv, with authorities reporting serious pressure on electricity, water and heating as temperatures approach freezing. Missiles also damaged the Northern Bridge across the Dnipro.",
-          "detail": "Authorities reported at least two deaths and around a dozen injuries across Ukraine. The strikes come before US-brokered Russia-Ukraine talks scheduled in Abu Dhabi on 10 and 11 November. This is a material escalation from the earlier warning, not a repeat of it.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/",
-          "published": "7 Nov, 12:23pm",
-          "tag": "Material update"
-        },
-        {
-          "id": "israel-eisenkot-coalition-mandate-20261108",
-          "category": "Australia & World",
-          "title": "Eisenkot gets the first chance to form Israel's government",
-          "summary": "President Isaac Herzog has selected Benjamin Netanyahu's leading rival, Gadi Eisenkot, to try to assemble a coalition after Israel's deadlocked election. This does not make Eisenkot prime minister: he still needs a parliamentary majority.",
-          "detail": "The formal offer is expected later on Sunday in Israel, early Monday in Sydney, after which he will initially have 28 days. Arab-Israeli parties hold a record 19 seats and are central to the negotiations. Without their support, Eisenkot would need ultra-Orthodox parties from Netanyahu's previous coalition to change sides. The political outcome remains unresolved.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
-          "published": "8 Nov, 6:41am; updated 7:49am"
-        },
-        {
-          "id": "krakow-market-square-shooting-20261108",
-          "category": "Australia & World",
-          "title": "Six killed in Krakow market-square shooting",
-          "summary": "Polish authorities say six people were killed and 16 injured in a shooting in Krakow's main market square. Police shot the suspected lone attacker, who remains in hospital, and say the public is now safe.",
-          "detail": "The interior minister says early findings point to far-right ideological influences, but the motive has not been established. One injured police officer is in a critical condition. Treat the ideological assessment and other early details as provisional while investigators establish what happened.",
-          "source": "ABC News with wires",
-          "url": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360",
-          "published": "8 Nov, 3:35am; updated 6:57am"
-        }
-      ]
     }
   ]
 }
