@@ -1,6 +1,122 @@
 {
   "editions": [
     {
+      "date": "2026-11-16",
+      "label": "Monday, 16 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-16T08:22:37+11:00",
+      "stories": [
+        {
+          "id": "western-sydney-airport-heat-20261116",
+          "storyKey": "western-sydney-airport-urban-heat-research",
+          "category": "Sydney & NSW",
+          "title": "Researcher warns Western Sydney Airport could add to summer heat",
+          "summary": "A Western Sydney University researcher says the new airport’s large paved footprint at Badgerys Creek could absorb heat and release it back into the surrounding area. He also raised the possibility that the site could interrupt cooling southerly winds that sometimes bring relief to Penrith.",
+          "detail": "The airport says it assessed climate risks throughout design and construction and took steps to protect operations during extreme heat. That addresses the airport’s own resilience; the effect on temperatures in neighbouring suburbs has not yet been measured in the reporting.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/nsw-wsi-airport-heat-impact-summer-western-sydney/107297220",
+          "published": "16 Nov, 5:56 am",
+          "tag": "Western Sydney"
+        },
+        {
+          "id": "oberon-fish-river-undertaking-20261116",
+          "storyKey": "oberon-fish-river-sewage-epa-undertaking",
+          "category": "Sydney & NSW",
+          "title": "Oberon Council agrees to spend $75,000 after sewage spill",
+          "summary": "Oberon Council has entered an enforceable agreement with the NSW Environment Protection Authority after untreated sewage escaped from a pumping station into the Fish River over nine days in September 2025. The agreement, rather than a new spill or an ordinary fine, is the development reported this morning.",
+          "detail": "The Central West council will spend $60,000 over three years removing willows and planting native species along the river, plus $15,000 towards the EPA investigation. The mayor apologised and attributed the discharge to a pump fault.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/oberon-sewage-epa/107381580",
+          "published": "16 Nov, 6:29 am",
+          "tag": "Environment"
+        },
+        {
+          "id": "apple-glasses-iphone-app-report-20261116",
+          "storyKey": "apple-smart-glasses-siri-iphone-app-prototypes",
+          "category": "Apple",
+          "title": "Report: Apple’s smart glasses would rely on Siri and iPhone apps",
+          "summary": "The latest Bloomberg reporting, covered by 9to5Mac, says Apple wants Siri to control features in third-party iPhone apps through its first smart glasses. The new detail is how Apple expects that to work: the apps would run on the paired phone rather than on the glasses themselves.",
+          "detail": "A reveal at WWDC in June 2027 and a release later that year are reported targets, not confirmed dates. Apple has not announced the glasses, a price or Australian availability.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
+          "published": "16 Nov, 2:48 am",
+          "tag": "Rumour"
+        },
+        {
+          "id": "tesla-us-model-y-range-discrepancy-20261116",
+          "storyKey": "tesla-us-entry-model-y-rwd-range-listing-2026",
+          "category": "Tesla",
+          "title": "Tesla lists more range for the base US Model Y, but the EPA listing still differs",
+          "summary": "Tesla’s US order page now lists 348 miles, about 560 km, for the entry Model Y RWD, up from 321 miles with no change to its US starting price. In a fresh check on Sunday, Drive Tesla found the US government’s fuel-economy database still listed 321 miles for the 2026 Standard RWD with 18-inch wheels.",
+          "detail": "Tesla has not explained what changed or said the figure applies to cars already delivered. It is a US listing, not a new Australian range rating or an update for existing Model Y owners here.",
+          "source": "Drive Tesla",
+          "url": "https://driveteslacanada.ca/news/model-y-rwd-348-mile-range/",
+          "published": "15 Nov, North American date",
+          "tag": "US listing"
+        },
+        {
+          "id": "longcat-avatar-16-release-20261116",
+          "storyKey": "meituan-longcat-video-avatar-1-6-release",
+          "category": "AI",
+          "title": "Meituan releases an update to its downloadable talking-avatar model",
+          "summary": "Meituan has published LongCat-Video-Avatar 1.6 with downloadable weights under the MIT licence. It turns spoken audio into character animation, and the team reports improved lip sync and more consistent motion on long clips, including videos beyond ten minutes.",
+          "detail": "This is a model release for teams with suitable compute, not a ready-to-use presentation app. A small, low-risk test would be a clearly labelled training clip with a fictional avatar and a consented voice, then checking whether the extra production work beats recording the same explanation normally.",
+          "source": "Meituan model card",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+          "published": "15 Nov, Sydney date",
+          "tag": "Released weights"
+        },
+        {
+          "id": "spacex-starship-orbital-recovery-20261116",
+          "storyKey": "spacex-starship-flight-15-upper-stage-recovery",
+          "category": "Technology",
+          "title": "SpaceX recovers Starship’s upper stage after a full orbital test",
+          "summary": "SpaceX’s launch tower caught the Starship upper stage after it spent more than 22 hours in orbit and deployed 26 Starlink satellites. The Super Heavy booster did not complete its planned return, so the flight did not achieve the intended double catch.",
+          "detail": "The upper-stage recovery is still a milestone: it demonstrates one of the steps needed to reuse the whole rocket, rather than just its booster. It does not establish how quickly the vehicle can be inspected and flown again.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
+          "published": "15 Nov, 9:34 am; updated 9:46 am",
+          "tag": "Space"
+        },
+        {
+          "id": "domestic-gas-reservation-joint-letter-20261116",
+          "storyKey": "australia-domestic-gas-reservation-senate-2026",
+          "category": "Australia & World",
+          "title": "Unions and manufacturers urge the Senate to pass gas reservation",
+          "summary": "Unions and industry bodies have jointly urged senators to pass the proposed domestic gas reservation scheme as debate gets under way. It would require major exporters to reserve up to 20 per cent of their supply for Australia, with the aim of easing pressure on local gas prices.",
+          "detail": "The joint push comes from organisations that do not often line up together, including the Australian Workers’ Union and Australian Industry Group. The bill has not passed, and the proposal does not translate into an immediate change to household bills.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656",
+          "published": "16 Nov, from 7:05 am",
+          "tag": "Federal politics"
+        },
+        {
+          "id": "middle-east-gaza-bahrain-20261116",
+          "storyKey": "middle-east-gaza-bahrain-escalation-20261115",
+          "category": "Australia & World",
+          "title": "Israel reports killing Hamas commander as Bahrain says it intercepted attacks",
+          "summary": "Israel said it killed a senior Hamas military commander in southern Gaza on Sunday. Separately, Bahrain said it intercepted Iranian aerial attacks, while Iran claimed it had hit a US military installation in Bahrain.",
+          "detail": "The US military had not immediately commented on the latest Iranian claim in ABC’s reporting. Bahrain’s account confirms a response to incoming attacks, not that the claimed US target was hit.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+          "published": "15 Nov, 9:33 pm; updated 16 Nov, 6:31 am",
+          "tag": "Middle East"
+        },
+        {
+          "id": "us-airlines-third-day-recovery-20261116",
+          "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
+          "category": "Australia & World",
+          "title": "US flight disruptions carry into a third day, though cancellations ease",
+          "summary": "US airlines cancelled more than 1,600 flights and delayed almost 3,600 by Reuters’ Sunday update, down from more than 6,400 cancellations on Saturday. US Transport Secretary Sean Duffy expects schedules to be largely normal by Monday US time, but that is a forecast rather than a guarantee for individual flights.",
+          "detail": "For an Australia-to-US itinerary, the main thing to check is whether a domestic connection is still operating. Delays have persisted after the national ground stop ended, even when long-haul flights are departing.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-air-travel-disruptions-continue-into-third-day-2026-11-15/",
+          "published": "16 Nov, 3:49 am",
+          "tag": "Material update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "label": "Sunday, 15 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -975,250 +1091,6 @@
           }
         ],
         "morningChecked": "2026-11-10T08:23:34+11:00"
-      }
-    },
-    {
-      "date": "2026-11-09",
-      "label": "Monday, 9 November 2026",
-      "note": "Checked Monday morning, Sydney time. Publication times below are Sydney time. Reported plans, rumours and unverified claims are labelled; the AI release section is short on a quiet weekend.",
-      "checked": "2026-11-09T08:24:03+11:00",
-      "stories": [
-        {
-          "id": "sydney-barracks-sale-reversal-20261109",
-          "category": "Sydney & NSW",
-          "title": "Victoria Barracks stays public after a government backdown",
-          "summary": "Anthony Albanese has scrapped the planned sale of Sydney's Victoria Barracks following a political and community backlash. The heritage site will instead transfer from Defence to the Finance Department, with the prime minister promising public access and protection of its history.",
-          "detail": "This reverses part of Saturday's defence-property sale story. Three other sites are also being retained, but Defence personnel are still due to leave all 67 affected properties within two years. The wider disposal programme continues; unrestricted public access is not yet confirmed.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530",
-          "published": "8 Nov, 9:16am; updated 4:18pm",
-          "tag": "Material update"
-        },
-        {
-          "id": "bathla-workers-unpaid-20261109",
-          "category": "Sydney & NSW",
-          "title": "Bathla workers seek answers over missing wages and entitlements",
-          "summary": "About 200 former Bathla workers are demanding clarity over unpaid wages and entitlements after the Sydney developer's collapse. Employees speaking publicly for the first time describe debts running into tens of thousands of dollars, difficulty finding new jobs and, for some, uncertainty about their immigration status.",
-          "detail": "Bathla entered voluntary administration in August owing at least $3.4 billion. Administrators have been granted until September 2027 to determine the group's future, leaving staff facing a lengthy wait. Today's development is the workers' accounts and demands for transparent entitlement information, rather than a newly announced collapse or a confirmed repayment timetable.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
-          "published": "9 Nov, 5:45am"
-        },
-        {
-          "id": "cooks-river-data-centre-withdrawn-20261109",
-          "category": "Sydney & NSW",
-          "title": "Cooks River data centre dropped, but logistics plans continue",
-          "summary": "Stockland and John Boyd Properties have removed the AI data centre from their proposed redevelopment of the former Kogarah Golf Club site at Arncliffe. Community opponents had raised concerns about the Cooks River's ecology, electricity demand, water use and noise.",
-          "detail": "The partners say they are still pursuing the logistics precinct, so this is not the cancellation of the whole development. Their revised plans include a public foreshore connection and future parkland. It is a concrete local example of the infrastructure pressures behind the broader NSW data-centre debate, distinct from last week's parliamentary inquiry findings.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
-          "published": "8 Nov, 2:26pm"
-        },
-        {
-          "id": "nsw-cold-front-snow-20261109",
-          "category": "Sydney & NSW",
-          "title": "Sydney's abrupt chill brings November snow to the mountains",
-          "summary": "A strong cold front has brought snow to parts of NSW and a sharp temperature drop across Sydney. ABC reports the city fell from 29.7C on Saturday to 14C that evening, while Thredbo reached minus 5C overnight.",
-          "detail": "Strong southerly winds and hazardous coastal conditions are forecast for Monday, with the chill continuing. If you're heading out from Epping, take a warmer layer.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014",
-          "published": "8 Nov, 4:53pm"
-        },
-        {
-          "id": "apple-agentic-siri-report-20261109",
-          "category": "Apple",
-          "title": "Report: Siri could become more proactive next year",
-          "summary": "9to5Mac reports that Bloomberg's Mark Gurman expects Apple to move towards a more agent-like Siri, potentially as early as next year. The idea is an assistant that can pursue goals and decide what to do next, rather than needing a separate instruction for every step.",
-          "detail": "This is fresh reporting about Apple's direction, not an announced release or an available feature. There is no confirmed launch date, supported-device list or Australian rollout to act on. For you, the interesting prospect is less manual coordination across apps, but it would be premature to build a customer workflow around it.",
-          "source": "9to5Mac, citing Bloomberg",
-          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
-          "published": "9 Nov, 2:30am",
-          "tag": "Report, not released"
-        },
-        {
-          "id": "tesla-cybercab-40kwh-silver-plan-20261109",
-          "category": "Tesla",
-          "title": "Musk outlines a smaller-battery, silver Cybercab",
-          "summary": "Not a Tesla App reports that Elon Musk says upcoming efficiency improvements will allow a 40kWh Cybercab battery, down from the current 47.6kWh pack. He also says Tesla will offer the robotaxi in liquid silver alongside gold.",
-          "detail": "No timing or revised range figures were supplied. A smaller pack could reduce manufacturing cost and weight, but that is a potential implication, not a measured outcome for the new version. This concerns Cybercab hardware: no corresponding Australian Model Y battery change, software update or local robotaxi launch is confirmed. The published silver images are concepts, not proof of delivered vehicles.",
-          "source": "Not a Tesla App, reporting Musk's announcement",
-          "url": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
-          "published": "8 Nov, US publication date",
-          "tag": "Announced plan"
-        },
-        {
-          "id": "ai-product-release-check-20261109",
-          "category": "AI",
-          "title": "No significant fresh AI release verified",
-          "summary": "No significant new AI model or practical product release with verified availability was found in the past 24 hours. Older announcements are not being recycled as new releases.",
-          "detail": "My suggestion for an existing approved tool: extract commitments, owners and dates from a sanitised transcript, then verify them before drafting a follow-up. This is a workflow idea, not a new feature.",
-          "source": "OpenAI official news; provider checks",
-          "url": "https://openai.com/news/",
-          "published": "Checked 9 Nov"
-        },
-        {
-          "id": "anthropic-generator-deal-report-20261109",
-          "category": "Technology",
-          "title": "Report: Anthropic secures US$3.4 billion in power equipment",
-          "summary": "Reuters, citing the Financial Times, reports that Anthropic secured commitments for 1.7GW of gas-fired generators from OnePWR Solutions in late September. The reported deal includes installation-related engineering and construction capabilities, not an acquisition of the supplier.",
-          "detail": "Reuters could not independently verify the report, and neither company responded to its requests for comment. This is newly reported infrastructure spending, not a new Claude product or evidence that all the capacity is already operating. It underlines how power supply is shaping the AI industry's expansion.",
-          "source": "Reuters, citing the Financial Times",
-          "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
-          "published": "8 Nov, 11:54pm",
-          "tag": "Unverified report"
-        },
-        {
-          "id": "iran-hormuz-talks-shipping-20261109",
-          "category": "Australia & World",
-          "title": "Hormuz shipping incidents continue as diplomacy inches forward",
-          "summary": "ABC reports that Iran says tankers caught fire after hitting mines in the Strait of Hormuz, while the US says it disabled a vessel attempting to breach its blockade. Iranian officials have not confirmed that explosions around Qeshm Island were new US strikes.",
-          "detail": "Iran is reviewing proposals conveyed through Qatar, but conditions for nuclear negotiations remain contested. Treat military claims and the cause of the blasts cautiously. For Australia, disruption to this major energy-shipping route remains relevant to fuel costs and supply chains; these reports do not establish a new local petrol-price change.",
-          "source": "ABC News with international agencies",
-          "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
-          "published": "8 Nov, 12:07pm; updated 3:45pm"
-        },
-        {
-          "id": "us-hegseth-congress-pressure-20261109",
-          "category": "Australia & World",
-          "title": "Hegseth faces congressional pressure after the US midterms",
-          "summary": "ABC reports that multiple Democrats plan to pursue impeachment of US Defence Secretary Pete Hegseth when they take control of both houses in January. It comes as Donald Trump reshapes his team, replacing chief of staff Susie Wiles with Stephen Miller.",
-          "detail": "Hegseth's support for the unpopular Iran war is a major political vulnerability, according to the report. Speculation that Trump might dismiss him is not a confirmed decision, and threatened impeachment is not removal from office. The substantive development is the looming confrontation over defence leadership and war policy, rather than another recap of the election result.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974",
-          "published": "9 Nov, 5:38am; updated 6:22am"
-        },
-        {
-          "id": "egypt-giza-train-collision-20261109",
-          "category": "Australia & World",
-          "title": "Seven killed in a train collision near Cairo",
-          "summary": "Egypt's health ministry says at least seven people were killed and more than 110 injured when passenger trains collided in Giza province on Sunday. One train struck the rear of another in Al-Ayyat, causing a derailment.",
-          "detail": "Emergency teams were sent to clear the wreckage and restore services. President Abdel Fattah al-Sisi ordered an investigation. The technical cause has not yet been established.",
-          "source": "ABC News with AP and Reuters",
-          "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
-          "published": "9 Nov, 6:20am"
-        }
-      ],
-      "afternoon": {
-        "note": "Developments since the 8:24am morning check. Publication times are Sydney time.",
-        "stories": [
-          {
-            "id": "sydney-lamarre-condon-cross-examination-20261109",
-            "storyKey": "lamarre-condon-baird-davies-murder-trial",
-            "category": "Sydney & NSW",
-            "title": "Lamarre-Condon denies intending to kill Jesse Baird",
-            "summary": "Under cross-examination on Monday, former NSW police officer Beau Lamarre-Condon denied the prosecution's allegation that he intended to kill his former partner Jesse Baird. He also said the gun discharged during a struggle when Luke Davies was shot.",
-            "detail": "The testimony puts intent at the centre of the competing accounts in the double murder trial. Lamarre-Condon has pleaded not guilty.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-09/cross-examination-of-beau-lamarre-condon-continues/107362762",
-            "published": "9 Nov, 4:34pm"
-          },
-          {
-            "id": "sydney-glebe-ebike-police-charges-20261109",
-            "storyKey": "glebe-police-vehicle-ebike-collision-2026",
-            "category": "Sydney & NSW",
-            "title": "Two NSW police officers charged after alleged e-bike hit and run",
-            "summary": "Detectives charged two constables on Monday over a May collision near Glebe Point Road. NSW Police allege a marked police vehicle hit a 25-year-old e-bike rider and the officers drove away without stopping to help.",
-            "detail": "The officer alleged to have been driving also faces a negligent driving charge. Both officers are due in court on 15 January, and NSW Police is reviewing their employment status.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-09/nsw-police-charged-over-alleged-ebike-hit-and-run-broadway/107366072",
-            "published": "9 Nov, 8:19pm"
-          },
-          {
-            "id": "apple-intelligence-china-ipad-mac-registration-20261109",
-            "storyKey": "apple-intelligence-china-tablet-laptop-registration",
-            "category": "Apple",
-            "title": "Apple Intelligence clears a registration step for iPads and Macs in China",
-            "summary": "Shanghai's cyberspace regulator says it has registered Apple Intelligence for use on tablets and laptops in China. This extends the regulatory progress beyond iPhones, which received approval in July.",
-            "detail": "Registration is required before public availability in China. The regulator's announcement gives no rollout date and concerns the Chinese market.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/business/retail-consumer/apple-intelligence-ai-service-registers-with-chinese-regulator-use-tablets-2026-11-09/",
-            "published": "9 Nov, 10:47pm",
-            "tag": "Regulatory step"
-          },
-          {
-            "id": "tesla-cybertruck-deposit-refunds-20261109",
-            "storyKey": "tesla-cybertruck-winddown-20261107",
-            "category": "Tesla",
-            "title": "Musk says Tesla will have to refund many Cybertruck deposits",
-            "summary": "Elon Musk said on Monday that Tesla expects to return deposits to many Cybertruck buyers because it cannot build enough pickups before the Texas line shuts. The refund expectation is new after the weekend's plan to add a production shift to clear the backlog.",
-            "detail": "Tesla has yet to give affected buyers a timetable in the reporting. The change concerns Cybertruck orders, with no announced effect on Australian Model Y owners.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-refund-many-cybertruck-deposits-demand-exceeds-production-musk-says-2026-11-09/",
-            "published": "9 Nov, 6:36pm",
-            "tag": "New since the weekend"
-          },
-          {
-            "id": "australia-tiktok-senate-duty-hearing-20261109",
-            "storyKey": "australia-digital-duty-of-care-senate-tiktok-hearing",
-            "category": "Technology",
-            "title": "Senate questions TikTok over self-harm content",
-            "summary": "Independent senator David Pocock questioned TikTok executives on Monday about self-harm content during a hearing on Australia's proposed digital duty of care. The bill would put a greater onus on online platforms to protect users from harm.",
-            "detail": "The hearing put TikTok's handling of harmful content under scrutiny as senators consider what the proposed duty would require of platforms.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
-            "published": "9 Nov, afternoon hearing"
-          },
-          {
-            "id": "mitsui-jsr-chip-materials-deal-20261109",
-            "storyKey": "mitsui-chemicals-jsr-acquisition",
-            "category": "Technology",
-            "title": "Mitsui Chemicals strikes US$11.6 billion deal for chip materials maker JSR",
-            "summary": "Mitsui Chemicals agreed to buy JSR in a deal worth about US$11.6 billion, with backing from the Development Bank of Japan. The filing confirms a sale that Reuters had reported was in the works last week.",
-            "detail": "JSR makes photoresists, the light-sensitive materials used to transfer circuit patterns onto semiconductor wafers. The deal brings a key chipmaking supplier into a larger Japanese chemicals group.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/",
-            "published": "9 Nov, 1:11pm"
-          },
-          {
-            "id": "cop31-antalya-opens-20261109",
-            "storyKey": "cop31-antalya-opening-electrification-pledge",
-            "category": "Australia & World",
-            "title": "COP31 opens in Türkiye with a push to electrify more of the economy",
-            "summary": "The UN climate summit opened in Antalya on Monday, with Türkiye asking countries to back a pledge to electrify more than a third of the global economy by 2035. Australia is leading the negotiations.",
-            "detail": "The pledge has already drawn criticism because it leaves countries free to generate the extra electricity from fossil fuels. That makes the source of the power a point of debate alongside the headline target.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/",
-            "published": "9 Nov, 12:04pm"
-          },
-          {
-            "id": "iran-hormuz-talks-two-day-proposal-20261109-pm",
-            "storyKey": "iran-hormuz-talks-shipping-20261109",
-            "category": "Australia & World",
-            "title": "Iran defends two-day path to talks after US rejects conditions",
-            "summary": "Iran's foreign ministry publicly defended a proposal on Monday to restart talks within two days, shortening its earlier seven-day proposal. US Secretary of State Marco Rubio rejected some of Tehran's conditions, which include lifting sanctions and the naval blockade and ending hostilities.",
-            "detail": "The shorter timetable still depends on Washington accepting those conditions, so the proposal offers no clear path to an imminent reopening of the Strait of Hormuz.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/",
-            "published": "9 Nov, 8:15pm",
-            "tag": "Morning follow-up",
-            "updatesStoryId": "iran-hormuz-talks-shipping-20261109"
-          },
-          {
-            "id": "ukraine-kirishi-refinery-strike-20261109",
-            "storyKey": "ukraine-kirishi-refinery-strike-november-2026",
-            "category": "Australia & World",
-            "title": "Drone attack sets Russian refinery ablaze before peace talks",
-            "summary": "The governor of Russia's Leningrad region said a Ukrainian drone attack set the Kirishi refinery ablaze on Monday and that falling debris killed a woman. Kirishi is Russia's second-largest refinery.",
-            "detail": "The attack came a day before Russian, Ukrainian and US negotiators are due to meet in Abu Dhabi for their first peace talks since February, with security guarantees high on the agenda.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
-            "published": "9 Nov, 8:22pm"
-          },
-          {
-            "id": "krakow-shooter-dies-permit-review-20261109",
-            "storyKey": "krakow-market-square-shooting-20261108",
-            "category": "Australia & World",
-            "title": "Poland to review gun permit rules after Krakow gunman dies",
-            "summary": "The gunman who killed six people in Krakow's market square has died in hospital. Poland's justice minister said investigators will continue looking into whether he acted alone or was influenced by a group.",
-            "detail": "The government will also review its gun permit requirements. Authorities said the gunman and his father both held permits.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174",
-            "published": "9 Nov, 10:38pm",
-            "tag": "New since the weekend"
-          }
-        ],
-        "checked": "2026-11-09T23:51:10+11:00",
-        "morningChecked": "2026-11-09T08:24:03+11:00"
       }
     }
   ]
