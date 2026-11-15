@@ -102,7 +102,38 @@
           "published": "15 Nov, 7:27 am",
           "tag": "Culture"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
+        "checked": "2026-11-15T17:02:11+11:00",
+        "stories": [
+          {
+            "id": "nsw-severe-storm-forecast-20261115-pm",
+            "storyKey": "nsw-severe-storm-risk-november-15-2026",
+            "category": "Sydney & NSW",
+            "title": "Storm risk extends across NSW this afternoon",
+            "summary": "The Bureau of Meteorology says severe thunderstorms are likely across parts of eastern Australia today, including areas west of Sydney and north towards south-east Queensland. Damaging winds, large hail and heavy rain are possible, with the highest-risk storms forecast further north.",
+            "detail": "The bureau's 2 pm forecast for Sydney's outer west warns of possible severe storms and flash flooding this afternoon or early evening. Conditions can change quickly, so check current warnings before heading out.",
+            "source": "Bureau of Meteorology",
+            "url": "https://www.bom.gov.au/video/severe-weather-update-severe-storms-likely-for-eastern-australia",
+            "published": "15 Nov, afternoon forecast",
+            "tag": "Weather"
+          },
+          {
+            "id": "australia-philippines-defence-signed-20261115-pm",
+            "storyKey": "australia-philippines-defence-cooperation-agreement-2026",
+            "category": "Australia & World",
+            "title": "Australia and the Philippines sign defence agreement",
+            "summary": "Australia and the Philippines have signed the defence cooperation arrangement previewed yesterday. Philippine Defence Secretary Gilberto Teodoro says it will reduce administrative hurdles for joint military activities and disaster response.",
+            "detail": "Prime Minister Anthony Albanese witnessed the signing in Manila and says the agreement will strengthen maritime awareness, information sharing and training. It comes amid continuing tensions over competing claims in the South China Sea.",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
+            "published": "15 Nov, 3:48 pm Sydney time",
+            "tag": "Agreement signed"
+          }
+        ],
+        "morningChecked": "2026-11-15T08:24:33+11:00"
+      }
     },
     {
       "date": "2026-11-14",
