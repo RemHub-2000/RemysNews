@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-17",
+      "label": "Tuesday, 17 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-17T08:18:39+11:00",
+      "stories": [
+        {
+          "id": "nsw-property-price-rule-pause-20261117",
+          "storyKey": "nsw-underquoting-written-offer-rule-pause",
+          "category": "Sydney & NSW",
+          "title": "NSW pauses a new underquoting rule hours before it was due to start",
+          "summary": "Premier Chris Minns has put the next part of NSW’s underquoting reforms on hold for up to a year. The rule would have stopped agents advertising below a written offer the seller had already rejected, even if the seller later decided to lower the asking price.",
+          "detail": "The government says that could make it harder to respond to falling prices. Existing underquoting rules still apply, so the pause is not a licence to advertise below the agent’s genuine estimate.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/nsw-house-price-advertising-underquoting-laws/107390420",
+          "published": "16 Nov, 5:33 pm; updated 7:53 pm",
+          "tag": "Property"
+        },
+        {
+          "id": "sydney-airport-weather-cancellations-20261117",
+          "storyKey": "sydney-airport-weather-disruption-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Sydney Airport records 104 cancellations after wind and cloud disrupt flights",
+          "summary": "Sydney Airport recorded 104 cancellations on Monday, mostly on domestic routes, after wind and cloud reduced air traffic capacity. Qantas said the resulting ground delay programme affected all airlines and it was looking to use larger aircraft on some services to help clear the backlog.",
+          "detail": "That is Monday’s total, not a forecast for Tuesday. If you are travelling today, check the airline’s flight status before leaving for the airport, especially if a domestic leg is your connection.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/flight-delays-cancellations-at-sydney-airport/107392306",
+          "published": "16 Nov, 7:58 pm; updated 17 Nov, 8:00 am",
+          "tag": "Travel"
+        },
+        {
+          "id": "nsw-police-workplace-reports-20261117",
+          "storyKey": "nsw-police-workplace-harassment-foi-2021-2025",
+          "category": "Sydney & NSW",
+          "title": "New records reveal 483 sexual harassment reports against NSW Police employees",
+          "summary": "Documents obtained by ABC’s 7.30 show 483 reports of sexual harassment against NSW Police employees from 2021 to 2025. The records also list 67 allegations of sexual touching and 10 of indecent assault over the same period.",
+          "detail": "These are reports and allegations, not findings of guilt or a measure of how many incidents went unreported. The figures add a sense of scale to the workplace culture issues raised in the investigation.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/foi-reveal-nsw-police-sexual-harassment-misconduct-allegations/107381728",
+          "published": "16 Nov, 6:07 pm; updated 6:08 pm",
+          "tag": "Investigation"
+        },
+        {
+          "id": "apple-news-puzzles-au-beta-20261117",
+          "storyKey": "apple-news-plus-australia-puzzles-27-3-beta",
+          "category": "Apple",
+          "title": "Apple News+ puzzles arrive in the Australian iOS 27.3 beta",
+          "summary": "The second iOS 27.3 beta brings Apple News+ puzzles to Australian subscribers, including a quick crossword, Crossword Mini, Sudoku, Quartiles and Emoji Game. MacRumors found them under Following, then Puzzles, in the News app.",
+          "detail": "This is a beta release, not a change on the current public build. MacRumors expects the public update in December, so there is no need to install a beta just to get the puzzles early.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/16/apple-news-puzzles-expanding/",
+          "published": "17 Nov, 6:21 am",
+          "tag": "Australian beta"
+        },
+        {
+          "id": "tesla-berlin-cybercab-factory-20261117",
+          "storyKey": "tesla-giga-berlin-cybercab-expansion",
+          "category": "Tesla",
+          "title": "Tesla plans a €3 billion Cybercab factory expansion near Berlin",
+          "summary": "Tesla told Reuters it plans a new hall at its Grünheide factory capable of making up to one million Cybercabs a year. It intends to apply for a building permit by year-end, start construction in the first half of 2027 and begin production in 2029.",
+          "detail": "Those are targets, not output commitments or approval to run Robotaxis on European roads. The Berlin plan is separate from the recent US buyer invitations and does not confirm any change for Australian customers or existing Model Y owners.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/tesla-announces-33-billion-expansion-germany-plant-2026-11-16/",
+          "published": "17 Nov, 1:17 am",
+          "tag": "Factory plan"
+        },
+        {
+          "id": "chatgpt-healthcare-plugins-20261117",
+          "storyKey": "openai-chatgpt-healthcare-november-2026-expansion",
+          "category": "AI",
+          "title": "OpenAI adds more than 20 plugins to ChatGPT for Healthcare",
+          "summary": "OpenAI says the new plugins are available in ChatGPT for Healthcare, alongside updated clinical search and work on agents that can help with multi-step administrative tasks. It cites organisations using agents for jobs such as processing referrals and moving documents between systems.",
+          "detail": "This is for governed healthcare workspaces; the separate free clinician offer is for eligible verified US clinicians. The transferable idea for customer success is to test one handoff with synthetic records, allowing the tool to prepare a draft while keeping approval and sending with a person.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+          "published": "16 Nov, source date",
+          "tag": "Enterprise tools"
+        },
+        {
+          "id": "lvmh-openai-newsroom-partnership-20261117",
+          "storyKey": "lvmh-media-openai-newsroom-and-content-partnership",
+          "category": "AI",
+          "title": "OpenAI and LVMH’s media division strike a newsroom and content deal",
+          "summary": "The agreement covers titles including Le Parisien and Les Echos. Staff will be able to explore jobs such as comparing documents and drafting translations. It also calls for ChatGPT to show attributed summaries and excerpts from the publications, with links to the original articles.",
+          "detail": "Neither partner has given a date for the content changes to reach Australian users. The practical point for research is that the link matters as much as the summary: use the original article to check a quote or figure before reusing it.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership/",
+          "published": "16 Nov, Paris date",
+          "tag": "Partnership"
+        },
+        {
+          "id": "coles-investigation-20261117",
+          "storyKey": "coles-cybersecurity-incident-november-2026",
+          "category": "Technology",
+          "title": "Coles investigates cyber incident, with no evidence so far of data loss",
+          "summary": "Coles says it has found no evidence so far that customer, staff or supplier data was compromised or removed. Stores and online shopping continued to operate. Coles was also looking into a small number of Liquorland click-and-collect issues; it had not confirmed those were linked.",
+          "detail": "Coles says shoppers do not need to act at this point. If a message about the incident asks you to sign in or share information, use the retailer’s app or website directly instead of following the message link.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
+          "published": "16 Nov, 4:00 pm",
+          "tag": "Cybersecurity"
+        },
+        {
+          "id": "ukraine-diplomacy-berlin-followup-20261117",
+          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
+          "category": "Australia & World",
+          "title": "Ukraine holds fresh talks with US and European officials",
+          "summary": "Volodymyr Zelenskyy says Ukraine held a new round of online talks with US envoys and European representatives, and participants agreed to meet in Berlin with countries supporting Ukraine. The new element is the direct European participation and planned follow-up, not an agreement with Russia.",
+          "detail": "The Kremlin says it has not agreed to Europeans joining the next round involving Russian negotiators. There is no confirmed ceasefire or deal, and the format of any further talks with Moscow remains unsettled.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/ukraines-zelenskiy-says-new-talks-peace-prospects-held-with-us-european-2026-11-16/",
+          "published": "17 Nov, 5:46 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "yemen-aden-retreat-20261117",
+          "storyKey": "yemen-pro-government-withdrawal-aden-november-2026",
+          "category": "Australia & World",
+          "title": "Yemen’s pro-government forces pull back to defend Aden",
+          "summary": "Saudi-backed pro-government forces have withdrawn from parts of western Yemen as Houthi forces advance. The Southern Armed Forces said its priority was defending Aden, the port city where Yemen’s internationally recognised government operates, and neighbouring provinces.",
+          "detail": "The withdrawal marks a shift in the conflict around the southern Red Sea, a major shipping route. It does not establish that Aden has fallen or that the route has closed.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-17/yemen-government-forces-retreat-bab-el-mandeb-strait/107392710",
+          "published": "17 Nov, 6:26 am",
+          "tag": "Middle East"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "label": "Monday, 16 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -955,185 +1083,6 @@
           }
         ],
         "morningChecked": "2026-11-11T08:20:06+11:00"
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "label": "Tuesday, 10 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked; categories without noteworthy developments are omitted.",
-      "checked": "2026-11-10T08:23:34+11:00",
-      "stories": [
-        {
-          "id": "bathla-asic-formal-investigation-20261110",
-          "storyKey": "bathla-workers-unpaid-20261109",
-          "category": "Sydney & NSW",
-          "title": "ASIC opens a formal investigation into Bathla",
-          "summary": "Australia’s corporate regulator has moved from preliminary scrutiny to a formal investigation into the affairs of the collapsed Sydney developer. ASIC has not specified the conduct it is investigating and says its separate inquiries into private lenders have not yet become a formal investigation.",
-          "detail": "The new step matters for buyers and contractors because the group’s collapse has put more than 200 projects in doubt, including about 2,000 homes under construction. The investigation does not set a timetable for construction to restart or for creditors to recover money.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-10/asic-launches-investigation-into-bathla-group/107365198",
-          "published": "10 Nov, 5:00 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "nsw-police-youth-diversion-gap-20261110",
-          "storyKey": "nsw-police-youth-diversion-gap",
-          "category": "Sydney & NSW",
-          "title": "NSW report finds a gap in who gets diverted from court",
-          "summary": "The NSW Bureau of Crime Statistics and Research found Aboriginal children were 30 per cent less likely than non-Aboriginal children to receive a police diversion from court. The gap persisted for alleged offences eligible for diversion, which can take the form of a warning, caution or intervention.",
-          "detail": "Even after accounting for factors such as offence severity, prior contact and bail status, Aboriginal children were about eight percentage points more likely to be taken to court. The researchers could not explain that remaining gap from their data; the Aboriginal Legal Service says it points to bias.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-likely-to-receive-police-diversion/107365038",
-          "published": "10 Nov, 6:30 am"
-        },
-        {
-          "id": "apple-ios-macos-27-2-1-security-20261110",
-          "storyKey": "apple-nov-2026-27-2-1-security",
-          "category": "Apple",
-          "title": "Apple patches Messages, AirPlay and Bluetooth flaws",
-          "summary": "Apple has released iOS and iPadOS 27.2.1 alongside macOS Golden Gate 27.2.1 and patches for some older versions. The iPhone fixes include an issue that could let a remote attacker join an iMessage group chat uninvited and another that could let an attacker within Bluetooth range bypass AirPlay pairing-code limits.",
-          "detail": "This is a security and bug-fix release, not the upcoming feature update. Check Software Update on your iPhone and Mac for the patch on the software branch you’re actually using.",
-          "source": "9to5Mac, citing Apple security notes",
-          "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-          "published": "10 Nov, 7:20 am Sydney time",
-          "tag": "Released"
-        },
-        {
-          "id": "apple-creator-studio-usage-packs-20261110",
-          "storyKey": "apple-creator-studio-paid-ai-usage",
-          "category": "Apple",
-          "title": "Apple starts selling extra AI usage in Logic Pro",
-          "summary": "The latest Logic Pro update adds a one-off US$49.99 purchase for extra usage of eligible intelligence features, according to 9to5Mac. The extra allowance is used only after the monthly limit, expires after 12 months and cannot be shared through Family Sharing.",
-          "detail": "Logic Pro is the first confirmed app with the purchase option. Other Creator Studio apps are expected to follow, but this is not a charge for system-wide Apple Intelligence. Australian pricing and availability were not independently confirmed.",
-          "source": "9to5Mac, citing Apple support",
-          "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
-          "published": "10 Nov, 3:32 am Sydney time",
-          "tag": "Released in Logic Pro"
-        },
-        {
-          "id": "tesla-robotaxi-san-antonio-20261110",
-          "storyKey": "tesla-robotaxi-san-antonio-launch",
-          "category": "Tesla",
-          "title": "Tesla opens Model Y Robotaxi rides in San Antonio",
-          "summary": "Tesla opened Robotaxi rides in San Antonio at 5 am Texas time on 9 November, or 10 pm in Sydney. Not a Tesla App reports that the service uses Model Ys and has Tesla’s largest advertised launch area, around 710 square kilometres.",
-          "detail": "The mapped area is not a guarantee that every pickup or drop-off is bookable. This is a US fleet rollout, not a feature release for privately owned Model Ys or a confirmation of an Australian Robotaxi launch.",
-          "source": "Not a Tesla App, citing Tesla Robotaxi",
-          "url": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
-          "published": "9 Nov US date; rides began 10 pm Sydney time",
-          "tag": "US rollout"
-        },
-        {
-          "id": "anthropic-fable-mythos-5-2-20261110",
-          "storyKey": "anthropic-fable-mythos-5-2-release",
-          "category": "AI",
-          "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
-          "summary": "Anthropic says the upgraded models improve coding, reasoning and visual tasks and generate outputs up to 30 per cent faster than their predecessors. Fable 5.2 is available on Claude and the major cloud platforms, subject to plan access. Mythos access remains restricted for specialist use, and Australian cloud-region availability was not separately confirmed.",
-          "detail": "For a practical trial in an approved workspace, give Fable a sanitised QBR pack and ask it to flag where proposed slide claims disagree with the source numbers, with a citation for each flag. Anthropic still recommends Opus 5.5 for most everyday work, so reserve Fable for the tricky review rather than every follow-up.",
-          "source": "Anthropic",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "published": "9 Nov US date; reported 10 Nov, 6:03 am Sydney time",
-          "tag": "Released"
-        },
-        {
-          "id": "google-tpu-8tx-8i-max-20261110",
-          "storyKey": "google-tpu-8tx-8i-max",
-          "category": "Technology",
-          "title": "Google adds two chips for private and long-context AI",
-          "summary": "Google announced TPU 8tx for workloads that need data and model weights protected while being processed, and TPU 8i Max for tasks that need to keep much more information in memory. The latter combines two TPU 8i chips in one package, doubling compute and memory bandwidth versus a single TPU 8i, according to Google.",
-          "detail": "Think regulated workloads for the first and large codebases or hours of video for the second. The announcement did not specify an Australian rollout date.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-          "published": "9 Nov, source date",
-          "tag": "Announced"
-        },
-        {
-          "id": "hegseth-massie-impeachment-articles-20261110",
-          "storyKey": "us-hegseth-congress-pressure-20261109",
-          "category": "Australia & World",
-          "title": "Republican congressman files articles to impeach Hegseth",
-          "summary": "US Republican Thomas Massie introduced eight articles of impeachment against Defence Secretary Pete Hegseth on Monday in Washington. That turns the pressure covered yesterday into a formal, immediate House bid rather than a possible effort after the next Congress takes office.",
-          "detail": "ABC reports the move starts a two-day clock for the House to act. Filing articles is not the same as the House voting to impeach or the Senate voting to remove him.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698",
-          "published": "10 Nov, 6:24 am; updated 7:07 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "victoria-big-build-royal-commission-hearings-20261110",
-          "storyKey": "victoria-big-build-royal-commission",
-          "category": "Australia & World",
-          "title": "Victoria’s Big Build inquiry begins public hearings",
-          "summary": "The royal commission’s opening day examined a 2022 work stoppage at a Sunbury level crossing project. It heard evidence that contractor John Holland was wary of the CFMEU’s perceived access to Victorian ministers, alongside allegations of threats against subcontractors.",
-          "detail": "The commission is testing those claims, not making findings at this stage. The public hearings are due to run until 20 November, just over a week before Victoria’s state election.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-09/victoria-big-build-royal-commission-hears-cfmeu-influence/107364446",
-          "published": "9 Nov, 4:32 pm"
-        },
-        {
-          "id": "russell-brand-sentencing-20261110",
-          "storyKey": "world-russell-brand-guilty-verdict-20261106",
-          "category": "Australia & World",
-          "title": "Russell Brand sentenced to 10 years and six months",
-          "summary": "A London court has sentenced Russell Brand to 10 years and six months in prison after his conviction for one count of rape and three counts of sexual assault. The offences involved four women and occurred between 2004 and 2009.",
-          "detail": "The sentence is the new development following last week’s jury verdict.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-10/russell-brand-sentenced/107365656",
-          "published": "10 Nov, 1:35 am",
-          "tag": "Material update"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-10T17:01:47+11:00",
-        "stories": [
-          {
-            "id": "westmead-mental-health-ed-waits-20261110-pm",
-            "storyKey": "westmead-mental-health-ed-waits-november-2026",
-            "category": "Sydney & NSW",
-            "title": "Mental health patients wait up to six days in Westmead's emergency department",
-            "summary": "ABC reports that 12 people with acute mental illness had waited more than 48 hours in Westmead Hospital's emergency department as of Monday afternoon, with the longest wait exceeding six days. A doctor described the situation as potentially dangerous.",
-            "detail": "The local health district says patients awaiting transfer continue to receive treatment under a psychiatrist and apologised for extended waits. The NSW mental health minister says a new Westmead facility under construction will increase regional bed capacity.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-10/sydney-westmead-hospital-mental-health-emergency-wait-times/107365646",
-            "published": "10 Nov, 8:33 am; updated 4:00 pm"
-          },
-          {
-            "id": "nsw-mount-pleasant-mine-bill-20261110-pm",
-            "storyKey": "mount-pleasant-mine-nsw-expansion-legislation-2026",
-            "category": "Sydney & NSW",
-            "title": "NSW introduces bill to allow higher coal output after court ruling",
-            "summary": "The Minns government has introduced legislation to let the Mount Pleasant mine in the Hunter Valley produce up to 16.5 million tonnes a year until 2032. It follows a High Court decision that invalidated its expansion approval because overseas emissions had not been considered.",
-            "detail": "The mine's original permit allows 12.5 million tonnes annually. The government says the bill addresses legal uncertainty and protects jobs; opponents say it bypasses the court process. Debate has been adjourned and the bill is not yet law.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-10/mount-pleasant-mine-expansion-laws-chris-minns/107369370",
-            "published": "10 Nov, 3:55 pm",
-            "tag": "Bill introduced"
-          },
-          {
-            "id": "australia-ai-safety-regulator-20261110-pm",
-            "storyKey": "australia-openai-breach-safety-review-november-2026",
-            "category": "AI",
-            "title": "Australia plans an AI safety regulator and mandatory incident reporting",
-            "summary": "The federal government has accepted all 18 recommendations of its review into an OpenAI agent's access to a Medicare statistics portal. It plans mandatory safety and security standards, incident reporting and a regulator able to impose penalties and require independent model evaluations.",
-            "detail": "The proposed legislation is planned for introduction next year, so the rules are not yet in force. The government says no personal information was accessed; the review also recommends considering changes to criminal law. For organisations adopting AI agents, the direction points towards stronger incident reporting and oversight expectations.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330",
-            "published": "10 Nov, 2:24 pm; updated 3:17 pm",
-            "tag": "Proposed safeguards"
-          },
-          {
-            "id": "qantas-accenture-850-jobs-20261110-pm",
-            "storyKey": "qantas-accenture-outsourcing-850-jobs-2026",
-            "category": "Australia & World",
-            "title": "Qantas to cut 850 corporate roles in Accenture deal",
-            "summary": "Qantas says it will cut 850 corporate positions over coming years as it outsources work under a multi-year partnership with Accenture. Finance, procurement and marketing are first affected, with services to be delivered mostly by teams in India and some in Australia.",
-            "detail": "The first changes are expected by mid-2027, and Qantas says it will seek to redeploy as many employees as possible. The airline says the deal will also help modernise its technology and accelerate its use of AI.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120",
-            "published": "10 Nov, 12:49 pm"
-          }
-        ],
-        "morningChecked": "2026-11-10T08:23:34+11:00"
       }
     }
   ]
