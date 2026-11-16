@@ -114,7 +114,50 @@
           "published": "16 Nov, 3:49 am",
           "tag": "Material update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-16T17:03:06+11:00",
+        "stories": [
+          {
+            "id": "mudgee-lunchtime-hailstorm-20261116-pm",
+            "storyKey": "nsw-mudgee-hailstorm-november-16-2026",
+            "category": "Sydney & NSW",
+            "title": "Lunchtime hailstorm blankets Mudgee",
+            "summary": "A lunchtime storm left thick drifts of hail around Mudgee, with residents reporting water entering homes and fallen trees. The NSW SES said it had responded to 18 storm-related incidents across the region, most involving leaking roofs.",
+            "detail": "At the time of ABC's report, a severe thunderstorm warning covered much of north-east NSW, with large to giant hail and damaging to locally destructive winds possible. Check current warnings before travelling because conditions can change.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-16/hailstorm-blankets-mudgee-storm-warning-issued/107390400",
+            "published": "16 Nov, 3:01 pm",
+            "tag": "NSW weather"
+          },
+          {
+            "id": "apple-health-ai-study-launch-20261116-pm",
+            "storyKey": "apple-openevidence-health-ai-usage-study-launch-2026",
+            "category": "Apple",
+            "title": "Apple opens a study of AI answers to health questions",
+            "summary": "Apple has launched a research app with clinical AI company OpenEvidence to study how people understand and use answers to health questions. Participants can see links to medical research and choose whether to share health data for more relevant responses.",
+            "detail": "The study is open to up to 200,000 eligible US adults aged 21 or over with an Apple Intelligence-enabled iPhone 15 Pro or later running iOS 26 or later. It is not available in Australia, and Apple says the app is not a substitute for a clinician or intended to diagnose or treat conditions. Study data will not be used to train AI models, according to Apple.",
+            "source": "Apple Newsroom",
+            "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+            "published": "16 Nov, US announcement reported at 12:30 pm Sydney time",
+            "tag": "US study"
+          },
+          {
+            "id": "helen-haines-discharged-20261116-pm",
+            "storyKey": "helen-haines-wangaratta-attack-hospital-discharge-2026",
+            "category": "Australia & World",
+            "title": "Helen Haines leaves hospital after alleged attack",
+            "summary": "Independent MP Helen Haines has been discharged from hospital, four weeks after she was seriously injured outside her electorate office in Wangaratta. The member for Indi lost both legs after being struck by a vehicle.",
+            "detail": "The Alfred hospital confirmed her discharge on Monday. A 43-year-old man has been charged over the alleged attack.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-16/helen-haines-discharged-from-hospital-wangaratta-attack/107389928",
+            "published": "16 Nov, 12:17 pm",
+            "tag": "Federal politics"
+          }
+        ],
+        "morningChecked": "2026-11-16T08:22:37+11:00"
+      }
     },
     {
       "date": "2026-11-15",
