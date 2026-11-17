@@ -126,7 +126,50 @@
           "published": "17 Nov, 6:26 am",
           "tag": "Middle East"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-17T17:02:45+11:00",
+        "stories": [
+          {
+            "id": "david-jones-creditors-meeting-20261117-pm",
+            "storyKey": "australia-david-jones-administration-suppliers-20261106",
+            "category": "Sydney & NSW",
+            "title": "David Jones creditors hear the debt could exceed $459 million",
+            "summary": "At today's first creditors' meeting, administrators revealed David Jones owes at least $459 million, including estimated claims of $180 million from unsecured creditors and $33 million on gift cards. The figures show the scale of the retailer's debts as administrators seek a buyer.",
+            "detail": "It is too early to know how much suppliers and other creditors will recover. The next creditors' meeting is expected in March 2027.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-17/david-jones-creditors-owed-almost-half-a-billion-dollars/107389716",
+            "published": "17 Nov, 11:49 am; updated 4:26 pm",
+            "tag": "Retail"
+          },
+          {
+            "id": "bunnings-tech-job-cuts-20261117-pm",
+            "storyKey": "bunnings-tcs-tech-offshoring-job-cuts-2026",
+            "category": "Technology",
+            "title": "Bunnings to cut 230 technology jobs in outsourcing deal",
+            "summary": "Bunnings says about 230 permanent technology roles will be made redundant and 120 contractor engagements will end as it shifts some services to Tata Consultancy Services. The transition begins in December, with job losses starting in the new year.",
+            "detail": "Bunnings says it will retain an Australian in-house technology team of roughly 500 people, while the outsourced services will be delivered by teams in Australia, India and the Philippines.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860",
+            "published": "17 Nov, 2:23 pm; updated 4:13 pm",
+            "tag": "Jobs"
+          },
+          {
+            "id": "australia-backpacker-visa-revision-20261117-pm",
+            "storyKey": "australia-working-holiday-regional-work-visa-revision-2026",
+            "category": "Australia & World",
+            "title": "Government lifts proposed cap on third-year backpacker visas",
+            "summary": "The federal government has raised its planned cap on third-year working holiday visas from 5,000 to 25,000 after agricultural, tourism and hospitality groups warned of seasonal labour shortages. The cap remains below the current level of about 31,000.",
+            "detail": "From 1 March, most applicants for a second-year visa will need 120 days of regional work, up from 88; those who complete the requirement before then remain eligible under the existing rules. British backpackers remain exempt from regional work requirements under the UK trade agreement.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
+            "published": "17 Nov, 1:13 pm",
+            "tag": "Migration"
+          }
+        ],
+        "morningChecked": "2026-11-17T08:18:39+11:00"
+      }
     },
     {
       "date": "2026-11-16",
