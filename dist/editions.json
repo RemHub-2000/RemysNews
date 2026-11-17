@@ -1,6 +1,158 @@
 {
   "editions": [
     {
+      "date": "2026-11-18",
+      "label": "Wednesday, 18 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates are marked.",
+      "checked": "2026-11-18T08:27:23+11:00",
+      "stories": [
+        {
+          "id": "sydney-depot-small-business-freight-20261118",
+          "storyKey": "sydney-depot-small-business-freight",
+          "category": "Sydney & NSW",
+          "title": "NSW importers chase stock caught in freight delays",
+          "summary": "Small businesses are still trying to locate Christmas stock after Australian Border Force cancelled the depot licences of Sydney-based Top Logistics Australia. A Byron Bay importer told the ABC that nearly $500,000 worth of underwater equipment was stuck somewhere in the supply chain.",
+          "detail": "Border Force says affected importers, brokers and freight forwarders should locate their consignments and arrange collection. The ABC understands freight held by the company was either cleared or transferred to other licensed depots.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-18/customs-delay-hits-small-businesses/107368824",
+          "published": "18 Nov, 6:01 am",
+          "tag": "Small business"
+        },
+        {
+          "id": "nsw-south-west-rocks-storm-claims-20261118",
+          "storyKey": "nsw-south-west-rocks-storm-claims",
+          "category": "Sydney & NSW",
+          "title": "Insurers expect more claims after storms in northern NSW",
+          "summary": "About 1,400 insurance claims had been lodged in NSW from the weather system that swept the state's north, the Insurance Council told the ABC this morning. It expects more claims in the coming days after a possible tornado hit South West Rocks on Monday.",
+          "detail": "The NSW total covers the wider storm system, not just South West Rocks. Queensland had recorded a further 6,100 claims from the same weather event.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-18/coffs-coast-and-mid-north-coast-local-news-briefing/107397142",
+          "published": "18 Nov, 6:56 am; updated 7:40 am",
+          "tag": "Storm recovery"
+        },
+        {
+          "id": "apple-icloud-outage-internal-update-nov2026-20261118",
+          "storyKey": "apple-icloud-outage-internal-update-nov2026",
+          "category": "Apple",
+          "title": "Apple says an internal update caused the iCloud outage",
+          "summary": "Apple Account sign-ins, iCloud and the App Store were among the services disrupted overnight. Apple told Bloomberg that an internal update, not a cyberattack, caused the outage and said it had largely restored service.",
+          "detail": "Some iCloud services were still listed as slow or unavailable when MacRumors reported Apple's explanation at 6:31 am Sydney time. If sign-in or activation still fails, check Apple's System Status page before changing account settings.",
+          "source": "9to5Mac; Apple statement via MacRumors",
+          "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+          "published": "18 Nov, 4:33 am; Apple response reported 6:31 am",
+          "tag": "Service disruption"
+        },
+        {
+          "id": "tesla-powercore-solid-state-transformer-20261118",
+          "storyKey": "tesla-powercore-solid-state-transformer",
+          "category": "Tesla",
+          "title": "Tesla announces Powercore for grid-scale energy projects",
+          "summary": "Tesla unveiled a 7.4 MW unit that combines a transformer, inverter and circuit breaker. It is designed to work with Megapack batteries and can also serve large solar, charging and data centre projects.",
+          "detail": "Tesla is targeting first operation in 2027 and plans to manufacture it in the US. This is an infrastructure announcement, not a Model Y update, and there's no confirmed Australian rollout.",
+          "source": "Not a Tesla App, citing Tesla Megapack",
+          "url": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
+          "published": "17 Nov, US date",
+          "tag": "Energy announcement"
+        },
+        {
+          "id": "tesla-2026-44-1-charging-map-rollout-20261118",
+          "storyKey": "tesla-2026-44-1-charging-map-rollout",
+          "category": "Tesla",
+          "title": "Tesla starts rolling out a clearer charging map",
+          "summary": "Tesla's 2026.44.1 release groups charger pins when you zoom out, making it easier to see network coverage on a longer drive. The release notes list the map change worldwide, including for Model Y, but the rollout is staged.",
+          "detail": "The same build lists changes to supervised driving for eligible hardware. That does not confirm those features on an Australian 2023 Model Y. Check the notes in the Tesla app or the car for what actually reaches your vehicle.",
+          "source": "Not a Tesla App, Tesla release notes",
+          "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
+          "published": "17 Nov, tracker date",
+          "tag": "Staged rollout"
+        },
+        {
+          "id": "microsoft-ignite-2026-copilot-home-office-20261118",
+          "storyKey": "microsoft-ignite-2026-copilot-home-office",
+          "category": "AI",
+          "title": "Microsoft brings Copilot chat, Cowork and Office into one workspace",
+          "summary": "Microsoft says Copilot Home and Office in Copilot are generally available after its Ignite announcement. Copilot Autopilot, which can work on delegated tasks, is only starting to roll out to Frontier early-access customers, and Copilot Code is due in the coming weeks.",
+          "detail": "Try this if your workplace enables it: use approved account notes to turn a customer review into a short PowerPoint outline and an action list. Check the commitments against the source notes before sharing. Microsoft did not give a separate Australian rollout date in the announcement.",
+          "source": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+          "published": "17 Nov, US date",
+          "tag": "Release and early access"
+        },
+        {
+          "id": "proton-lumo-desktop-connectors-schedules-skills-20261118",
+          "storyKey": "proton-lumo-desktop-connectors-schedules-skills",
+          "category": "AI",
+          "title": "Proton releases Lumo for Mac, Windows and Linux",
+          "summary": "Proton's AI assistant now has a desktop app with connectors for local files and services such as Google Drive, plus reusable instructions and scheduled tasks. Proton links to downloads for all three platforms and does not list an Australia-specific restriction in its release post.",
+          "detail": "A low-risk first test on the Mac: give it a folder of non-sensitive notes and a reusable template for a weekly recap. Keep file changes and message sending behind approval; Proton says connector permissions can be set action by action.",
+          "source": "Proton",
+          "url": "https://proton.me/blog/lumo-desktop-features",
+          "published": "17 Nov, source date",
+          "tag": "Desktop release"
+        },
+        {
+          "id": "waymo-us-freeway-pause-november-2026-20261118",
+          "storyKey": "waymo-us-freeway-pause-november-2026",
+          "category": "Technology",
+          "title": "Waymo pauses freeway rides across the US",
+          "summary": "Waymo says it is suspending freeway rides nationwide after California's motor vehicle regulator restricted them following construction-zone incidents. California's order took effect on 11 November; the company confirmed the wider pause on 17 November.",
+          "detail": "The decision does not shut down rides on local streets. Waymo said the recent California incidents caused no collisions or injuries and that it is working with state officials to resume freeway service.",
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/37bcd5371a4699a1850b7666b271946b",
+          "published": "18 Nov, 8:06 am",
+          "tag": "Autonomous vehicles"
+        },
+        {
+          "id": "bupa-gp-medicare-billing-email-20261118",
+          "storyKey": "bupa-gp-medicare-billing-email",
+          "category": "Australia & World",
+          "title": "ABC obtains Bupa clinic email asking GPs to lift Medicare billing",
+          "summary": "A Bupa-run clinic encouraged doctors to book more chronic condition management plans, which attract a higher Medicare payment than a standard appointment. The ABC obtained an internal email linking the practice to revenue growth; Bupa defended the email.",
+          "detail": "The reporting concerns one clinic and does not establish that individual claims were improper. The federal health department says it is spending $147 million over four years on an industry review and compliance improvements.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358",
+          "published": "18 Nov, 5:00 am",
+          "tag": "Medicare"
+        },
+        {
+          "id": "ukraine-crimea-and-kyiv-bridges-november-2026-20261118",
+          "storyKey": "ukraine-crimea-and-kyiv-bridges-november-2026",
+          "category": "Australia & World",
+          "title": "Ukraine damages Crimea bridge as Russian strikes hit Kyiv bridges",
+          "summary": "Ukraine struck the bridge linking Russia to occupied Crimea for a second straight day, with images appearing to show a section of the road span in the water. The ABC reported that Russian strikes also hit two major bridges in Kyiv.",
+          "detail": "The Crimean crossing is an important link to the occupied peninsula. The damage was visible in footage shared by Ukrainian officials, but the full effect on traffic and repairs was not yet clear.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824",
+          "published": "18 Nov, 12:46 am; updated 4:28 am",
+          "tag": "Ukraine"
+        },
+        {
+          "id": "cop31-electrification-20261109-20261118",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "COP31 draft exposes a split over fossil fuel wording",
+          "summary": "The new draft offers competing options: repeat earlier language about moving away from fossil fuels or call explicitly for a phase-out. Reuters reports that both options could still be dropped, while funding for poorer countries to adapt also remains unresolved.",
+          "detail": "Australia's Chris Bowen is leading negotiations in Türkiye. The official deadline is Friday, but the draft shows how far countries still are from agreeing on what they will commit to.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sustainability/cop31-off-rocky-start-2026-11-17/",
+          "published": "18 Nov, 1:00 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "iran-hormuz-talks-shipping-20261109-20261118",
+          "storyKey": "iran-hormuz-talks-shipping-20261109",
+          "category": "Australia & World",
+          "title": "US and Iran exchange fire while mediators hold talks",
+          "summary": "The US and Iran exchanged fire on Tuesday as Oman and Qatar separately held talks with Iranian officials. Bahrain said it intercepted an Iranian attack and reported no casualties or damage.",
+          "detail": "Oman says its talks covered keeping shipping routes open and preventing escalation. The Strait of Hormuz remains partly blocked, so the immediate issue for energy markets is whether commercial shipping can move safely through it.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
+          "published": "17 Nov, 4:45 pm; later updated",
+          "tag": "Material update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "label": "Tuesday, 17 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -962,170 +1114,6 @@
           }
         ],
         "morningChecked": "2026-11-12T08:27:36+11:00"
-      }
-    },
-    {
-      "date": "2026-11-11",
-      "label": "Wednesday, 11 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-11T08:20:06+11:00",
-      "stories": [
-        {
-          "id": "nsw-newcastle-hospital-ivf-20261111",
-          "storyKey": "calvary-healthscope-ivf-continuity",
-          "category": "Sydney & NSW",
-          "title": "Newcastle IVF patients face uncertainty over hospital takeover",
-          "summary": "Calvary Health Care says it will not allow IVF egg collections at hospitals it acquires from Healthscope, a proposed deal that includes Newcastle Private and Hunter Valley Private. Hunter IVF uses Newcastle Private’s operating theatres, but Calvary does not own the fertility clinic or its embryo lab.",
-          "detail": "Hunter IVF says it is working with alternative providers to avoid interruptions, but where some time-sensitive procedures would take place is still unclear. The takeover needs a NSW hospital licence and a decision from the competition regulator.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-11/concerns-ivf-egg-collections-calvary-hospital-takeover/107367364",
-          "published": "11 Nov, 6:29 am"
-        },
-        {
-          "id": "nsw-baldon-wind-farm-approved-20261111",
-          "storyKey": "baldon-wind-farm-approval",
-          "category": "Sydney & NSW",
-          "title": "NSW approves 1.4 GW wind farm near Hay",
-          "summary": "The Independent Planning Commission has approved the Baldon Wind Farm in the state’s South West Renewable Energy Zone. The project allows 175 turbines up to 300 metres tall, with conditions on road upgrades, traffic and rehabilitation after substantial community opposition.",
-          "detail": "Planning approval does not mean 1.4 GW is about to reach the grid. Baldon missed out on the zone’s initial transmission access allocation, so its full generating capacity and its ability to deliver that power are separate questions.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-10/baldon-wind-farm-approved-south-west-rez/107368696",
-          "published": "10 Nov, 6:22 pm; updated 7:00 pm"
-        },
-        {
-          "id": "apple-tv-sign-language-20261111",
-          "storyKey": "apple-tv-sign-language-rollout",
-          "category": "Apple",
-          "title": "Apple TV adds on-screen sign language for selected films",
-          "summary": "Apple announced that viewers will be able to turn on a synchronised interpreter for Being Heumann and F1: The Movie from Friday, with more titles to follow. The initial options are American and British Sign Language, not Auslan.",
-          "detail": "The controls appear on supported titles after enabling Sign Language in the TV app settings. The report confirms iPhone, iPad and Mac on version 27.2 or later, plus some other app platforms, but does not establish support for the first-generation Apple TV 4K or a separate Australian rollout.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
-          "published": "11 Nov, 3:06 am Sydney time",
-          "tag": "Announced for Friday"
-        },
-        {
-          "id": "tesla-cybertruck-premium-orders-20261111",
-          "storyKey": "tesla-cybertruck-winddown-20261107",
-          "category": "Tesla",
-          "title": "Tesla closes orders for another Cybertruck trim",
-          "summary": "Tesla has stopped taking US orders for the Premium AWD Cybertruck, leaving the Cyberbeast as the only orderable trim, according to Not a Tesla App. It also increased the Cyberbeast’s listed price by US$7,500 to US$109,990.",
-          "detail": "This is a new change to the US ordering page during the production wind-down, rather than another announcement of the wind-down itself. Tesla has not said whether Premium AWD orders will reopen, and the change does not affect the Australian Model Y line-up.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
-          "published": "10 Nov, US date",
-          "tag": "Material update"
-        },
-        {
-          "id": "anthropic-whiteboards-sheets-data-20261111",
-          "storyKey": "anthropic-claude-sheets-whiteboards-data-launch",
-          "category": "AI",
-          "title": "Claude adds collaborative whiteboards and spreadsheets",
-          "summary": "Anthropic has launched Whiteboards and Sheets in beta on paid plans, while Claude Dashboards becomes generally available as Claude Data. The new tools let teams organise notes into a shared board, edit a spreadsheet together and build reports from connected data. Some Claude Data features, including certified queries and live sharing, are still in beta.",
-          "detail": "For a customer workshop, try a sanitised whiteboard that groups ideas and turns decisions into actions with owners and dates, then review it before sharing. Team plans have the tools on by default, while Enterprise availability depends on admin settings. Anthropic did not specify a separate Australian launch date.",
-          "source": "Anthropic",
-          "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-          "published": "10 Nov, source date",
-          "tag": "Beta and general release"
-        },
-        {
-          "id": "google-gemini-carbon-rollout-20261111",
-          "storyKey": "google-gemini-4-carbon-public-rollout",
-          "category": "AI",
-          "title": "Google opens Gemini 4 Carbon to more users",
-          "summary": "Gemini 4 Carbon is now available through Google’s API for paying developers and enterprises, with a rollout to Google AI Ultra subscribers in the Gemini app, AI Mode and Antigravity. Google positions Carbon for demanding, longer tasks, including analysing documents with charts and tables.",
-          "detail": "It is a broader paid release, not confirmation of access on lower tiers or immediate availability on every Australian account. Google still positions Argon as the everyday option for most knowledge work.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-          "published": "10 Nov, source date",
-          "tag": "Paid rollout"
-        },
-        {
-          "id": "garmin-waze-cycling-alerts-20261111",
-          "storyKey": "garmin-waze-live-cycling-alerts",
-          "category": "Technology",
-          "title": "Garmin can alert nearby Waze drivers to a cyclist",
-          "summary": "Garmin has added an opt-in Waze integration for outdoor rides recorded on compatible Edge computers and watches. When a rider shares their LiveTrack position through Garmin Connect, nearby Waze drivers can see a moving alert. Garmin says personal information is not displayed and sharing is limited to the ride session.",
-          "detail": "It could be useful on road rides if you have compatible gear and are comfortable sharing your live position. It does not alert drivers using other navigation apps, and the release did not specify a separate Australian rollout date.",
-          "source": "Garmin press release",
-          "url": "https://www.outdoorsportswire.com/garmin-and-waze-team-up-to-amplify-the-power-of-community-driven-awareness-for-cyclists-and-drivers/",
-          "published": "10 Nov, US date"
-        },
-        {
-          "id": "tsmc-anthropic-openai-investment-20261111",
-          "storyKey": "tsmc-anthropic-openai-investment-approval",
-          "category": "Technology",
-          "title": "TSMC approves up to US$1 billion in AI investments",
-          "summary": "TSMC’s board approved up to US$500 million in Anthropic shares at its IPO price and up to US$500 million in OpenAI preferred stock, Reuters reports. The move would give the chipmaker an ownership stake in two major AI developers as well as exposure through its manufacturing business.",
-          "detail": "The board approvals are investment limits, not confirmation that the full amounts have changed hands.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/",
-          "published": "11 Nov, 1:15 am Sydney time"
-        },
-        {
-          "id": "ukraine-russia-abu-dhabi-talks-20261111",
-          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
-          "category": "Australia & World",
-          "title": "Ukraine and Russia resume US-brokered talks without a breakthrough",
-          "summary": "Envoys from Ukraine, Russia and the US met in Abu Dhabi for their first such talks since February. They discussed security guarantees and territorial concessions, but the sides remain far apart and no ceasefire was announced.",
-          "detail": "Kyiv is seeking security guarantees, while Moscow wants to address a broader European security framework first. European representatives met separately with Ukrainian and US officials, underscoring the disagreement over who should be involved in a settlement.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042",
-          "published": "11 Nov, 1:21 am"
-        },
-        {
-          "id": "cop31-electrification-pledge-dispute-20261111",
-          "storyKey": "cop31-electrification-20261109",
-          "category": "Australia & World",
-          "title": "COP31 electrification pledge runs into a fossil fuel dispute",
-          "summary": "Türkiye’s proposal to lift electricity to 35 per cent of global energy use by 2035 is meeting resistance because its draft wording does not require the extra electricity to be clean. Critics say the pledge could prolong fossil fuel use if countries meet it with more coal or gas power.",
-          "detail": "Australia is separately pushing to double the number of households with rooftop solar to at least 300 million by 2030. Both are proposals, not final summit commitments.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196",
-          "published": "11 Nov, 4:33 am; updated 4:41 am",
-          "tag": "Material update"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-11T17:07:14+11:00",
-        "stories": [
-          {
-            "id": "nsw-hospital-security-concord-20261111-pm",
-            "storyKey": "nsw-hospital-security-recruitment-concord-assault-2026",
-            "category": "Sydney & NSW",
-            "title": "NSW to recruit 129 hospital security staff",
-            "summary": "The NSW government says it will recruit 129 additional security staff across 27 hospitals. The announcement follows an alleged attack on a nurse and a doctor at Concord Hospital, where one staff member suffered a broken wrist.",
-            "detail": "Police say the patient remains in hospital and the incident is under investigation. Health Minister Ryan Park is considering additional powers for security staff, but has not made a decision.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-11/nsw-security-boost-nurse-doctor-allegedly-assaulted-hospital/107372882",
-            "published": "11 Nov, 2:35 pm; updated 4:05 pm"
-          },
-          {
-            "id": "apple-support-community-closure-20261111-pm",
-            "storyKey": "apple-support-community-closure-november-2026",
-            "category": "Apple",
-            "title": "Apple Support Community set to close on 20 November",
-            "summary": "A notice on Apple's support forums says the community will permanently close on 20 November, and new posts are already disabled. Existing discussions can currently be read and searched, but new questions and replies cannot be submitted.",
-            "detail": "That removes a long-running source of peer troubleshooting for Apple devices. It is unclear whether the existing archive will remain accessible after closure; 9to5Mac has asked Apple to clarify the scope.",
-            "source": "9to5Mac",
-            "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
-            "published": "11 Nov, 1:49 pm Sydney time",
-            "tag": "Closure announced"
-          },
-          {
-            "id": "russia-leningrad-drone-attack-20261111-pm",
-            "storyKey": "leningrad-region-drone-attack-20261111",
-            "category": "Australia & World",
-            "title": "Russia reports a fresh drone attack on Leningrad region",
-            "summary": "The regional governor says Russia shot down 92 drones over the Leningrad region early on Wednesday. Reuters could not independently verify the claim. The region contains major Baltic export ports and the Kirishi oil refinery.",
-            "detail": "Latvia and Lithuania warned residents to seek shelter from unidentified drones entering their airspace, and NATO air defence fighters were activated. The reports come as Russia and Ukraine hold US-brokered talks, but do not establish any change in the negotiations.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
-            "published": "11 Nov, 11:23 am Sydney time"
-          }
-        ],
-        "morningChecked": "2026-11-11T08:20:06+11:00"
       }
     }
   ]
