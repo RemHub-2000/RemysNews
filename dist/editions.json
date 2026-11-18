@@ -1,6 +1,146 @@
 {
   "editions": [
     {
+      "date": "2026-11-19",
+      "label": "Thursday, 19 November 2026",
+      "note": "Times are Sydney local unless noted. Announcements and unreleased features are labelled.",
+      "checked": "2026-11-19T08:21:52+11:00",
+      "stories": [
+        {
+          "id": "sydney-factory-built-housing-report-2026-20261119",
+          "storyKey": "sydney-factory-built-housing-report-2026",
+          "category": "Sydney & NSW",
+          "title": "Macquarie Park project backs a push for more factory-built homes",
+          "summary": "A new Committee for Sydney report calls for a steady pipeline of government housing projects to support investment in prefabrication factories. A nearby example is Macquarie Park student accommodation, where 19 storeys of modular rooms were assembled in 19 weeks.",
+          "detail": "Its developer says the overall project will be about 25% quicker than conventional construction. The report argues faster, more predictable building could help increase housing supply, but this is a policy proposal, not a newly funded construction programme.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/committee-for-sydney-says-more-factory-made-housing-needed/107394616",
+          "published": "19 Nov, 7:30 am",
+          "tag": "Housing supply"
+        },
+        {
+          "id": "sydney-domain-2027-price-forecast-november-2026-20261119",
+          "storyKey": "sydney-domain-2027-price-forecast-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Domain forecasts more Sydney price falls before a recovery",
+          "summary": "Domain's new forecast expects Sydney house prices to fall by 10% by June 2027, then stabilise in the second half of the year. It also predicts Sydney will lead the eventual recovery among capital cities, rather than bounce back immediately.",
+          "detail": "The ABC reports that high borrowing costs and weak buyer confidence are weighing on demand. Treat this as one firm's outlook, not a valuation of an individual property: the timing of a turn, and conditions in specific suburbs, remain uncertain.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/nsw-sydney-house-prices-forecast-rebound/107399420",
+          "published": "19 Nov, 5:59 am",
+          "tag": "Property forecast"
+        },
+        {
+          "id": "sydney-council-smart-glasses-restrictions-2026-20261119",
+          "storyKey": "sydney-council-smart-glasses-restrictions-2026",
+          "category": "Sydney & NSW",
+          "title": "Sydney councils move against smart glasses at pools and beaches",
+          "summary": "Inner West Council has banned smart glasses at its swimming and recreation facilities, while Waverley has approved a beach ban in principle and is consulting on enforcement. Randwick and Northern Beaches councils are also examining beach restrictions over privacy and covert-filming concerns.",
+          "detail": "Premier Chris Minns says he will consider statewide action. These are different local decisions at different stages, not a blanket NSW ban already in force, so check the rules of the facility you visit.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-18/nsw-local-sydney-councils-crack-down-on-smart-glasses-on-beaches/107398950",
+          "published": "18 Nov, 5:10 pm; updated 6:42 pm",
+          "tag": "Privacy"
+        },
+        {
+          "id": "apple-creator-studio-november-update-release-20261119",
+          "storyKey": "apple-creator-studio-november-update-release",
+          "category": "Apple",
+          "title": "Apple's Creator Studio updates arrive, including new Keynote tools",
+          "summary": "The previously announced updates are now rolling out, with MotionVFX tools in Final Cut Pro, Generate Fill in Pixelmator Pro and intelligent assistants in Keynote, Pages and Numbers. Existing Creator Studio subscribers receive the updates without an additional subscription charge.",
+          "detail": "For presentation work, the important caveat is that the assistants are beta features, require an Apple Intelligence-capable device on version 27 or later, and support US English only. Australian-language support is not confirmed; check those requirements before expecting them on your Mac.",
+          "source": "9to5Mac; requirements checked with Apple",
+          "url": "https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/",
+          "published": "19 Nov, 4:57 am",
+          "tag": "App rollout"
+        },
+        {
+          "id": "tesla-ios-app-google-maps-4-63-20261119",
+          "storyKey": "tesla-ios-app-google-maps-4-63",
+          "category": "Tesla",
+          "title": "Tesla's iPhone app switches its maps to Google",
+          "summary": "Not a Tesla App reports that version 4.63.0 replaces Apple Maps tiles and satellite imagery with Google's. Its testing found smoother zooming into Supercharger Site Maps, which previously required a switch between the two map providers.",
+          "detail": "This is a phone-app change, not a Model Y firmware update or new driving capability. It could make checking your car's location and charging stops smoother, but an Australian rollout date and availability at individual local charging sites were not separately confirmed.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
+          "published": "18 Nov, source date",
+          "tag": "App update"
+        },
+        {
+          "id": "tesla-manual-battery-precondition-app-code-20261119",
+          "storyKey": "tesla-manual-battery-precondition-app-code",
+          "category": "Tesla",
+          "title": "App code hints at manual battery preconditioning",
+          "summary": "Not a Tesla App found references to start and stop battery-preconditioning buttons in the new app. The text suggests drivers could warm the battery themselves before DC fast charging, rather than relying solely on navigation to a supported charger.",
+          "detail": "Tesla has not announced or enabled the feature, and supported vehicles and Australian availability are unknown. It could eventually help Model Y owners prepare for a nearby fast charger, but it is not a button you should expect to find today, nor a benefit for ordinary AC charging.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
+          "published": "18 Nov, source date",
+          "tag": "Unreleased feature"
+        },
+        {
+          "id": "openai-chatgpt-live-dictation-streaming-release-20261119",
+          "storyKey": "openai-chatgpt-live-dictation-streaming-release",
+          "category": "AI",
+          "title": "ChatGPT dictation now streams text and loses its 10-minute limit",
+          "summary": "OpenAI says Live Dictation displays your words as you speak, rather than making you wait for transcription at the end. It is rolling out globally to all plans on iPhone, Android, the web and desktop, so Australia is included in that rollout.",
+          "detail": "Try this: dictate a short, non-sensitive post-call recap, then ask for decisions, action owners and a follow-up draft. That is a suggested workflow, not a reported customer example; review names and commitments before sharing, and do not treat dictation as automatic meeting recording.",
+          "source": "OpenAI",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "published": "18 Nov, release-note date",
+          "tag": "Rolling out globally"
+        },
+        {
+          "id": "meta-muse-agent-privacy-investigation-2026-20261119",
+          "storyKey": "meta-muse-agent-privacy-investigation-2026",
+          "category": "AI",
+          "title": "Reuters investigation raises privacy concerns about Meta's Muse agent",
+          "summary": "Reuters reviewed internal reports of Muse taking unwanted actions and tested access to Signal messages through device permissions. Meta called the examples isolated incidents and said many apparent account mix-ups were fabricated answers already addressed, not confirmed data leaks.",
+          "detail": "Reuters could not establish whether apparently unrelated financial details were real or invented. The practical takeaway for experimenting with agents: review notification, screen and accessibility access, and keep purchases and outbound messages behind approval rather than assuming an unconnected app is inaccessible.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+          "published": "18 Nov, 10:00 pm",
+          "tag": "Agent safety"
+        },
+        {
+          "id": "australian-data-centre-climate-council-nov2026-20261119",
+          "storyKey": "australian-data-centre-climate-council-nov2026",
+          "category": "Technology",
+          "title": "New report puts Australia's data centre energy demand under scrutiny",
+          "summary": "The Climate Council warns that nine large proposed data centres could substantially increase emissions if powered mainly by fossil fuels. It wants mandatory standards requiring developers to bring on additional renewable electricity and storage, rather than simply add demand to the existing grid.",
+          "detail": "The industry disputes the report's assumptions and says developers already offset much of their demand with renewables. National rules are expected in the coming months; the key distinction is between projected demand from proposed projects and electricity being consumed today.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036",
+          "published": "19 Nov, 7:02 am",
+          "tag": "Energy and infrastructure"
+        },
+        {
+          "id": "trump-xi-putin-shenzhen-trilateral-nov2026-20261119",
+          "storyKey": "trump-xi-putin-shenzhen-trilateral-nov2026",
+          "category": "Australia & World",
+          "title": "Trump arrives in China ahead of three-way talks with Xi and Putin",
+          "summary": "Xi Jinping personally greeted Donald Trump at Shenzhen airport before the leaders' planned Thursday meeting with Vladimir Putin on the sidelines of APEC. A US official also told Reuters that separate Trump-Putin talks are planned.",
+          "detail": "Ukraine, strategic stability and the wider relationship between the powers are in focus, but no agreement from the trilateral meeting has been announced. Anthony Albanese says any peace in Ukraine must be on Ukraine's terms, and is due to meet Xi on Friday.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/xi-trump-red-carpet-welcome/107401618",
+          "published": "19 Nov, 2:32 am; updated 3:57 am",
+          "tag": "Diplomacy"
+        },
+        {
+          "id": "hakeem-jeffries-house-speaker-nomination-2026-20261119",
+          "storyKey": "hakeem-jeffries-house-speaker-nomination-2026",
+          "category": "Australia & World",
+          "title": "Democrats nominate Jeffries for US House speaker",
+          "summary": "House Democrats elected Hakeem Jeffries their leader following their midterm victory, positioning him to become the first Black speaker when the new Congress convenes in January. US media reported a 251-11 vote in his favour.",
+          "detail": "This is the party nomination, not the final House vote installing a speaker. A Democratic majority would give the party greater control over legislation and investigations during Trump's final two years, while Jeffries also faces pressure from progressives over how to use that power.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/hakeem-jeffries-nominated-as-democratic-leader-house-speaker/107401668",
+          "published": "19 Nov, 4:48 am",
+          "tag": "US politics"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "label": "Wednesday, 18 November 2026",
       "note": "Times are Sydney local unless noted. Material updates are marked.",
@@ -978,185 +1118,6 @@
           }
         ],
         "morningChecked": "2026-11-13T08:27:23+11:00"
-      }
-    },
-    {
-      "date": "2026-11-12",
-      "label": "Thursday, 12 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-12T08:27:36+11:00",
-      "stories": [
-        {
-          "id": "david-jones-closure-list-20261112",
-          "storyKey": "australia-david-jones-administration-suppliers-20261106",
-          "category": "Sydney & NSW",
-          "title": "David Jones names 19 stores to close, including Macquarie Centre",
-          "summary": "David Jones’s receiver has confirmed that 19 of its 38 stores will shut. Seven are in NSW, including Macquarie Centre, Parramatta and Hornsby, all relevant if you shop around Epping. This is the first confirmed list since the retailer entered administration.",
-          "detail": "The affected stores are expected to trade through the peak shopping period. Exact closure dates were not given; the company says stock will either be discounted or moved to other stores.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
-          "published": "11 Nov, 1:07 pm; updated 9:13 pm",
-          "tag": "Material update"
-        },
-        {
-          "id": "town-hall-protest-subpoenas-20261112",
-          "storyKey": "nsw-town-hall-herzog-protest-subpoenas",
-          "category": "Sydney & NSW",
-          "title": "NSW premier and ministers subpoenaed over Town Hall protest",
-          "summary": "Chris Minns, Police Minister Yasmin Catley, Tourism Minister Steve Kamper and senior police have been subpoenaed in the case against people charged over February’s Sydney Town Hall protest. Defence lawyers want to ask how the policing operation was planned and what role ministers played.",
-          "detail": "ABC reports the subpoenas seek evidence on 8 March, five days before the NSW election. The defence’s claims of improper interference are allegations, not findings; the ministers’ offices declined to comment because the case is before the court.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-11/nsw-subpoenas-herzog-protest-case-chris-minns-yasmin-catley/107365558",
-          "published": "11 Nov, 5:56 pm; updated 6:20 pm"
-        },
-        {
-          "id": "centennial-park-roses-20261112",
-          "storyKey": "centennial-park-rose-garden-aphids",
-          "category": "Sydney & NSW",
-          "title": "Centennial Park uses beneficial insects to protect its roses",
-          "summary": "Centennial Park’s horticulture team is using ladybirds and small parasitic wasps to manage aphids in its historic rose garden. It’s an annual intervention, not a one-off experiment, and ABC reports the current infestation has been particularly heavy.",
-          "detail": "The garden overlooks Busbys Pond and has about 800 plants across 33 rose varieties. If you’re looking for a small stop on a ride or walk through the park, that’s where to find it.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088",
-          "published": "12 Nov, 6:17 am"
-        },
-        {
-          "id": "apple-invites-polls-20261112",
-          "storyKey": "apple-invites-polls-release",
-          "category": "Apple",
-          "title": "Apple Invites adds polls for guests",
-          "summary": "The latest Apple Invites update lets hosts add a poll so guests can vote on details such as food or a party theme. There’s also a decorative emoji effect, but the poll is the useful change if you want to settle a choice without a group chat.",
-          "detail": "Hosts still need iCloud+ to create an event. Guests can RSVP from the invitation link without paying or owning an Apple device; Apple Invites is listed in the Australian App Store.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-          "published": "12 Nov, 8:00 am Sydney time",
-          "tag": "Released"
-        },
-        {
-          "id": "tesla-finland-assisted-driving-20261112",
-          "storyKey": "tesla-finland-assisted-driving-approval",
-          "category": "Tesla",
-          "title": "Finland clears Tesla’s supervised driver assistance",
-          "summary": "Finland’s transport regulator recognised the provisional approval granted by the Netherlands for Tesla Assisted Driving, the European name for FSD (Supervised). Tesla says the Finnish rollout will begin soon, which is distinct from the regulatory permission already in place.",
-          "detail": "The driver remains responsible. This is a Finnish decision, not EU-wide approval, and it does not establish any new feature or eligibility for your Australian Model Y.",
-          "source": "Not a Tesla App, citing Traficom and Tesla",
-          "url": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
-          "published": "11 Nov, source date",
-          "tag": "Approved; rollout pending"
-        },
-        {
-          "id": "tesla-cybertruck-production-extension-20261112",
-          "storyKey": "tesla-cybertruck-winddown-20261107",
-          "category": "Tesla",
-          "title": "Musk extends the Cybertruck production timetable",
-          "summary": "Elon Musk says Tesla will now build Cybertrucks through the end of the US summer in 2027, later than the previously reported June or July shutdown. Not a Tesla App reports the extension gives the Texas line more time to work through existing orders.",
-          "detail": "It is not a reversal of the decision to end production or a promise that all deposits will turn into deliveries. No change to the cancellation of Australian reservations was announced.",
-          "source": "Not a Tesla App, citing Elon Musk",
-          "url": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
-          "published": "11 Nov, source date",
-          "tag": "Material update"
-        },
-        {
-          "id": "gemini-live-carplay-20261112",
-          "storyKey": "google-gemini-live-carplay-rollout",
-          "category": "AI",
-          "title": "Gemini Live starts rolling out on Apple CarPlay",
-          "summary": "Google is rolling out the standalone Gemini Live experience on compatible CarPlay displays globally in supported languages. It can pick up recent conversations from your iPhone and, with connected Workspace apps, help you talk through a calendar or inbox. The rollout announcement does not guarantee it has reached every Australian account yet.",
-          "detail": "This is a CarPlay feature, not a Tesla infotainment update. If you have access in a compatible car, one idea is to rehearse an executive review while parked using a sanitised brief, then pick up the conversation on your phone.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
-          "published": "11 Nov, source date; reported 12 Nov, 4:29 am Sydney time",
-          "tag": "Staged rollout"
-        },
-        {
-          "id": "switchbot-curtain-track-4-20261112",
-          "storyKey": "switchbot-curtain-track-4-release",
-          "category": "Technology",
-          "title": "SwitchBot puts a removable battery on its retrofit curtain motor",
-          "summary": "The new Curtain Track 4 fits existing U-rail curtains and lets you remove the Battery+ module for USB-C charging without taking the motor off the rail. It doesn’t fit curtain rods. A compatible SwitchBot hub is needed to bring it into Apple Home through Matter.",
-          "detail": "It’s available through the US channels cited by 9to5Mac; Australian pricing and stock were not confirmed. Check the rail and hub requirements before ordering.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
-          "published": "12 Nov, 1:00 am Sydney time",
-          "tag": "Released; AU unconfirmed"
-        },
-        {
-          "id": "ukraine-russia-prisoner-exchange-20261112",
-          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
-          "category": "Australia & World",
-          "title": "Ukraine and Russia agree to a large prisoner exchange",
-          "summary": "Negotiators from both sides confirmed a planned prisoner-of-war swap after two days of US-mediated talks in Abu Dhabi. That is a concrete outcome from the talks covered yesterday, but not a ceasefire or a settlement of the territorial dispute.",
-          "detail": "US envoys Steve Witkoff and Jared Kushner are due to meet Vladimir Putin in Moscow, then Volodymyr Zelenskyy in Dublin. A timetable for the exchange was not given in the ABC report.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
-          "published": "12 Nov, 1:42 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "cop31-pacific-aid-20261112",
-          "storyKey": "cop31-electrification-20261109",
-          "category": "Australia & World",
-          "title": "Albanese calls for more Pacific climate support at COP31",
-          "summary": "At the leaders’ summit in Antalya, Anthony Albanese urged countries to help Pacific nations adapt to climate change, pointing to the Pacific Resilience Facility. The appeal came as climate advocates challenged Australia’s support for new coal and gas projects.",
-          "detail": "The intervention puts Pacific climate finance alongside the argument over how to cut fossil fuel use. Negotiations are still under way; the speech was a call for action, not a new funding agreement.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792",
-          "published": "12 Nov, 4:35 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "spain-housing-general-strike-20261112",
-          "storyKey": "spain-housing-general-strike-nov2026",
-          "category": "Australia & World",
-          "title": "Spain’s housing crisis triggers its first general strike since 2012",
-          "summary": "Spanish unions say four million people joined a national strike over housing affordability, as tenants’ groups protested rising rents and evictions. The walkout came less than three weeks before the snap general election on 29 November.",
-          "detail": "Housing was already shaping the election after parliament rejected measures aimed at limiting rent pressure and curbing evictions. The turnout figure is the unions’ estimate.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816",
-          "published": "12 Nov, 5:03 am; updated 7:41 am"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-12T16:58:53+11:00",
-        "stories": [
-          {
-            "id": "sydney-harbour-bridge-train-fall-20261112-pm",
-            "storyKey": "sydney-harbour-bridge-train-fall-20261112",
-            "category": "Sydney & NSW",
-            "title": "Teenager critical after falling from train on Harbour Bridge",
-            "summary": "A 17-year-old boy is in a critical condition after falling onto the tracks on the Sydney Harbour Bridge. Police say he was riding on the outside of the train before the fall and are investigating.",
-            "detail": "The incident briefly stopped T1 services between Wynyard and North Sydney and also affected the T9 Northern Line. Services were delayed by up to 90 minutes earlier, so check live transport information before travelling.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826",
-            "published": "12 Nov, 1:20 pm; updated 3:45 pm"
-          },
-          {
-            "id": "bookeasy-national-parks-data-breach-20261112-pm",
-            "storyKey": "bookeasy-national-parks-booking-breach-2026",
-            "category": "Technology",
-            "title": "National parks booking data stolen across three states",
-            "summary": "A breach of booking provider Bookeasy has exposed personal information connected with national parks bookings in Queensland, Victoria and South Australia. Queensland says it does not currently believe financial information was accessed, as payments use a separate system.",
-            "detail": "Park users should be alert to unexpected messages impersonating park staff. Parks Victoria has temporarily suspended new campsite bookings and changes while it investigates, but says existing bookings remain valid.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-12/queensland-parks-booking-system-hacked/107376788",
-            "published": "12 Nov, 10:54 am",
-            "tag": "Data breach"
-          },
-          {
-            "id": "asic-cba-commbiz-fees-court-20261112-pm",
-            "storyKey": "asic-cba-commbiz-undisclosed-fees-2026",
-            "category": "Australia & World",
-            "title": "ASIC takes CBA to court over alleged business banking fees",
-            "summary": "ASIC has launched civil penalty proceedings against Commonwealth Bank, alleging roughly 42,000 CommBiz business customers were overcharged about $8.5 million between November 2020 and May 2025. The regulator says certain transaction fees were not properly disclosed.",
-            "detail": "CBA says it self-reported and cooperated with ASIC, but disputes some allegations and expects to defend parts of the case. The allegations have not been decided by the court.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-12/asic-sues-commonwealth-bank-alleges-overcharged-millions-in-fees/107376156",
-            "published": "12 Nov, 9:00 am",
-            "tag": "Court proceedings"
-          }
-        ],
-        "morningChecked": "2026-11-12T08:27:36+11:00"
       }
     }
   ]
