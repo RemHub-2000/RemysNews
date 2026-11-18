@@ -150,7 +150,50 @@
           "published": "17 Nov, 4:45 pm; later updated",
           "tag": "Material update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-18T17:00:33+11:00",
+        "stories": [
+          {
+            "id": "nvidia-board-rules-out-huang-return-20261118-pm",
+            "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
+            "category": "Technology",
+            "title": "Nvidia chair rules out reinstating Jensen Huang as CEO",
+            "summary": "Nvidia chair Harvey Jones has publicly said the board does not intend to reinstate Jensen Huang, after Huang said he would be honoured to return. Jones backed interim CEO Colette Kress while the board searches for a permanent successor.",
+            "detail": "The explicit statement came on the company's earnings call, providing clarity after supporters had pressed for Huang's return. Nvidia's quarterly revenue more than doubled from a year earlier to US$115.8 billion, illustrating continued demand for its AI infrastructure.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
+            "published": "18 Nov, updated 11:12 am",
+            "tag": "Leadership update"
+          },
+          {
+            "id": "australian-september-wages-data-20261118-pm",
+            "storyKey": "australia-september-2026-wage-price-index",
+            "category": "Australia & World",
+            "title": "Wage growth picks up, but prices still outpace pay",
+            "summary": "Australia's wage price index rose 1.1% in the September quarter and 3.5% over the year, the ABS reported today. It was the strongest quarterly increase since late 2023, but prices still rose faster than wages in the quarter.",
+            "detail": "The ABS says award increases helped drive private sector wage growth. EY economist Cherelle Murphy expects the Reserve Bank to hold rates in December, although that is a forecast rather than a decision.",
+            "source": "ABS; ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692",
+            "published": "18 Nov, ABS release 11:30 am",
+            "tag": "Cost of living"
+          },
+          {
+            "id": "gas-reservation-wa-amendment-20261118-pm",
+            "storyKey": "australia-domestic-gas-reservation-senate-2026",
+            "category": "Australia & World",
+            "title": "Government proposes WA carve-out for gas reservation bill",
+            "summary": "The federal government has proposed an amendment allowing Western Australia's obligation under its national gas reservation scheme to be set permanently at zero. WA Premier Roger Cook welcomed the change, which addresses a major objection to the bill.",
+            "detail": "The legislation has not passed: the Coalition says it still has concerns about investment, and the Greens want a gas export tax. The proposed scheme aims to make more gas available domestically, but any effect on household prices remains to be seen.",
+            "source": "SBS News / AAP",
+            "url": "https://www.sbs.com.au/news/article/western-australia-carve-out-gas-reservation-scheme-senate-battle-still-looms/s6uwzthrx",
+            "published": "18 Nov, 12:50 pm",
+            "tag": "Energy policy"
+          }
+        ],
+        "morningChecked": "2026-11-18T08:27:23+11:00"
+      }
     },
     {
       "date": "2026-11-17",
