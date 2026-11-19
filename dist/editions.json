@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-20",
+      "label": "Friday, 20 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
+      "checked": "2026-11-20T08:23:23+11:00",
+      "stories": [
+        {
+          "id": "epping-labor-tanya-raffoul-candidate-2026-20261120",
+          "storyKey": "epping-labor-tanya-raffoul-candidate-2026",
+          "category": "Sydney & NSW",
+          "title": "Labor names former Liberal councillor Tanya Raffoul for Epping",
+          "summary": "Parramatta councillor Tanya Raffoul has been named Labor's candidate for Epping after leaving the Liberals and joining Labor this week. The former adviser to Coalition minister David Elliott said she had grown apart from the party and was concerned about its relationship with One Nation.",
+          "detail": "This puts a familiar local-government figure into the contest for your state seat, currently held by Liberal Monica Tudehope. Labor approached Raffoul after she backed a Labor candidate for Parramatta lord mayor; this is a candidate announcement, not a change of MP.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/ex-liberal-tanya-raffoul-named-nsw-labor-candidate-for-epping-/107404970",
+          "published": "19 Nov, 4:15 pm; updated 4:41 pm",
+          "tag": "Epping"
+        },
+        {
+          "id": "nsw-electorate-staff-security-dispute-2026-20261120",
+          "storyKey": "nsw-electorate-staff-security-dispute-2026",
+          "category": "Sydney & NSW",
+          "title": "NSW political staff union threatens action over office security",
+          "summary": "The Public Service Association has lodged a workplace dispute after parliament's presiding officers declined its request for a joint security committee. Staff report threats, abuse and violence, with the issue receiving renewed attention after the alleged attack on federal MP Helen Haines.",
+          "detail": "A conciliation hearing is listed for today, so industrial action is a threat rather than an announced closure of electorate offices. Parliament says it is already reviewing security arrangements; the dispute concerns the safety of the staff who handle constituents' calls, emails and visits.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-20/nsw-mp-staffers-raise-security-concerns/107406064",
+          "published": "20 Nov, 6:52 am; updated 7:36 am",
+          "tag": "Public services"
+        },
+        {
+          "id": "apple-uk-tcn-secrecy-ruling-nov2026-20261120",
+          "storyKey": "apple-uk-tcn-secrecy-ruling-nov2026",
+          "category": "Apple",
+          "title": "Apple wins the right to discuss the UK's secret data-access order",
+          "summary": "The UK's Investigatory Powers Tribunal rejected the government's attempt to keep its demand for access to encrypted Apple customer data secret. Much of the challenge can now be heard publicly, rather than behind closed doors.",
+          "detail": "The important distinction is that this is a ruling about secrecy, not a final decision overturning the data-access demand or restoring Advanced Data Protection in the UK. No change to Australian iCloud settings or availability was announced, but the case remains an important test of government pressure on encryption.",
+          "source": "9to5Mac, corroborated by Reuters",
+          "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
+          "published": "20 Nov, 2:01 am",
+          "tag": "Privacy ruling"
+        },
+        {
+          "id": "tesla-cybercab-dallas-service-launch-20261120",
+          "storyKey": "tesla-cybercab-dallas-service-launch",
+          "category": "Tesla",
+          "title": "Tesla starts Cybercab rides in Dallas",
+          "summary": "Tesla's Robotaxi account announced that Cybercab rides have launched in Dallas, taking the steering-wheel-free two-seater beyond Austin. Not a Tesla App reports that the Dallas vehicles use the V1.5 design, with integrated Starlink equipment and a rear luggage-area camera spotted by riders.",
+          "detail": "This is a commercial-service expansion, not just a demonstration or factory promise. It is US-only news with no confirmed Australian launch, and does not make an Australian Model Y driverless or change the supervision requirements of any features already fitted to your car.",
+          "source": "Not a Tesla App, citing Tesla Robotaxi",
+          "url": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
+          "published": "19 Nov, US source date",
+          "tag": "US service launch"
+        },
+        {
+          "id": "tesla-model-y-l-production-comments-2026-20261120",
+          "storyKey": "tesla-model-y-l-production-comments-2026",
+          "category": "Tesla",
+          "title": "Musk floats shifting Model Y production to the larger Model Y L",
+          "summary": "At the DealBook Summit, Elon Musk suggested Tesla should consider switching Model Y production to its larger six-seat Model Y L, citing demand. Not a Tesla App reports that some US buyers are already facing longer waits for that model.",
+          "detail": "There is no confirmed production-conversion timetable or announcement that the standard Model Y is being discontinued worldwide. For Australian owners, this is a possible future line-up change to watch, not a recall, service-policy change or reason to expect anything different from your existing vehicle today.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
+          "published": "19 Nov, US source date",
+          "tag": "Proposal, not a decision"
+        },
+        {
+          "id": "google-gemini-mac-computer-use-rollout-20261120",
+          "storyKey": "google-gemini-mac-computer-use-rollout",
+          "category": "AI",
+          "title": "Gemini gains computer control on Mac, initially in the US",
+          "summary": "Google is rolling out a Mac feature that can click through apps, type into forms and work with local files in an isolated background window. Its examples include turning dashboard metrics and screenshots into Google Slides, with a live preview, app permissions and approval for key actions.",
+          "detail": "That is a reported use case with obvious potential for preparing a customer review, but the rollout is English-language and US-only, not confirmed for Australia. Put it on the watchlist rather than expecting to use it here now, and keep customer-data access within workplace-approved tools.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+          "published": "19 Nov, source date",
+          "tag": "US-only rollout"
+        },
+        {
+          "id": "canva-ai-controls-free-pro-release-20261120",
+          "storyKey": "canva-ai-controls-free-pro-release",
+          "category": "AI",
+          "title": "Canva adds switches for generative tools and AI-made assets",
+          "summary": "Canva Free and Pro users can now hide generative AI features and reduce AI-generated templates and elements in library results, at no extra charge. Background Remover and Magic Grab remain available because they edit existing material rather than generate new content.",
+          "detail": "For a presentation, try the reduced-AI-content setting when you want more human-made visual assets; that is a suggested application, not a reported customer example. Canva lists no Australian exclusion, while managed workplace accounts continue to have separate administrator controls.",
+          "source": "Canva",
+          "url": "https://www.canva.com/newsroom/news/ai-controls-canva/",
+          "published": "19 Nov; reporting at 11:30 pm Sydney",
+          "tag": "Available now"
+        },
+        {
+          "id": "anthropic-nasdaq-ipo-trading-debut-2026-20261120",
+          "storyKey": "anthropic-nasdaq-ipo-trading-debut-2026",
+          "category": "Technology",
+          "title": "Anthropic makes its Nasdaq debut after a roughly US$81 billion offering",
+          "summary": "The maker of Claude began trading on Nasdaq on Thursday, becoming the first publicly traded frontier AI company, Reuters reports. The scale of the offering puts funding for expensive computing infrastructure, and the path to profitability, under public-market scrutiny.",
+          "detail": "This is a major industry financing milestone, not a new Claude model or a change to subscriptions. Anthropic says the offering is expected to close on 20 November, subject to the usual conditions.",
+          "source": "Reuters; offering details checked with Anthropic",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "published": "19 Nov, US trading day",
+          "tag": "Industry milestone"
+        },
+        {
+          "id": "trump-xi-putin-shenzhen-trilateral-nov2026-20261120",
+          "storyKey": "trump-xi-putin-shenzhen-trilateral-nov2026",
+          "category": "Australia & World",
+          "title": "Three-way summit ends with a broad statement, but no Ukraine deal",
+          "summary": "Trump, Xi and Putin concluded their Shenzhen talks with a declaration on nuclear risks, energy supplies and possible UN reform. The official account did not mention Ukraine, despite Trump saying beforehand that the war would be discussed.",
+          "detail": "The leaders backed more refined-fuel production and supply without numerical targets or a timetable, so this is not an agreed fix for energy-market disruption. Before the meeting, Anthony Albanese directly called on Putin to end the invasion; no ceasefire or peace settlement emerged from the published readout.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+          "published": "19 Nov, 8:36 pm; updated 11:44 pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "cop31-electrification-20261109-20261120",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "Revised COP31 draft drops fossil fuel language",
+          "summary": "Negotiators removed references to ending fossil fuel use from the latest draft, along with a US$120 billion adaptation-finance target, Reuters reports. Australia and Türkiye defended the narrowing of the text as the talks approached Friday's deadline.",
+          "detail": "This is a substantive retreat from the earlier draft, but not yet the final agreement. Fossil fuel commitments and funding for vulnerable countries remain the issues to watch as negotiations continue.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/",
+          "published": "19 Nov, 11:13 pm",
+          "tag": "Material update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "label": "Thursday, 19 November 2026",
       "note": "Times are Sydney local unless noted. Announcements and unreleased features are labelled.",
@@ -1001,154 +1129,6 @@
           }
         ],
         "morningChecked": "2026-11-14T08:21:43+11:00"
-      }
-    },
-    {
-      "date": "2026-11-13",
-      "label": "Friday, 13 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-13T08:27:23+11:00",
-      "stories": [
-        {
-          "id": "sydney-online-extremism-centre-20261113",
-          "storyKey": "sydney-counter-terrorism-online-centre",
-          "category": "Sydney & NSW",
-          "title": "Sydney opens a national hub to tackle online extremism",
-          "summary": "A $76 million federal centre opens in Sydney today, bringing the Australian Federal Police and ASIO together to tackle online radicalisation. The government says a priority is reaching young people earlier, before online activity escalates into a threat.",
-          "detail": "The funding was announced in May, so the new development is the centre opening, not a new funding round or a change to the law. Home Affairs Minister Tony Burke says the government remains open to further legislative changes.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242",
-          "published": "13 Nov, 5:00 am",
-          "tag": "Sydney"
-        },
-        {
-          "id": "wauchope-hail-cleanup-20261113",
-          "storyKey": "nsw-mid-north-coast-hail-cleanup-november-2026",
-          "category": "Sydney & NSW",
-          "title": "Extra SES crews help Wauchope clean up after hailstorm",
-          "summary": "The SES responded to 125 calls after Wednesday’s storms on the Mid North Coast and Northern Rivers, more than 70 of them around Wauchope. Crews from Newcastle joined the clean-up on Thursday after hail blocked gutters, water got into buildings and trees came down.",
-          "detail": "The Lower Clarence was hit by a separate storm cell. Yamba and Iluka also reported roof damage, and fallen trees slowed traffic on parts of the Pacific Motorway near New Italy during the storm.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-12/mid-north-coast-storm-damage-hail/107376122",
-          "published": "12 Nov, 10:48 am",
-          "tag": "NSW"
-        },
-        {
-          "id": "apple-tv-4k-review-australia-20261113",
-          "storyKey": "apple-tv-4k-fourth-generation-australian-release",
-          "category": "Apple",
-          "title": "New Apple TV 4K goes on sale in Australia for A$449",
-          "summary": "The fourth-generation Apple TV 4K reaches Australian stores today, and 9to5Mac’s first review found the new hands-free Siri microphones useful, but answers about the show currently playing could be unreliable. The new model has an A19 chip, though the reviewer found the speed gain over the third generation relatively modest.",
-          "detail": "Apple confirms the English-language Siri AI beta is also available in Australia on second- and third-generation Apple TV 4K models, with a compatible iPhone or iPad required for the home owner. The first-generation 4K misses out, but the new remote is sold separately if that is the upgrade you actually want.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/12/apple-tv-4k-review-the-best-streamer-comes-at-a-cost/",
-          "published": "13 Nov, 1:00 am",
-          "tag": "Australian release"
-        },
-        {
-          "id": "tesla-robotaxi-247-20261113",
-          "storyKey": "tesla-robotaxi-san-antonio-launch",
-          "category": "Tesla",
-          "title": "Tesla’s unsupervised US Robotaxi service goes round the clock",
-          "summary": "Tesla has extended Robotaxi to 24 hours a day across its unsupervised US markets, including newly added San Antonio. The San Francisco Bay Area is the exception, where rides remain supervised. This is an expansion of service hours, not a rollout to new cities.",
-          "detail": "Tesla has not confirmed that the entire fleet is using the same software version. The change applies to the US ride service and does not announce a software update, an unsupervised feature for your Model Y or an Australian launch.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
-          "published": "12 Nov, US date",
-          "tag": "Material update"
-        },
-        {
-          "id": "apra-ai-stress-tests-20261113",
-          "storyKey": "apra-2027-ai-system-stress-testing",
-          "category": "AI",
-          "title": "APRA plans to put AI risks into financial-sector stress tests",
-          "summary": "Australia’s prudential regulator plans to examine AI-driven risks in next year’s stress testing. Its new outlook flags a practical concern for banks, insurers and super funds: disruption can spread when multiple firms depend on the same technology providers, even if each has its own recovery plan.",
-          "detail": "For a customer planning session, try asking how an AI-assisted journey would keep running if its AI service were unavailable for a day. For example, agree which customer messages can fall back to pre-approved copy and who decides when to switch. That is a suggested exercise, not an APRA requirement.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
-          "published": "13 Nov, 5:00 am",
-          "tag": "Work relevance"
-        },
-        {
-          "id": "nvidia-ceo-transition-20261113",
-          "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
-          "category": "Technology",
-          "title": "Nvidia co-founder Jensen Huang resigns as CEO",
-          "summary": "Jensen Huang has stepped down immediately as Nvidia’s chief executive, president and board member. Chief financial officer Colette Kress is interim CEO. His departure followed a board investigation after reporting that Huang had been targeted by foreign intelligence.",
-          "detail": "Nvidia says it has no reason to believe company security or trade secrets were compromised. The immediate change is at the top of the company; there is no confirmed change to its chip roadmap or supply commitments in the announcement.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470",
-          "published": "13 Nov, 1:00 am; updated 4:30 am",
-          "tag": "Industry"
-        },
-        {
-          "id": "microsoft-365-outage-20261113",
-          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
-          "category": "Technology",
-          "title": "Microsoft 365 outage hits Outlook, Teams and SharePoint",
-          "summary": "Microsoft reported disruption across several Microsoft 365 services this morning. At ABC’s 7:36 am update, the company was rerouting traffic and pausing deployments while it worked to restore access. Affected services included Outlook, Teams and SharePoint.",
-          "detail": "The outage also affected some connections from Claude and ChatGPT to Microsoft 365. If an AI meeting-prep workflow pulled back nothing this morning, check the calendar or document directly before treating an empty result as confirmation that there is nothing scheduled or shared.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
-          "published": "13 Nov, 6:29 am; updated 7:36 am",
-          "tag": "Service disruption"
-        },
-        {
-          "id": "iran-hormuz-us-deal-shift-20261113",
-          "storyKey": "iran-hormuz-talks-shipping-20261109",
-          "category": "Australia & World",
-          "title": "Trump says the US does not need a deal with Iran",
-          "summary": "Donald Trump said the US did not need a deal with Iran and told Vice-President JD Vance to focus on domestic corruption. It is a shift in Washington’s public stance after the earlier argument over conditions for talks, but not confirmation that all diplomatic contacts have ended.",
-          "detail": "Reuters separately reported that Brent crude rose 3.3 per cent to US$95.82 on Thursday as shipping disruption through the Strait of Hormuz and reports of attacks on Saudi energy infrastructure renewed concern about supply. That is a move in wholesale oil prices, not a forecast for Australian petrol prices.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/trump-says-vance-should-focus-domestic-corruption-we-dont-need-deal-with-iran-2026-11-12/",
-          "published": "13 Nov, 12:39 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "australia-repeated-medicine-shortages-20261113",
-          "storyKey": "australia-tga-repeated-critical-medicine-shortages-analysis",
-          "category": "Australia & World",
-          "title": "New analysis finds some critical medicines repeatedly run short",
-          "summary": "An ABC analysis of Therapeutic Goods Administration shortage records since 2015 found some critical medicines have repeatedly been in short supply. Examples include a long-acting penicillin injection and Creon, an enzyme replacement used by some people whose pancreas does not make enough digestive enzymes.",
-          "detail": "The reporting looks at a pattern over years, not a single new shortage announcement. It highlights why the same medicine can be hard to source more than once even when an earlier shortage was listed as resolved.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
-          "published": "13 Nov, 5:00 am; updated 6:14 am",
-          "tag": "Australia"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-13T16:57:18+11:00",
-        "stories": [
-          {
-            "id": "sydney-swans-police-no-charges-20261113-pm",
-            "storyKey": "sydney-swans-melbourne-investigation-2026",
-            "category": "Sydney & NSW",
-            "title": "Police conclude Swans investigation without charges",
-            "summary": "Victoria Police say four Sydney Swans players will not face criminal charges after an investigation into an alleged sexual assault at a Melbourne hotel in August. Police say there was insufficient evidence to lay charges.",
-            "detail": "Lawyers for three women say they are continuing civil claims related to the allegations. The Swans say their decision to stand players down for breaching club standards was separate from the police investigation.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-13/sydney-swans-players-cleared-by-police-over-pullman/107372082",
-            "published": "13 Nov, 10:56 am",
-            "tag": "Investigation concluded"
-          },
-          {
-            "id": "microsoft-outage-australia-priority-20261113-pm",
-            "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
-            "updatesStoryId": "microsoft-365-outage-20261113",
-            "category": "Technology",
-            "title": "Australia invokes priority recovery agreement as Microsoft outage persists",
-            "summary": "The federal government has activated an agreement with Microsoft intended to prioritise recovery of Australian services. ASIO and the Australian Federal Police confirmed they were among the organisations affected, showing the disruption extends to national security agencies.",
-            "detail": "Microsoft said restored servers had again become unresponsive and was preparing a further fix. Home Affairs Minister Tony Burke says Microsoft told him it does not believe the outage was caused by a cyber attack; a full recovery time has not been confirmed.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100",
-            "published": "13 Nov, 3:55 pm; updated 4:27 pm",
-            "tag": "Material update"
-          }
-        ],
-        "morningChecked": "2026-11-13T08:27:23+11:00"
       }
     }
   ]
