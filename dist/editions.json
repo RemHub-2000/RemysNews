@@ -138,7 +138,38 @@
           "published": "19 Nov, 4:48 am",
           "tag": "US politics"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-19T17:03:25+11:00",
+        "stories": [
+          {
+            "id": "tammy-shipley-coroner-findings-20261119-pm",
+            "storyKey": "tammy-shipley-silverwater-death-inquest-findings-2026",
+            "category": "Sydney & NSW",
+            "title": "Coroner finds Silverwater death in custody was preventable",
+            "summary": "NSW State Coroner Teresa O'Sullivan has found that the 2022 death of Aboriginal woman Tammy Shipley at Silverwater Women's Correctional Centre was preventable. She identified failures by police and Corrective Services in the lead-up to the death.",
+            "detail": "The coroner made 10 recommendations aimed at improving systems across NSW Police, Corrective Services and Justice Health. Shipley, a mother of five, died after drinking excessive water associated with a psychiatric condition.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-death-in-custody/107398998",
+            "published": "19 Nov, 11:53 am; updated 2:36 pm",
+            "tag": "Coronial findings"
+          },
+          {
+            "id": "australia-october-unemployment-20261119-pm",
+            "storyKey": "australia-october-2026-labour-force-survey",
+            "category": "Australia & World",
+            "title": "Unemployment rises to 4.9% as employment falls",
+            "summary": "Australia's unemployment rate rose to 4.9% in October, its highest since October 2021, according to figures released by the ABS today. Seasonally adjusted employment fell by 43,500 and the number of unemployed people rose by 17,800.",
+            "detail": "The trend unemployment rate rose to 4.8%, suggesting the softer labour market is not just a single monthly swing. Economists cited by the ABC expect the Reserve Bank to hold rates in the near term, but that is a forecast, not a decision.",
+            "source": "ABC News; ABS",
+            "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+            "published": "19 Nov, ABS release 11:30 am",
+            "tag": "Jobs and economy"
+          }
+        ],
+        "morningChecked": "2026-11-19T08:21:52+11:00"
+      }
     },
     {
       "date": "2026-11-18",
