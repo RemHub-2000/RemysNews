@@ -126,7 +126,50 @@
           "published": "19 Nov, 11:13 pm",
           "tag": "Material update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-20T17:00:32+11:00",
+        "stories": [
+          {
+            "id": "sydney-counterterror-raids-charges-20261120-pm",
+            "storyKey": "sydney-counterterror-raids-ingleburn-charges-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Man charged after counter-terror raids across Sydney",
+            "summary": "A 35-year-old man has been charged with terrorism offences after police searched properties across Sydney this morning. The AFP alleges he researched a vehicle-borne explosive device and possessed violent extremist material.",
+            "detail": "Police say they have no information suggesting a target was identified or that he had the capability to carry out an attack, and say there is no ongoing threat to the community. The allegations are yet to be tested in court.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568",
+            "published": "20 Nov, 10:58 am; updated 4:25 pm",
+            "tag": "Police operation"
+          },
+          {
+            "id": "daryl-maguire-visa-sentencing-20261120-pm",
+            "storyKey": "daryl-maguire-fraudulent-visa-conspiracy-sentencing-2026",
+            "category": "Sydney & NSW",
+            "title": "Former NSW MP Daryl Maguire jailed over visa conspiracy",
+            "summary": "Former Wagga Wagga MP Daryl Maguire has been sentenced to three years in prison, with a one-year non-parole period, for his role in a fraudulent visa scheme. A jury found him guilty of conspiracy in July.",
+            "detail": "His lawyers indicated they would appeal the conviction and sought bail, which was refused. The court heard the scheme involved false or misleading visa applications while Maguire was a sitting MP.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-20/daryl-maguire-jailed-over-role-in-fraudulent-visa-scheme/107291680",
+            "published": "20 Nov, 11:06 am; updated 12:20 pm",
+            "tag": "NSW courts"
+          },
+          {
+            "id": "albanese-xi-bilateral-shenzhen-20261120-pm",
+            "storyKey": "australia-china-albanese-xi-bilateral-shenzhen-november-2026",
+            "category": "Australia & World",
+            "title": "Albanese and Xi meet as Australian businesses seek trade access",
+            "summary": "Anthony Albanese met Chinese President Xi Jinping in Shenzhen today, with Xi describing a turnaround in Australia-China relations and Albanese calling for frank discussions despite differences. It was their fifth meeting since Albanese became prime minister.",
+            "detail": "Australian businesses are pressing for greater access to Chinese markets, including beef and rice, as the prime minister heads to Beijing for further meetings. No change to beef quotas was announced in the reporting on the Xi meeting.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222",
+            "published": "20 Nov, updated 2:45 pm",
+            "tag": "Trade and diplomacy"
+          }
+        ],
+        "morningChecked": "2026-11-20T08:23:23+11:00"
+      }
     },
     {
       "date": "2026-11-19",
