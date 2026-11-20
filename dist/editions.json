@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-21",
+      "label": "Saturday, 21 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
+      "checked": "2026-11-21T08:20:31+11:00",
+      "stories": [
+        {
+          "id": "nsw-mark-speakman-retirement-2027-election-20261121",
+          "storyKey": "nsw-mark-speakman-retirement-2027-election",
+          "category": "Sydney & NSW",
+          "title": "Mark Speakman will leave NSW parliament at the next election",
+          "summary": "The former NSW opposition leader says he will not recontest Cronulla, becoming the eighth Liberal MP to announce a departure in recent months. His late-night parliamentary speech also urged the party to retain its own identity rather than follow One Nation.",
+          "detail": "This is a planned exit at the 2027 election, not an immediate resignation or a new leadership contest. Kellie Sloane remains opposition leader and says she tried to persuade him to stay, adding another candidate-selection task before the state campaign.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
+          "published": "20 Nov, 9:47 am; updated 4:35 pm",
+          "tag": "State politics"
+        },
+        {
+          "id": "western-nsw-darling-baaka-rain-november-2026-20261121",
+          "storyKey": "western-nsw-darling-baaka-rain-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Heavy western NSW rain brings relief, but shuts unsealed roads",
+          "summary": "Pastoralists around the Darling-Baaka are celebrating substantial rain before summer, with one station north of Louth recording 204 mm. Other properties reported markedly different totals, so this is significant local relief rather than evidence that dry conditions have ended across NSW.",
+          "detail": "The ABC reported on Friday that almost all unsealed roads in the far west were closed, with rapid rises in local waterways. If travelling in that region this weekend, check current council road reports before setting out; Friday's closures should not be treated as a live Saturday road-status list.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-20/godsend-rainfall-overnight-for-western-nsw-farmers/107408616",
+          "published": "20 Nov, 1:54 pm; updated 6:07 pm",
+          "tag": "Rain and road closures"
+        },
+        {
+          "id": "signal-ios-27-block-siri-ai-screenshots-20261121",
+          "storyKey": "signal-ios-27-block-siri-ai-screenshots",
+          "category": "Apple",
+          "title": "Signal blocks iPhone screenshots to keep AI out of chats",
+          "summary": "Signal's new protection blocks screenshots on iOS 27 by default to restrict Siri AI and other agents from capturing messages. The company says users can disable it in Signal's privacy settings, but doing so may expose their conversations to screen-reading assistants.",
+          "detail": "This is a new app-level response, not a claim that Signal's encryption has been broken. Signal says screenshot blocking is incomplete and does not stop every possible route to on-device data; the release is not described as Australia-restricted, but depends on the app and OS version.",
+          "source": "9to5Mac; checked with Signal",
+          "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
+          "published": "21 Nov, 3:29 am",
+          "tag": "Privacy update"
+        },
+        {
+          "id": "tesla-italy-assisted-driving-provisional-approval-20261121",
+          "storyKey": "tesla-italy-assisted-driving-provisional-approval",
+          "category": "Tesla",
+          "title": "Italy provisionally approves Tesla's supervised driving system",
+          "summary": "Italy's transport minister announced provisional approval for Tesla Assisted Driving, following a technical assessment and ahead of wider EU approval. Tesla also confirmed the decision, expanding the system's European reach beyond the smaller countries that had already recognised it.",
+          "detail": "Despite the naming, this remains supervised driver assistance, not permission for unattended driving. The Italian decision does not change Australian approvals or confirm any new feature for your Model Y; local availability still depends on the vehicle, software, hardware and applicable requirements.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/italy-gives-green-light-tesla-self-driving-system-ahead-eu-approval-2026-11-20/",
+          "published": "21 Nov, 12:49 am",
+          "tag": "Overseas approval"
+        },
+        {
+          "id": "openai-chatgpt-space-plus-global-rollout-20261121",
+          "storyKey": "openai-chatgpt-space-plus-global-rollout",
+          "category": "AI",
+          "title": "ChatGPT Space starts rolling out to Plus subscribers",
+          "summary": "OpenAI says adults on Plus are gaining Space globally, including Australia, for creating and collaboratively editing interactive pages and presentations. Pages and slides can also be set to update using connected apps and tools, although rollout and access still depend on the account.",
+          "detail": "A possible use for you: keep an approved customer-review outline and action tracker together, then refine them as new meeting notes arrive. That is a suggested application, not a reported customer deployment; shared content requires permission and a supported paid account with Space access, and there are no public links.",
+          "source": "OpenAI",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "published": "20 Nov, release-note date",
+          "tag": "Global staged rollout"
+        },
+        {
+          "id": "us-trump-overseas-data-centre-tax-threat-20261121",
+          "storyKey": "us-trump-overseas-data-centre-tax-threat",
+          "category": "Technology",
+          "title": "Trump threatens a tax on US firms building data centres abroad",
+          "summary": "Donald Trump says he wants to penalise American companies that build data centres overseas, in an effort to keep AI infrastructure in the US. The ABC notes that Microsoft and Amazon have already announced major Australian investments, making the threat relevant well beyond China.",
+          "detail": "There is no detailed tax proposal, implementation date or confirmed change to those Australian projects. The practical issue to watch is whether the rhetoric becomes an actual policy affecting overseas cloud capacity, rather than assuming announced local facilities have been cancelled.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-21/trump-vows-tax-companies-building-data-centres-overseas/107412162",
+          "published": "21 Nov, 7:27 am",
+          "tag": "Policy threat"
+        },
+        {
+          "id": "nvidia-sec-accounting-investigation-focus-2026-20261121",
+          "storyKey": "nvidia-sec-accounting-investigation-focus-2026",
+          "category": "Technology",
+          "title": "Reuters says the SEC's Nvidia inquiry is examining accounting",
+          "summary": "Two people briefed on the matter told Reuters that US securities investigators are scrutinising potential accounting issues at Nvidia. That identifies a focus not established in earlier reporting about the investigation, making it a substantive development rather than another stock-price update.",
+          "detail": "Reuters could not establish precisely which accounting issues are under review or when the inquiry began. The SEC declined to comment and Nvidia did not immediately respond; an investigation is not evidence of wrongdoing or a finding that its accounts are incorrect.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "published": "21 Nov, 6:13 am",
+          "tag": "Reported investigation"
+        },
+        {
+          "id": "australia-china-albanese-xi-bilateral-shenzhen-november-2026-20261121",
+          "storyKey": "australia-china-albanese-xi-bilateral-shenzhen-november-2026",
+          "category": "Australia & World",
+          "title": "Australia and China agree a new AI dialogue after Beijing talks",
+          "summary": "The new development after yesterday's Xi meeting is an agreement to hold government talks on AI, reached during Albanese's subsequent meeting with Premier Li Qiang in Beijing. The discussions are intended to share experience as both countries consider how the technology should be regulated.",
+          "detail": "This is a diplomatic dialogue, not a joint product launch or a change to Australian rules on using Chinese AI services. It comes alongside Australia's separate US technology-supply-chain commitments, illustrating its attempt to cooperate with China while managing security concerns.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
+          "published": "21 Nov, 6:12 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "ukraine-russian-infrastructure-strikes-20261120-20261121",
+          "storyKey": "ukraine-russian-infrastructure-strikes-20261120",
+          "category": "Australia & World",
+          "title": "Russian strikes kill eight and hit Kyiv bridges and power infrastructure",
+          "summary": "Ukrainian officials reported eight deaths in a major Russian missile and drone attack on Friday, including six in Kyiv and two at a railway station in Lviv. Electricity, water and transport infrastructure were hit, with emergency outages introduced in several regions.",
+          "detail": "The attack follows the latest strikes on the bridge to occupied Crimea, but is a new escalation with fresh casualties and civilian-service disruption. Reuters said it could not independently verify all the accounts; both sides deny targeting civilians.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
+          "published": "20 Nov, 11:41 am; later updated",
+          "tag": "Ukraine"
+        },
+        {
+          "id": "myanmar-rejects-icj-rohingya-genocide-ruling-2026-20261121",
+          "storyKey": "myanmar-rejects-icj-rohingya-genocide-ruling-2026",
+          "category": "Australia & World",
+          "title": "Myanmar rejects genocide ruling and leaves refugee returns conditional",
+          "summary": "Myanmar's foreign ministry rejected the International Court of Justice's finding that the state committed genocide against the Rohingya, calling the judgment unfair. It said displaced people could return only when conditions permit, despite the court's requirement for safe returns and compensation.",
+          "detail": "The ruling itself was delivered on Thursday; Friday's rejection is the fresh development. The ICJ decides state responsibility rather than individual criminal guilt, and its limited enforcement powers leave implementation and the position of refugees unresolved.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-calls-icj-ruling-genocide-unfair-2026-11-20/",
+          "published": "20 Nov, 7:45 pm; later updated",
+          "tag": "Rohingya"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "label": "Friday, 20 November 2026",
       "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
@@ -1000,178 +1128,6 @@
           }
         ],
         "morningChecked": "2026-11-15T08:24:33+11:00"
-      }
-    },
-    {
-      "date": "2026-11-14",
-      "label": "Saturday, 14 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-14T08:21:43+11:00",
-      "stories": [
-        {
-          "id": "nsw-corrimal-pattern-book-homes-20261114",
-          "storyKey": "nsw-pattern-book-first-corrimal-homes",
-          "category": "Sydney & NSW",
-          "title": "First homes built from NSW’s $1 plans are nearly finished",
-          "summary": "Four row homes in Corrimal, north of Wollongong, are on track to be the first completed under the NSW Pattern Book scheme. Their builder says approval took eight weeks, compared with the roughly 12 months he would have expected through the usual route.",
-          "detail": "The $1 was an introductory price for the design, not the cost of building or even the current price of the plans, which is $1,000. More than 25,000 plans have been bought, but only 22 projects are under construction, so this is an early test of whether the scheme can deliver housing at scale.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-14/pattern-book-homes-near-completion-in-corrimal/107383868",
-          "published": "14 Nov, 6:00 am; updated 6:49 am",
-          "tag": "Housing"
-        },
-        {
-          "id": "newcastle-harbour-court-ruling-20261114",
-          "storyKey": "newcastle-rising-tide-harbour-protest-november-2026",
-          "category": "Sydney & NSW",
-          "title": "Court clears the way for Newcastle Harbour climate protest",
-          "summary": "The NSW Supreme Court rejected a bid by NSW Police to stop Rising Tide’s protest on Newcastle Harbour, allowing this morning’s planned event to go ahead. Police raised safety concerns about sharing the water with other harbour users; organisers told the court that life jackets would be mandatory and swimming in the channel would be banned.",
-          "detail": "The court ruling concerns the event on the water. Newcastle councillors separately voted this week to oppose Rising Tide using council community land for its protests.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804",
-          "published": "13 Nov, 4:29 pm",
-          "tag": "NSW"
-        },
-        {
-          "id": "apple-home-lg-preorders-20261114",
-          "storyKey": "apple-home-collection-first-accessory-preorders",
-          "category": "Apple",
-          "title": "Apple opens pre-orders for its first LG smart home accessories",
-          "summary": "The first Apple Home Collection products are now up for pre-order on Apple’s US store: an indoor camera, an outdoor camera and a wired video doorbell, with shipping expected in mid-December. The smart lock and thermostats are listed but not yet available to order there.",
-          "detail": "The accessories pair by tapping an iPhone and are managed in Apple Home without a separate app or account. Apple lists the US, Canada and the UK for the collection’s initial release, not Australia. That is separate from HomeView, which is already available here.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-          "published": "14 Nov, 2:22 am",
-          "tag": "Overseas launch"
-        },
-        {
-          "id": "tesla-spacex-talks-texas-scrutiny-20261114",
-          "storyKey": "tesla-spacex-potential-merger",
-          "category": "Tesla",
-          "title": "Reported Tesla and SpaceX merger talks draw scrutiny in Texas",
-          "summary": "Bloomberg reports that merger talks have progressed and that a deal could be announced as early as December. Texas attorney-general-elect Nathan Johnson subsequently warned that any deal would face close scrutiny. That is a warning, not an opened investigation or a decision to block a deal.",
-          "detail": "Tesla has confirmed that an independent board committee is exploring a closer relationship with SpaceX, but neither company has announced a merger. There is no confirmed change for Australian operations or Model Y owners.",
-          "source": "Reuters, citing Bloomberg",
-          "url": "https://www.reuters.com/legal/transactional/spacex-tesla-merger-talks-progress-bloomberg-news-reports-2026-11-12/",
-          "published": "13 Nov, 7:22 am; Texas response reported 14 Nov Sydney time",
-          "tag": "Reported talks"
-        },
-        {
-          "id": "gemini-4-hydrogen-global-20261114",
-          "storyKey": "google-gemini-4-hydrogen-global-rollout",
-          "category": "AI",
-          "title": "Google rolls out the faster Gemini 4 Hydrogen model",
-          "summary": "Google has begun rolling out Gemini 4 Hydrogen globally across the Gemini app, Search and developer tools. It is designed for everyday tasks and workflows that use multiple tools, and Google says it completed tasks 2.5 times faster than Gemini 3.8 Flash in its own testing.",
-          "detail": "Free Gemini users can get Hydrogen through automatic model selection rather than choosing it every time. For a work trial, use an approved workspace and a sanitised set of meeting notes: ask for an action table with one supporting quote per row, then check whether it leaves unassigned actions blank rather than inventing owners.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-          "published": "13 Nov, about 5:00 am",
-          "tag": "Global rollout"
-        },
-        {
-          "id": "microsoft-365-broad-recovery-20261114",
-          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
-          "category": "Technology",
-          "title": "Microsoft reports broad recovery and identifies the outage trigger",
-          "summary": "Since yesterday’s Australian priority recovery update, Microsoft has apologised and says Outlook and other services are broadly stable again, although full restoration was still in progress at the latest report. It attributed the disruption to elevated load after a network capacity upgrade and said it was not a cyberattack or related to AI agents.",
-          "detail": "If you are catching up on work, check the delivery status of time-sensitive messages before sending them again. Broad recovery does not mean every mailbox or delayed message has caught up.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
-          "published": "14 Nov, 6:34 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "australia-lamb-us-tariff-split-20261114",
-          "storyKey": "us-australia-lamb-safeguard-investigation-2026",
-          "category": "Australia & World",
-          "title": "Split US trade vote leaves Australian lamb tariffs up to Trump",
-          "summary": "US trade commissioners tied on whether lamb imports had harmed American producers, leaving Donald Trump to decide whether to impose new tariffs or other restrictions. No extra tariff has been announced. Australian lamb already faces a 12.5 per cent US tariff, and Australia exported more than 100,000 tonnes of lamb there last year.",
-          "detail": "A public hearing on potential measures is set for 1 December, with the commission due to report to Trump by 11 January. Australia argues further restrictions would raise prices for US shoppers.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510",
-          "published": "14 Nov, 7:07 am; updated 8:01 am",
-          "tag": "Trade"
-        },
-        {
-          "id": "australia-philippines-defence-agreement-20261114",
-          "storyKey": "australia-philippines-defence-cooperation-agreement-2026",
-          "category": "Australia & World",
-          "title": "Australia and the Philippines set to sign a defence agreement",
-          "summary": "Australia and the Philippines are expected to sign a defence cooperation agreement on Sunday, on the sidelines of the ASEAN summit in Manila. ABC reports it is expected to expand reciprocal military access and information sharing and support the Philippine Navy and coastguard.",
-          "detail": "The agreement follows repeated maritime confrontations between the Philippines and China in the South China Sea. The new development is the expected signing, not a deal that has already taken effect.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
-          "published": "14 Nov, 6:48 am",
-          "tag": "Indo-Pacific"
-        },
-        {
-          "id": "ukraine-zaporizhzhia-odesa-strikes-20261114",
-          "storyKey": "ukraine-zaporizhzhia-odesa-strikes-20261113",
-          "category": "Australia & World",
-          "title": "Russian strikes kill three in Zaporizhzhia and Odesa, officials say",
-          "summary": "Regional officials said three people were killed in Russian strikes on two Ukrainian cities on Friday. A rescue worker died during the response to a hit on an apartment building in Zaporizhzhia, where more than 50 people were injured.",
-          "detail": "Authorities in Odesa said two people were killed and five injured in a strike on a home. The attacks came days after the prisoner exchange agreement reported earlier this week, a limited deal that did not establish a ceasefire.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russian-strikes-kill-one-zaporizhzhia-two-odesa-2026-11-13/",
-          "published": "14 Nov, 5:48 am",
-          "tag": "World"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-14T17:06:14+11:00",
-        "stories": [
-          {
-            "id": "nsw-labor-childcare-centres-20261114-pm",
-            "storyKey": "nsw-labor-100-long-day-childcare-election-pledge-2026",
-            "category": "Sydney & NSW",
-            "title": "NSW Labor promises 100 public childcare centres if re-elected",
-            "summary": "NSW Labor has pledged to open and operate 100 long-day childcare centres if it wins the March election. The government estimates they would provide 5,000 places for about 8,000 families.",
-            "detail": "The proposed centres would be on public primary school sites in areas with too few childcare places, with many expected in Western Sydney and regional NSW. This is an election promise, and sits alongside the existing preschool building commitment.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-14/nsw-long-day-childcare-centres-minns-government-election-promise/107385858",
-            "published": "14 Nov, 1:06 pm; updated 4:38 pm",
-            "tag": "Election promise"
-          },
-          {
-            "id": "newcastle-rising-tide-paddle-outcome-20261114-pm",
-            "storyKey": "newcastle-rising-tide-harbour-protest-november-2026",
-            "updatesStoryId": "newcastle-harbour-court-ruling-20261114",
-            "category": "Sydney & NSW",
-            "title": "Newcastle harbour protest ends without arrests",
-            "summary": "More than 600 people took to the water for the Rising Tide protest today, and NSW Police say no arrests were made. Organisers say hundreds more watched from shore.",
-            "detail": "The Port of Newcastle ran no shipping movements between 10 am and 2 pm. Rising Tide says it plans a larger on-water event in February, shortly before the state election.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226",
-            "published": "14 Nov, 4:10 pm",
-            "tag": "Material update"
-          },
-          {
-            "id": "tesla-cybercab-private-orders-20261114-pm",
-            "storyKey": "tesla-cybercab-personal-orders-november-2026",
-            "category": "Tesla",
-            "title": "Tesla invites selected buyers to order a Cybercab",
-            "summary": "Tesla has invited selected customers to buy the two-seat Cybercab for personal use, with an estimated US$29,990 price before tax. A US$299 monthly autonomy subscription is required to operate it, and the order deposit is US$1,000 and non-refundable.",
-            "detail": "Tesla estimates deliveries in December and limits operation to supported service areas. The announcement does not confirm Australian availability or a change for Model Y owners, and this invitation is not a general release.",
-            "source": "Not a Tesla App, citing Tesla",
-            "url": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
-            "published": "14 Nov, Sydney date",
-            "tag": "Limited US invitations"
-          },
-          {
-            "id": "us-faa-ground-stop-lifted-20261114-pm",
-            "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
-            "category": "Australia & World",
-            "title": "US flights resume after nationwide ground stop",
-            "summary": "The US aviation regulator has lifted a nationwide departure stop caused by an air traffic communications failure. Flights can resume, but delays and cancellations continue as airlines reposition aircraft and crews.",
-            "detail": "Qantas is offering eligible passengers booked to or from selected US cities on 13 or 14 November fee-free date changes, credits or refunds, subject to its conditions. Check the airline directly for your flight rather than assuming it has been cancelled.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-resumes-all-flights/107385702",
-            "published": "14 Nov, 8:23 am; updated 1:08 pm",
-            "tag": "Travel disruption"
-          }
-        ],
-        "morningChecked": "2026-11-14T08:21:43+11:00"
       }
     }
   ]
