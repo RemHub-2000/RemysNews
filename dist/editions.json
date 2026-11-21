@@ -126,7 +126,38 @@
           "published": "20 Nov, 7:45 pm; later updated",
           "tag": "Rohingya"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-21T16:59:08+11:00",
+        "stories": [
+          {
+            "id": "castle-hill-stabbings-charges-20261121-pm",
+            "storyKey": "castle-hill-shopping-centre-stabbings-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Teenager charged after Castle Hill shopping centre stabbings",
+            "summary": "Police have charged a 17-year-old after two 16-year-old boys were stabbed at Castle Towers on Friday afternoon. One boy remains in a critical condition and the other is stable, police said today.",
+            "detail": "Police say the people involved had some prior knowledge of each other and are looking for another person. The teenager has been refused bail and is due to appear before a children's court on Sunday; the charges remain allegations.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324",
+            "published": "21 Nov, 2:01 pm; updated 3:12 pm",
+            "tag": "Castle Hill"
+          },
+          {
+            "id": "homebirth-insurance-rallies-20261121-pm",
+            "storyKey": "australia-homebirth-midwife-insurance-rallies-november-2026",
+            "category": "Australia & World",
+            "title": "Families rally over homebirth insurance changes",
+            "summary": "Thousands of people rallied across Australia today against changes to insurance requirements for privately practising midwives. Advocates say the changes could reduce access to midwife-supported homebirths, particularly outside major cities.",
+            "detail": "An exemption allowing private midwives to attend homebirths without indemnity insurance ends on 1 January. Health Minister Mark Butler says practitioners should have insurance for births; advocates argue the available policy is not suitable or accessible for all midwives.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-21/homebirth-rallies-midwife-insurance-freebirth/107412380",
+            "published": "21 Nov, 1:23 pm; updated 4:05 pm",
+            "tag": "Health policy"
+          }
+        ],
+        "morningChecked": "2026-11-21T08:20:31+11:00"
+      }
     },
     {
       "date": "2026-11-20",
