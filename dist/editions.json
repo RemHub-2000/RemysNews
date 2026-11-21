@@ -1,6 +1,146 @@
 {
   "editions": [
     {
+      "date": "2026-11-22",
+      "label": "Sunday, 22 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates, release dates and availability limits are labelled.",
+      "checked": "2026-11-22T08:26:04+11:00",
+      "stories": [
+        {
+          "id": "nsw-one-nation-coalition-confidence-supply-november-2026-20261122",
+          "storyKey": "nsw-one-nation-coalition-confidence-supply-november-2026",
+          "category": "Sydney & NSW",
+          "title": "One Nation rules out a formal NSW coalition, but leaves a power-sharing door open",
+          "summary": "NSW One Nation leader Mike Newman has ruled out joining a formal coalition with the Liberals and Nationals, while leaving confidence and supply open. Speaking at a Windsor firearms forum on Saturday, he also promised to unwind post-Bondi gun reforms.",
+          "detail": "The distinction matters ahead of next year's state election: a party can support a minority government's survival without joining its cabinet. Liberal leader Kellie Sloane has likewise rejected a formal coalition while leaving confidence and supply possible; these are political positions, not an agreed deal.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396",
+          "published": "22 Nov, 7:51 am",
+          "tag": "NSW election"
+        },
+        {
+          "id": "castle-hill-shopping-centre-stabbings-november-2026-20261122",
+          "storyKey": "castle-hill-shopping-centre-stabbings-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Castle Hill investigation: police arrest a second teenager",
+          "summary": "Since yesterday afternoon's briefing, police have arrested a second teenager over the Castle Towers stabbings. ABC's later update says a 16-year-old was arrested at Castle Hill Police Station shortly before 5 pm on Saturday.",
+          "detail": "That is an arrest, not a reported charge against the second teenager. It advances the investigation beyond the earlier appeal for another person; police have not described the incident as a random attack.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324",
+          "published": "21 Nov, updated 5:22 pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "apple-support-community-forums-removed-november-2026-20261122",
+          "storyKey": "apple-support-community-forums-removed-november-2026",
+          "category": "Apple",
+          "title": "Apple's English-language support forums have now disappeared",
+          "summary": "MacRumors reports that the Apple Support Community forums have been removed, with their address redirecting to Apple's main support page. This is the actual removal, rather than another reminder of the previously announced closure.",
+          "detail": "The report was published on Saturday at 8:47 am PST, or 3:47 am Sunday in Sydney, inside this briefing's 24-hour window. French and German forums remained open at publication; old English-language troubleshooting links may now take you to general support instead of the original discussion.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
+          "published": "22 Nov, 3:47 am Sydney (21 Nov, 8:47 am PST)",
+          "tag": "Support change"
+        },
+        {
+          "id": "tesla-fsd-v15-december-holiday-wide-release-announcement-20261122",
+          "storyKey": "tesla-fsd-v15-december-holiday-wide-release-announcement",
+          "category": "Tesla",
+          "title": "Musk targets December's holiday update for a wider FSD v15 release",
+          "summary": "Elon Musk says FSD v15 will reach a wide release next month with Tesla's holiday update, and has endorsed questions about pothole avoidance and home-garage parking. Not a Tesla App also reports his promise of substantially revised driving visualisations.",
+          "detail": "Treat December as an announced target, not proof that these features have reached your Model Y. An Australian v15 rollout date and eligibility for your particular hardware cannot be confirmed; Tesla's Australian support guidance says functionality varies by configuration, software and region, and FSD still requires active driver supervision.",
+          "source": "Not a Tesla App; Tesla Australia support",
+          "url": "https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk",
+          "published": "21 Nov (publisher date)",
+          "tag": "Announced, not confirmed for Australia"
+        },
+        {
+          "id": "thinking-machines-inkling-2-mini-open-weights-release-20261122",
+          "storyKey": "thinking-machines-inkling-2-mini-open-weights-release",
+          "category": "AI",
+          "title": "Inkling 2 Mini offers a practical route to offline AI on a capable Mac",
+          "summary": "Thinking Machines has released Inkling 2 Mini with downloadable weights and Tinker access, not just a research preview. The release is dated 20 November, with fresh coverage on Saturday; the official model card supports Apple silicon Macs with at least 32GB of memory and describes a roughly 20GB checkpoint.",
+          "detail": "The local-download route is relevant in Australia without relying on an Australian hosted-service launch. Suggested experiment: use a sanitised meeting transcript to draft actions and follow-ups offline, then compare it with your usual tool; that is my suggestion, not a reported customer deployment, and its instruction-following limitations mean outputs still need checking.",
+          "source": "Thinking Machines Lab",
+          "url": "https://thinkingmachines.ai/model-card/inkling-2-mini/",
+          "published": "20 Nov release (company date); checked 22 Nov",
+          "tag": "Released; local hardware required"
+        },
+        {
+          "id": "fbi-usda-reported-cyberattacks-november-2026-20261122",
+          "storyKey": "fbi-usda-reported-cyberattacks-november-2026",
+          "category": "Technology",
+          "title": "Reports of FBI and US agriculture-system hacks raise fresh security concerns",
+          "summary": "ABC reports that US media have identified apparent attacks on the FBI's national crime database and a Department of Agriculture payment system. The FBI system connects law-enforcement agencies and supports warrant and background checks, making data integrity as important as service uptime.",
+          "detail": "Who was responsible, and whether the incidents are linked, remain unclear. Keep these reported intrusions separate from the recent technical outages: there is no established basis for treating every disruption as one coordinated attack.",
+          "source": "ABC News / AFP",
+          "url": "https://www.abc.net.au/news/2026-11-22/fbi-database-hacked-according-to-media-outlets/107413682",
+          "published": "22 Nov, 7:03 am",
+          "tag": "Reported breaches"
+        },
+        {
+          "id": "basketball-australia-hoops-tv-ai-camera-privacy-trial-2026-20261122",
+          "storyKey": "basketball-australia-hoops-tv-ai-camera-privacy-trial-2026",
+          "category": "Technology",
+          "title": "Junior basketball's AI-camera trial draws privacy objections",
+          "summary": "Basketball Australia's Hoops TV camera system has been trialled in the Illawarra, Darwin and northern Brisbane, with wider rollout planned. It records games and uses AI to produce footage and statistics accessible through players' and guardians' basketball accounts.",
+          "detail": "ABC reports privacy and monetisation concerns, alongside a petition exceeding 13,000 signatures; Basketball Australia argues the platform offers more controlled access than informal filming. For families, the immediate question is the trial's opt-out process and who can view recordings, rather than assuming a camera is only capturing professional matches.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-21/concerns-over-basketball-australia-ai-cameras-junior-games/107406442",
+          "published": "21 Nov, 10:49 am",
+          "tag": "Australian rollout"
+        },
+        {
+          "id": "cop31-electrification-20261109-20261122",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "COP31 overruns as the EU warns it could accept no deal",
+          "summary": "Climate talks have moved well beyond Friday's deadline without resolving fossil-fuel and finance disputes. The EU's climate chief said on Saturday that a satisfactory agreement was preferable to a weak compromise, even if that meant no deal.",
+          "detail": "The new development is the prolonged deadlock and explicit prospect of failure, not another draft-text recap. Turkey's presidency met Australian, EU and Saudi officials to seek a breakthrough; no final agreement was established in the reporting checked for this edition.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/",
+          "published": "22 Nov, 1:36 am Sydney (21 Nov, 2:36 pm UTC)",
+          "tag": "Material update"
+        },
+        {
+          "id": "israel-eisenkot-likud-coalition-talks-november-2026-20261122",
+          "storyKey": "israel-eisenkot-likud-coalition-talks-november-2026",
+          "category": "Australia & World",
+          "title": "Eisenkot invites Netanyahu's Likud into government-formation talks",
+          "summary": "Israel's Gadi Eisenkot has invited Likud to coalition negotiations beginning Sunday local time, after October's election produced no clear majority. He has until next month to assemble a government, while divisions persist within his own broad anti-Netanyahu camp.",
+          "detail": "An invitation is not a coalition agreement: Eisenkot has previously rejected serving under Netanyahu, and Naftali Bennett remains opposed to joining Netanyahu or his bloc. Whether negotiators can bridge that leadership divide is the key next development.",
+          "source": "ABC News / AFP",
+          "url": "https://www.abc.net.au/news/2026-11-22/gadi-eisenkot-invites-benjamin-netanyahu-israeli-coalition-talks/107413714",
+          "published": "22 Nov, 7:41 am; updated 7:57 am",
+          "tag": "Israel"
+        },
+        {
+          "id": "faber-castell-new-zealand-sand-recall-australia-review-2026-20261122",
+          "storyKey": "faber-castell-new-zealand-sand-recall-australia-review-2026",
+          "category": "Australia & World",
+          "title": "CHOICE seeks urgent checks after NZ recalls children's garden kits",
+          "summary": "CHOICE is urging scrutiny of coloured-sand children's kits sold in Australia after asbestos was found in Faber-Castell products in New Zealand. The affected NZ ranges include garden and terrarium kits, but contamination of Australian stock has not been established.",
+          "detail": "Faber-Castell says Australian products are independently sourced, have undergone routine testing and are being reviewed further. The ACCC told ABC it was making enquiries and had not received a voluntary Australian recall from the company, so a New Zealand recall must not be presented as an Australian one.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-22/choice-faber-castell-recall-new-zealand/107412296",
+          "published": "22 Nov, 7:34 am",
+          "tag": "Australian checks, NZ recall"
+        },
+        {
+          "id": "macquarie-island-seismic-station-tsunami-warning-delay-2026-20261122",
+          "storyKey": "macquarie-island-seismic-station-tsunami-warning-delay-2026",
+          "category": "Australia & World",
+          "title": "An offline island station leaves less time for tsunami response",
+          "summary": "Newly obtained documents show Macquarie Island's inactive seismic station has lengthened estimated regional earthquake detection from eight to ten minutes. The station lost power after personnel withdrew over bird-flu concerns, reducing the response window for potential Southern Ocean tsunamis affecting Australia's south-east.",
+          "detail": "Geoscience Australia says alerts should still meet the required ten-minute timeframe and hopes to install solar power for automation early next year. This is a newly reported monitoring gap, not a report of a current tsunami threat.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-22/tsunami-response-time-reduced-macquarie-island-staff-removal/107404714",
+          "published": "22 Nov, 5:45 am",
+          "tag": "Warning-system gap"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "label": "Saturday, 21 November 2026",
       "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
@@ -1024,141 +1164,6 @@
           }
         ],
         "morningChecked": "2026-11-16T08:22:37+11:00"
-      }
-    },
-    {
-      "date": "2026-11-15",
-      "label": "Sunday, 15 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-15T08:24:33+11:00",
-      "stories": [
-        {
-          "id": "sydney-bondi-recovery-interview-20261115",
-          "storyKey": "bondi-attack-ahmed-al-ahmed-recovery",
-          "category": "Sydney & NSW",
-          "title": "Ahmed Al Ahmed speaks about the lasting impact of the Bondi attack",
-          "summary": "In a new ABC interview, Ahmed Al Ahmed, who helped stop one of the gunmen at Bondi Beach, says he still lives with chronic pain, restricted movement in his arm and disrupted sleep. He returned to Bondi with the ABC and spoke about the toll the attack has taken on his family as well as his health.",
-          "detail": "The attack is not a new development. The interview is a first-hand account of what recovery has looked like for someone whose actions received worldwide attention at the time.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/nsw-bondi-terror-attack-hero-ahmed-al-ahmed-one-year-on/107379802",
-          "published": "15 Nov, 7:18 am",
-          "tag": "Sydney"
-        },
-        {
-          "id": "sydney-bus-changes-start-20261115",
-          "storyKey": "nsw-november-2026-bus-changes-in-effect",
-          "category": "Sydney & NSW",
-          "title": "Sydney bus changes start today, including new overnight services",
-          "summary": "Transport for NSW begins rolling out bus route and timetable changes today, with further changes through December. The package includes round-the-clock service on routes 370 and 343, longer operating hours on several routes serving Bankstown Metro connections, and a new weekday express between Wilton and Campbelltown.",
-          "detail": "The change is staggered, so not every route moves to its new timetable today. If you are crossing Sydney, use the Trip Planner for the actual day you are travelling rather than relying on an old timetable or familiar interchange stop.",
-          "source": "Transport for NSW",
-          "url": "https://transportnsw.info/news/2026/2026-bus-service-changes",
-          "published": "Changes begin 15 Nov",
-          "tag": "Transport"
-        },
-        {
-          "id": "sydney-housing-lending-slowdown-20261115",
-          "storyKey": "australia-september-2026-housing-lending-slowdown",
-          "category": "Sydney & NSW",
-          "title": "Sydney’s housing slowdown is showing up in new lending",
-          "summary": "ABC analysis published yesterday reports that Sydney and Melbourne have had sharper price falls than the national market. The new lending figures it cites show a 15 per cent fall in new home loans nationally between June and September, with a much steeper 31 per cent drop for investors.",
-          "detail": "The numbers are national, not an estimate for individual Sydney suburbs. They show that fewer buyers are taking out loans, especially investors, but a cheaper asking price does not necessarily mean a cheaper mortgage while rates remain high.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812",
-          "published": "14 Nov, 1:04 pm; updated 9:41 pm",
-          "tag": "Housing analysis"
-        },
-        {
-          "id": "tesla-cybercab-commercial-terms-20261115",
-          "storyKey": "tesla-cybercab-personal-orders-november-2026",
-          "category": "Tesla",
-          "title": "Tesla’s Cybercab order terms rule out commercial use by default",
-          "summary": "The fine print now reported on Tesla’s personal Cybercab offer rules out listing the car on Tesla’s Robotaxi network or using it for paid rides or deliveries unless Tesla specifically authorises or enables it. That is a material limit on the earlier pitch that owners could earn money from a Cybercab when they were not using it.",
-          "detail": "Elon Musk also said the required US$299 monthly subscription should be closer to US$115 and that broader US sales depend on regulatory approval. Neither is a confirmed price or rollout change, and there is still no Australian or Model Y announcement.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-          "published": "15 Nov, 1:18 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "microsoft-365-full-recovery-20261115",
-          "storyKey": "microsoft-365-outlook-teams-outage-november-2026",
-          "category": "Technology",
-          "title": "Microsoft says it has restored service to the remaining affected customers",
-          "summary": "Microsoft now says it has fixed the underlying problem and restored service in the remaining affected regions. That is a step beyond the partial recovery reported yesterday for Outlook, Teams and other Microsoft 365 tools.",
-          "detail": "Restored access does not resolve every missed appointment, overdue reply or failed integration from the outage. If you are following up with a customer who uses Microsoft 365, check whether the original message or invite landed before sending a duplicate.",
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a",
-          "published": "14 Nov, 8:12 pm",
-          "tag": "Material update"
-        },
-        {
-          "id": "us-flights-network-upgrade-20261115",
-          "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
-          "category": "Australia & World",
-          "title": "US links airport disruption to a network upgrade as flight backlog persists",
-          "summary": "US officials now say work to replace ageing copper cabling with fibre preceded the air traffic communications fault that grounded departures. They are still investigating the root cause, including whether equipment was at fault. The ground stop has been lifted, but airlines are still clearing the backlog of delayed and cancelled flights.",
-          "detail": "If you are heading to the US, check the onward connection as well as the flight out of Australia. Even when the long-haul service is operating, aircraft and crews can still be out of position on the domestic leg.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
-          "published": "15 Nov, 5:40 am; updated 8:08 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "ukraine-donbas-nato-idea-20261115",
-          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
-          "category": "Australia & World",
-          "title": "Zelenskyy says US negotiators raised NATO membership in peace talks",
-          "summary": "Volodymyr Zelenskyy says US negotiators asked whether Ukraine would withdraw from Donbas in exchange for NATO membership. This is a newly disclosed idea discussed in talks, not a formal NATO offer or an agreed peace deal. He reiterated that Kyiv is not prepared to give up territory.",
-          "detail": "Zelenskyy said a comprehensive deal with security guarantees, a well-funded military and reconstruction support could go to a national referendum. The disclosure adds to what is known about the negotiations but does not change the terms of the prisoner exchange already reported.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
-          "published": "15 Nov, 12:51 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "eurovision-asia-first-winner-20261115",
-          "storyKey": "eurovision-asia-inaugural-bangkok-final",
-          "category": "Australia & World",
-          "title": "The Philippines wins the first Eurovision Asia contest",
-          "summary": "Carmelle Allyza San Juan Collado won for the Philippines at the inaugural Eurovision Asia final in Bangkok, performing the original song Sobra-Sobra. The 19-year-old was the youngest contestant in a field representing 11 countries.",
-          "detail": "China, India and Japan did not take part in the first edition, so the contest’s debut drew a more limited field than its name might suggest.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/eurovision-asia-2026-song-contest-debuts-in-bangkok-thailand/107381792",
-          "published": "15 Nov, 7:27 am",
-          "tag": "Culture"
-        }
-      ],
-      "afternoon": {
-        "note": "Afternoon developments checked in Sydney local time. Quiet categories are omitted.",
-        "checked": "2026-11-15T17:02:11+11:00",
-        "stories": [
-          {
-            "id": "nsw-severe-storm-forecast-20261115-pm",
-            "storyKey": "nsw-severe-storm-risk-november-15-2026",
-            "category": "Sydney & NSW",
-            "title": "Storm risk extends across NSW this afternoon",
-            "summary": "The Bureau of Meteorology says severe thunderstorms are likely across parts of eastern Australia today, including areas west of Sydney and north towards south-east Queensland. Damaging winds, large hail and heavy rain are possible, with the highest-risk storms forecast further north.",
-            "detail": "The bureau's 2 pm forecast for Sydney's outer west warns of possible severe storms and flash flooding this afternoon or early evening. Conditions can change quickly, so check current warnings before heading out.",
-            "source": "Bureau of Meteorology",
-            "url": "https://www.bom.gov.au/video/severe-weather-update-severe-storms-likely-for-eastern-australia",
-            "published": "15 Nov, afternoon forecast",
-            "tag": "Weather"
-          },
-          {
-            "id": "australia-philippines-defence-signed-20261115-pm",
-            "storyKey": "australia-philippines-defence-cooperation-agreement-2026",
-            "category": "Australia & World",
-            "title": "Australia and the Philippines sign defence agreement",
-            "summary": "Australia and the Philippines have signed the defence cooperation arrangement previewed yesterday. Philippine Defence Secretary Gilberto Teodoro says it will reduce administrative hurdles for joint military activities and disaster response.",
-            "detail": "Prime Minister Anthony Albanese witnessed the signing in Manila and says the agreement will strengthen maritime awareness, information sharing and training. It comes amid continuing tensions over competing claims in the South China Sea.",
-            "source": "Reuters",
-            "url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/",
-            "published": "15 Nov, 3:48 pm Sydney time",
-            "tag": "Agreement signed"
-          }
-        ],
-        "morningChecked": "2026-11-15T08:24:33+11:00"
       }
     }
   ]
