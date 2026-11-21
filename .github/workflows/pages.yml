@@ -13,6 +13,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -25,6 +26,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    env:
+      PAGES_ARTIFACT_NAME: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -44,9 +47,33 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+          name: ${{ env.PAGES_ARTIFACT_NAME }}
+      - name: Wait for the Pages artifact to be visible
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          artifacts_url="$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts"
+          for attempt in {1..10}; do
+            if curl --fail --silent --show-error --max-time 3 \
+                --header "Authorization: Bearer $GH_TOKEN" \
+                --header "Accept: application/vnd.github+json" \
+                --get --data-urlencode "name=$PAGES_ARTIFACT_NAME" "$artifacts_url" |
+                jq -e --arg name "$PAGES_ARTIFACT_NAME" \
+                  '[.artifacts[] | select(.name == $name and .expired == false)] | length == 1' >/dev/null; then
+              echo "Pages artifact is visible: $PAGES_ARTIFACT_NAME"
+              exit 0
+            fi
+            if (( attempt < 10 )); then
+              sleep 3
+            fi
+          done
+          echo "::error::Expected one live Pages artifact named $PAGES_ARTIFACT_NAME after 10 checks"
+          exit 1
       - name: Publish to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ env.PAGES_ARTIFACT_NAME }}
       - name: Verify the exact archive is live
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
