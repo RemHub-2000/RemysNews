@@ -1,6 +1,122 @@
 {
   "editions": [
     {
+      "date": "2026-11-23",
+      "label": "Monday, 23 November 2026",
+      "note": "Times are Sydney local unless noted. Material updates, proposals and availability limits are labelled. Categories without noteworthy new stories are omitted.",
+      "checked": "2026-11-23T08:28:17+11:00",
+      "stories": [
+        {
+          "id": "sydney-auburn-fire-ant-nest-november-2026-20261123",
+          "storyKey": "sydney-auburn-fire-ant-nest-november-2026",
+          "category": "Sydney & NSW",
+          "title": "Fire-ant nest found in Auburn, outside the existing control zone",
+          "summary": "A red imported fire-ant nest has been treated in Auburn after a resident reported it over the weekend. Authorities say it sits more than six kilometres from September's Enfield detection and could be around a year old, making this a separate and concerning discovery.",
+          "detail": "Properties within 500 metres will be inspected, with monitoring across a two-kilometre radius and detection dogs to follow. For western and inner-west Sydney residents, the useful action is to report suspicious nests through the Biosecurity Helpline on 1800 680 244; the report does not identify an Epping outbreak.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336",
+          "published": "23 Nov, 7:18 am; updated 8:03 am",
+          "tag": "Auburn biosecurity"
+        },
+        {
+          "id": "nsw-rental-bond-investment-taskforce-funding-proposal-2026-20261123",
+          "storyKey": "nsw-rental-bond-investment-taskforce-funding-proposal-2026",
+          "category": "Sydney & NSW",
+          "title": "Tenants' Union wants rental-bond returns to fund stronger enforcement",
+          "summary": "The NSW Tenants' Union argues that better investment of the state's $2.3 billion rental-bond pool could generate up to $200 million a year to support rental enforcement. That is the union's estimate and funding proposal, not an adopted government policy or a guaranteed return.",
+          "detail": "The rental commissioner says bond-account funding already supports advocacy, NCAT and regulation, while complaints rose to 10,745 in 2025/26. For renters and landlords, the immediate point is the debate over enforcement resources, not a new bond payment, refund entitlement or change to tenancy rules.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144",
+          "published": "23 Nov, 6:35 am",
+          "tag": "Funding proposal"
+        },
+        {
+          "id": "tesla-fsd-v15-december-holiday-wide-release-announcement-20261123",
+          "storyKey": "tesla-fsd-v15-december-holiday-wide-release-announcement",
+          "category": "Tesla",
+          "title": "FSD v15 is reaching cars, with Reality View, but the rollout is narrow",
+          "summary": "The material change since yesterday's December-release promise is an actual rollout of FSD v15.0.1 in software 2026.38.6.11. Not a Tesla App reports that initial availability appears limited to redesigned Model Y vehicles in the US and Canada, rather than a broad release to every owner.",
+          "detail": "Release notes add the AI-generated Reality View, revised route and parking selection, and improved detection of potholes and other hazards. Tesla's claimed 25-fold improvement concerns its critical-intervention measure, not independently demonstrated crash reduction; Australian availability and eligibility for your Model Y are not confirmed, and Tesla's Australian guidance still requires active driver supervision.",
+          "source": "Not a Tesla App; Tesla Australia support",
+          "url": "https://www.notateslaapp.com/news/5065/tesla-fsd-v15-rolls-out-with-incredible-new-reality-view-and-25x-better-safety-video",
+          "published": "22 Nov (publisher date); new rollout reporting",
+          "tag": "Material update; limited rollout"
+        },
+        {
+          "id": "australia-digital-duty-care-small-business-exemption-nov2026-20261123",
+          "storyKey": "australia-digital-duty-care-small-business-exemption-nov2026",
+          "category": "Technology",
+          "title": "Small-business websites will be exempt from the proposed digital duty of care",
+          "summary": "Communications Minister Anika Wells says low-risk small-business websites, such as those of cafés and bookkeepers, will be exempt from the proposed digital duty of care. The clarification follows business concerns about uncertainty over who would be covered.",
+          "detail": "The Greens are negotiating amendments, including individuals' ability to take tech companies to court, so the bill is not yet settled. For customer-engagement conversations, this is a scope clarification to watch, not a blanket exemption for every app, AI chatbot or service operated by a small company.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+          "published": "23 Nov, 6:45 am live update",
+          "tag": "Proposed legislation"
+        },
+        {
+          "id": "cop31-electrification-20261109-20261123",
+          "storyKey": "cop31-electrification-20261109",
+          "category": "Australia & World",
+          "title": "COP31 ends without its main deal after countries reject the final draft",
+          "summary": "The climate summit has now ended without agreement on its main pact, moving beyond yesterday afternoon's disputed draft. Australia and Türkiye, the joint presidencies, confirmed they would not offer another version after countries rejected a text that omitted fossil fuels.",
+          "detail": "The EU called it too weak, while developing countries objected to inadequate clarity on adaptation finance. This is a significant failure to agree new action after talks ran 44 hours beyond their scheduled finish, but it does not cancel countries' obligations from previous UN climate agreements.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
+          "published": "23 Nov, 12:43 am; updated 5:34 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "australia-pbs-25-dollar-freeze-extension-2030-proposal-20261123",
+          "storyKey": "australia-pbs-25-dollar-freeze-extension-2030-proposal",
+          "category": "Australia & World",
+          "title": "Government proposes keeping the $25 PBS medicines freeze until 2030",
+          "summary": "Anthony Albanese announced this morning that the government will move to extend the $25 PBS medicines price freeze until 2030. He said legislation would be introduced to parliament today, making this a new cost-of-living proposal rather than a measure already passed.",
+          "detail": "Health Minister Mark Butler linked the extension to patients having to choose between medicines and other household expenses, and the Pharmacy Guild welcomed it. The next step is the bill and its passage through parliament; today's announcement alone does not establish that all of its terms are law.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+          "published": "23 Nov, 8:17 am live update",
+          "tag": "Announced; legislation to follow"
+        },
+        {
+          "id": "west-bank-village-arson-eisenkot-condemnation-nov2026-20261123",
+          "storyKey": "west-bank-village-arson-eisenkot-condemnation-nov2026",
+          "category": "Australia & World",
+          "title": "West Bank arson attacks draw a sharp condemnation from Eisenkot",
+          "summary": "Israeli settlers set fire to vehicles and homes in Palestinian villages early on Sunday local time, with twelve vehicles reportedly burned across at least five villages. ABC obtained residents' footage from Kafr Malik and spoke to a resident who described families rushing to extinguish the fires.",
+          "detail": "Gadi Eisenkot, the politician trying to form Israel's next government, described the attacks as Jewish terrorism and called for arrests and severe sanctions. This is a fresh violence-and-accountability story, separate from yesterday's coalition-talks invitation; the report does not establish that the perpetrators have been arrested.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
+          "published": "23 Nov, 7:37 am",
+          "tag": "West Bank"
+        },
+        {
+          "id": "timor-leste-greater-sunrise-russia-china-interest-2026-20261123",
+          "storyKey": "timor-leste-greater-sunrise-russia-china-interest-2026",
+          "category": "Australia & World",
+          "title": "Timor-Leste claims Chinese and Russian interest in Greater Sunrise",
+          "summary": "Timor-Leste's petroleum minister says unnamed companies, including some from China and Russia, have approached the government about Greater Sunrise after Woodside's exit. These are claims of interest, not signed investment commitments or a confirmed rescue of the oil and gas project north of Darwin.",
+          "detail": "The unresolved commercial problem is Timor-Leste's insistence on processing gas domestically rather than using existing Darwin infrastructure. Analysts quoted by ABC question the economics and warn that accepting strategically motivated finance could compromise economic independence, making this relevant to Australia's near neighbourhood as well as energy policy.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
+          "published": "23 Nov, 5:47 am; updated 7:31 am",
+          "tag": "Investment interest, not a deal"
+        },
+        {
+          "id": "lowy-asia-power-index-2026-us-china-gap-20261123",
+          "storyKey": "lowy-asia-power-index-2026-us-china-gap",
+          "category": "Australia & World",
+          "title": "Lowy's new Asia index finds the US-China power gap narrowing",
+          "summary": "The Lowy Institute's 2026 Asia Power Index finds US influence has declined while China has gained ground, although Washington still ranks as the region's dominant power. It puts their military-capability gap at its narrowest recorded level and Australia sixth overall, down one place.",
+          "detail": "The authors attribute much of the narrowing to US policy choices and the diversion of resources towards the Middle East, rather than a sudden Chinese leap. Treat this as a research institute's comparative assessment, not proof of an inevitable change in regional leadership or a new government policy.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-22/us-loses-influence-in-asia-as-china-gains-in-lowy-power-index/107411514",
+          "published": "22 Nov, 10:32 pm",
+          "tag": "New research"
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "label": "Sunday, 22 November 2026",
       "note": "Times are Sydney local unless noted. Material updates, release dates and availability limits are labelled.",
@@ -1037,165 +1153,6 @@
           }
         ],
         "morningChecked": "2026-11-17T08:18:39+11:00"
-      }
-    },
-    {
-      "date": "2026-11-16",
-      "label": "Monday, 16 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-16T08:22:37+11:00",
-      "stories": [
-        {
-          "id": "western-sydney-airport-heat-20261116",
-          "storyKey": "western-sydney-airport-urban-heat-research",
-          "category": "Sydney & NSW",
-          "title": "Researcher warns Western Sydney Airport could add to summer heat",
-          "summary": "A Western Sydney University researcher says the new airport’s large paved footprint at Badgerys Creek could absorb heat and release it back into the surrounding area. He also raised the possibility that the site could interrupt cooling southerly winds that sometimes bring relief to Penrith.",
-          "detail": "The airport says it assessed climate risks throughout design and construction and took steps to protect operations during extreme heat. That addresses the airport’s own resilience; the effect on temperatures in neighbouring suburbs has not yet been measured in the reporting.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/nsw-wsi-airport-heat-impact-summer-western-sydney/107297220",
-          "published": "16 Nov, 5:56 am",
-          "tag": "Western Sydney"
-        },
-        {
-          "id": "oberon-fish-river-undertaking-20261116",
-          "storyKey": "oberon-fish-river-sewage-epa-undertaking",
-          "category": "Sydney & NSW",
-          "title": "Oberon Council agrees to spend $75,000 after sewage spill",
-          "summary": "Oberon Council has entered an enforceable agreement with the NSW Environment Protection Authority after untreated sewage escaped from a pumping station into the Fish River over nine days in September 2025. The agreement, rather than a new spill or an ordinary fine, is the development reported this morning.",
-          "detail": "The Central West council will spend $60,000 over three years removing willows and planting native species along the river, plus $15,000 towards the EPA investigation. The mayor apologised and attributed the discharge to a pump fault.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/oberon-sewage-epa/107381580",
-          "published": "16 Nov, 6:29 am",
-          "tag": "Environment"
-        },
-        {
-          "id": "apple-glasses-iphone-app-report-20261116",
-          "storyKey": "apple-smart-glasses-siri-iphone-app-prototypes",
-          "category": "Apple",
-          "title": "Report: Apple’s smart glasses would rely on Siri and iPhone apps",
-          "summary": "The latest Bloomberg reporting, covered by 9to5Mac, says Apple wants Siri to control features in third-party iPhone apps through its first smart glasses. The new detail is how Apple expects that to work: the apps would run on the paired phone rather than on the glasses themselves.",
-          "detail": "A reveal at WWDC in June 2027 and a release later that year are reported targets, not confirmed dates. Apple has not announced the glasses, a price or Australian availability.",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-          "published": "16 Nov, 2:48 am",
-          "tag": "Rumour"
-        },
-        {
-          "id": "tesla-us-model-y-range-discrepancy-20261116",
-          "storyKey": "tesla-us-entry-model-y-rwd-range-listing-2026",
-          "category": "Tesla",
-          "title": "Tesla lists more range for the base US Model Y, but the EPA listing still differs",
-          "summary": "Tesla’s US order page now lists 348 miles, about 560 km, for the entry Model Y RWD, up from 321 miles with no change to its US starting price. In a fresh check on Sunday, Drive Tesla found the US government’s fuel-economy database still listed 321 miles for the 2026 Standard RWD with 18-inch wheels.",
-          "detail": "Tesla has not explained what changed or said the figure applies to cars already delivered. It is a US listing, not a new Australian range rating or an update for existing Model Y owners here.",
-          "source": "Drive Tesla",
-          "url": "https://driveteslacanada.ca/news/model-y-rwd-348-mile-range/",
-          "published": "15 Nov, North American date",
-          "tag": "US listing"
-        },
-        {
-          "id": "longcat-avatar-16-release-20261116",
-          "storyKey": "meituan-longcat-video-avatar-1-6-release",
-          "category": "AI",
-          "title": "Meituan releases an update to its downloadable talking-avatar model",
-          "summary": "Meituan has published LongCat-Video-Avatar 1.6 with downloadable weights under the MIT licence. It turns spoken audio into character animation, and the team reports improved lip sync and more consistent motion on long clips, including videos beyond ten minutes.",
-          "detail": "This is a model release for teams with suitable compute, not a ready-to-use presentation app. A small, low-risk test would be a clearly labelled training clip with a fictional avatar and a consented voice, then checking whether the extra production work beats recording the same explanation normally.",
-          "source": "Meituan model card",
-          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-          "published": "15 Nov, Sydney date",
-          "tag": "Released weights"
-        },
-        {
-          "id": "spacex-starship-orbital-recovery-20261116",
-          "storyKey": "spacex-starship-flight-15-upper-stage-recovery",
-          "category": "Technology",
-          "title": "SpaceX recovers Starship’s upper stage after a full orbital test",
-          "summary": "SpaceX’s launch tower caught the Starship upper stage after it spent more than 22 hours in orbit and deployed 26 Starlink satellites. The Super Heavy booster did not complete its planned return, so the flight did not achieve the intended double catch.",
-          "detail": "The upper-stage recovery is still a milestone: it demonstrates one of the steps needed to reuse the whole rocket, rather than just its booster. It does not establish how quickly the vehicle can be inspected and flown again.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
-          "published": "15 Nov, 9:34 am; updated 9:46 am",
-          "tag": "Space"
-        },
-        {
-          "id": "domestic-gas-reservation-joint-letter-20261116",
-          "storyKey": "australia-domestic-gas-reservation-senate-2026",
-          "category": "Australia & World",
-          "title": "Unions and manufacturers urge the Senate to pass gas reservation",
-          "summary": "Unions and industry bodies have jointly urged senators to pass the proposed domestic gas reservation scheme as debate gets under way. It would require major exporters to reserve up to 20 per cent of their supply for Australia, with the aim of easing pressure on local gas prices.",
-          "detail": "The joint push comes from organisations that do not often line up together, including the Australian Workers’ Union and Australian Industry Group. The bill has not passed, and the proposal does not translate into an immediate change to household bills.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656",
-          "published": "16 Nov, from 7:05 am",
-          "tag": "Federal politics"
-        },
-        {
-          "id": "middle-east-gaza-bahrain-20261116",
-          "storyKey": "middle-east-gaza-bahrain-escalation-20261115",
-          "category": "Australia & World",
-          "title": "Israel reports killing Hamas commander as Bahrain says it intercepted attacks",
-          "summary": "Israel said it killed a senior Hamas military commander in southern Gaza on Sunday. Separately, Bahrain said it intercepted Iranian aerial attacks, while Iran claimed it had hit a US military installation in Bahrain.",
-          "detail": "The US military had not immediately commented on the latest Iranian claim in ABC’s reporting. Bahrain’s account confirms a response to incoming attacks, not that the claimed US target was hit.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
-          "published": "15 Nov, 9:33 pm; updated 16 Nov, 6:31 am",
-          "tag": "Middle East"
-        },
-        {
-          "id": "us-airlines-third-day-recovery-20261116",
-          "storyKey": "us-faa-air-traffic-ground-stop-november-2026",
-          "category": "Australia & World",
-          "title": "US flight disruptions carry into a third day, though cancellations ease",
-          "summary": "US airlines cancelled more than 1,600 flights and delayed almost 3,600 by Reuters’ Sunday update, down from more than 6,400 cancellations on Saturday. US Transport Secretary Sean Duffy expects schedules to be largely normal by Monday US time, but that is a forecast rather than a guarantee for individual flights.",
-          "detail": "For an Australia-to-US itinerary, the main thing to check is whether a domestic connection is still operating. Delays have persisted after the national ground stop ended, even when long-haul flights are departing.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/us-air-travel-disruptions-continue-into-third-day-2026-11-15/",
-          "published": "16 Nov, 3:49 am",
-          "tag": "Material update"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-16T17:03:06+11:00",
-        "stories": [
-          {
-            "id": "mudgee-lunchtime-hailstorm-20261116-pm",
-            "storyKey": "nsw-mudgee-hailstorm-november-16-2026",
-            "category": "Sydney & NSW",
-            "title": "Lunchtime hailstorm blankets Mudgee",
-            "summary": "A lunchtime storm left thick drifts of hail around Mudgee, with residents reporting water entering homes and fallen trees. The NSW SES said it had responded to 18 storm-related incidents across the region, most involving leaking roofs.",
-            "detail": "At the time of ABC's report, a severe thunderstorm warning covered much of north-east NSW, with large to giant hail and damaging to locally destructive winds possible. Check current warnings before travelling because conditions can change.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-16/hailstorm-blankets-mudgee-storm-warning-issued/107390400",
-            "published": "16 Nov, 3:01 pm",
-            "tag": "NSW weather"
-          },
-          {
-            "id": "apple-health-ai-study-launch-20261116-pm",
-            "storyKey": "apple-openevidence-health-ai-usage-study-launch-2026",
-            "category": "Apple",
-            "title": "Apple opens a study of AI answers to health questions",
-            "summary": "Apple has launched a research app with clinical AI company OpenEvidence to study how people understand and use answers to health questions. Participants can see links to medical research and choose whether to share health data for more relevant responses.",
-            "detail": "The study is open to up to 200,000 eligible US adults aged 21 or over with an Apple Intelligence-enabled iPhone 15 Pro or later running iOS 26 or later. It is not available in Australia, and Apple says the app is not a substitute for a clinician or intended to diagnose or treat conditions. Study data will not be used to train AI models, according to Apple.",
-            "source": "Apple Newsroom",
-            "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-            "published": "16 Nov, US announcement reported at 12:30 pm Sydney time",
-            "tag": "US study"
-          },
-          {
-            "id": "helen-haines-discharged-20261116-pm",
-            "storyKey": "helen-haines-wangaratta-attack-hospital-discharge-2026",
-            "category": "Australia & World",
-            "title": "Helen Haines leaves hospital after alleged attack",
-            "summary": "Independent MP Helen Haines has been discharged from hospital, four weeks after she was seriously injured outside her electorate office in Wangaratta. The member for Indi lost both legs after being struck by a vehicle.",
-            "detail": "The Alfred hospital confirmed her discharge on Monday. A 43-year-old man has been charged over the alleged attack.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-16/helen-haines-discharged-from-hospital-wangaratta-attack/107389928",
-            "published": "16 Nov, 12:17 pm",
-            "tag": "Federal politics"
-          }
-        ],
-        "morningChecked": "2026-11-16T08:22:37+11:00"
       }
     }
   ]
