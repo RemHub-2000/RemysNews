@@ -138,7 +138,39 @@
           "published": "22 Nov, 5:45 am",
           "tag": "Warning-system gap"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-22T17:00:37+11:00",
+        "stories": [
+          {
+            "id": "fred-nile-death-announced-20261122-pm",
+            "storyKey": "fred-nile-death-announcement-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Former NSW MP Fred Nile dies aged 92",
+            "summary": "Fred Nile, a prominent and divisive figure in NSW politics for more than four decades, has died aged 92. His family announced his death on Sunday, saying he died peacefully on Saturday.",
+            "detail": "The former Christian Democratic Party leader served in the Legislative Council until 2023. A vocal opponent of same-sex marriage and abortion, he also helped pass legislation expunging historic homosexual convictions and worked with political opponents on protecting First Nations cultural sites.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-22/mp-fred-nile-dead-at-92/107413968",
+            "published": "22 Nov, 10:56 am; updated 4:00 pm",
+            "tag": "NSW politics"
+          },
+          {
+            "id": "cop31-latest-draft-electrification-20261122-pm",
+            "storyKey": "cop31-electrification-20261109",
+            "updatesStoryId": "cop31-electrification-20261109-20261122",
+            "category": "Australia & World",
+            "title": "New COP31 draft sets an electrification target but omits fossil fuels",
+            "summary": "A new proposed COP31 agreement would aim to raise electricity's share of final energy use to 35 per cent by 2035, but again contains no explicit mention of fossil fuels. Its release gives countries a fresh text to consider as the summit runs into a second day of overtime.",
+            "detail": "The proposed wording also includes a goal for carbon capture and storage, a technology backed by the oil industry and criticised by some countries. Delegates still need to agree to the text, so it remains a proposal rather than a final deal.",
+            "source": "Associated Press",
+            "url": "https://apnews.com/article/climate-un-turkey-fossil-fuels-global-warming-f6e36c4caf13ec6fed57c9f077cbd067",
+            "published": "22 Nov, 3:01 pm Sydney",
+            "tag": "Material update"
+          }
+        ],
+        "morningChecked": "2026-11-22T08:26:04+11:00"
+      }
     },
     {
       "date": "2026-11-21",
