@@ -114,7 +114,50 @@
           "published": "22 Nov, 10:32 pm",
           "tag": "New research"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-23T17:04:48+11:00",
+        "stories": [
+          {
+            "id": "sydney-opera-house-access-concerns-20261123-pm",
+            "storyKey": "sydney-opera-house-accessible-dropoff-changes-2026",
+            "category": "Sydney & NSW",
+            "title": "Opera House access changes prompt safety concerns",
+            "summary": "Some patrons and staff have raised concerns about Sydney Opera House's changed accessible drop-off, which now uses the Macquarie Street Gatehouse and buggies to reach the building. Visitors told ABC the transfer can be difficult for people with limited mobility.",
+            "detail": "The arts workers' union says two incidents caused injuries to staff and a patron. The Opera House says the change avoids a working loading dock and that two of its three enclosed buggies have wheelchair ramps.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-23/sydney-opera-house-disabled-access-changes-unsafe/107415688",
+            "published": "23 Nov, 1:27 pm",
+            "tag": "Accessibility"
+          },
+          {
+            "id": "fred-nile-state-funeral-decision-20261123-pm",
+            "storyKey": "fred-nile-death-announcement-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Minns rules out a state funeral for Fred Nile",
+            "summary": "NSW Premier Chris Minns says there will be no state funeral for former MP Fred Nile. Sydney MP Alex Greenwich withdrew his earlier call for a state service and apologised after criticism from the LGBTQ+ community.",
+            "detail": "Greenwich said Nile's later work with him on LGBTQ+ reforms did not erase the hurt caused by his earlier campaigns. Minns said state funerals were reserved for rare circumstances.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-23/nsw-fred-nile-state-funeral-ruled-out-alex-greenwich-apologises/107416658",
+            "published": "23 Nov, 3:06 pm; updated 3:18 pm",
+            "tag": "Material update"
+          },
+          {
+            "id": "qld-lnp-news-instagram-authorization-20261123-pm",
+            "storyKey": "queensland-breaking-news-instagram-lnp-disclosure-2026",
+            "category": "Technology",
+            "title": "Queensland news-style Instagram account discloses LNP link",
+            "summary": "An Instagram account called Queensland Breaking News added a disclosure that it was authorised by the Liberal National Party after ABC asked questions about it. The LNP confirmed it uses the page to share information about its government's work.",
+            "detail": "The account had been posting government announcements under a news-style name. Queensland requires authorisation of election material in the 12 months before a state election, so the disclosure is not currently a legal requirement.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-23/lnp-social-media-account-authorisation-added-after-questions/107411074",
+            "published": "23 Nov, 2:06 pm",
+            "tag": "Media transparency"
+          }
+        ],
+        "morningChecked": "2026-11-23T08:28:17+11:00"
+      }
     },
     {
       "date": "2026-11-22",
