@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-24",
+      "label": "Tuesday, 24 November 2026",
+      "note": "Times are Sydney local unless noted. Rumours, future targets and availability limits are labelled.",
+      "checked": "2026-11-24T08:28:30+11:00",
+      "stories": [
+        {
+          "id": "nsw-child-family-violence-reports-2025-26-advocate-report-20261124",
+          "storyKey": "nsw-child-family-violence-reports-2025-26-advocate-report",
+          "category": "Sydney & NSW",
+          "title": "NSW report exposes a major gap in support for children facing family violence",
+          "summary": "New ABC reporting examines more than 91,000 child-protection reports relating to domestic and family violence in NSW in 2025/26. The state's children's advocate says about 66,000 were assessed as involving risk of significant harm, but around 48,000 of those were closed because no caseworker capacity was available.",
+          "detail": "These are reports, not 91,000 individual children, since one child may be reported more than once. The advocate's report, tabled on Friday, makes nine recommendations including specialist youth services and better coordination; today's story highlights the scale of the response gap rather than announcing those reforms have been implemented.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-domestic-violence-nsw-in-a-year/107404086",
+          "published": "24 Nov, 6:32 am; updated 7:32 am",
+          "tag": "New reporting"
+        },
+        {
+          "id": "australia-rental-affordability-index-november-2026-20261124",
+          "storyKey": "australia-rental-affordability-index-november-2026",
+          "category": "Sydney & NSW",
+          "title": "New rental analysis shows how Sydney's averages conceal much harsher outcomes",
+          "summary": "Fresh SGS Economics and Planning analysis places Sydney among Australia's least affordable rental markets and finds the squeeze extending beyond the lowest-income groups. In Sydney, median rent represents about 84% of a single pensioner's income, while a typical single person on benefits would need more than their entire income.",
+          "detail": "The index compares median rents with different household incomes, so these are modelled affordability measures, not what every household actually pays. Canberra is the strongest capital-city market on the average measure, but even there lower-income renters remain under pressure; this is distinct from yesterday's proposal about investing NSW rental bonds.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494",
+          "published": "24 Nov, 12:33 am",
+          "tag": "New affordability data"
+        },
+        {
+          "id": "hunter-bus-crash-parker-managers-safety-breach-fines-2026-20261124",
+          "storyKey": "hunter-bus-crash-parker-managers-safety-breach-fines-2026",
+          "category": "Sydney & NSW",
+          "title": "Former bus managers convicted over safety failures before the Hunter crash",
+          "summary": "Rodney and Katie Parker, former Linq Buslines managers, have each been convicted and fined $7,000 after pleading guilty to heavy-vehicle safety offences. The prosecution concerns failures before the 2023 Hunter wedding-bus crash that killed ten people.",
+          "detail": "The court heard Katie Parker had been told about driver Brett Button's opioid use months before the crash but had not made further enquiries. These are new management-level convictions, separate from Button's existing prison sentence; the judge reduced the fines because of guilty pleas and limited ability to pay.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-23/bus-managers-fined-over-deadly-hunter-bus-crash/107404110",
+          "published": "23 Nov, 6:35 pm",
+          "tag": "Court outcome"
+        },
+        {
+          "id": "apple-product-red-homepod-mini-airpods-max-december-2026-report-20261124",
+          "storyKey": "apple-product-red-homepod-mini-airpods-max-december-2026-report",
+          "category": "Apple",
+          "title": "Report: Product(RED) HomePod mini and AirPods Max versions could arrive next week",
+          "summary": "9to5Mac, citing Bloomberg, reports that Apple plans Product(RED) versions of HomePod mini 2 and AirPods Max 2 around 1 December. The suggested finishes include red speaker mesh and silver headphones with a red Digital Crown.",
+          "detail": "This remains a report, not an Apple announcement, with Australian pricing and availability unconfirmed. Published at 11:28 am Pacific on Monday, it falls at 6:28 am Tuesday in Sydney, inside this edition's 24-hour window.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report/",
+          "published": "24 Nov, 6:28 am Sydney (23 Nov, 11:28 am PST)",
+          "tag": "Rumour"
+        },
+        {
+          "id": "tesla-ai45-memory-revision-mid-2027-production-20261124",
+          "storyKey": "tesla-ai45-memory-revision-mid-2027-production",
+          "category": "Tesla",
+          "title": "Tesla scales back the planned memory increase for its next vehicle computer",
+          "summary": "Not a Tesla App reports Musk has revised AI4.5's planned memory from 64GB to 48GB in total, still above AI4's 32GB, citing rising memory costs and bandwidth limits. The upgraded computer is targeted for production around mid-2027, rather than being available now.",
+          "detail": "The report also says Musk continues to position AI5 for Optimus while vehicles use AI4 and AI4.5. For your Model Y, this is a future hardware direction, not a software upgrade: Tesla has not announced a retrofit option or confirmed Australian vehicle availability.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5066/tesla-confirms-its-next-gen-fsd-computer-ai45-will-now-include-less-ram-than-planned",
+          "published": "23 Nov (publisher date)",
+          "tag": "Future hardware"
+        },
+        {
+          "id": "tesla-starlink-vehicle-integration-late-2027-target-20261124",
+          "storyKey": "tesla-starlink-vehicle-integration-late-2027-target",
+          "category": "Tesla",
+          "title": "Musk gives a tentative late-2027 target for wider Tesla Starlink integration",
+          "summary": "Musk says he hopes Starlink can be integrated across Tesla's vehicle range towards the end of 2027, according to Not a Tesla App. The fresh development is a timeline for expansion beyond Cybercab, not confirmation that existing consumer vehicles have received satellite internet.",
+          "detail": "Satellite backup could eventually help connectivity where mobile coverage is weak, although that is a potential benefit, not a confirmed Australian service. There is no announced retrofit, price or eligibility for your Model Y, and this should not be confused with a change to today's Premium Connectivity subscription.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5067/tesla-is-looking-to-add-starlink-to-its-vehicles-next-year",
+          "published": "23 Nov (publisher date)",
+          "tag": "Tentative target, not released"
+        },
+        {
+          "id": "google-gemini-api-native-file-slicing-office-upload-release-20261124",
+          "storyKey": "google-gemini-api-native-file-slicing-office-upload-release",
+          "category": "AI",
+          "title": "Gemini's API can now inspect selected slides, cells and recording segments",
+          "summary": "Google has launched native file slicing across Gemini 4 models, alongside uploads for Office and OpenDocument files. Developers can upload a file once, then request particular pages, spreadsheet ranges or media segments, with tokens billed for the material inspected rather than automatically processing the whole file.",
+          "detail": "Suggested work experiment: skim an approved EBR deck's text, identify the relevant results slide, then inspect just that slide's chart and footnotes before drafting a meeting brief. This is an API capability, not a new button in the consumer Gemini app; Google lists Australia as supported for the Gemini API and AI Studio, while existing file limits and account requirements still apply.",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+          "published": "23 Nov (Google publication date)",
+          "tag": "Released; developer workflow"
+        },
+        {
+          "id": "nvidia-jensen-huang-resignation-kress-interim-20261124",
+          "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
+          "category": "Technology",
+          "title": "Nvidia reverses course and reinstates Jensen Huang as CEO",
+          "summary": "Nvidia has reinstated Jensen Huang with immediate effect, reversing the board's recent statement that he would not return. The company says the decision was unanimous and followed input from senior US officials, making this a substantial leadership change at the centre of the AI supply chain.",
+          "detail": "The board says it is satisfied about his ability to lead and sees no national-security risk in his return. Those are the board's conclusions, not a blanket resolution of every issue: ABC reports investigations into the company's conduct are continuing, so the reinstatement should not be read as closing the wider Nvidia story.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+          "published": "24 Nov, 1:12 am; updated 7:53 am",
+          "tag": "Material leadership update"
+        },
+        {
+          "id": "ukraine-russian-vessels-benghazi-libya-strike-20261122-20261124",
+          "storyKey": "ukraine-russian-vessels-benghazi-libya-strike-20261122",
+          "category": "Australia & World",
+          "title": "Ukraine claims a Russian warship sinking in Libya, widening the conflict's reach",
+          "summary": "Volodymyr Zelenskyy says Ukrainian naval drones sank the Russian corvette Merkury and damaged a military-linked cargo ship near Benghazi on Sunday. The acknowledgement brings Ukraine's operations into the open in Libya, well beyond the usual Black Sea theatre.",
+          "detail": "Libyan officials described serious damage and reported wounded Libyan and Russian nationals; Russian officials made no immediate comment on the Ukrainian account. The UN mission has called for an independent investigation and warned against Libya becoming a battleground for foreign conflicts.",
+          "source": "ABC News / AP, AFP, Reuters",
+          "url": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718",
+          "published": "23 Nov, 9:21 pm; updated 24 Nov, 1:37 am",
+          "tag": "Ukraine war"
+        },
+        {
+          "id": "ukraine-dymer-rescue-death-toll-november-2026-20261124",
+          "storyKey": "ukraine-dymer-rescue-death-toll-november-2026",
+          "category": "Australia & World",
+          "title": "Rescuers find survivors as the Dymer strike death toll reaches eleven",
+          "summary": "Ukrainian officials say a seven-year-old boy and a 79-year-old woman were pulled alive from the rubble after Sunday's Russian strike on an apartment building in Dymer, near Kyiv. By Monday, the reported death toll had reached eleven, with two people's fate still unknown.",
+          "detail": "Search work was repeatedly interrupted by further attack threats. Zelenskyy renewed calls for tighter sanctions and export controls on the foreign components used in Russian drones.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russian-attack-ukraines-dymer-kyiv-region-kills-11-official-says-2026-11-23/",
+          "published": "23 Nov, 5:24 pm Sydney (6:24 am UTC)",
+          "tag": "Rescue update"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "label": "Monday, 23 November 2026",
       "note": "Times are Sydney local unless noted. Material updates, proposals and availability limits are labelled. Categories without noteworthy new stories are omitted.",
@@ -1025,177 +1153,6 @@
           }
         ],
         "morningChecked": "2026-11-18T08:27:23+11:00"
-      }
-    },
-    {
-      "date": "2026-11-17",
-      "label": "Tuesday, 17 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-17T08:18:39+11:00",
-      "stories": [
-        {
-          "id": "nsw-property-price-rule-pause-20261117",
-          "storyKey": "nsw-underquoting-written-offer-rule-pause",
-          "category": "Sydney & NSW",
-          "title": "NSW pauses a new underquoting rule hours before it was due to start",
-          "summary": "Premier Chris Minns has put the next part of NSW’s underquoting reforms on hold for up to a year. The rule would have stopped agents advertising below a written offer the seller had already rejected, even if the seller later decided to lower the asking price.",
-          "detail": "The government says that could make it harder to respond to falling prices. Existing underquoting rules still apply, so the pause is not a licence to advertise below the agent’s genuine estimate.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/nsw-house-price-advertising-underquoting-laws/107390420",
-          "published": "16 Nov, 5:33 pm; updated 7:53 pm",
-          "tag": "Property"
-        },
-        {
-          "id": "sydney-airport-weather-cancellations-20261117",
-          "storyKey": "sydney-airport-weather-disruption-november-2026",
-          "category": "Sydney & NSW",
-          "title": "Sydney Airport records 104 cancellations after wind and cloud disrupt flights",
-          "summary": "Sydney Airport recorded 104 cancellations on Monday, mostly on domestic routes, after wind and cloud reduced air traffic capacity. Qantas said the resulting ground delay programme affected all airlines and it was looking to use larger aircraft on some services to help clear the backlog.",
-          "detail": "That is Monday’s total, not a forecast for Tuesday. If you are travelling today, check the airline’s flight status before leaving for the airport, especially if a domestic leg is your connection.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/flight-delays-cancellations-at-sydney-airport/107392306",
-          "published": "16 Nov, 7:58 pm; updated 17 Nov, 8:00 am",
-          "tag": "Travel"
-        },
-        {
-          "id": "nsw-police-workplace-reports-20261117",
-          "storyKey": "nsw-police-workplace-harassment-foi-2021-2025",
-          "category": "Sydney & NSW",
-          "title": "New records reveal 483 sexual harassment reports against NSW Police employees",
-          "summary": "Documents obtained by ABC’s 7.30 show 483 reports of sexual harassment against NSW Police employees from 2021 to 2025. The records also list 67 allegations of sexual touching and 10 of indecent assault over the same period.",
-          "detail": "These are reports and allegations, not findings of guilt or a measure of how many incidents went unreported. The figures add a sense of scale to the workplace culture issues raised in the investigation.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/foi-reveal-nsw-police-sexual-harassment-misconduct-allegations/107381728",
-          "published": "16 Nov, 6:07 pm; updated 6:08 pm",
-          "tag": "Investigation"
-        },
-        {
-          "id": "apple-news-puzzles-au-beta-20261117",
-          "storyKey": "apple-news-plus-australia-puzzles-27-3-beta",
-          "category": "Apple",
-          "title": "Apple News+ puzzles arrive in the Australian iOS 27.3 beta",
-          "summary": "The second iOS 27.3 beta brings Apple News+ puzzles to Australian subscribers, including a quick crossword, Crossword Mini, Sudoku, Quartiles and Emoji Game. MacRumors found them under Following, then Puzzles, in the News app.",
-          "detail": "This is a beta release, not a change on the current public build. MacRumors expects the public update in December, so there is no need to install a beta just to get the puzzles early.",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/16/apple-news-puzzles-expanding/",
-          "published": "17 Nov, 6:21 am",
-          "tag": "Australian beta"
-        },
-        {
-          "id": "tesla-berlin-cybercab-factory-20261117",
-          "storyKey": "tesla-giga-berlin-cybercab-expansion",
-          "category": "Tesla",
-          "title": "Tesla plans a €3 billion Cybercab factory expansion near Berlin",
-          "summary": "Tesla told Reuters it plans a new hall at its Grünheide factory capable of making up to one million Cybercabs a year. It intends to apply for a building permit by year-end, start construction in the first half of 2027 and begin production in 2029.",
-          "detail": "Those are targets, not output commitments or approval to run Robotaxis on European roads. The Berlin plan is separate from the recent US buyer invitations and does not confirm any change for Australian customers or existing Model Y owners.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/tesla-announces-33-billion-expansion-germany-plant-2026-11-16/",
-          "published": "17 Nov, 1:17 am",
-          "tag": "Factory plan"
-        },
-        {
-          "id": "chatgpt-healthcare-plugins-20261117",
-          "storyKey": "openai-chatgpt-healthcare-november-2026-expansion",
-          "category": "AI",
-          "title": "OpenAI adds more than 20 plugins to ChatGPT for Healthcare",
-          "summary": "OpenAI says the new plugins are available in ChatGPT for Healthcare, alongside updated clinical search and work on agents that can help with multi-step administrative tasks. It cites organisations using agents for jobs such as processing referrals and moving documents between systems.",
-          "detail": "This is for governed healthcare workspaces; the separate free clinician offer is for eligible verified US clinicians. The transferable idea for customer success is to test one handoff with synthetic records, allowing the tool to prepare a draft while keeping approval and sending with a person.",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
-          "published": "16 Nov, source date",
-          "tag": "Enterprise tools"
-        },
-        {
-          "id": "lvmh-openai-newsroom-partnership-20261117",
-          "storyKey": "lvmh-media-openai-newsroom-and-content-partnership",
-          "category": "AI",
-          "title": "OpenAI and LVMH’s media division strike a newsroom and content deal",
-          "summary": "The agreement covers titles including Le Parisien and Les Echos. Staff will be able to explore jobs such as comparing documents and drafting translations. It also calls for ChatGPT to show attributed summaries and excerpts from the publications, with links to the original articles.",
-          "detail": "Neither partner has given a date for the content changes to reach Australian users. The practical point for research is that the link matters as much as the summary: use the original article to check a quote or figure before reusing it.",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/lvmh-media-division-partnership/",
-          "published": "16 Nov, Paris date",
-          "tag": "Partnership"
-        },
-        {
-          "id": "coles-investigation-20261117",
-          "storyKey": "coles-cybersecurity-incident-november-2026",
-          "category": "Technology",
-          "title": "Coles investigates cyber incident, with no evidence so far of data loss",
-          "summary": "Coles says it has found no evidence so far that customer, staff or supplier data was compromised or removed. Stores and online shopping continued to operate. Coles was also looking into a small number of Liquorland click-and-collect issues; it had not confirmed those were linked.",
-          "detail": "Coles says shoppers do not need to act at this point. If a message about the incident asks you to sign in or share information, use the retailer’s app or website directly instead of following the message link.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
-          "published": "16 Nov, 4:00 pm",
-          "tag": "Cybersecurity"
-        },
-        {
-          "id": "ukraine-diplomacy-berlin-followup-20261117",
-          "storyKey": "ukraine-russia-abu-dhabi-peace-talks",
-          "category": "Australia & World",
-          "title": "Ukraine holds fresh talks with US and European officials",
-          "summary": "Volodymyr Zelenskyy says Ukraine held a new round of online talks with US envoys and European representatives, and participants agreed to meet in Berlin with countries supporting Ukraine. The new element is the direct European participation and planned follow-up, not an agreement with Russia.",
-          "detail": "The Kremlin says it has not agreed to Europeans joining the next round involving Russian negotiators. There is no confirmed ceasefire or deal, and the format of any further talks with Moscow remains unsettled.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/ukraines-zelenskiy-says-new-talks-peace-prospects-held-with-us-european-2026-11-16/",
-          "published": "17 Nov, 5:46 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "yemen-aden-retreat-20261117",
-          "storyKey": "yemen-pro-government-withdrawal-aden-november-2026",
-          "category": "Australia & World",
-          "title": "Yemen’s pro-government forces pull back to defend Aden",
-          "summary": "Saudi-backed pro-government forces have withdrawn from parts of western Yemen as Houthi forces advance. The Southern Armed Forces said its priority was defending Aden, the port city where Yemen’s internationally recognised government operates, and neighbouring provinces.",
-          "detail": "The withdrawal marks a shift in the conflict around the southern Red Sea, a major shipping route. It does not establish that Aden has fallen or that the route has closed.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-17/yemen-government-forces-retreat-bab-el-mandeb-strait/107392710",
-          "published": "17 Nov, 6:26 am",
-          "tag": "Middle East"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-17T17:02:45+11:00",
-        "stories": [
-          {
-            "id": "david-jones-creditors-meeting-20261117-pm",
-            "storyKey": "australia-david-jones-administration-suppliers-20261106",
-            "category": "Sydney & NSW",
-            "title": "David Jones creditors hear the debt could exceed $459 million",
-            "summary": "At today's first creditors' meeting, administrators revealed David Jones owes at least $459 million, including estimated claims of $180 million from unsecured creditors and $33 million on gift cards. The figures show the scale of the retailer's debts as administrators seek a buyer.",
-            "detail": "It is too early to know how much suppliers and other creditors will recover. The next creditors' meeting is expected in March 2027.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-17/david-jones-creditors-owed-almost-half-a-billion-dollars/107389716",
-            "published": "17 Nov, 11:49 am; updated 4:26 pm",
-            "tag": "Retail"
-          },
-          {
-            "id": "bunnings-tech-job-cuts-20261117-pm",
-            "storyKey": "bunnings-tcs-tech-offshoring-job-cuts-2026",
-            "category": "Technology",
-            "title": "Bunnings to cut 230 technology jobs in outsourcing deal",
-            "summary": "Bunnings says about 230 permanent technology roles will be made redundant and 120 contractor engagements will end as it shifts some services to Tata Consultancy Services. The transition begins in December, with job losses starting in the new year.",
-            "detail": "Bunnings says it will retain an Australian in-house technology team of roughly 500 people, while the outsourced services will be delivered by teams in Australia, India and the Philippines.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860",
-            "published": "17 Nov, 2:23 pm; updated 4:13 pm",
-            "tag": "Jobs"
-          },
-          {
-            "id": "australia-backpacker-visa-revision-20261117-pm",
-            "storyKey": "australia-working-holiday-regional-work-visa-revision-2026",
-            "category": "Australia & World",
-            "title": "Government lifts proposed cap on third-year backpacker visas",
-            "summary": "The federal government has raised its planned cap on third-year working holiday visas from 5,000 to 25,000 after agricultural, tourism and hospitality groups warned of seasonal labour shortages. The cap remains below the current level of about 31,000.",
-            "detail": "From 1 March, most applicants for a second-year visa will need 120 days of regional work, up from 88; those who complete the requirement before then remain eligible under the existing rules. British backpackers remain exempt from regional work requirements under the UK trade agreement.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
-            "published": "17 Nov, 1:13 pm",
-            "tag": "Migration"
-          }
-        ],
-        "morningChecked": "2026-11-17T08:18:39+11:00"
       }
     }
   ]
