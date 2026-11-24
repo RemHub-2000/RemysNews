@@ -126,7 +126,38 @@
           "published": "23 Nov, 5:24 pm Sydney (6:24 am UTC)",
           "tag": "Rescue update"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-24T17:06:37+11:00",
+        "stories": [
+          {
+            "id": "digital-duty-care-greens-deal-20261124-pm",
+            "storyKey": "australia-digital-duty-care-small-business-exemption-nov2026",
+            "category": "Technology",
+            "title": "Labor and Greens agree stronger online safety bill",
+            "summary": "Labor has secured Greens support for its proposed digital duty of care, including a right for Australians to sue social media companies over harm and maximum penalties of up to 5 per cent of global revenue. The agreement moves the bill closer to passage after negotiations over how strongly to regulate platforms.",
+            "detail": "The proposal would require platforms to take reasonable steps to address specified online harms, and allow users aged 16 and over to switch to a feed of accounts they follow. The bill still needs to pass Parliament, so the new rights and penalties are not yet in force.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982",
+            "published": "24 Nov, 1:24 pm",
+            "tag": "Deal reached; bill pending"
+          },
+          {
+            "id": "australia-singapore-supply-carbon-treaties-20261124-pm",
+            "storyKey": "australia-singapore-leaders-supply-carbon-agreements-20261124",
+            "category": "Australia & World",
+            "title": "Australia and Singapore expand essential supplies cooperation",
+            "summary": "Australia and Singapore have signed an agreement to support trade in more essential goods during disruptions, extending cooperation beyond fuel and gas to products including food, medicines and telecommunications equipment. The leaders announced it after meeting in Canberra today.",
+            "detail": "They also signed an agreement establishing a framework for moving captured carbon dioxide from Singapore to Australia for offshore geological storage. The agreements set out cooperation and a framework, rather than confirming that a carbon storage project is already operating.",
+            "source": "Prime Minister of Australia",
+            "url": "https://www.pm.gov.au/media/australia-singapore-annual-leaders-meeting-2026",
+            "published": "24 Nov; leaders' announcement after midday",
+            "tag": "Bilateral agreements"
+          }
+        ],
+        "morningChecked": "2026-11-24T08:28:30+11:00"
+      }
     },
     {
       "date": "2026-11-23",
