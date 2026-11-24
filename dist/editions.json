@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-25",
+      "label": "Wednesday, 25 November 2026",
+      "note": "Morning edition. Times are Sydney local unless noted. Reported plans, beta rollouts and unreleased features are labelled separately from available products.",
+      "checked": "2026-11-25T08:24:52+11:00",
+      "stories": [
+        {
+          "id": "western-sydney-young-voices-survey-2026-20261125",
+          "storyKey": "western-sydney-young-voices-survey-2026",
+          "category": "Sydney & NSW",
+          "title": "Western Sydney's young adults say investment is not easing everyday pressures",
+          "summary": "A new Western Sydney Leadership Dialogue survey finds 70% of respondents struggling with living costs, while around half identify housing affordability and job security as problems. Its author says major infrastructure spending has not translated into tangible short-term improvements for young people.",
+          "detail": "Published this morning, the survey covers 160 people aged 18 to 29 who live, work or study in the region, so it is a useful snapshot rather than a census of Western Sydney. A quarter also identify negative safety stereotypes as a barrier, adding a reputational burden to the financial squeeze.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-25/nsw-western-sydney-young-voice-survey-results/107421594",
+          "published": "25 November, 6:31 am AEDT",
+          "tag": "New survey"
+        },
+        {
+          "id": "ama-mental-health-public-hospital-report-card-2026-20261125",
+          "storyKey": "ama-mental-health-public-hospital-report-card-2026",
+          "category": "Sydney & NSW",
+          "title": "Mental health report finds longer emergency waits and more acute NSW cases",
+          "summary": "The AMA's new national hospital report card says one in ten mental health patients waits almost 24 hours in emergency before admission, with more than half of those ultimately admitted waiting over seven hours. In NSW, the share of presentations classified as an emergency rose from 11% to 20% over the past decade.",
+          "detail": "The report puts national capacity at 27 specialised public mental health beds per 100,000 people. Doctors are calling for earlier intervention, a stronger workforce and better coordination across services, with a new federal-state mental health agreement currently being negotiated.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-25/ama-mental-health-report-card-emergency/107420650",
+          "published": "25 November, 6:31 am AEDT",
+          "tag": "Health"
+        },
+        {
+          "id": "apple-eu-browser-engine-commission-dialogue-nov2026-20261125",
+          "storyKey": "apple-eu-browser-engine-commission-dialogue-nov2026",
+          "category": "Apple",
+          "title": "EU browser dispute escalates as Google backs Mozilla's complaint",
+          "summary": "Google's Chrome developer team has backed Mozilla's criticism of Apple's EU browser rules, while the European Commission says it is discussing the restrictions with Apple. The complaint is that developers cannot move existing iPhone users to an independent browser engine without making them install a separate app.",
+          "detail": "MacRumors published the Google development at 1 pm PST on 24 November, which is 8 am today in Sydney. Apple argues its approval conditions protect security and privacy; its documentation still restricts these alternative-engine entitlements to EU distribution, so this is regulatory pressure, not a new browser capability released for Australian iPhones.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
+          "published": "25 November, 8:00 am AEDT (24 November, 1:00 pm PST)",
+          "tag": "Regulatory update"
+        },
+        {
+          "id": "tesla-spacex-merger-year-end-negotiating-committees-2026-20261125",
+          "storyKey": "tesla-spacex-merger-year-end-negotiating-committees-2026",
+          "category": "Tesla",
+          "title": "Report: Tesla and SpaceX negotiators target a possible year-end agreement",
+          "summary": "The Financial Times has identified five directors overseeing Tesla-SpaceX merger negotiations, with talks reportedly working towards a possible 31 December deadline. Electrek's account stresses that an agreement is not close, despite the target, and that shareholder approval and regulatory scrutiny would still lie ahead.",
+          "detail": "This is a potentially major change to Tesla's corporate structure, not routine share-price news or a completed deal. There is no confirmed change to Australian vehicle sales, servicing or your Model Y's features; any longer-term implications for investment priorities remain uncertain.",
+          "source": "Electrek, reporting the Financial Times",
+          "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
+          "published": "25 November, 1:43 am AEDT (24 November, 6:43 am PST)",
+          "tag": "Reported talks"
+        },
+        {
+          "id": "tesla-robotaxi-app-extended-wait-scheduled-pickups-26115-20261125",
+          "storyKey": "tesla-robotaxi-app-extended-wait-scheduled-pickups-26115",
+          "category": "Tesla",
+          "title": "Robotaxi riders gain extra waiting time, but scheduled pickups are not live yet",
+          "summary": "Not a Tesla App reports that Robotaxi riders can now extend the pickup countdown in two-minute increments. Separately, code in app version 26.11.5 points to future scheduled pickups, including selecting and adjusting a pickup time.",
+          "detail": "The distinction matters: the waiting-time button has been observed working, whereas advance booking is still an unreleased feature found in code. This concerns Tesla's separate Robotaxi service, not a software upgrade for privately owned Model Ys, and the report does not establish Australian availability.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5071/tesla-updates-robotaxi-app-add-extra-wait-time-and-scheduled-pickups-coming-soon",
+          "published": "24 November, US publication date",
+          "tag": "Live feature + unreleased code"
+        },
+        {
+          "id": "anthropic-claude-artifacts-install-as-desktop-app-beta-20261125",
+          "storyKey": "anthropic-claude-artifacts-install-as-desktop-app-beta",
+          "category": "AI",
+          "title": "Claude artifacts can now become personal Mac and Windows apps",
+          "summary": "Anthropic is rolling out an 'Install as app' beta across plans, giving artifacts their own window and icon, with optional notifications and connectors. They still require an online, signed-in Claude session, and requests count towards your existing usage limits rather than running as independent offline software.",
+          "detail": "Australia is a supported region, but rollout and organisation settings still apply; Enterprise owners must enable the feature. My suggested experiment: build a customer meeting-prep app using approved calendar and account data, initially keeping permissions restricted rather than granting full computer access.",
+          "source": "Anthropic",
+          "url": "https://claude.com/resources/articles/install-as-app",
+          "published": "24 November, official announcement",
+          "tag": "Beta rolling out"
+        },
+        {
+          "id": "anthropic-skills-over-mcp-tasks-elicitation-release-20261124-20261125",
+          "storyKey": "anthropic-skills-over-mcp-tasks-elicitation-release-20261124",
+          "category": "AI",
+          "title": "Claude connectors can deliver workflow expertise alongside their tools",
+          "summary": "Anthropic has launched Skills over MCP in public beta, allowing connected services to supply reusable workflow instructions as well as actions. Tasks and Elicitation are generally available for supported individual plans, letting servers handle longer jobs and request input, while file uploads are still coming soon.",
+          "detail": "Skills are enabled by default for Pro, Max and Ultra, require Team admin approval and are not yet available to Enterprise; Tasks and Elicitation are rolling out to organisational plans. Australia is supported, with no special Australian exclusion stated; the practical opportunity is more consistent account research and follow-up workflows, provided the connector implements these capabilities.",
+          "source": "Anthropic",
+          "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+          "published": "24 November, official announcement",
+          "tag": "Beta + released capabilities"
+        },
+        {
+          "id": "abc-2027-strategy-entertains-closure-youtube-20261124-20261125",
+          "storyKey": "abc-2027-strategy-entertains-closure-youtube-20261124",
+          "category": "Technology",
+          "title": "ABC plans to close Entertains and make a bigger move onto YouTube",
+          "summary": "The ABC's newly announced 2027 strategy will reduce its broadcast TV channels from four to three by discontinuing ABC Entertains. Managing director Hugh Marks also wants YouTube to become a primary distribution platform, with more channels and content created for audiences already watching there.",
+          "detail": "The channel closure is a planned change, not an overnight loss of service. The broadcaster expects its broader measures to redirect around $50 million a year into priorities including distinctive, live and local programming; separate news and current-affairs changes are due to be announced in early 2027.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-24/abc-to-discontinue-entertains-tv-channel-pursue-youtube-content/107419672",
+          "published": "24 November, 4:30 pm AEDT; updated 5:27 pm",
+          "tag": "Media strategy"
+        },
+        {
+          "id": "nvidia-jensen-huang-resignation-kress-interim-20261125",
+          "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
+          "category": "Technology",
+          "title": "Nvidia's leadership reversal now faces a stronger congressional challenge",
+          "summary": "The new development after yesterday's reinstatement is bipartisan pressure for investigations, including Republican demands to explain the government's assurances to Nvidia's board. The scrutiny concerns suspected chip-export violations and the administration's involvement, rather than treating the CEO's return as the end of the matter.",
+          "detail": "ABC reports that Jensen Huang is scheduled for closed-door questioning by three House committees on 1 December and public Senate testimony on 3 December. The alleged export breaches remain allegations, and Nvidia's independent investigation is unfinished; this is a governance and AI-supply-chain story, not another recap of his return.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-25/republicans-challenge-trump-over-huang-nvidia-return/107423590",
+          "published": "25 November, 6:14 am AEDT; updated 7:07 am",
+          "tag": "Material update"
+        },
+        {
+          "id": "ukraine-sparta-ii-gulf-finland-acknowledgement-nov2026-20261125",
+          "storyKey": "ukraine-sparta-ii-gulf-finland-acknowledgement-nov2026",
+          "category": "Australia & World",
+          "title": "Norway urges caution after Ukraine acknowledges a Gulf of Finland ship strike",
+          "summary": "Ukraine has acknowledged striking the Russian cargo vessel Sparta II, with Norway saying it has raised regional stability and international-law concerns with Kyiv. This is a separate operation from the Libya attack covered yesterday, and the latest development is the acknowledgement and allied response, not a claim that the strike happened overnight.",
+          "detail": "The attack occurred on Saturday; Finnish, Estonian and Russian vessels helped fight the resulting fire before the ship was towed back to Russian waters. Zelenskyy calls it a legitimate military target, while the episode adds to fears that the war could spread beyond its existing boundaries.",
+          "source": "ABC News / Reuters",
+          "url": "https://www.abc.net.au/news/2026-11-25/ukraine-gulf-of-finland-russian-ship-norway/107423526",
+          "published": "25 November, 3:31 am AEDT; updated 7:27 am",
+          "tag": "International"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "label": "Tuesday, 24 November 2026",
       "note": "Times are Sydney local unless noted. Rumours, future targets and availability limits are labelled.",
@@ -989,201 +1117,6 @@
           }
         ],
         "morningChecked": "2026-11-19T08:21:52+11:00"
-      }
-    },
-    {
-      "date": "2026-11-18",
-      "label": "Wednesday, 18 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates are marked.",
-      "checked": "2026-11-18T08:27:23+11:00",
-      "stories": [
-        {
-          "id": "sydney-depot-small-business-freight-20261118",
-          "storyKey": "sydney-depot-small-business-freight",
-          "category": "Sydney & NSW",
-          "title": "NSW importers chase stock caught in freight delays",
-          "summary": "Small businesses are still trying to locate Christmas stock after Australian Border Force cancelled the depot licences of Sydney-based Top Logistics Australia. A Byron Bay importer told the ABC that nearly $500,000 worth of underwater equipment was stuck somewhere in the supply chain.",
-          "detail": "Border Force says affected importers, brokers and freight forwarders should locate their consignments and arrange collection. The ABC understands freight held by the company was either cleared or transferred to other licensed depots.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/customs-delay-hits-small-businesses/107368824",
-          "published": "18 Nov, 6:01 am",
-          "tag": "Small business"
-        },
-        {
-          "id": "nsw-south-west-rocks-storm-claims-20261118",
-          "storyKey": "nsw-south-west-rocks-storm-claims",
-          "category": "Sydney & NSW",
-          "title": "Insurers expect more claims after storms in northern NSW",
-          "summary": "About 1,400 insurance claims had been lodged in NSW from the weather system that swept the state's north, the Insurance Council told the ABC this morning. It expects more claims in the coming days after a possible tornado hit South West Rocks on Monday.",
-          "detail": "The NSW total covers the wider storm system, not just South West Rocks. Queensland had recorded a further 6,100 claims from the same weather event.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/coffs-coast-and-mid-north-coast-local-news-briefing/107397142",
-          "published": "18 Nov, 6:56 am; updated 7:40 am",
-          "tag": "Storm recovery"
-        },
-        {
-          "id": "apple-icloud-outage-internal-update-nov2026-20261118",
-          "storyKey": "apple-icloud-outage-internal-update-nov2026",
-          "category": "Apple",
-          "title": "Apple says an internal update caused the iCloud outage",
-          "summary": "Apple Account sign-ins, iCloud and the App Store were among the services disrupted overnight. Apple told Bloomberg that an internal update, not a cyberattack, caused the outage and said it had largely restored service.",
-          "detail": "Some iCloud services were still listed as slow or unavailable when MacRumors reported Apple's explanation at 6:31 am Sydney time. If sign-in or activation still fails, check Apple's System Status page before changing account settings.",
-          "source": "9to5Mac; Apple statement via MacRumors",
-          "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-          "published": "18 Nov, 4:33 am; Apple response reported 6:31 am",
-          "tag": "Service disruption"
-        },
-        {
-          "id": "tesla-powercore-solid-state-transformer-20261118",
-          "storyKey": "tesla-powercore-solid-state-transformer",
-          "category": "Tesla",
-          "title": "Tesla announces Powercore for grid-scale energy projects",
-          "summary": "Tesla unveiled a 7.4 MW unit that combines a transformer, inverter and circuit breaker. It is designed to work with Megapack batteries and can also serve large solar, charging and data centre projects.",
-          "detail": "Tesla is targeting first operation in 2027 and plans to manufacture it in the US. This is an infrastructure announcement, not a Model Y update, and there's no confirmed Australian rollout.",
-          "source": "Not a Tesla App, citing Tesla Megapack",
-          "url": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
-          "published": "17 Nov, US date",
-          "tag": "Energy announcement"
-        },
-        {
-          "id": "tesla-2026-44-1-charging-map-rollout-20261118",
-          "storyKey": "tesla-2026-44-1-charging-map-rollout",
-          "category": "Tesla",
-          "title": "Tesla starts rolling out a clearer charging map",
-          "summary": "Tesla's 2026.44.1 release groups charger pins when you zoom out, making it easier to see network coverage on a longer drive. The release notes list the map change worldwide, including for Model Y, but the rollout is staged.",
-          "detail": "The same build lists changes to supervised driving for eligible hardware. That does not confirm those features on an Australian 2023 Model Y. Check the notes in the Tesla app or the car for what actually reaches your vehicle.",
-          "source": "Not a Tesla App, Tesla release notes",
-          "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
-          "published": "17 Nov, tracker date",
-          "tag": "Staged rollout"
-        },
-        {
-          "id": "microsoft-ignite-2026-copilot-home-office-20261118",
-          "storyKey": "microsoft-ignite-2026-copilot-home-office",
-          "category": "AI",
-          "title": "Microsoft brings Copilot chat, Cowork and Office into one workspace",
-          "summary": "Microsoft says Copilot Home and Office in Copilot are generally available after its Ignite announcement. Copilot Autopilot, which can work on delegated tasks, is only starting to roll out to Frontier early-access customers, and Copilot Code is due in the coming weeks.",
-          "detail": "Try this if your workplace enables it: use approved account notes to turn a customer review into a short PowerPoint outline and an action list. Check the commitments against the source notes before sharing. Microsoft did not give a separate Australian rollout date in the announcement.",
-          "source": "Microsoft",
-          "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
-          "published": "17 Nov, US date",
-          "tag": "Release and early access"
-        },
-        {
-          "id": "proton-lumo-desktop-connectors-schedules-skills-20261118",
-          "storyKey": "proton-lumo-desktop-connectors-schedules-skills",
-          "category": "AI",
-          "title": "Proton releases Lumo for Mac, Windows and Linux",
-          "summary": "Proton's AI assistant now has a desktop app with connectors for local files and services such as Google Drive, plus reusable instructions and scheduled tasks. Proton links to downloads for all three platforms and does not list an Australia-specific restriction in its release post.",
-          "detail": "A low-risk first test on the Mac: give it a folder of non-sensitive notes and a reusable template for a weekly recap. Keep file changes and message sending behind approval; Proton says connector permissions can be set action by action.",
-          "source": "Proton",
-          "url": "https://proton.me/blog/lumo-desktop-features",
-          "published": "17 Nov, source date",
-          "tag": "Desktop release"
-        },
-        {
-          "id": "waymo-us-freeway-pause-november-2026-20261118",
-          "storyKey": "waymo-us-freeway-pause-november-2026",
-          "category": "Technology",
-          "title": "Waymo pauses freeway rides across the US",
-          "summary": "Waymo says it is suspending freeway rides nationwide after California's motor vehicle regulator restricted them following construction-zone incidents. California's order took effect on 11 November; the company confirmed the wider pause on 17 November.",
-          "detail": "The decision does not shut down rides on local streets. Waymo said the recent California incidents caused no collisions or injuries and that it is working with state officials to resume freeway service.",
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/37bcd5371a4699a1850b7666b271946b",
-          "published": "18 Nov, 8:06 am",
-          "tag": "Autonomous vehicles"
-        },
-        {
-          "id": "bupa-gp-medicare-billing-email-20261118",
-          "storyKey": "bupa-gp-medicare-billing-email",
-          "category": "Australia & World",
-          "title": "ABC obtains Bupa clinic email asking GPs to lift Medicare billing",
-          "summary": "A Bupa-run clinic encouraged doctors to book more chronic condition management plans, which attract a higher Medicare payment than a standard appointment. The ABC obtained an internal email linking the practice to revenue growth; Bupa defended the email.",
-          "detail": "The reporting concerns one clinic and does not establish that individual claims were improper. The federal health department says it is spending $147 million over four years on an industry review and compliance improvements.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358",
-          "published": "18 Nov, 5:00 am",
-          "tag": "Medicare"
-        },
-        {
-          "id": "ukraine-crimea-and-kyiv-bridges-november-2026-20261118",
-          "storyKey": "ukraine-crimea-and-kyiv-bridges-november-2026",
-          "category": "Australia & World",
-          "title": "Ukraine damages Crimea bridge as Russian strikes hit Kyiv bridges",
-          "summary": "Ukraine struck the bridge linking Russia to occupied Crimea for a second straight day, with images appearing to show a section of the road span in the water. The ABC reported that Russian strikes also hit two major bridges in Kyiv.",
-          "detail": "The Crimean crossing is an important link to the occupied peninsula. The damage was visible in footage shared by Ukrainian officials, but the full effect on traffic and repairs was not yet clear.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824",
-          "published": "18 Nov, 12:46 am; updated 4:28 am",
-          "tag": "Ukraine"
-        },
-        {
-          "id": "cop31-electrification-20261109-20261118",
-          "storyKey": "cop31-electrification-20261109",
-          "category": "Australia & World",
-          "title": "COP31 draft exposes a split over fossil fuel wording",
-          "summary": "The new draft offers competing options: repeat earlier language about moving away from fossil fuels or call explicitly for a phase-out. Reuters reports that both options could still be dropped, while funding for poorer countries to adapt also remains unresolved.",
-          "detail": "Australia's Chris Bowen is leading negotiations in Türkiye. The official deadline is Friday, but the draft shows how far countries still are from agreeing on what they will commit to.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sustainability/cop31-off-rocky-start-2026-11-17/",
-          "published": "18 Nov, 1:00 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "iran-hormuz-talks-shipping-20261109-20261118",
-          "storyKey": "iran-hormuz-talks-shipping-20261109",
-          "category": "Australia & World",
-          "title": "US and Iran exchange fire while mediators hold talks",
-          "summary": "The US and Iran exchanged fire on Tuesday as Oman and Qatar separately held talks with Iranian officials. Bahrain said it intercepted an Iranian attack and reported no casualties or damage.",
-          "detail": "Oman says its talks covered keeping shipping routes open and preventing escalation. The Strait of Hormuz remains partly blocked, so the immediate issue for energy markets is whether commercial shipping can move safely through it.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
-          "published": "17 Nov, 4:45 pm; later updated",
-          "tag": "Material update"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-18T17:00:33+11:00",
-        "stories": [
-          {
-            "id": "nvidia-board-rules-out-huang-return-20261118-pm",
-            "storyKey": "nvidia-jensen-huang-resignation-kress-interim",
-            "category": "Technology",
-            "title": "Nvidia chair rules out reinstating Jensen Huang as CEO",
-            "summary": "Nvidia chair Harvey Jones has publicly said the board does not intend to reinstate Jensen Huang, after Huang said he would be honoured to return. Jones backed interim CEO Colette Kress while the board searches for a permanent successor.",
-            "detail": "The explicit statement came on the company's earnings call, providing clarity after supporters had pressed for Huang's return. Nvidia's quarterly revenue more than doubled from a year earlier to US$115.8 billion, illustrating continued demand for its AI infrastructure.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
-            "published": "18 Nov, updated 11:12 am",
-            "tag": "Leadership update"
-          },
-          {
-            "id": "australian-september-wages-data-20261118-pm",
-            "storyKey": "australia-september-2026-wage-price-index",
-            "category": "Australia & World",
-            "title": "Wage growth picks up, but prices still outpace pay",
-            "summary": "Australia's wage price index rose 1.1% in the September quarter and 3.5% over the year, the ABS reported today. It was the strongest quarterly increase since late 2023, but prices still rose faster than wages in the quarter.",
-            "detail": "The ABS says award increases helped drive private sector wage growth. EY economist Cherelle Murphy expects the Reserve Bank to hold rates in December, although that is a forecast rather than a decision.",
-            "source": "ABS; ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692",
-            "published": "18 Nov, ABS release 11:30 am",
-            "tag": "Cost of living"
-          },
-          {
-            "id": "gas-reservation-wa-amendment-20261118-pm",
-            "storyKey": "australia-domestic-gas-reservation-senate-2026",
-            "category": "Australia & World",
-            "title": "Government proposes WA carve-out for gas reservation bill",
-            "summary": "The federal government has proposed an amendment allowing Western Australia's obligation under its national gas reservation scheme to be set permanently at zero. WA Premier Roger Cook welcomed the change, which addresses a major objection to the bill.",
-            "detail": "The legislation has not passed: the Coalition says it still has concerns about investment, and the Greens want a gas export tax. The proposed scheme aims to make more gas available domestically, but any effect on household prices remains to be seen.",
-            "source": "SBS News / AAP",
-            "url": "https://www.sbs.com.au/news/article/western-australia-carve-out-gas-reservation-scheme-senate-battle-still-looms/s6uwzthrx",
-            "published": "18 Nov, 12:50 pm",
-            "tag": "Energy policy"
-          }
-        ],
-        "morningChecked": "2026-11-18T08:27:23+11:00"
       }
     }
   ]
