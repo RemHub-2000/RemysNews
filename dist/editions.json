@@ -1,6 +1,146 @@
 {
   "editions": [
     {
+      "date": "2026-11-26",
+      "label": "Thursday, 26 November 2026",
+      "note": "Morning edition. Times are Sydney local unless noted. Quiet categories are omitted; reported plans and staged rollouts are labelled.",
+      "checked": "2026-11-26T08:23:38+11:00",
+      "stories": [
+        {
+          "id": "nsw-artc-regional-interstate-rail-industrial-action-nov2026-20261126",
+          "storyKey": "nsw-artc-regional-interstate-rail-industrial-action-nov2026",
+          "category": "Sydney & NSW",
+          "title": "Regional and interstate trains face a week-long shutdown from Friday",
+          "summary": "NSW regional and interstate passenger services could be suspended from Friday 27 November for a week unless an urgent bid to stop industrial action succeeds. Affected routes include Sydney-Melbourne and Sydney-Brisbane XPT services, plus the Hunter and Southern Highlands lines.",
+          "detail": "ARTC is seeking a Fair Work Commission suspension of the action, with a hearing requested for today. TrainLink is arranging alternative services and refunds, but warns it may not find enough replacement coaches; this is not a reported shutdown of every Sydney suburban line, so check your specific service rather than assuming an Epping-wide disruption.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-25/train-disruptions-nsw-strike-planned/107425948",
+          "published": "25 November, 6:47 pm AEDT; updated 7:03 pm",
+          "tag": "Travel disruption"
+        },
+        {
+          "id": "virgin-australia-asu-airport-stoppages-20261126-20261126",
+          "storyKey": "virgin-australia-asu-airport-stoppages-20261126",
+          "category": "Sydney & NSW",
+          "title": "Virgin airport workers strike today, with conflicting claims about passenger impact",
+          "summary": "Virgin Australia staff are staging short stoppages at Sydney, Brisbane, Melbourne and Adelaide airports today. The union warns of delays and cancellations, while Virgin says contingency plans mean it does not expect passengers to be affected.",
+          "detail": "Sydney and Brisbane stoppages are scheduled for 7 am to 9 am and 5 pm to 7 pm in each airport's local time, an important distinction between NSW and Queensland. If flying today, check the airline's live flight information before leaving, since industrial action does not establish that your particular flight is cancelled.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/virgin-australia-workers-industrial-action/107428072",
+          "published": "26 November, 7:27 am AEDT; updated 7:40 am",
+          "tag": "Today"
+        },
+        {
+          "id": "bondi-sharing-light-anniversary-installation-dec2026-20261126",
+          "storyKey": "bondi-sharing-light-anniversary-installation-dec2026",
+          "category": "Sydney & NSW",
+          "title": "Bondi's anniversary memorial will illuminate Archer Park with community-made vessels",
+          "summary": "More than 6,000 handmade clay vessels will form Sharing Light, a temporary memorial marking the first anniversary of the Bondi Beach terror attack. The free installation is due to be lit nightly from 4 to 14 December at Archer Park.",
+          "detail": "Organisers say the project is intended to help people return to a place associated with grief and create new shared memories. More than 100 community groups have contributed, and the work will be fully illuminated by 9 pm each evening; it is an upcoming commemoration, not an event taking place tonight.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/sharing-light-art-installation-bondi-terror-attack-anniversary/107240280",
+          "published": "26 November, 6:30 am AEDT; updated 7:14 am",
+          "tag": "Sydney community"
+        },
+        {
+          "id": "apple-macbook-air-oled-redesign-gurman-nov2026-20261126",
+          "storyKey": "apple-macbook-air-oled-redesign-gurman-nov2026",
+          "category": "Apple",
+          "title": "Rumour: MacBook Air redesign could follow a simpler chip refresh",
+          "summary": "In a new podcast discussion, Bloomberg's Mark Gurman anticipates a conventional MacBook Air chip update in northern spring 2027, followed by a larger redesign in 2027 or 2028. He suggests OLED could be part of that later overhaul, rather than promising it for the next model.",
+          "detail": "9to5Mac published the report at 8:34 am PST on 25 November, which is 3:34 am today in Sydney. Apple has announced neither the redesign nor its timing or Australian pricing, so this is a useful indication of possible direction, not a confirmed product worth delaying an urgent purchase for.",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/",
+          "published": "26 November, 3:34 am AEDT (25 November, 8:34 am PST)",
+          "tag": "Rumour"
+        },
+        {
+          "id": "tesla-eu-assisted-driving-committee-dec15-delay-2026-20261126",
+          "storyKey": "tesla-eu-assisted-driving-committee-dec15-delay-2026",
+          "category": "Tesla",
+          "title": "EU assisted-driving meeting moves to 15 December, with approval still uncertain",
+          "summary": "The European Commission has confirmed that the committee meeting expected to consider Tesla Assisted Driving has moved from 1 to 15 December. A meeting does not guarantee a vote, and bloc-wide approval is still unresolved despite approvals in individual countries.",
+          "detail": "The new date is a regulatory timetable change, not a software release. Electrek reports that EU approval requires support from at least 15 member states representing 65% of the population; this European process does not establish new Australian availability or eligibility for your Model Y, and the system still requires driver supervision.",
+          "source": "Electrek, citing the European Commission and Reuters",
+          "url": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+          "published": "26 November, 2:45 am AEDT (25 November, 7:45 am PST)",
+          "tag": "Regulatory delay"
+        },
+        {
+          "id": "tesla-dallas-robotaxi-geofence-150-square-miles-20261125-20261126",
+          "storyKey": "tesla-dallas-robotaxi-geofence-150-square-miles-20261125",
+          "category": "Tesla",
+          "title": "Dallas Robotaxi coverage expands by roughly 83%",
+          "summary": "Not a Tesla App reports that Tesla's Dallas Robotaxi service area has grown from about 82 to 150 square miles, extending north towards Carrollton and Richardson. This is a substantial coverage expansion, separate from last week's Cybercab launch.",
+          "detail": "The figures come from reported service-map observations rather than a published Tesla fleet count, and a larger geofence does not tell us how quickly rides arrive. It is a US service development, not confirmation that Australian owners can add their Model Ys to a Robotaxi network or access new autonomous capabilities.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5081/tesla-nearly-doubles-dallas-robotaxi-service-area",
+          "published": "25 November, US publication date",
+          "tag": "US service expansion"
+        },
+        {
+          "id": "whatsapp-scheduled-messages-global-rollout-20261125-20261126",
+          "storyKey": "whatsapp-scheduled-messages-global-rollout-20261125",
+          "category": "Technology",
+          "title": "WhatsApp starts rolling out scheduled messages globally",
+          "summary": "WhatsApp now lets users schedule messages from ten minutes to fourteen days ahead by holding the send button and choosing a time. The feature covers individual and group chats, including photos and videos, and scheduled messages remain end-to-end encrypted.",
+          "detail": "The official announcement says rollout will take several weeks globally, so Australian accounts may not have it immediately. Messages can still arrive if your phone is off; a simple personal use is queuing a birthday greeting or travel reminder, rather than treating this consumer feature as a replacement for governed customer-engagement campaigns.",
+          "source": "WhatsApp",
+          "url": "https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages",
+          "published": "25 November, official announcement",
+          "tag": "Global staged rollout"
+        },
+        {
+          "id": "spacex-starmind-fcc-million-satellite-approval-nov2026-20261126",
+          "storyKey": "spacex-starmind-fcc-million-satellite-approval-nov2026",
+          "category": "Technology",
+          "title": "SpaceX wins US approval for a huge orbital data-centre constellation",
+          "summary": "The US Federal Communications Commission has approved SpaceX's proposed Starmind constellation of up to one million satellites for orbital computing. SpaceX argues solar-powered infrastructure could help meet growing AI demand, but approval is not evidence that the system has been built or its economics proven.",
+          "detail": "ABC reports substantial deployment obligations stretching into the 2030s, while rivals question whether the proposed scale is realistic. The significant change is regulatory permission for a new infrastructure approach, not a new AI model, consumer subscription or Australian service available to try.",
+          "source": "ABC News / Reuters",
+          "url": "https://www.abc.net.au/news/2026-11-26/musk-spacex-datacentres-fcc/107428024",
+          "published": "26 November, 6:21 am AEDT; updated 7:36 am",
+          "tag": "Approved, not deployed"
+        },
+        {
+          "id": "us-section301-excess-capacity-tariff-package-20261125-20261126",
+          "storyKey": "us-section301-excess-capacity-tariff-package-20261125",
+          "category": "Australia & World",
+          "title": "Trump announces more tariffs, with Australia outside the latest group",
+          "summary": "The US has announced new excess-capacity tariffs targeting fourteen trading partners, including China, the EU, India and Japan, with separate measures against some Brazilian exports. Australia is not included in this latest package, although that does not remove earlier US duties on Australian goods.",
+          "detail": "For some Chinese products, the additional 20% levy would bring total duties to 45%; rates for other partners vary and interact with existing trade deals. The immediate significance is renewed uncertainty for global trade and supply chains, rather than a new across-the-board tariff on Australian exports.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504",
+          "published": "26 November, 12:59 am AEDT; updated 1:00 am",
+          "tag": "Global trade"
+        },
+        {
+          "id": "leah-blyth-liberal-one-nation-defection-20261126-20261126",
+          "storyKey": "leah-blyth-liberal-one-nation-defection-20261126",
+          "category": "Australia & World",
+          "title": "Liberal senator Leah Blyth defects to One Nation",
+          "summary": "South Australian senator Leah Blyth has left the Liberals for One Nation, becoming Pauline Hanson's first senator from the state. A member of the opposition's shadow ministry and a former SA Liberal president, she says she has lost confidence in the party's ability to address the country's problems.",
+          "detail": "The move is a fresh parliamentary setback for Angus Taylor's Coalition, rather than another update on NSW coalition speculation. ABC reports that Blyth entered the Senate in February 2025 to fill Simon Birmingham's vacancy; reactions this morning underline growing competition for conservative voters.",
+          "source": "ABC News live",
+          "url": "https://www.abc.net.au/news/2026-11-26/federal-politics-live-blog-november-26/107427220",
+          "published": "26 November, morning live coverage from 6:20 am AEDT",
+          "tag": "Australian politics"
+        },
+        {
+          "id": "gaza-mohammad-abuelouf-family-strike-20261125-20261126",
+          "storyKey": "gaza-mohammad-abuelouf-family-strike-20261125",
+          "category": "Australia & World",
+          "title": "Israeli strike kills a Hamas security official and his family in Gaza",
+          "summary": "Gaza's Interior Ministry and medics say an Israeli strike killed senior Hamas security official Mohammad Abuelouf, his wife and two children in their apartment on Wednesday. Israel confirmed killing Abuelouf and said he had helped advance attacks.",
+          "detail": "Reuters describes it as the second killing of a senior Hamas security official within 24 hours. The deaths highlight continuing violence despite the ceasefire agreed in October 2025.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
+          "published": "25 November, 8:05 pm AEDT (9:05 am UTC)",
+          "tag": "International"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "label": "Wednesday, 25 November 2026",
       "note": "Morning edition. Times are Sydney local unless noted. Reported plans, beta rollouts and unreleased features are labelled separately from available products.",
@@ -1025,177 +1165,6 @@
           }
         ],
         "morningChecked": "2026-11-20T08:23:23+11:00"
-      }
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, 19 November 2026",
-      "note": "Times are Sydney local unless noted. Announcements and unreleased features are labelled.",
-      "checked": "2026-11-19T08:21:52+11:00",
-      "stories": [
-        {
-          "id": "sydney-factory-built-housing-report-2026-20261119",
-          "storyKey": "sydney-factory-built-housing-report-2026",
-          "category": "Sydney & NSW",
-          "title": "Macquarie Park project backs a push for more factory-built homes",
-          "summary": "A new Committee for Sydney report calls for a steady pipeline of government housing projects to support investment in prefabrication factories. A nearby example is Macquarie Park student accommodation, where 19 storeys of modular rooms were assembled in 19 weeks.",
-          "detail": "Its developer says the overall project will be about 25% quicker than conventional construction. The report argues faster, more predictable building could help increase housing supply, but this is a policy proposal, not a newly funded construction programme.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/committee-for-sydney-says-more-factory-made-housing-needed/107394616",
-          "published": "19 Nov, 7:30 am",
-          "tag": "Housing supply"
-        },
-        {
-          "id": "sydney-domain-2027-price-forecast-november-2026-20261119",
-          "storyKey": "sydney-domain-2027-price-forecast-november-2026",
-          "category": "Sydney & NSW",
-          "title": "Domain forecasts more Sydney price falls before a recovery",
-          "summary": "Domain's new forecast expects Sydney house prices to fall by 10% by June 2027, then stabilise in the second half of the year. It also predicts Sydney will lead the eventual recovery among capital cities, rather than bounce back immediately.",
-          "detail": "The ABC reports that high borrowing costs and weak buyer confidence are weighing on demand. Treat this as one firm's outlook, not a valuation of an individual property: the timing of a turn, and conditions in specific suburbs, remain uncertain.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/nsw-sydney-house-prices-forecast-rebound/107399420",
-          "published": "19 Nov, 5:59 am",
-          "tag": "Property forecast"
-        },
-        {
-          "id": "sydney-council-smart-glasses-restrictions-2026-20261119",
-          "storyKey": "sydney-council-smart-glasses-restrictions-2026",
-          "category": "Sydney & NSW",
-          "title": "Sydney councils move against smart glasses at pools and beaches",
-          "summary": "Inner West Council has banned smart glasses at its swimming and recreation facilities, while Waverley has approved a beach ban in principle and is consulting on enforcement. Randwick and Northern Beaches councils are also examining beach restrictions over privacy and covert-filming concerns.",
-          "detail": "Premier Chris Minns says he will consider statewide action. These are different local decisions at different stages, not a blanket NSW ban already in force, so check the rules of the facility you visit.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/nsw-local-sydney-councils-crack-down-on-smart-glasses-on-beaches/107398950",
-          "published": "18 Nov, 5:10 pm; updated 6:42 pm",
-          "tag": "Privacy"
-        },
-        {
-          "id": "apple-creator-studio-november-update-release-20261119",
-          "storyKey": "apple-creator-studio-november-update-release",
-          "category": "Apple",
-          "title": "Apple's Creator Studio updates arrive, including new Keynote tools",
-          "summary": "The previously announced updates are now rolling out, with MotionVFX tools in Final Cut Pro, Generate Fill in Pixelmator Pro and intelligent assistants in Keynote, Pages and Numbers. Existing Creator Studio subscribers receive the updates without an additional subscription charge.",
-          "detail": "For presentation work, the important caveat is that the assistants are beta features, require an Apple Intelligence-capable device on version 27 or later, and support US English only. Australian-language support is not confirmed; check those requirements before expecting them on your Mac.",
-          "source": "9to5Mac; requirements checked with Apple",
-          "url": "https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/",
-          "published": "19 Nov, 4:57 am",
-          "tag": "App rollout"
-        },
-        {
-          "id": "tesla-ios-app-google-maps-4-63-20261119",
-          "storyKey": "tesla-ios-app-google-maps-4-63",
-          "category": "Tesla",
-          "title": "Tesla's iPhone app switches its maps to Google",
-          "summary": "Not a Tesla App reports that version 4.63.0 replaces Apple Maps tiles and satellite imagery with Google's. Its testing found smoother zooming into Supercharger Site Maps, which previously required a switch between the two map providers.",
-          "detail": "This is a phone-app change, not a Model Y firmware update or new driving capability. It could make checking your car's location and charging stops smoother, but an Australian rollout date and availability at individual local charging sites were not separately confirmed.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
-          "published": "18 Nov, source date",
-          "tag": "App update"
-        },
-        {
-          "id": "tesla-manual-battery-precondition-app-code-20261119",
-          "storyKey": "tesla-manual-battery-precondition-app-code",
-          "category": "Tesla",
-          "title": "App code hints at manual battery preconditioning",
-          "summary": "Not a Tesla App found references to start and stop battery-preconditioning buttons in the new app. The text suggests drivers could warm the battery themselves before DC fast charging, rather than relying solely on navigation to a supported charger.",
-          "detail": "Tesla has not announced or enabled the feature, and supported vehicles and Australian availability are unknown. It could eventually help Model Y owners prepare for a nearby fast charger, but it is not a button you should expect to find today, nor a benefit for ordinary AC charging.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
-          "published": "18 Nov, source date",
-          "tag": "Unreleased feature"
-        },
-        {
-          "id": "openai-chatgpt-live-dictation-streaming-release-20261119",
-          "storyKey": "openai-chatgpt-live-dictation-streaming-release",
-          "category": "AI",
-          "title": "ChatGPT dictation now streams text and loses its 10-minute limit",
-          "summary": "OpenAI says Live Dictation displays your words as you speak, rather than making you wait for transcription at the end. It is rolling out globally to all plans on iPhone, Android, the web and desktop, so Australia is included in that rollout.",
-          "detail": "Try this: dictate a short, non-sensitive post-call recap, then ask for decisions, action owners and a follow-up draft. That is a suggested workflow, not a reported customer example; review names and commitments before sharing, and do not treat dictation as automatic meeting recording.",
-          "source": "OpenAI",
-          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-          "published": "18 Nov, release-note date",
-          "tag": "Rolling out globally"
-        },
-        {
-          "id": "meta-muse-agent-privacy-investigation-2026-20261119",
-          "storyKey": "meta-muse-agent-privacy-investigation-2026",
-          "category": "AI",
-          "title": "Reuters investigation raises privacy concerns about Meta's Muse agent",
-          "summary": "Reuters reviewed internal reports of Muse taking unwanted actions and tested access to Signal messages through device permissions. Meta called the examples isolated incidents and said many apparent account mix-ups were fabricated answers already addressed, not confirmed data leaks.",
-          "detail": "Reuters could not establish whether apparently unrelated financial details were real or invented. The practical takeaway for experimenting with agents: review notification, screen and accessibility access, and keep purchases and outbound messages behind approval rather than assuming an unconnected app is inaccessible.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
-          "published": "18 Nov, 10:00 pm",
-          "tag": "Agent safety"
-        },
-        {
-          "id": "australian-data-centre-climate-council-nov2026-20261119",
-          "storyKey": "australian-data-centre-climate-council-nov2026",
-          "category": "Technology",
-          "title": "New report puts Australia's data centre energy demand under scrutiny",
-          "summary": "The Climate Council warns that nine large proposed data centres could substantially increase emissions if powered mainly by fossil fuels. It wants mandatory standards requiring developers to bring on additional renewable electricity and storage, rather than simply add demand to the existing grid.",
-          "detail": "The industry disputes the report's assumptions and says developers already offset much of their demand with renewables. National rules are expected in the coming months; the key distinction is between projected demand from proposed projects and electricity being consumed today.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036",
-          "published": "19 Nov, 7:02 am",
-          "tag": "Energy and infrastructure"
-        },
-        {
-          "id": "trump-xi-putin-shenzhen-trilateral-nov2026-20261119",
-          "storyKey": "trump-xi-putin-shenzhen-trilateral-nov2026",
-          "category": "Australia & World",
-          "title": "Trump arrives in China ahead of three-way talks with Xi and Putin",
-          "summary": "Xi Jinping personally greeted Donald Trump at Shenzhen airport before the leaders' planned Thursday meeting with Vladimir Putin on the sidelines of APEC. A US official also told Reuters that separate Trump-Putin talks are planned.",
-          "detail": "Ukraine, strategic stability and the wider relationship between the powers are in focus, but no agreement from the trilateral meeting has been announced. Anthony Albanese says any peace in Ukraine must be on Ukraine's terms, and is due to meet Xi on Friday.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/xi-trump-red-carpet-welcome/107401618",
-          "published": "19 Nov, 2:32 am; updated 3:57 am",
-          "tag": "Diplomacy"
-        },
-        {
-          "id": "hakeem-jeffries-house-speaker-nomination-2026-20261119",
-          "storyKey": "hakeem-jeffries-house-speaker-nomination-2026",
-          "category": "Australia & World",
-          "title": "Democrats nominate Jeffries for US House speaker",
-          "summary": "House Democrats elected Hakeem Jeffries their leader following their midterm victory, positioning him to become the first Black speaker when the new Congress convenes in January. US media reported a 251-11 vote in his favour.",
-          "detail": "This is the party nomination, not the final House vote installing a speaker. A Democratic majority would give the party greater control over legislation and investigations during Trump's final two years, while Jeffries also faces pressure from progressives over how to use that power.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/hakeem-jeffries-nominated-as-democratic-leader-house-speaker/107401668",
-          "published": "19 Nov, 4:48 am",
-          "tag": "US politics"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-19T17:03:25+11:00",
-        "stories": [
-          {
-            "id": "tammy-shipley-coroner-findings-20261119-pm",
-            "storyKey": "tammy-shipley-silverwater-death-inquest-findings-2026",
-            "category": "Sydney & NSW",
-            "title": "Coroner finds Silverwater death in custody was preventable",
-            "summary": "NSW State Coroner Teresa O'Sullivan has found that the 2022 death of Aboriginal woman Tammy Shipley at Silverwater Women's Correctional Centre was preventable. She identified failures by police and Corrective Services in the lead-up to the death.",
-            "detail": "The coroner made 10 recommendations aimed at improving systems across NSW Police, Corrective Services and Justice Health. Shipley, a mother of five, died after drinking excessive water associated with a psychiatric condition.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-death-in-custody/107398998",
-            "published": "19 Nov, 11:53 am; updated 2:36 pm",
-            "tag": "Coronial findings"
-          },
-          {
-            "id": "australia-october-unemployment-20261119-pm",
-            "storyKey": "australia-october-2026-labour-force-survey",
-            "category": "Australia & World",
-            "title": "Unemployment rises to 4.9% as employment falls",
-            "summary": "Australia's unemployment rate rose to 4.9% in October, its highest since October 2021, according to figures released by the ABS today. Seasonally adjusted employment fell by 43,500 and the number of unemployed people rose by 17,800.",
-            "detail": "The trend unemployment rate rose to 4.8%, suggesting the softer labour market is not just a single monthly swing. Economists cited by the ABC expect the Reserve Bank to hold rates in the near term, but that is a forecast, not a decision.",
-            "source": "ABC News; ABS",
-            "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
-            "published": "19 Nov, ABS release 11:30 am",
-            "tag": "Jobs and economy"
-          }
-        ],
-        "morningChecked": "2026-11-19T08:21:52+11:00"
       }
     }
   ]
