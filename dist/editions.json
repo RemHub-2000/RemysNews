@@ -126,7 +126,86 @@
           "published": "25 November, 3:31 am AEDT; updated 7:27 am",
           "tag": "International"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-25T17:03:36+11:00",
+        "stories": [
+          {
+            "id": "auburn-fire-ants-expanded-response-20261125-pm",
+            "storyKey": "sydney-auburn-fire-ant-nest-november-2026",
+            "category": "Sydney & NSW",
+            "title": "Auburn fire ant response expands after further detections",
+            "summary": "Further surveillance has found a more extensive fire ant presence in Auburn, prompting NSW to establish a taskforce and intensify treatment. Authorities say the ants are a multiple-queen form that is more complex to eradicate.",
+            "detail": "The government says this colony type has not previously been detected in NSW and tracing of high-risk materials is being expanded. If you spot a suspicious nest, leave it undisturbed, photograph it safely and report it to the Biosecurity Helpline on 1800 680 244.",
+            "source": "ABC News; NSW Government",
+            "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+            "published": "25 Nov, 11:53 am",
+            "tag": "Material update"
+          },
+          {
+            "id": "nsw-corrective-services-icac-operation-targo-20261125-pm",
+            "storyKey": "nsw-corrective-services-icac-operation-targo-november-2026",
+            "category": "Sydney & NSW",
+            "title": "ICAC identifies entrenched misogynistic culture in NSW prisons",
+            "summary": "The NSW corruption watchdog's new report identifies a widespread culture of sexual harassment and misogyny in Corrective Services NSW, alongside poor complaint handling and fear of reprisals. It makes 10 recommendations to improve accountability and workplace processes.",
+            "detail": "ICAC made no corrupt conduct findings because the evidence did not meet the required threshold. Corrective Services NSW and the Department of Communities and Justice have accepted the recommendations.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-25/corrective-services-nsw-sexual-misconduct-icac-investigation/107424734",
+            "published": "25 Nov, 1:30 pm",
+            "tag": "ICAC report"
+          },
+          {
+            "id": "sydney-baird-davies-lamarre-condon-verdict-20261125-pm",
+            "storyKey": "sydney-baird-davies-lamarre-condon-murder-trial-verdict-2026",
+            "category": "Sydney & NSW",
+            "title": "Jury finds Beau Lamarre-Condon guilty of murdering Sydney couple",
+            "summary": "A jury has found former police officer Beau Lamarre-Condon guilty of murdering Jesse Baird and Luke Davies. The unanimous verdicts followed about two hours of deliberations.",
+            "detail": "Lamarre-Condon had pleaded not guilty and argued that he acted in self-defence. The verdict follows a lengthy NSW Supreme Court trial.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-25/beau-lamarre-condon-verdict-found-guilty-jesse-baird-luke-davies/107420442",
+            "published": "25 Nov, 12:06 pm",
+            "tag": "Court verdict"
+          },
+          {
+            "id": "australia-october-inflation-cpi-20261125-pm",
+            "storyKey": "australia-october-2026-consumer-price-index",
+            "category": "Australia & World",
+            "title": "Inflation rises to 4.9% ahead of the RBA's December meeting",
+            "summary": "Annual inflation rose to 4.9% in October from 4.3% in September, according to the ABS figures released today. The trimmed mean measure of underlying inflation also rose, from 3.6% to 3.8%.",
+            "detail": "Housing was the largest contributor to annual inflation. The figures will be among the information considered by the Reserve Bank at its next meeting, but they do not determine its interest-rate decision on their own.",
+            "source": "Australian Bureau of Statistics",
+            "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/oct-2026",
+            "published": "25 Nov, 11:30 am",
+            "tag": "October CPI"
+          },
+          {
+            "id": "australia-solomon-islands-treaty-signed-20261125-pm",
+            "storyKey": "australia-solomon-islands-comprehensive-security-treaty-2026",
+            "category": "Australia & World",
+            "title": "Australia and Solomon Islands sign security and cooperation treaty",
+            "summary": "Anthony Albanese and Solomon Islands Prime Minister Matthew Wale have signed a wide-ranging treaty covering security and cooperation. Solomon Islands has committed to consult Australia on sensitive infrastructure and not allow a foreign military or security base on its territory.",
+            "detail": "Australia also plans support for Solomon Islands policing and education, and new pathways for Solomon Islanders to work in aged care and childcare. Wale declined to confirm reports about the future of his country's China security pact, citing a non-disclosure clause.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550",
+            "published": "25 Nov, 12:22 pm; updated 12:56 pm",
+            "tag": "Pacific security"
+          },
+          {
+            "id": "private-health-pensioner-rebate-carveout-20261125-pm",
+            "storyKey": "australia-private-health-rebate-pensioner-carveout-2026",
+            "category": "Australia & World",
+            "title": "Pensioners exempted in deal on private health rebate cuts",
+            "summary": "The federal government has agreed to exempt full and part pensioners from its proposed cuts to private health insurance rebates for over-65s. The concession secures Greens support for the legislation in the Senate.",
+            "detail": "The government expects to forgo about half of the original $3 billion in projected savings over four years, while saying its planned aged-care investment will continue. The changes still need to pass Parliament.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-25/pensioners-carved-out-of-cuts-to-private-health-insurance-rebate/107424452",
+            "published": "25 Nov, 11:46 am",
+            "tag": "Proposed legislation"
+          }
+        ],
+        "morningChecked": "2026-11-25T08:24:52+11:00"
+      }
     },
     {
       "date": "2026-11-24",
