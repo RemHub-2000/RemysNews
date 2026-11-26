@@ -1,6 +1,134 @@
 {
   "editions": [
     {
+      "date": "2026-11-27",
+      "label": "Friday, 27 November 2026",
+      "note": "Morning edition. Times are Sydney local unless noted. Material follow-ups lead with what changed; staged releases and unproven claims are labelled.",
+      "checked": "2026-11-27T08:23:34+11:00",
+      "stories": [
+        {
+          "id": "nsw-artc-regional-interstate-rail-industrial-action-nov2026-20261127",
+          "storyKey": "nsw-artc-regional-interstate-rail-industrial-action-nov2026",
+          "category": "Sydney & NSW",
+          "title": "NSW rail strike called off after late Fair Work hearing",
+          "summary": "The planned week-long rail action was suspended after Thursday evening's Fair Work Commission hearing, reversing yesterday's shutdown warning. Sydney Trains says the Hunter and Southern Highlands lines can run their normal Friday timetables.",
+          "detail": "The dispute is not resolved: the union says it will comply with the order but is warning of further action once it lifts. If you have a regional or interstate booking, confirm the specific service with TrainLink, since alternative arrangements had already been planned; do not assume the earlier blanket cancellation warning still applies.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/nsw-passenger-trains-strike-suspended-after-fair-work-hearing/107428948",
+          "published": "26 November, 7:17 pm AEDT; substantive update 10:17 pm",
+          "tag": "Material update"
+        },
+        {
+          "id": "sydney-landmark-missing-apartment-deposits-nov2026-20261127",
+          "storyKey": "sydney-landmark-missing-apartment-deposits-nov2026",
+          "category": "Sydney & NSW",
+          "title": "Almost 300 Sydney apartment buyers face uncertainty over missing deposits",
+          "summary": "Developer Landmark is pursuing a law firm and solicitor over more than $24 million in missing deposits affecting developments at Dee Why and Blacktown. Buyers had expected to settle between this week and early next year, but the alleged failure to transfer trust money has left them in limbo.",
+          "detail": "The Law Society of NSW has suspended the solicitor's practising certificate and appointed a manager to the firm. The Supreme Court matter returns on 30 November; these are ongoing proceedings, not a finding about where the funds went or a guarantee that buyers will recover them.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/landmark-dee-why-blacktown-projects-missing-unit-deposits-sydney/107431556",
+          "published": "26 November, 7:23 pm AEDT",
+          "tag": "Sydney housing"
+        },
+        {
+          "id": "apple-australia-black-friday-event-live-20261127-20261127",
+          "storyKey": "apple-australia-black-friday-event-live-20261127",
+          "category": "Apple",
+          "title": "Apple's Australian Black Friday event is live, but the benefit is future credit",
+          "summary": "Apple's four-day shopping event has started in Australia, offering gift cards of up to A$420 with eligible purchases from 27 to 30 November. This is credit for a later purchase, not an immediate reduction in the advertised hardware price.",
+          "detail": "MacRumors reported the Australian launch at 8:37 am PST on 26 November, which is 3:37 am today in Sydney, and Apple's Australian page confirms the dates and local maximum. Eligibility varies by product, with many newer models excluded; this is not an advertised Apple TV 4K price cut, so compare the actual checkout price and how useful the gift card would be.",
+          "source": "MacRumors, checked against Apple Australia",
+          "url": "https://www.macrumors.com/2026/11/26/apple-2026-black-friday-offer-now-rolling-out/",
+          "published": "27 November, 3:37 am AEDT (26 November, 8:37 am PST)",
+          "tag": "Live in Australia"
+        },
+        {
+          "id": "tesla-manual-fast-charge-preconditioning-release-20264431-20261127",
+          "storyKey": "tesla-manual-fast-charge-preconditioning-release-20264431",
+          "category": "Tesla",
+          "title": "Tesla's new release notes turn manual battery preconditioning from code hint into feature",
+          "summary": "Release notes for software 2026.44.3.1 now describe manual battery preparation before fast charging, including a mobile-app control at Charging > Precondition for Fast Charging. The app route requires version 4.63.0, and Model Y is among the listed compatible models.",
+          "detail": "Not a Tesla App labels the feature worldwide, but the release is at an early stage and I have not independently confirmed an Australian rollout to your car. This is more substantive than the earlier unreleased-code reports: the feature is now documented in a software release, although receiving it still depends on the vehicle update and compatibility.",
+          "source": "Not a Tesla App, published vehicle release notes",
+          "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+          "published": "26 November, release date",
+          "tag": "Early software release"
+        },
+        {
+          "id": "tesla-fsd-v15-december-holiday-wide-release-announcement-20261127",
+          "storyKey": "tesla-fsd-v15-december-holiday-wide-release-announcement",
+          "category": "Tesla",
+          "title": "FSD v15 reaches some older AI4 Model Ys without a bumper camera",
+          "summary": "The latest reported expansion of FSD v15 includes pre-refresh Model Ys equipped with AI4 hardware but no front bumper camera. That widens the group beyond the newer vehicles seen in the initial rollout, rather than establishing that every older Model Y is now eligible.",
+          "detail": "Owner reports describe improved parking alongside lag and visual artefacts in Reality View, so these are early impressions, not independent safety results. The report does not confirm Australian availability or support for other hardware generations; your car's model year alone is not enough to infer eligibility, and driver supervision remains essential.",
+          "source": "Not a Tesla App",
+          "url": "https://www.notateslaapp.com/news/5092/tesla-fsd-v15-rolls-out-to-model-ys-without-front-bumper-cameras",
+          "published": "26 November, US publication date",
+          "tag": "Staged rollout update"
+        },
+        {
+          "id": "sydney-ante-ai-operated-software-business-nov2026-20261127",
+          "storyKey": "sydney-ante-ai-operated-software-business-nov2026",
+          "category": "AI",
+          "title": "Sydney's 'zero-human company' experiment still has humans doing the work",
+          "summary": "ABC reports that Sydney entrepreneur Lambros Photios has launched Ante, using chatbots to sell AI-created productivity software, with a goal of removing daily human input by March. He says the team currently spends about two hours a day on it, so the fully autonomous business is an ambition, not a demonstrated outcome.",
+          "detail": "The useful design detail is that AI agents are kept away from payments and security-critical systems, while conventional scripts handle billing. My suggested application for customer success: let an agent triage routine product questions and draft a response, but retain human review for commitments, sensitive data and anything affecting a customer's money.",
+          "source": "ABC Science",
+          "url": "https://www.abc.net.au/news/science/2026-11-27/what-is-a-zero-human-company/107410116",
+          "published": "27 November, 5:00 am AEDT",
+          "tag": "Reported experiment"
+        },
+        {
+          "id": "flight-centre-third-party-accommodation-cyberincident-20261126-20261127",
+          "storyKey": "flight-centre-third-party-accommodation-cyberincident-20261126",
+          "category": "Technology",
+          "title": "Flight Centre investigates a third-party breach involving customer travel details",
+          "summary": "Flight Centre says unusual activity in an accommodation-booking system may have exposed a significant number of customer records, including limited passport details in a small proportion. Its leisure brands include Flight Centre, Travel Associates and Cruiseabout; the company says flight and corporate travel bookings were not affected.",
+          "detail": "The number of records actually extracted is still unknown, and payment or banking information had not been affected at the time of the statement. The immediate practical risk is convincing booking-related phishing: verify unexpected requests through an independently opened official channel, and do not assume a message is genuine because it knows your itinerary.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-26/flight-centre-investigating-cyber-breach-passports-details/107432534",
+          "published": "26 November, 9:41 pm AEDT; updated 10:32 pm",
+          "tag": "Cybersecurity"
+        },
+        {
+          "id": "australia-domestic-gas-reservation-senate-2026-20261127",
+          "storyKey": "australia-domestic-gas-reservation-senate-2026",
+          "category": "Australia & World",
+          "title": "Final gas-reservation vote slips to February despite Senate progress",
+          "summary": "The new development after yesterday's Coalition support is a delay: Reuters reports that the final vote on the gas-reservation legislation has been deferred until February 2027. The Senate passed its second reading, but the measure is not yet law.",
+          "detail": "The proposal would reserve up to a fifth of LNG output for domestic use, with the scheme intended to start in January 2028. It is designed to improve supply, not deliver an immediate reduction in household gas bills.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/australia-set-pass-law-lng-exporters-reserve-more-gas-domestic-use-2026-11-26/",
+          "published": "26 November, report updated after the Senate debate",
+          "tag": "Material update"
+        },
+        {
+          "id": "kuwait-italian-technicians-gulf-shipping-attacks-20261126-20261127",
+          "storyKey": "kuwait-italian-technicians-gulf-shipping-attacks-20261126",
+          "category": "Australia & World",
+          "title": "Two Italian technicians killed in Kuwait as Gulf attacks continue",
+          "summary": "Two Italian workers at an air-defence surveillance station in Kuwait have died after a drone strike that Kuwait and Italy attributed to Iran. Iran denies responsibility, so the attribution remains disputed.",
+          "detail": "Separately, a British maritime monitor says two tankers were hit by unidentified projectiles near the Strait of Hormuz, with their crews reported safe. Together with reported Houthi attacks on Saudi oil infrastructure, the incidents underline continuing risks to regional civilians and energy shipping; they do not establish who carried out every attack.",
+          "source": "ABC News / Reuters / AP",
+          "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
+          "published": "27 November, 2:19 am AEDT; updated 4:58 am",
+          "tag": "International"
+        },
+        {
+          "id": "trump-putin-pullback-ukraine-energy-warning-20261126-20261127",
+          "storyKey": "trump-putin-pullback-ukraine-energy-warning-20261126",
+          "category": "Australia & World",
+          "title": "Trump urges a Russian pullback, while Ukraine warns of more energy attacks",
+          "summary": "Donald Trump has publicly urged Vladimir Putin to end military aggression across Europe, but the latest comments do not amount to a ceasefire or agreed territorial settlement. US mediator Jared Kushner says talks remain deadlocked over territory.",
+          "detail": "Ukraine says Russia is preparing another major strike on energy infrastructure, while crews are restoring electricity in six regions after Wednesday night's missile and drone attacks. The substantive picture is continued military pressure alongside stalled diplomacy, rather than a breakthrough following last week's meetings in China.",
+          "source": "ABC News / Reuters / AP",
+          "url": "https://www.abc.net.au/news/2026-11-27/trump-urges-putin-to-pull-back-military-aggression/107433138",
+          "published": "27 November, 4:03 am AEDT",
+          "tag": "Ukraine"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "label": "Thursday, 26 November 2026",
       "note": "Morning edition. Times are Sydney local unless noted. Quiet categories are omitted; reported plans and staged rollouts are labelled.",
@@ -1037,177 +1165,6 @@
           }
         ],
         "morningChecked": "2026-11-21T08:20:31+11:00"
-      }
-    },
-    {
-      "date": "2026-11-20",
-      "label": "Friday, 20 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
-      "checked": "2026-11-20T08:23:23+11:00",
-      "stories": [
-        {
-          "id": "epping-labor-tanya-raffoul-candidate-2026-20261120",
-          "storyKey": "epping-labor-tanya-raffoul-candidate-2026",
-          "category": "Sydney & NSW",
-          "title": "Labor names former Liberal councillor Tanya Raffoul for Epping",
-          "summary": "Parramatta councillor Tanya Raffoul has been named Labor's candidate for Epping after leaving the Liberals and joining Labor this week. The former adviser to Coalition minister David Elliott said she had grown apart from the party and was concerned about its relationship with One Nation.",
-          "detail": "This puts a familiar local-government figure into the contest for your state seat, currently held by Liberal Monica Tudehope. Labor approached Raffoul after she backed a Labor candidate for Parramatta lord mayor; this is a candidate announcement, not a change of MP.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/ex-liberal-tanya-raffoul-named-nsw-labor-candidate-for-epping-/107404970",
-          "published": "19 Nov, 4:15 pm; updated 4:41 pm",
-          "tag": "Epping"
-        },
-        {
-          "id": "nsw-electorate-staff-security-dispute-2026-20261120",
-          "storyKey": "nsw-electorate-staff-security-dispute-2026",
-          "category": "Sydney & NSW",
-          "title": "NSW political staff union threatens action over office security",
-          "summary": "The Public Service Association has lodged a workplace dispute after parliament's presiding officers declined its request for a joint security committee. Staff report threats, abuse and violence, with the issue receiving renewed attention after the alleged attack on federal MP Helen Haines.",
-          "detail": "A conciliation hearing is listed for today, so industrial action is a threat rather than an announced closure of electorate offices. Parliament says it is already reviewing security arrangements; the dispute concerns the safety of the staff who handle constituents' calls, emails and visits.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-20/nsw-mp-staffers-raise-security-concerns/107406064",
-          "published": "20 Nov, 6:52 am; updated 7:36 am",
-          "tag": "Public services"
-        },
-        {
-          "id": "apple-uk-tcn-secrecy-ruling-nov2026-20261120",
-          "storyKey": "apple-uk-tcn-secrecy-ruling-nov2026",
-          "category": "Apple",
-          "title": "Apple wins the right to discuss the UK's secret data-access order",
-          "summary": "The UK's Investigatory Powers Tribunal rejected the government's attempt to keep its demand for access to encrypted Apple customer data secret. Much of the challenge can now be heard publicly, rather than behind closed doors.",
-          "detail": "The important distinction is that this is a ruling about secrecy, not a final decision overturning the data-access demand or restoring Advanced Data Protection in the UK. No change to Australian iCloud settings or availability was announced, but the case remains an important test of government pressure on encryption.",
-          "source": "9to5Mac, corroborated by Reuters",
-          "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
-          "published": "20 Nov, 2:01 am",
-          "tag": "Privacy ruling"
-        },
-        {
-          "id": "tesla-cybercab-dallas-service-launch-20261120",
-          "storyKey": "tesla-cybercab-dallas-service-launch",
-          "category": "Tesla",
-          "title": "Tesla starts Cybercab rides in Dallas",
-          "summary": "Tesla's Robotaxi account announced that Cybercab rides have launched in Dallas, taking the steering-wheel-free two-seater beyond Austin. Not a Tesla App reports that the Dallas vehicles use the V1.5 design, with integrated Starlink equipment and a rear luggage-area camera spotted by riders.",
-          "detail": "This is a commercial-service expansion, not just a demonstration or factory promise. It is US-only news with no confirmed Australian launch, and does not make an Australian Model Y driverless or change the supervision requirements of any features already fitted to your car.",
-          "source": "Not a Tesla App, citing Tesla Robotaxi",
-          "url": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
-          "published": "19 Nov, US source date",
-          "tag": "US service launch"
-        },
-        {
-          "id": "tesla-model-y-l-production-comments-2026-20261120",
-          "storyKey": "tesla-model-y-l-production-comments-2026",
-          "category": "Tesla",
-          "title": "Musk floats shifting Model Y production to the larger Model Y L",
-          "summary": "At the DealBook Summit, Elon Musk suggested Tesla should consider switching Model Y production to its larger six-seat Model Y L, citing demand. Not a Tesla App reports that some US buyers are already facing longer waits for that model.",
-          "detail": "There is no confirmed production-conversion timetable or announcement that the standard Model Y is being discontinued worldwide. For Australian owners, this is a possible future line-up change to watch, not a recall, service-policy change or reason to expect anything different from your existing vehicle today.",
-          "source": "Not a Tesla App",
-          "url": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
-          "published": "19 Nov, US source date",
-          "tag": "Proposal, not a decision"
-        },
-        {
-          "id": "google-gemini-mac-computer-use-rollout-20261120",
-          "storyKey": "google-gemini-mac-computer-use-rollout",
-          "category": "AI",
-          "title": "Gemini gains computer control on Mac, initially in the US",
-          "summary": "Google is rolling out a Mac feature that can click through apps, type into forms and work with local files in an isolated background window. Its examples include turning dashboard metrics and screenshots into Google Slides, with a live preview, app permissions and approval for key actions.",
-          "detail": "That is a reported use case with obvious potential for preparing a customer review, but the rollout is English-language and US-only, not confirmed for Australia. Put it on the watchlist rather than expecting to use it here now, and keep customer-data access within workplace-approved tools.",
-          "source": "Google",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-          "published": "19 Nov, source date",
-          "tag": "US-only rollout"
-        },
-        {
-          "id": "canva-ai-controls-free-pro-release-20261120",
-          "storyKey": "canva-ai-controls-free-pro-release",
-          "category": "AI",
-          "title": "Canva adds switches for generative tools and AI-made assets",
-          "summary": "Canva Free and Pro users can now hide generative AI features and reduce AI-generated templates and elements in library results, at no extra charge. Background Remover and Magic Grab remain available because they edit existing material rather than generate new content.",
-          "detail": "For a presentation, try the reduced-AI-content setting when you want more human-made visual assets; that is a suggested application, not a reported customer example. Canva lists no Australian exclusion, while managed workplace accounts continue to have separate administrator controls.",
-          "source": "Canva",
-          "url": "https://www.canva.com/newsroom/news/ai-controls-canva/",
-          "published": "19 Nov; reporting at 11:30 pm Sydney",
-          "tag": "Available now"
-        },
-        {
-          "id": "anthropic-nasdaq-ipo-trading-debut-2026-20261120",
-          "storyKey": "anthropic-nasdaq-ipo-trading-debut-2026",
-          "category": "Technology",
-          "title": "Anthropic makes its Nasdaq debut after a roughly US$81 billion offering",
-          "summary": "The maker of Claude began trading on Nasdaq on Thursday, becoming the first publicly traded frontier AI company, Reuters reports. The scale of the offering puts funding for expensive computing infrastructure, and the path to profitability, under public-market scrutiny.",
-          "detail": "This is a major industry financing milestone, not a new Claude model or a change to subscriptions. Anthropic says the offering is expected to close on 20 November, subject to the usual conditions.",
-          "source": "Reuters; offering details checked with Anthropic",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-          "published": "19 Nov, US trading day",
-          "tag": "Industry milestone"
-        },
-        {
-          "id": "trump-xi-putin-shenzhen-trilateral-nov2026-20261120",
-          "storyKey": "trump-xi-putin-shenzhen-trilateral-nov2026",
-          "category": "Australia & World",
-          "title": "Three-way summit ends with a broad statement, but no Ukraine deal",
-          "summary": "Trump, Xi and Putin concluded their Shenzhen talks with a declaration on nuclear risks, energy supplies and possible UN reform. The official account did not mention Ukraine, despite Trump saying beforehand that the war would be discussed.",
-          "detail": "The leaders backed more refined-fuel production and supply without numerical targets or a timetable, so this is not an agreed fix for energy-market disruption. Before the meeting, Anthony Albanese directly called on Putin to end the invasion; no ceasefire or peace settlement emerged from the published readout.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
-          "published": "19 Nov, 8:36 pm; updated 11:44 pm",
-          "tag": "Material update"
-        },
-        {
-          "id": "cop31-electrification-20261109-20261120",
-          "storyKey": "cop31-electrification-20261109",
-          "category": "Australia & World",
-          "title": "Revised COP31 draft drops fossil fuel language",
-          "summary": "Negotiators removed references to ending fossil fuel use from the latest draft, along with a US$120 billion adaptation-finance target, Reuters reports. Australia and Türkiye defended the narrowing of the text as the talks approached Friday's deadline.",
-          "detail": "This is a substantive retreat from the earlier draft, but not yet the final agreement. Fossil fuel commitments and funding for vulnerable countries remain the issues to watch as negotiations continue.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/",
-          "published": "19 Nov, 11:13 pm",
-          "tag": "Material update"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-20T17:00:32+11:00",
-        "stories": [
-          {
-            "id": "sydney-counterterror-raids-charges-20261120-pm",
-            "storyKey": "sydney-counterterror-raids-ingleburn-charges-november-2026",
-            "category": "Sydney & NSW",
-            "title": "Man charged after counter-terror raids across Sydney",
-            "summary": "A 35-year-old man has been charged with terrorism offences after police searched properties across Sydney this morning. The AFP alleges he researched a vehicle-borne explosive device and possessed violent extremist material.",
-            "detail": "Police say they have no information suggesting a target was identified or that he had the capability to carry out an attack, and say there is no ongoing threat to the community. The allegations are yet to be tested in court.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-20/sydney-counter-terror-raids-campbelltown/107407568",
-            "published": "20 Nov, 10:58 am; updated 4:25 pm",
-            "tag": "Police operation"
-          },
-          {
-            "id": "daryl-maguire-visa-sentencing-20261120-pm",
-            "storyKey": "daryl-maguire-fraudulent-visa-conspiracy-sentencing-2026",
-            "category": "Sydney & NSW",
-            "title": "Former NSW MP Daryl Maguire jailed over visa conspiracy",
-            "summary": "Former Wagga Wagga MP Daryl Maguire has been sentenced to three years in prison, with a one-year non-parole period, for his role in a fraudulent visa scheme. A jury found him guilty of conspiracy in July.",
-            "detail": "His lawyers indicated they would appeal the conviction and sought bail, which was refused. The court heard the scheme involved false or misleading visa applications while Maguire was a sitting MP.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-20/daryl-maguire-jailed-over-role-in-fraudulent-visa-scheme/107291680",
-            "published": "20 Nov, 11:06 am; updated 12:20 pm",
-            "tag": "NSW courts"
-          },
-          {
-            "id": "albanese-xi-bilateral-shenzhen-20261120-pm",
-            "storyKey": "australia-china-albanese-xi-bilateral-shenzhen-november-2026",
-            "category": "Australia & World",
-            "title": "Albanese and Xi meet as Australian businesses seek trade access",
-            "summary": "Anthony Albanese met Chinese President Xi Jinping in Shenzhen today, with Xi describing a turnaround in Australia-China relations and Albanese calling for frank discussions despite differences. It was their fifth meeting since Albanese became prime minister.",
-            "detail": "Australian businesses are pressing for greater access to Chinese markets, including beef and rice, as the prime minister heads to Beijing for further meetings. No change to beef quotas was announced in the reporting on the Xi meeting.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222",
-            "published": "20 Nov, updated 2:45 pm",
-            "tag": "Trade and diplomacy"
-          }
-        ],
-        "morningChecked": "2026-11-20T08:23:23+11:00"
       }
     }
   ]
