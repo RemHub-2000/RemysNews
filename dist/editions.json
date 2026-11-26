@@ -138,7 +138,50 @@
           "published": "25 November, 8:05 pm AEDT (9:05 am UTC)",
           "tag": "International"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "New developments since this morning. Times are Sydney local unless noted.",
+        "checked": "2026-11-26T17:04:35+11:00",
+        "stories": [
+          {
+            "id": "australia-bom-summer-outlook-20261126-pm",
+            "storyKey": "australia-bom-summer-outlook-november-2026",
+            "category": "Australia & World",
+            "title": "Bureau forecasts a hotter than average summer across most of Australia",
+            "summary": "The Bureau of Meteorology's new summer outlook says above-average daytime and overnight temperatures are very likely across most of Australia. Its forecast comes as an active El Niño strengthens.",
+            "detail": "The bureau also expects below-average rainfall across much of the north-west and parts of the far south-east, including Tasmania. A seasonal outlook describes the odds over months, so local conditions and individual heatwaves will vary.",
+            "source": "ABC News; Bureau of Meteorology",
+            "url": "https://www.abc.net.au/news/2026-11-26/weather-bureau-predicts-another-long-hot-australian-summer/107424992",
+            "published": "26 Nov, 1:10 pm",
+            "tag": "Summer outlook"
+          },
+          {
+            "id": "australia-pbs-25-freeze-passes-parliament-20261126-pm",
+            "storyKey": "australia-pbs-25-dollar-freeze-extension-2030-proposal",
+            "category": "Australia & World",
+            "title": "Parliament passes the $25 PBS medicines freeze to 2030",
+            "summary": "The Senate has passed legislation extending the $25 maximum PBS co-payment for general patients until the end of 2030. The bill passed without amendment, completing its passage through Parliament.",
+            "detail": "The freeze keeps the general co-payment from rising with annual indexation over that period. Concession cardholders have a separate $7.70 co-payment freeze through the same period.",
+            "source": "Australian Government Department of Health",
+            "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/press-conference-with-minister-butler-canberra-26-november-2026",
+            "published": "26 Nov, 11:11 am live coverage",
+            "tag": "Legislation passed"
+          },
+          {
+            "id": "australia-gas-reservation-coalition-support-20261126-pm",
+            "storyKey": "australia-domestic-gas-reservation-senate-2026",
+            "category": "Australia & World",
+            "title": "Coalition says it will not oppose gas reservation bill",
+            "summary": "The Coalition has confirmed it will not oppose the government's domestic gas reservation legislation, giving the proposal a path through the Senate. The scheme aims to require major exporters to reserve up to 20% of gas production for Australian use.",
+            "detail": "The Coalition says it still has concerns about effects on investment and supply and is seeking amendments. Debate continues, so the support does not itself establish the final terms or an immediate reduction in household gas bills.",
+            "source": "The Guardian",
+            "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+            "published": "26 Nov, 11:11 am live coverage",
+            "tag": "Coalition support"
+          }
+        ],
+        "morningChecked": "2026-11-26T08:23:38+11:00"
+      }
     },
     {
       "date": "2026-11-25",
