@@ -1,6 +1,122 @@
 {
   "editions": [
     {
+      "date": "2026-11-28",
+      "label": "Saturday, 28 November 2026",
+      "note": "Morning edition. Times are Sydney local unless noted. Election outcomes remain pending; proposed transactions and released features are distinguished.",
+      "checked": "2026-11-28T08:24:50+11:00",
+      "stories": [
+        {
+          "id": "sydney-east-australia-weekend-storms-20261128-20261128",
+          "storyKey": "sydney-east-australia-weekend-storms-20261128",
+          "category": "Sydney & NSW",
+          "title": "Sydney faces an afternoon and evening storm risk",
+          "summary": "Heavy rain and severe thunderstorms are possible in Sydney this afternoon and evening as a moisture-laden system crosses eastern Australia. ABC's meteorologist says flash flooding is the main concern, with damaging winds and hail a lesser risk.",
+          "detail": "The broader rainband stretches through NSW, with river rises also possible in several already-wet catchments. If you are planning an outdoor afternoon around Epping or driving out of Sydney, check the latest Bureau warnings and radar before leaving; this is a forecast risk, not confirmation that every suburb will be hit.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-28/australia-wild-weekend-weather-caps-off-wettest-el-nino-spring/107435544",
+          "published": "28 November, 6:14 am AEDT",
+          "tag": "Today"
+        },
+        {
+          "id": "rory-amon-child-sexual-assault-sentencing-20261127-20261128",
+          "storyKey": "rory-amon-child-sexual-assault-sentencing-20261127",
+          "category": "Sydney & NSW",
+          "title": "Former NSW MP Rory Amon sentenced to two years in prison",
+          "summary": "Former Pittwater Liberal MP Rory Amon has been jailed for the rape and indecent assault of a 13-year-old boy, following guilty verdicts earlier this month. He must serve at least one year and three months before becoming eligible for parole.",
+          "detail": "Friday's sentencing is the new development, rather than a fresh allegation or the start of a trial. The judge said imprisonment was necessary to deter offending of this nature, and Amon will be eligible for parole in February 2028.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-27/former-nsw-liberal-mp-rory-amon-jailed-2-years-rape-13yo-boy/107435644",
+          "published": "27 November, 4:36 pm AEDT; updated 4:56 pm",
+          "tag": "Sentencing"
+        },
+        {
+          "id": "apple-chile-fne-app-store-antitrust-lawsuit-20261127-20261128",
+          "storyKey": "apple-chile-fne-app-store-antitrust-lawsuit-20261127",
+          "category": "Apple",
+          "title": "Chile seeks an App Store overhaul and US$80 million fine against Apple",
+          "summary": "Chile's competition watchdog has filed an antitrust case alleging Apple abuses its position in iPhone app distribution and in-app payments. It is seeking a fine of roughly US$80 million and orders allowing competing app stores, sideloading and alternative payment arrangements.",
+          "detail": "This is a lawsuit and a request for remedies, not a court ruling or an Australian App Store change. 9to5Mac published its report at 12:31 pm PST on 27 November, which is 7:31 am today in Sydney, and links the regulator's complaint; the wider significance is another jurisdiction challenging Apple's control of app commerce.",
+          "source": "9to5Mac, with the Chilean regulator's complaint",
+          "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
+          "published": "28 November, 7:31 am AEDT (27 November, 12:31 pm PST)",
+          "tag": "New antitrust case"
+        },
+        {
+          "id": "tesla-emag-manufacturing-assets-acquisition-filing-2026-20261128",
+          "storyKey": "tesla-emag-manufacturing-assets-acquisition-filing-2026",
+          "category": "Tesla",
+          "title": "Tesla seeks approval for an acquisition involving German machine-tool maker EMAG",
+          "summary": "Tesla has filed a proposed acquisition involving EMAG, a German supplier of precision manufacturing equipment, with Germany's competition regulator. Reporting that surfaced on Friday connects the move with Tesla's push into robotics, but the transaction still needs approval and financial terms have not been disclosed.",
+          "detail": "The strategic possibility is greater control over specialist machinery used to make complex metal components, including parts relevant to humanoid robots. A direct link to specific Optimus production targets is not confirmed by either company, and there is no announced change to Australian vehicle servicing or your Model Y's capabilities.",
+          "source": "Not a Tesla App, corroborated by Reuters-syndicated reporting",
+          "url": "https://www.notateslaapp.com/news/5099/tesla-moves-to-buy-german-robotics-manufacturer",
+          "published": "27 November, US publication date; filing reported publicly on Friday",
+          "tag": "Proposed acquisition"
+        },
+        {
+          "id": "macwhisper-16-voice-recognition-and-1601-release-2026-20261128",
+          "storyKey": "macwhisper-16-voice-recognition-and-1601-release-2026",
+          "category": "AI",
+          "title": "MacWhisper can remember named speakers across recordings",
+          "summary": "New reporting highlights MacWhisper 16's ability to learn the voices of people you have named, then suggest or assign their names in later transcripts and after live meetings. The developer's release notes confirm that voice analysis and storage happen on the Mac, and a subsequent 16.0.1 update fixes YouTube download errors.",
+          "detail": "Voice matching requires Pro, Apple silicon and on-device transcription with speaker detection; no Australian-specific restriction was identified, but optional cloud AI services are a separate privacy consideration. My suggested experiment: with participants' consent and work approval, transcribe two recurring customer calls, confirm the voice matches, then use the corrected transcript to draft actions and follow-ups for human review.",
+          "source": "9to5Mac, checked against the developer's release notes",
+          "url": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
+          "published": "28 November, 8:08 am AEDT reporting; version 16 released this week",
+          "tag": "Released Mac feature"
+        },
+        {
+          "id": "meta-india-automated-content-takedowns-disclosures-nov2026-20261128",
+          "storyKey": "meta-india-automated-content-takedowns-disclosures-nov2026",
+          "category": "Technology",
+          "title": "Meta's automated restrictions in India face a political and court challenge",
+          "summary": "Reuters reports that Meta restricted 5.44 million items in India in the first half of 2026, a roughly 130-fold rise on the preceding six months. Meta attributes the increase to automated removal of identical content under Indian law.",
+          "detail": "The opposition Congress party alleges the system is also blocking unrelated political posts and is challenging it in court. Those allegations are disputed; the story highlights how automation can amplify both compliance demands and potential moderation mistakes.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/what-is-modis-automated-takedown-law-which-has-embroiled-meta-political-storm-2026-11-27/",
+          "published": "27 November, 10:57 pm AEDT (11:57 am UTC)",
+          "tag": "Platform governance"
+        },
+        {
+          "id": "victorian-state-election-polling-day-20261128-20261128",
+          "storyKey": "victorian-state-election-polling-day-20261128",
+          "category": "Australia & World",
+          "title": "Victoria votes today, with the result still to come",
+          "summary": "Victorians are choosing their next state government today, with Labor's Ben Carroll seeking a fourth consecutive term for the party and Liberal leader Jess Wilson trying to end twelve years of Labor rule. Polling booths run from 8 am to 6 pm AEDT, with results expected to start arriving after that.",
+          "detail": "A late Coalition proposal for a 90-year lease over Melbourne's sewerage network has become a prominent campaign dispute, with One Nation messaging voters against it. Heavy rain may complicate travel to voting centres, but no result is known this morning and campaign forecasts should not be treated as one.",
+          "source": "ABC News live",
+          "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-live-updates-voting-results-seat-count/107418038",
+          "published": "28 November, live coverage from 7:00 am AEDT",
+          "tag": "Election day"
+        },
+        {
+          "id": "un-fao-wfp-hunger-hotspots-dec2026-may2027-20261128",
+          "storyKey": "un-fao-wfp-hunger-hotspots-dec2026-may2027",
+          "category": "Australia & World",
+          "title": "UN agencies warn hunger will worsen in sixteen global hotspots",
+          "summary": "The FAO and World Food Programme warn that hunger is likely to worsen in sixteen hotspots over the next six months, up from thirteen in their previous report. Sudan, South Sudan, Somalia, northern Nigeria and Yemen face the gravest threats.",
+          "detail": "The new assessment combines conflict, displacement, extreme weather and shrinking aid budgets. It warns of famine risks in parts of Africa, rather than declaring that every listed hotspot is already experiencing famine.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/environment/un-warns-famine-risks-rising-hunger-hotspots-increase-2026-11-27/",
+          "published": "27 November, 8:02 pm AEDT (9:02 am UTC)",
+          "tag": "Humanitarian warning"
+        },
+        {
+          "id": "taiwan-nine-in-one-local-elections-20261128-20261128",
+          "storyKey": "taiwan-nine-in-one-local-elections-20261128",
+          "category": "Australia & World",
+          "title": "Taiwan's local elections carry wider political and energy implications",
+          "summary": "Taiwan votes today for more than 11,000 local government positions, in elections seen as a test of President Lai Ching-te's governing party ahead of the 2028 presidential race. Housing, jobs and transport dominate many campaigns, even as Beijing closely watches the outcome.",
+          "detail": "A nuclear-power referendum is being held alongside the local elections, making energy policy another issue to watch. For Australia, Taiwan's role in semiconductor supply chains and its purchases of Australian coal and LNG give the results significance beyond local politics; results are expected later today, not available this morning.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-28/what-are-taiwan-nine-in-one-elections/107433590",
+          "published": "28 November, 5:00 am AEDT",
+          "tag": "Regional election"
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "label": "Friday, 27 November 2026",
       "note": "Morning edition. Times are Sydney local unless noted. Material follow-ups lead with what changed; staged releases and unproven claims are labelled.",
@@ -1038,165 +1154,6 @@
           }
         ],
         "morningChecked": "2026-11-22T08:26:04+11:00"
-      }
-    },
-    {
-      "date": "2026-11-21",
-      "label": "Saturday, 21 November 2026",
-      "note": "Times are Sydney local unless noted. Material updates and availability limits are labelled.",
-      "checked": "2026-11-21T08:20:31+11:00",
-      "stories": [
-        {
-          "id": "nsw-mark-speakman-retirement-2027-election-20261121",
-          "storyKey": "nsw-mark-speakman-retirement-2027-election",
-          "category": "Sydney & NSW",
-          "title": "Mark Speakman will leave NSW parliament at the next election",
-          "summary": "The former NSW opposition leader says he will not recontest Cronulla, becoming the eighth Liberal MP to announce a departure in recent months. His late-night parliamentary speech also urged the party to retain its own identity rather than follow One Nation.",
-          "detail": "This is a planned exit at the 2027 election, not an immediate resignation or a new leadership contest. Kellie Sloane remains opposition leader and says she tried to persuade him to stay, adding another candidate-selection task before the state campaign.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-20/nsw-former-nsw-opposition-leader-mark-speakman-resigns/107407292",
-          "published": "20 Nov, 9:47 am; updated 4:35 pm",
-          "tag": "State politics"
-        },
-        {
-          "id": "western-nsw-darling-baaka-rain-november-2026-20261121",
-          "storyKey": "western-nsw-darling-baaka-rain-november-2026",
-          "category": "Sydney & NSW",
-          "title": "Heavy western NSW rain brings relief, but shuts unsealed roads",
-          "summary": "Pastoralists around the Darling-Baaka are celebrating substantial rain before summer, with one station north of Louth recording 204 mm. Other properties reported markedly different totals, so this is significant local relief rather than evidence that dry conditions have ended across NSW.",
-          "detail": "The ABC reported on Friday that almost all unsealed roads in the far west were closed, with rapid rises in local waterways. If travelling in that region this weekend, check current council road reports before setting out; Friday's closures should not be treated as a live Saturday road-status list.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-20/godsend-rainfall-overnight-for-western-nsw-farmers/107408616",
-          "published": "20 Nov, 1:54 pm; updated 6:07 pm",
-          "tag": "Rain and road closures"
-        },
-        {
-          "id": "signal-ios-27-block-siri-ai-screenshots-20261121",
-          "storyKey": "signal-ios-27-block-siri-ai-screenshots",
-          "category": "Apple",
-          "title": "Signal blocks iPhone screenshots to keep AI out of chats",
-          "summary": "Signal's new protection blocks screenshots on iOS 27 by default to restrict Siri AI and other agents from capturing messages. The company says users can disable it in Signal's privacy settings, but doing so may expose their conversations to screen-reading assistants.",
-          "detail": "This is a new app-level response, not a claim that Signal's encryption has been broken. Signal says screenshot blocking is incomplete and does not stop every possible route to on-device data; the release is not described as Australia-restricted, but depends on the app and OS version.",
-          "source": "9to5Mac; checked with Signal",
-          "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
-          "published": "21 Nov, 3:29 am",
-          "tag": "Privacy update"
-        },
-        {
-          "id": "tesla-italy-assisted-driving-provisional-approval-20261121",
-          "storyKey": "tesla-italy-assisted-driving-provisional-approval",
-          "category": "Tesla",
-          "title": "Italy provisionally approves Tesla's supervised driving system",
-          "summary": "Italy's transport minister announced provisional approval for Tesla Assisted Driving, following a technical assessment and ahead of wider EU approval. Tesla also confirmed the decision, expanding the system's European reach beyond the smaller countries that had already recognised it.",
-          "detail": "Despite the naming, this remains supervised driver assistance, not permission for unattended driving. The Italian decision does not change Australian approvals or confirm any new feature for your Model Y; local availability still depends on the vehicle, software, hardware and applicable requirements.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/italy-gives-green-light-tesla-self-driving-system-ahead-eu-approval-2026-11-20/",
-          "published": "21 Nov, 12:49 am",
-          "tag": "Overseas approval"
-        },
-        {
-          "id": "openai-chatgpt-space-plus-global-rollout-20261121",
-          "storyKey": "openai-chatgpt-space-plus-global-rollout",
-          "category": "AI",
-          "title": "ChatGPT Space starts rolling out to Plus subscribers",
-          "summary": "OpenAI says adults on Plus are gaining Space globally, including Australia, for creating and collaboratively editing interactive pages and presentations. Pages and slides can also be set to update using connected apps and tools, although rollout and access still depend on the account.",
-          "detail": "A possible use for you: keep an approved customer-review outline and action tracker together, then refine them as new meeting notes arrive. That is a suggested application, not a reported customer deployment; shared content requires permission and a supported paid account with Space access, and there are no public links.",
-          "source": "OpenAI",
-          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-          "published": "20 Nov, release-note date",
-          "tag": "Global staged rollout"
-        },
-        {
-          "id": "us-trump-overseas-data-centre-tax-threat-20261121",
-          "storyKey": "us-trump-overseas-data-centre-tax-threat",
-          "category": "Technology",
-          "title": "Trump threatens a tax on US firms building data centres abroad",
-          "summary": "Donald Trump says he wants to penalise American companies that build data centres overseas, in an effort to keep AI infrastructure in the US. The ABC notes that Microsoft and Amazon have already announced major Australian investments, making the threat relevant well beyond China.",
-          "detail": "There is no detailed tax proposal, implementation date or confirmed change to those Australian projects. The practical issue to watch is whether the rhetoric becomes an actual policy affecting overseas cloud capacity, rather than assuming announced local facilities have been cancelled.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-21/trump-vows-tax-companies-building-data-centres-overseas/107412162",
-          "published": "21 Nov, 7:27 am",
-          "tag": "Policy threat"
-        },
-        {
-          "id": "nvidia-sec-accounting-investigation-focus-2026-20261121",
-          "storyKey": "nvidia-sec-accounting-investigation-focus-2026",
-          "category": "Technology",
-          "title": "Reuters says the SEC's Nvidia inquiry is examining accounting",
-          "summary": "Two people briefed on the matter told Reuters that US securities investigators are scrutinising potential accounting issues at Nvidia. That identifies a focus not established in earlier reporting about the investigation, making it a substantive development rather than another stock-price update.",
-          "detail": "Reuters could not establish precisely which accounting issues are under review or when the inquiry began. The SEC declined to comment and Nvidia did not immediately respond; an investigation is not evidence of wrongdoing or a finding that its accounts are incorrect.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
-          "published": "21 Nov, 6:13 am",
-          "tag": "Reported investigation"
-        },
-        {
-          "id": "australia-china-albanese-xi-bilateral-shenzhen-november-2026-20261121",
-          "storyKey": "australia-china-albanese-xi-bilateral-shenzhen-november-2026",
-          "category": "Australia & World",
-          "title": "Australia and China agree a new AI dialogue after Beijing talks",
-          "summary": "The new development after yesterday's Xi meeting is an agreement to hold government talks on AI, reached during Albanese's subsequent meeting with Premier Li Qiang in Beijing. The discussions are intended to share experience as both countries consider how the technology should be regulated.",
-          "detail": "This is a diplomatic dialogue, not a joint product launch or a change to Australian rules on using Chinese AI services. It comes alongside Australia's separate US technology-supply-chain commitments, illustrating its attempt to cooperate with China while managing security concerns.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
-          "published": "21 Nov, 6:12 am",
-          "tag": "Material update"
-        },
-        {
-          "id": "ukraine-russian-infrastructure-strikes-20261120-20261121",
-          "storyKey": "ukraine-russian-infrastructure-strikes-20261120",
-          "category": "Australia & World",
-          "title": "Russian strikes kill eight and hit Kyiv bridges and power infrastructure",
-          "summary": "Ukrainian officials reported eight deaths in a major Russian missile and drone attack on Friday, including six in Kyiv and two at a railway station in Lviv. Electricity, water and transport infrastructure were hit, with emergency outages introduced in several regions.",
-          "detail": "The attack follows the latest strikes on the bridge to occupied Crimea, but is a new escalation with fresh casualties and civilian-service disruption. Reuters said it could not independently verify all the accounts; both sides deny targeting civilians.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
-          "published": "20 Nov, 11:41 am; later updated",
-          "tag": "Ukraine"
-        },
-        {
-          "id": "myanmar-rejects-icj-rohingya-genocide-ruling-2026-20261121",
-          "storyKey": "myanmar-rejects-icj-rohingya-genocide-ruling-2026",
-          "category": "Australia & World",
-          "title": "Myanmar rejects genocide ruling and leaves refugee returns conditional",
-          "summary": "Myanmar's foreign ministry rejected the International Court of Justice's finding that the state committed genocide against the Rohingya, calling the judgment unfair. It said displaced people could return only when conditions permit, despite the court's requirement for safe returns and compensation.",
-          "detail": "The ruling itself was delivered on Thursday; Friday's rejection is the fresh development. The ICJ decides state responsibility rather than individual criminal guilt, and its limited enforcement powers leave implementation and the position of refugees unresolved.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/myanmar-calls-icj-ruling-genocide-unfair-2026-11-20/",
-          "published": "20 Nov, 7:45 pm; later updated",
-          "tag": "Rohingya"
-        }
-      ],
-      "afternoon": {
-        "note": "New developments since this morning. Times are Sydney local unless noted.",
-        "checked": "2026-11-21T16:59:08+11:00",
-        "stories": [
-          {
-            "id": "castle-hill-stabbings-charges-20261121-pm",
-            "storyKey": "castle-hill-shopping-centre-stabbings-november-2026",
-            "category": "Sydney & NSW",
-            "title": "Teenager charged after Castle Hill shopping centre stabbings",
-            "summary": "Police have charged a 17-year-old after two 16-year-old boys were stabbed at Castle Towers on Friday afternoon. One boy remains in a critical condition and the other is stable, police said today.",
-            "detail": "Police say the people involved had some prior knowledge of each other and are looking for another person. The teenager has been refused bail and is due to appear before a children's court on Sunday; the charges remain allegations.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324",
-            "published": "21 Nov, 2:01 pm; updated 3:12 pm",
-            "tag": "Castle Hill"
-          },
-          {
-            "id": "homebirth-insurance-rallies-20261121-pm",
-            "storyKey": "australia-homebirth-midwife-insurance-rallies-november-2026",
-            "category": "Australia & World",
-            "title": "Families rally over homebirth insurance changes",
-            "summary": "Thousands of people rallied across Australia today against changes to insurance requirements for privately practising midwives. Advocates say the changes could reduce access to midwife-supported homebirths, particularly outside major cities.",
-            "detail": "An exemption allowing private midwives to attend homebirths without indemnity insurance ends on 1 January. Health Minister Mark Butler says practitioners should have insurance for births; advocates argue the available policy is not suitable or accessible for all midwives.",
-            "source": "ABC News",
-            "url": "https://www.abc.net.au/news/2026-11-21/homebirth-rallies-midwife-insurance-freebirth/107412380",
-            "published": "21 Nov, 1:23 pm; updated 4:05 pm",
-            "tag": "Health policy"
-          }
-        ],
-        "morningChecked": "2026-11-21T08:20:31+11:00"
       }
     }
   ]
