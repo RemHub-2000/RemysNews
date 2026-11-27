@@ -126,7 +126,39 @@
           "published": "27 November, 4:03 am AEDT",
           "tag": "Ukraine"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon edition. Times are Sydney local unless noted.",
+        "checked": "2026-11-27T16:58:17+11:00",
+        "stories": [
+          {
+            "id": "australia-gas-reservation-passes-parliament-20261127-pm",
+            "storyKey": "australia-domestic-gas-reservation-senate-2026",
+            "updatesStoryId": "australia-domestic-gas-reservation-senate-2026-20261127",
+            "category": "Australia & World",
+            "title": "Gas reservation scheme passes Parliament",
+            "summary": "Parliament has passed the national gas reservation scheme, with the House of Representatives approving the amended bills this morning. That changes the position reported in this morning's briefing, which said the final vote had been pushed to February.",
+            "detail": "From January 2028, the scheme is intended to require Australia's largest gas exporters to reserve up to 20 per cent of their product for domestic use. The government expects more local supply to put downward pressure on prices, but has not promised a specific reduction in household bills.",
+            "source": "ABC News, with Region Canberra",
+            "url": "https://www.abc.net.au/news/2026-11-27/federal-politics-live-blog-november-27/107431796",
+            "published": "27 November, 8:50 am AEDT update",
+            "tag": "Material update"
+          },
+          {
+            "id": "queensland-frances-crawford-murder-verdict-20261127-pm",
+            "storyKey": "queensland-frances-crawford-murder-verdict-20261127",
+            "category": "Australia & World",
+            "title": "Robert Crawford found guilty of murdering Frances Crawford",
+            "summary": "A Brisbane jury has found former RAAF pilot Robert Crawford guilty of murdering his wife, Frances Crawford, at their Queensland home in 2024. The verdict followed a five-week trial and more than three days of jury deliberations.",
+            "detail": "Prosecutors alleged Crawford killed his wife and staged the scene to resemble a lawnmower accident. His defence had argued that her death was an accident.",
+            "source": "ABC News",
+            "url": "https://www.abc.net.au/news/2026-11-27/ex-raaf-pilot-robert-crawford-found-guilty-of-wife-s-murder/107430874",
+            "published": "27 November, 3:07 pm AEDT",
+            "tag": "Court verdict"
+          }
+        ],
+        "morningChecked": "2026-11-27T08:23:34+11:00"
+      }
     },
     {
       "date": "2026-11-26",
