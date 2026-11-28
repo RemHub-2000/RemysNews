@@ -114,7 +114,27 @@
           "published": "28 November, 5:00 am AEDT",
           "tag": "Regional election"
         }
-      ]
+      ],
+      "afternoon": {
+        "note": "Afternoon edition. Times are Sydney local. Weather warnings can change quickly.",
+        "checked": "2026-11-28T16:57:50+11:00",
+        "stories": [
+          {
+            "id": "nsw-storm-warning-issued-20261128-pm",
+            "storyKey": "sydney-east-australia-weekend-storms-20261128",
+            "updatesStoryId": "sydney-east-australia-weekend-storms-20261128-20261128",
+            "category": "Sydney & NSW",
+            "title": "Severe storm warning issued for parts of NSW",
+            "summary": "The Bureau has issued a severe thunderstorm warning for parts of NSW, with heavy rain and damaging winds expected in some districts. Its 4:21 pm warning includes parts of the Hunter, Central Tablelands, north-west and South Coast, and warns that heavy rain could cause flash flooding.",
+            "detail": "Sydney was not among the districts listed in that warning. In a separate midday update, the Bureau said heavier storms could reach Sydney and the coast this evening. Check the latest warnings and radar before travelling, as warning areas can change quickly.",
+            "source": "Bureau of Meteorology warning via Weatherzone",
+            "url": "https://www.weatherzone.com/au/warning/IDN21033",
+            "published": "28 November, 4:21 pm AEDT warning",
+            "tag": "Material update"
+          }
+        ],
+        "morningChecked": "2026-11-28T08:24:50+11:00"
+      }
     },
     {
       "date": "2026-11-27",
